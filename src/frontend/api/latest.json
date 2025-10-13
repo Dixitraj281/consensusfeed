@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-13T04:29:23.130661+00:00",
+  "generated_at": "2025-10-13T08:34:37.552183+00:00",
   "articles": [
     {
       "article_id": "748b8b00859e01d0afce80a5e9319d0f",
@@ -45,85 +45,23 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.7,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-13T04:29:23.105355+00:00"
+        "consensus_timestamp": "2025-10-13T08:34:37.526206+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.62,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-13T04:29:23.105358+00:00"
+        "timestamp": "2025-10-13T08:34:37.526209+00:00"
       },
       "article_type": "headline"
-    },
-    {
-      "article_id": "03021c20a575218cd987d82141dbfe9f",
-      "title": "Automate Amazon QuickSight data stories creation with agentic AI using Amazon Nova Act",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-quicksight-data-stories-creation-with-agentic-ai-using-amazon-nova-act/",
-      "published_date": "2025-10-07T17:43:26+00:00",
-      "category": "Industry",
-      "description": "In this post, we demonstrate how Amazon Nova Act automates QuickSight data story creation, saving time so you can focus on making critical, data-driven business decisions.",
-      "author": "Satish Bhonsle",
-      "content": "In this post, we demonstrate how Amazon Nova Act automates QuickSight data story creation, saving time so you can focus on making critical, data-driven business decisions.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-13T04:29:23.104444+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-13T04:29:23.104447+00:00"
-      },
-      "article_type": "article"
     },
     {
       "article_id": "009c915b56248066e8b8e67125631c5d",
@@ -141,440 +79,6 @@
         "novelty_score": 0.8,
         "impact_score": 0.98,
         "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-13T04:29:23.104846+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-13T04:29:23.104848+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d9f777f4d94a5382603c175d182dcdb1",
-      "title": "Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/",
-      "published_date": "2025-10-06T18:03:45+00:00",
-      "category": "Industry",
-      "description": "Imagine a platform where every developer can unlock the full spectrum of AI: text, images, audio, and video. This OpenAI DevDay, Azure AI Foundry is making that vision real. With today’s launch of OpenAI GPT-image-1-mini, GPT-realtime-mini, and GPT-audio-mini, plus major safety upgrades to GPT-5, you now have the ultimate toolkit to create, experiment, and scale multimodal solutions. The post Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution appeared first on Microsoft...",
-      "author": "Steve Sweetman and Naomi Moneypenny",
-      "content": "Imagine a platform where every developer can unlock the full spectrum of AI: text, images, audio, and video. This OpenAI DevDay, Azure AI Foundry is making that vision real. With today’s launch of OpenAI GPT-image-1-mini, GPT-realtime-mini, and GPT-audio-mini, plus major safety upgrades to GPT-5, you now have the ultimate toolkit to create, experiment, and scale multimodal solutions. The post Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution appeared first on Microsoft...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-13T04:29:23.104173+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-13T04:29:23.104176+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "522e2862871084a77effc8daa7b52c7a",
-      "title": "How Quantum Computing’s Biggest Challenges Are Being Solved With Accelerated Computing",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/how-quantum-computings-biggest-challenges-solved-accelerated-computing/",
-      "published_date": "2025-09-30T20:46:26+00:00",
-      "category": "Industry",
-      "description": "Quantum computing promises to reshape industries — but progress hinges on solving key problems. Error correction. Simulations of qubit designs. Circuit compilation optimization tasks. These are among the bottlenecks that must be overcome to bring quantum hardware into the era of useful applications. Enter accelerated computing. The parallel processing of accelerated computing offers the power Read Article",
-      "author": "Nicholas Harrigan",
-      "content": "Quantum computing promises to reshape industries — but progress hinges on solving key problems. Error correction. Simulations of qubit designs. Circuit compilation optimization tasks. These are among the bottlenecks that must be overcome to bring quantum hardware into the era of useful applications. Enter accelerated computing. The parallel processing of accelerated computing offers the power Read Article",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-13T04:29:23.105176+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-13T04:29:23.105178+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "35f7fc9344b01f0d65ffa66178c96558",
-      "title": "TCS’ $6 Billion AI Overhaul Signals a Rethink for Indian IT",
-      "source": "analytics_india_magazine",
-      "url": "https://analyticsindiamag.com/it-services/tcs-6-billion-ai-overhaul-signals-a-rethink-for-indian-it/",
-      "published_date": "2025-10-10T04:50:55+00:00",
-      "category": "Industry",
-      "description": "CEO K Krithivasan said the AI data centres would cater to “pure play AI providers, deep tech companies, hyperscalers, and government needs.\" The post TCS’ $6 Billion AI Overhaul Signals a Rethink for Indian IT appeared first on Analytics India Magazine.",
-      "author": "Mohit Pandey",
-      "content": "CEO K Krithivasan said the AI data centres would cater to “pure play AI providers, deep tech companies, hyperscalers, and government needs.\" The post TCS’ $6 Billion AI Overhaul Signals a Rethink for Indian IT appeared first on Analytics India Magazine.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-13T04:29:23.107748+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-13T04:29:23.107751+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "2857c3eb0231d57237b09f415ddc2c83",
-      "title": "Research: Cyber Governance Code of Practice - evaluation survey",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/cyber-governance-code-of-practice-evaluation-survey",
-      "published_date": "2025-10-07T15:58:39+00:00",
-      "category": "Government",
-      "description": "A survey tracking uptake and feedback on the Cyber Governance Code of Practice.",
-      "author": "",
-      "content": "A survey tracking uptake and feedback on the Cyber Governance Code of Practice.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.8,
-        "overall_score": 0.88,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-13T04:29:23.102392+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-13T04:29:23.102399+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "85b0434af76b9ad0d54a22770d43a124",
-      "title": "Independent report: Innovation Clusters Map: summary and methods",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/innovation-clusters-map-summary-and-methods",
-      "published_date": "2025-09-30T23:00:00+00:00",
-      "category": "Government",
-      "description": "A methodology and summary report of the Innovation Clusters Map.",
-      "author": "",
-      "content": "A methodology and summary report of the Innovation Clusters Map.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-13T04:29:23.103199+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-13T04:29:23.103202+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "5a653408e14bc10ea8d5b6dadd77bdb6",
-      "title": "Improving support with every interaction at OpenAI",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/openai-support-model",
-      "published_date": "2025-09-29T13:30:00+00:00",
-      "category": "Industry",
-      "description": "Learn how OpenAI uses AI to enhance support, cutting response times, improving quality, and scaling to meet hypergrowth.",
-      "author": "",
-      "content": "Learn how OpenAI uses AI to enhance support, cutting response times, improving quality, and scaling to meet hypergrowth.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-13T04:29:23.103992+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-13T04:29:23.103995+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "be8d094b206035f2022f94623d1033e5",
-      "title": "From Assistant to Adversary: Exploiting Agentic AI Developer Tools",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/from-assistant-to-adversary-exploiting-agentic-ai-developer-tools/",
-      "published_date": "2025-10-09T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Developers are increasingly turning to AI-enabled tools for coding, including Cursor, OpenAI Codex, Claude Code, and GitHub Copilot. While these automation...",
-      "author": "Becca Lynch",
-      "content": "Developers are increasingly turning to AI-enabled tools for coding, including Cursor, OpenAI Codex, Claude Code, and GitHub Copilot. While these automation...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
         "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
@@ -603,10 +107,134 @@
           }
         },
         "score": 0.9,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-13T08:34:37.525727+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-13T08:34:37.525730+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "522e2862871084a77effc8daa7b52c7a",
+      "title": "How Quantum Computing’s Biggest Challenges Are Being Solved With Accelerated Computing",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/how-quantum-computings-biggest-challenges-solved-accelerated-computing/",
+      "published_date": "2025-09-30T20:46:26+00:00",
+      "category": "Industry",
+      "description": "Quantum computing promises to reshape industries — but progress hinges on solving key problems. Error correction. Simulations of qubit designs. Circuit compilation optimization tasks. These are among the bottlenecks that must be overcome to bring quantum hardware into the era of useful applications. Enter accelerated computing. The parallel processing of accelerated computing offers the power Read Article",
+      "author": "Nicholas Harrigan",
+      "content": "Quantum computing promises to reshape industries — but progress hinges on solving key problems. Error correction. Simulations of qubit designs. Circuit compilation optimization tasks. These are among the bottlenecks that must be overcome to bring quantum hardware into the era of useful applications. Enter accelerated computing. The parallel processing of accelerated computing offers the power Read Article",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-13T08:34:37.526020+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-13T08:34:37.526023+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "6cefd98b960d26cd7059541fac315dc7",
+      "title": "Defining and evaluating political bias in LLMs",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/defining-and-evaluating-political-bias-in-llms",
+      "published_date": "2025-10-09T13:00:00+00:00",
+      "category": "Industry",
+      "description": "Learn how OpenAI evaluates political bias in ChatGPT through new real-world testing methods that improve objectivity and reduce bias.",
+      "author": "",
+      "content": "Learn how OpenAI evaluates political bias in ChatGPT through new real-world testing methods that improve objectivity and reduce bias.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-13T04:29:23.106198+00:00"
+        "consensus_timestamp": "2025-10-13T08:34:37.523972+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -617,26 +245,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-13T04:29:23.106201+00:00"
+        "timestamp": "2025-10-13T08:34:37.523975+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "5d80957deb5c743a83fd569701080085",
-      "title": "Customizing text content moderation with Amazon Nova",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/customizing-text-content-moderation-with-amazon-nova/",
-      "published_date": "2025-10-09T21:47:08+00:00",
+      "article_id": "4956f988f9e2bdeeb9cd407b3869e2cd",
+      "title": "Introducing AgentKit, new Evals, and RFT for agents",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/introducing-agentkit",
+      "published_date": "2025-10-06T00:00:00+00:00",
       "category": "Industry",
-      "description": "In this post, we introduce Amazon Nova customization for text content moderation through Amazon SageMaker AI, enabling organizations to fine-tune models for their specific moderation needs. The evaluation across three benchmarks shows that customized Nova models achieve an average improvement of 7.3% in F1 scores compared to the baseline Nova Lite, with individual improvements ranging from 4.2% to 9.2% across different content moderation tasks.",
-      "author": "Yooju Shin",
-      "content": "In this post, we introduce Amazon Nova customization for text content moderation through Amazon SageMaker AI, enabling organizations to fine-tune models for their specific moderation needs. The evaluation across three benchmarks shows that customized Nova models achieve an average improvement of 7.3% in F1 scores compared to the baseline Nova Lite, with individual improvements ranging from 4.2% to 9.2% across different content moderation tasks.",
+      "description": "Today, we’re releasing new tools to help developers go from prototype to production faster: AgentKit, expanded evals capabilities, and reinforcement fine-tuning for agents.",
+      "author": "",
+      "content": "Today, we’re releasing new tools to help developers go from prototype to production faster: AgentKit, expanded evals capabilities, and reinforcement fine-tuning for agents.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "overall_score": 0.8875,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -668,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-13T04:29:23.104310+00:00"
+        "consensus_timestamp": "2025-10-13T08:34:37.524256+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,82 +307,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-13T04:29:23.104313+00:00"
+        "timestamp": "2025-10-13T08:34:37.524259+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "6ef7782ca9429409e75bb835646da125",
-      "title": "Microsoft Azure Unveils World’s First NVIDIA GB300 NVL72 Supercomputing Cluster for OpenAI",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/microsoft-azure-worlds-first-gb300-nvl72-supercomputing-cluster-openai/",
-      "published_date": "2025-10-09T16:00:57+00:00",
-      "category": "Industry",
-      "description": "Microsoft Azure today announced the new NDv6 GB300 VM series, delivering the industry’s first supercomputing-scale production cluster of NVIDIA GB300 NVL72 systems, purpose-built for OpenAI’s most demanding AI inference workloads. This supercomputer-scale cluster features over 4,600 NVIDIA Blackwell Ultra GPUs connected via the NVIDIA Quantum-X800 InfiniBand networking platform. Microsoft’s unique systems approach applied radical engineering Read Article",
-      "author": "Ian Buck",
-      "content": "Microsoft Azure today announced the new NDv6 GB300 VM series, delivering the industry’s first supercomputing-scale production cluster of NVIDIA GB300 NVL72 systems, purpose-built for OpenAI’s most demanding AI inference workloads. This supercomputer-scale cluster features over 4,600 NVIDIA Blackwell Ultra GPUs connected via the NVIDIA Quantum-X800 InfiniBand networking platform. Microsoft’s unique systems approach applied radical engineering Read Article",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-13T04:29:23.104950+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-13T04:29:23.104953+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "0b5470fa9e306de41fa72fff46067e98",
-      "title": "Advancing Robotics Development with Neural Dynamics in Newton",
+      "article_id": "c58c47b96eab306182d25175169b906b",
+      "title": "Smart Multi-Node Scheduling for Fast and Efficient LLM Inference with NVIDIA Run:ai and NVIDIA Dynamo",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/advancing-robotics-development-with-neural-dynamics-in-newton/",
+      "url": "https://developer.nvidia.com/blog/smart-multi-node-scheduling-for-fast-and-efficient-llm-inference-with-nvidia-runai-and-nvidia-dynamo/",
       "published_date": "2025-09-29T15:00:00+00:00",
       "category": "Industry",
-      "description": "Modern robotics requires more than what classical analytic dynamics provides because of simplified contacts, omitted kinematic loops, and non-differentiable...",
-      "author": "Jie Xu",
-      "content": "Modern robotics requires more than what classical analytic dynamics provides because of simplified contacts, omitted kinematic loops, and non-differentiable...",
+      "description": "The exponential growth in large language model complexity has created challenges, such as models too large for single GPUs, workloads that demand high...",
+      "author": "Ekin Karabulut",
+      "content": "The exponential growth in large language model complexity has created challenges, such as models too large for single GPUs, workloads that demand high...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -789,21 +355,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-13T04:29:23.106817+00:00"
+        "consensus_timestamp": "2025-10-13T08:34:37.527647+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-13T04:29:23.106820+00:00"
+        "timestamp": "2025-10-13T08:34:37.527650+00:00"
       },
       "article_type": "article"
     },
@@ -812,7 +378,7 @@
       "title": "Repeated head impacts cause early neuron loss and inflammation in young athletes",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/repeated-head-impacts-cause-early-neuron-loss-inflammation-young-athletes",
-      "published_date": "2025-10-13T04:24:42.924734+00:00",
+      "published_date": "2025-10-13T08:29:48.978058+00:00",
       "category": "Government",
       "description": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
       "author": "",
@@ -854,7 +420,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-13T04:29:23.102129+00:00"
+        "consensus_timestamp": "2025-10-13T08:34:37.523074+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -865,26 +431,150 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-13T04:29:23.102133+00:00"
+        "timestamp": "2025-10-13T08:34:37.523078+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "4cd5bd3d4d3608dd3b410d15ead0d03a",
-      "title": "Claude Code Adds Plugin Support to Boost Developer Customisation",
-      "source": "analytics_india_magazine",
-      "url": "https://analyticsindiamag.com/ai-news-updates/claude-code-adds-plugin-support-to-boost-developer-customisation/",
-      "published_date": "2025-10-10T12:02:56+00:00",
+      "article_id": "0b5470fa9e306de41fa72fff46067e98",
+      "title": "Advancing Robotics Development with Neural Dynamics in Newton",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/advancing-robotics-development-with-neural-dynamics-in-newton/",
+      "published_date": "2025-09-29T15:00:00+00:00",
       "category": "Industry",
-      "description": "Developers can now extend the Claude Code functionalities with the help of plugins. The post Claude Code Adds Plugin Support to Boost Developer Customisation appeared first on Analytics India Magazine.",
-      "author": "Ankush Das",
-      "content": "Developers can now extend the Claude Code functionalities with the help of plugins. The post Claude Code Adds Plugin Support to Boost Developer Customisation appeared first on Analytics India Magazine.",
+      "description": "Modern robotics requires more than what classical analytic dynamics provides because of simplified contacts, omitted kinematic loops, and non-differentiable...",
+      "author": "Jie Xu",
+      "content": "Modern robotics requires more than what classical analytic dynamics provides because of simplified contacts, omitted kinematic loops, and non-differentiable...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.8524999999999999,
+        "overall_score": 0.87,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-13T08:34:37.527740+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-13T08:34:37.527743+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "322b39e93fce67508f5f6fd33b0ac7bf",
+      "title": "Why Deloitte is betting big on AI despite a $10M refund",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/video/why-deloitte-is-betting-big-on-ai-despite-a-10m-refund/",
+      "published_date": "2025-10-10T19:54:46+00:00",
+      "category": "Industry",
+      "description": "AI companies are making their much-anticipated enterprise plays, but the results are wildly inconsistent. Just this week, Deloitte announced it’s rolling out Anthropic’s Claude to all 500,000 employees. On the very same day, the Australian government forced Deloitte to refund a contract because their AI-generated report was riddled with fake citations. It’s a perfect snapshot […]",
+      "author": "Theresa Loconsolo",
+      "content": "AI companies are making their much-anticipated enterprise plays, but the results are wildly inconsistent. Just this week, Deloitte announced it’s rolling out Anthropic’s Claude to all 500,000 employees. On the very same day, the Australian government forced Deloitte to refund a contract because their AI-generated report was riddled with fake citations. It’s a perfect snapshot […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-13T08:34:37.526345+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-13T08:34:37.526347+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "fc036152238de9a27854323e87370250",
+      "title": "Instagram head Adam Mosseri pushes back on MrBeast’s AI fears but admits society will have to adjust",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2025/10/10/instagram-head-adam-mosseri-pushes-back-on-mrbeasts-ai-fears-but-admits-society-will-have-to-adjust/",
+      "published_date": "2025-10-10T15:55:17+00:00",
+      "category": "Industry",
+      "description": "Instagram chief Adam Mosseri says AI will empower new creators while forcing society to rethink what’s real online as synthetic content grows.",
+      "author": "Sarah Perez",
+      "content": "Instagram chief Adam Mosseri says AI will empower new creators while forcing society to rethink what’s real online as synthetic content grows.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -913,21 +603,331 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-13T04:29:23.107438+00:00"
+        "consensus_timestamp": "2025-10-13T08:34:37.526481+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-13T04:29:23.107441+00:00"
+        "timestamp": "2025-10-13T08:34:37.526483+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "75c8dbce07e2870d0eba9ec428eb6598",
+      "title": "VTU, QNu Labs to Establish Quantum Lab in Bengaluru to Train 4 Lakh Engineers",
+      "source": "analytics_india_magazine",
+      "url": "https://analyticsindiamag.com/ai-news-updates/vtu-qnu-labs-to-establish-quantum-lab-in-bengaluru-to-train-4-lakh-engineers/",
+      "published_date": "2025-10-10T10:47:42+00:00",
+      "category": "Industry",
+      "description": "The partnership will introduce minor degree programmes in quantum technology, with plans for a dedicated master’s course. The post VTU, QNu Labs to Establish Quantum Lab in Bengaluru to Train 4 Lakh Engineers appeared first on Analytics India Magazine.",
+      "author": "Sanjana Gupta",
+      "content": "The partnership will introduce minor degree programmes in quantum technology, with plans for a dedicated master’s course. The post VTU, QNu Labs to Establish Quantum Lab in Bengaluru to Train 4 Lakh Engineers appeared first on Analytics India Magazine.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-13T08:34:37.528621+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-13T08:34:37.528624+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "2ba03739d5b62c2f3eeb25e0a2c5eda2",
+      "title": "Figure Unveils its Third-Generation Humanoid Robot Figure 03",
+      "source": "analytics_india_magazine",
+      "url": "https://analyticsindiamag.com/ai-news-updates/figure-unveils-its-third-generation-humanoid-robot-figure-03/",
+      "published_date": "2025-10-10T08:51:39+00:00",
+      "category": "Industry",
+      "description": "Figure’s BotQ plant will initially produce up to 12,000 humanoid robots per year, with a target of 100,000 units over four years. The post Figure Unveils its Third-Generation Humanoid Robot Figure 03 appeared first on Analytics India Magazine.",
+      "author": "Sanjana Gupta",
+      "content": "Figure’s BotQ plant will initially produce up to 12,000 humanoid robots per year, with a target of 100,000 units over four years. The post Figure Unveils its Third-Generation Humanoid Robot Figure 03 appeared first on Analytics India Magazine.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.8,
+        "overall_score": 0.85,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-13T08:34:37.528746+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-13T08:34:37.528749+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ddf0752305d5e7d842feb56a949a99e1",
+      "title": "Enhance agentic workflows with enterprise search using Kore.ai and Amazon Q Business",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enhance-agentic-workflows-with-enterprise-search-using-kore-ai-and-amazon-q-business/",
+      "published_date": "2025-10-02T22:14:23+00:00",
+      "category": "Industry",
+      "description": "In this post, we demonstrate how organizations can enhance their employee productivity by integrating Kore.ai’s AI for Work platform with Amazon Q Business. We show how to configure AI for Work as a data accessor for Amazon Q index for independent software vendors (ISVs), so employees can search enterprise knowledge and execute end-to-end agentic workflows involving search, reasoning, actions, and content generation.",
+      "author": "Siddhant Gupta",
+      "content": "In this post, we demonstrate how organizations can enhance their employee productivity by integrating Kore.ai’s AI for Work platform with Amazon Q Business. We show how to configure AI for Work as a data accessor for Amazon Q index for independent software vendors (ISVs), so employees can search enterprise knowledge and execute end-to-end agentic workflows involving search, reasoning, actions, and content generation.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-13T08:34:37.525587+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-13T08:34:37.525590+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "6ef7782ca9429409e75bb835646da125",
+      "title": "Microsoft Azure Unveils World’s First NVIDIA GB300 NVL72 Supercomputing Cluster for OpenAI",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/microsoft-azure-worlds-first-gb300-nvl72-supercomputing-cluster-openai/",
+      "published_date": "2025-10-09T16:00:57+00:00",
+      "category": "Industry",
+      "description": "Microsoft Azure today announced the new NDv6 GB300 VM series, delivering the industry’s first supercomputing-scale production cluster of NVIDIA GB300 NVL72 systems, purpose-built for OpenAI’s most demanding AI inference workloads. This supercomputer-scale cluster features over 4,600 NVIDIA Blackwell Ultra GPUs connected via the NVIDIA Quantum-X800 InfiniBand networking platform. Microsoft’s unique systems approach applied radical engineering Read Article",
+      "author": "Ian Buck",
+      "content": "Microsoft Azure today announced the new NDv6 GB300 VM series, delivering the industry’s first supercomputing-scale production cluster of NVIDIA GB300 NVL72 systems, purpose-built for OpenAI’s most demanding AI inference workloads. This supercomputer-scale cluster features over 4,600 NVIDIA Blackwell Ultra GPUs connected via the NVIDIA Quantum-X800 InfiniBand networking platform. Microsoft’s unique systems approach applied radical engineering Read Article",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.7,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-13T08:34:37.525774+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.62,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-13T08:34:37.525777+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "9ef53a8e7df76cf260b9108346601b85",
+      "title": "Treating opioid addiction in jails improves treatment engagement, reduces overdose deaths and reincarceration",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/treating-opioid-addiction-jails-improves-treatment-engagement-reduces-overdose-deaths-reincarceration",
+      "published_date": "2025-10-13T08:29:48.978351+00:00",
+      "category": "Government",
+      "description": "NIH-funded study demonstrates life-saving potential of providing medications for opioid use disorder in carceral settings.",
+      "author": "",
+      "content": "NIH-funded study demonstrates life-saving potential of providing medications for opioid use disorder in carceral settings.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-13T08:34:37.523131+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-13T08:34:37.523137+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 209.78206992149353,
+    "processing_time": 210.54606413841248,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 124,
+      "total_processed": 127,
       "candidates": {
         "headlines": 4,
-        "articles": 120,
+        "articles": 123,
         "research_papers": 0
       },
       "selected": {
