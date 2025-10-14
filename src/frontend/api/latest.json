@@ -1,12 +1,12 @@
 {
-  "generated_at": "2025-10-14T04:28:55.069745+00:00",
+  "generated_at": "2025-10-14T08:29:57.229307+00:00",
   "articles": [
     {
       "article_id": "ecd428aa0aea150f18ae0e98e0648d9c",
       "title": "NIH launches $50M Autism Data Science Initiative to unlock causes and improve outcomes",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/nih-launches-fifty-million-autism-data-science-initiative-unlock-causes-improve-outcomes",
-      "published_date": "2025-10-14T04:24:50.315754+00:00",
+      "published_date": "2025-10-14T08:25:54.790707+00:00",
       "category": "Government",
       "description": "Funded projects will drive discoveries across biology, environment, and autism services.",
       "author": "",
@@ -14,10 +14,10 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -45,41 +45,227 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-14T04:28:55.035487+00:00"
+        "consensus_timestamp": "2025-10-14T08:29:57.190463+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-14T04:28:55.035491+00:00"
+        "timestamp": "2025-10-14T08:29:57.190467+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "45b779cfbe1278215f29cff43cd7743a",
-      "title": "Guidance: DSIT accessibility statement for the UK Innovation Cluster Map",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/dsit-accessibility-statement-for-the-uk-innovation-cluster-map",
-      "published_date": "2025-10-01T15:59:22+00:00",
-      "category": "Government",
-      "description": "Accessibility statement for the UK Innovation Cluster Map.",
+      "article_id": "c9f14444511f89c7d677ccfdd2dae2b7",
+      "title": "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/openai-amd-strategic-partnership",
+      "published_date": "2025-10-06T06:00:00+00:00",
+      "category": "Industry",
+      "description": "AMD and OpenAI have announced a multi-year partnership to deploy 6 gigawatts of AMD Instinct GPUs, beginning with 1 gigawatt in 2026, to power OpenAI’s next-generation AI infrastructure and accelerate global AI innovation.",
       "author": "",
-      "content": "Accessibility statement for the UK Innovation Cluster Map.",
+      "content": "AMD and OpenAI have announced a multi-year partnership to deploy 6 gigawatts of AMD Instinct GPUs, beginning with 1 gigawatt in 2026, to power OpenAI’s next-generation AI infrastructure and accelerate global AI innovation.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.98,
+        "overall_score": 0.9185000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-14T08:29:57.191946+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-14T08:29:57.191949+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c27b3e2c7d4fbc754993938a21baaceb",
+      "title": "Responsible AI: How PowerSchool safeguards millions of students with AI-powered content filtering using Amazon SageMaker AI",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-how-powerschool-safeguards-millions-of-students-with-ai-powered-content-filtering-using-amazon-sagemaker-ai/",
+      "published_date": "2025-10-06T19:14:40+00:00",
+      "category": "Industry",
+      "description": "In this post, we demonstrate how PowerSchool built and deployed a custom content filtering solution using Amazon SageMaker AI that achieved better accuracy while maintaining low false positive rates. We walk through our technical approach to fine tuning Llama 3.1 8B, our deployment architecture, and the performance results from internal validations.",
+      "author": "Anjali Vijayakumar",
+      "content": "In this post, we demonstrate how PowerSchool built and deployed a custom content filtering solution using Amazon SageMaker AI that achieved better accuracy while maintaining low false positive rates. We walk through our technical approach to fine tuning Llama 3.1 8B, our deployment architecture, and the performance results from internal validations.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-14T08:29:57.193013+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-14T08:29:57.193016+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "d0c386f3cc5af4e958c8b1b1e912c7fa",
+      "title": "India to Host Global AI Summit 2026 with Anthropic",
+      "source": "analytics_india_magazine",
+      "url": "https://analyticsindiamag.com/videos/india-to-host-global-ai-summit-2026-with-anthropic/",
+      "published_date": "2025-10-14T05:43:00+00:00",
+      "category": "Industry",
+      "description": "Anthropic, the creator of Claude AI, has announced a major partnership with the Government of India to co-host the Global AI Summit in February 2026 The post India to Host Global AI Summit 2026 with Anthropic appeared first on Analytics India Magazine.",
+      "author": "Pabitra Moharana",
+      "content": "Anthropic, the creator of Claude AI, has announced a major partnership with the Government of India to co-host the Global AI Summit in February 2026 The post India to Host Global AI Summit 2026 with Anthropic appeared first on Analytics India Magazine.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-14T08:29:57.195765+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-14T08:29:57.195768+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "cb95a556df687711e3861925272702f9",
+      "title": "Meta’s ARE + Gaia2 Set a New Bar for AI Agent Evaluation under Asynchronous, Event-Driven Conditions",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2025/10/13/metas-are-gaia2-set-a-new-bar-for-ai-agent-evaluation-under-asynchronous-event-driven-conditions/",
+      "published_date": "2025-10-14T02:03:51+00:00",
+      "category": "Industry",
+      "description": "Meta AI has introduced Agents Research Environments (ARE), a modular simulation stack for creating and running agent tasks, and Gaia2, a follow-up benchmark to GAIA that evaluates agents in dynamic, write-enabled settings. ARE provides abstractions for apps, environments, events, notifications, and scenarios; Gaia2 runs on top of ARE and focuses on capabilities beyond search-and-execute. Why […] The post Meta’s ARE + Gaia2 Set a New Bar for AI Agent Evaluation under Asynchronous, Event-Driven...",
+      "author": "Michal Sutter",
+      "content": "Meta AI has introduced Agents Research Environments (ARE), a modular simulation stack for creating and running agent tasks, and Gaia2, a follow-up benchmark to GAIA that evaluates agents in dynamic, write-enabled settings. ARE provides abstractions for apps, environments, events, notifications, and scenarios; Gaia2 runs on top of ARE and focuses on capabilities beyond search-and-execute. Why […] The post Meta’s ARE + Gaia2 Set a New Bar for AI Agent Evaluation under Asynchronous, Event-Driven...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-14T04:28:55.036473+00:00"
+        "consensus_timestamp": "2025-10-14T08:29:57.196482+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,20 +307,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-14T04:28:55.036476+00:00"
+        "timestamp": "2025-10-14T08:29:57.196485+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "ed3c5c0c42e198323a9c978dc50d55e9",
-      "title": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration",
-      "published_date": "2025-10-13T06:00:00+00:00",
+      "article_id": "6efbbf8aa12ded319157553c5c584f82",
+      "title": "Ivy Framework Agnostic Machine Learning Build, Transpile, and Benchmark Across All Major Backends",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2025/10/13/ivy-framework-agnostic-machine-learning-build-transpile-and-benchmark-across-all-major-backends/",
+      "published_date": "2025-10-14T02:37:21+00:00",
       "category": "Industry",
-      "description": "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrastructure by 2029.",
-      "author": "",
-      "content": "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrastructure by 2029.",
+      "description": "In this tutorial, we explore Ivy’s remarkable ability to unify machine learning development across frameworks. We begin by writing a fully framework-agnostic neural network that runs seamlessly on NumPy, PyTorch, TensorFlow, and JAX. We then dive into code transpilation, unified APIs, and advanced features like Ivy Containers and graph tracing, all designed to make deep […] The post Ivy Framework Agnostic Machine Learning Build, Transpile, and Benchmark Across All Major Backends appeared first...",
+      "author": "Asif Razzaq",
+      "content": "In this tutorial, we explore Ivy’s remarkable ability to unify machine learning development across frameworks. We begin by writing a fully framework-agnostic neural network that runs seamlessly on NumPy, PyTorch, TensorFlow, and JAX. We then dive into code transpilation, unified APIs, and advanced features like Ivy Containers and graph tracing, all designed to make deep […] The post Ivy Framework Agnostic Machine Learning Build, Transpile, and Benchmark Across All Major Backends appeared first...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -168,11 +354,73 @@
             "enhancement_suggestions": []
           }
         },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-14T08:29:57.196436+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-14T08:29:57.196438+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "fea265cc2d318684c28f71b79231e830",
+      "title": "Accelerating Large-Scale Data Analytics with GPU-Native Velox and NVIDIA cuDF",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/accelerating-large-scale-data-analytics-with-gpu-native-velox-and-nvidia-cudf/",
+      "published_date": "2025-10-06T12:00:00+00:00",
+      "category": "Industry",
+      "description": "As workloads scale and demand for faster data processing grows, GPU-accelerated databases and query engines have been shown to deliver significant...",
+      "author": "Gregory Kimball",
+      "content": "As workloads scale and demand for faster data processing grows, GPU-accelerated databases and query engines have been shown to deliver significant...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
         "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-14T04:28:55.036681+00:00"
+        "consensus_timestamp": "2025-10-14T08:29:57.194929+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,26 +431,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-14T04:28:55.036684+00:00"
+        "timestamp": "2025-10-14T08:29:57.194932+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "4760caec14df4e37957caa5c2c5d5c2e",
-      "title": "Make agents a reality with Amazon Bedrock AgentCore: Now generally available",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-is-now-generally-available/",
-      "published_date": "2025-10-13T14:10:44+00:00",
+      "article_id": "cd542d4908b2500e48478cbc9c7e97e1",
+      "title": "Pruning and Distilling LLMs Using NVIDIA TensorRT Model Optimizer",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/pruning-and-distilling-llms-using-nvidia-tensorrt-model-optimizer/",
+      "published_date": "2025-10-07T17:00:00+00:00",
       "category": "Industry",
-      "description": "Learn why customers choose AgentCore to build secure, reliable AI solutions using their choice of frameworks and models for production workloads.",
-      "author": "Swami Sivasubramanian",
-      "content": "Learn why customers choose AgentCore to build secure, reliable AI solutions using their choice of frameworks and models for production workloads.",
+      "description": "Large language models (LLMs) have set a high bar in natural language processing (NLP) tasks such as coding, reasoning, and math. However, their deployment...",
+      "author": "Max Xu",
+      "content": "Large language models (LLMs) have set a high bar in natural language processing (NLP) tasks such as coding, reasoning, and math. However, their deployment...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
+        "impact_score": 0.98,
+        "overall_score": 0.8785000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -231,41 +479,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.8,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-14T04:28:55.037580+00:00"
+        "consensus_timestamp": "2025-10-14T08:29:57.194836+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-14T04:28:55.037583+00:00"
+        "timestamp": "2025-10-14T08:29:57.194839+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "be8d094b206035f2022f94623d1033e5",
-      "title": "From Assistant to Adversary: Exploiting Agentic AI Developer Tools",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/from-assistant-to-adversary-exploiting-agentic-ai-developer-tools/",
-      "published_date": "2025-10-09T16:00:00+00:00",
+      "article_id": "6cefd98b960d26cd7059541fac315dc7",
+      "title": "Defining and evaluating political bias in LLMs",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/defining-and-evaluating-political-bias-in-llms",
+      "published_date": "2025-10-09T13:00:00+00:00",
       "category": "Industry",
-      "description": "Developers are increasingly turning to AI-enabled tools for coding, including Cursor, OpenAI Codex, Claude Code, and GitHub Copilot. While these automation...",
-      "author": "Becca Lynch",
-      "content": "Developers are increasingly turning to AI-enabled tools for coding, including Cursor, OpenAI Codex, Claude Code, and GitHub Copilot. While these automation...",
+      "description": "Learn how OpenAI evaluates political bias in ChatGPT through new real-world testing methods that improve objectivity and reduce bias.",
+      "author": "",
+      "content": "Learn how OpenAI evaluates political bias in ChatGPT through new real-world testing methods that improve objectivity and reduce bias.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.95
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -296,7 +544,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-14T04:28:55.039417+00:00"
+        "consensus_timestamp": "2025-10-14T08:29:57.191713+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +555,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-14T04:28:55.039419+00:00"
+        "timestamp": "2025-10-14T08:29:57.191716+00:00"
       },
       "article_type": "article"
     },
@@ -327,7 +575,7 @@
         "novelty_score": 0.8,
         "impact_score": 0.95,
         "overall_score": 0.8725,
-        "confidence_mean": 0.95
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -355,34 +603,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-14T04:28:55.036882+00:00"
+        "consensus_timestamp": "2025-10-14T08:29:57.191852+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-14T04:28:55.036885+00:00"
+        "timestamp": "2025-10-14T08:29:57.191855+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c27b3e2c7d4fbc754993938a21baaceb",
-      "title": "Responsible AI: How PowerSchool safeguards millions of students with AI-powered content filtering using Amazon SageMaker AI",
+      "article_id": "f6987497be173a9d281300c8abb4a36d",
+      "title": "Secure ingress connectivity to Amazon Bedrock AgentCore Gateway using interface VPC endpoints",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-how-powerschool-safeguards-millions-of-students-with-ai-powered-content-filtering-using-amazon-sagemaker-ai/",
-      "published_date": "2025-10-06T19:14:40+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/secure-ingress-connectivity-to-amazon-bedrock-agentcore-gateway-using-interface-vpc-endpoints/",
+      "published_date": "2025-10-03T20:08:46+00:00",
       "category": "Industry",
-      "description": "In this post, we demonstrate how PowerSchool built and deployed a custom content filtering solution using Amazon SageMaker AI that achieved better accuracy while maintaining low false positive rates. We walk through our technical approach to fine tuning Llama 3.1 8B, our deployment architecture, and the performance results from internal validations.",
-      "author": "Anjali Vijayakumar",
-      "content": "In this post, we demonstrate how PowerSchool built and deployed a custom content filtering solution using Amazon SageMaker AI that achieved better accuracy while maintaining low false positive rates. We walk through our technical approach to fine tuning Llama 3.1 8B, our deployment architecture, and the performance results from internal validations.",
+      "description": "In this post, we demonstrate how to access AgentCore Gateway through a VPC interface endpoint from an Amazon Elastic Compute Cloud (Amazon EC2) instance in a VPC. We also show how to configure your VPC endpoint policy to provide secure access to the AgentCore Gateway while maintaining the principle of least privilege access.",
+      "author": "Dhawalkumar Patel",
+      "content": "In this post, we demonstrate how to access AgentCore Gateway through a VPC interface endpoint from an Amazon Elastic Compute Cloud (Amazon EC2) instance in a VPC. We also show how to configure your VPC endpoint policy to provide secure access to the AgentCore Gateway while maintaining the principle of least privilege access.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -417,83 +665,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.8,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-14T04:28:55.037852+00:00"
+        "consensus_timestamp": "2025-10-14T08:29:57.193109+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-14T04:28:55.037854+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "ddf0752305d5e7d842feb56a949a99e1",
-      "title": "Enhance agentic workflows with enterprise search using Kore.ai and Amazon Q Business",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/enhance-agentic-workflows-with-enterprise-search-using-kore-ai-and-amazon-q-business/",
-      "published_date": "2025-10-02T22:14:23+00:00",
-      "category": "Industry",
-      "description": "In this post, we demonstrate how organizations can enhance their employee productivity by integrating Kore.ai’s AI for Work platform with Amazon Q Business. We show how to configure AI for Work as a data accessor for Amazon Q index for independent software vendors (ISVs), so employees can search enterprise knowledge and execute end-to-end agentic workflows involving search, reasoning, actions, and content generation.",
-      "author": "Siddhant Gupta",
-      "content": "In this post, we demonstrate how organizations can enhance their employee productivity by integrating Kore.ai’s AI for Work platform with Amazon Q Business. We show how to configure AI for Work as a data accessor for Amazon Q index for independent software vendors (ISVs), so employees can search enterprise knowledge and execute end-to-end agentic workflows involving search, reasoning, actions, and content generation.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-14T04:28:55.037971+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-14T04:28:55.037973+00:00"
+        "timestamp": "2025-10-14T08:29:57.193112+00:00"
       },
       "article_type": "article"
     },
@@ -540,35 +726,35 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
+        "score": 0.95,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-14T04:28:55.039844+00:00"
+        "consensus_timestamp": "2025-10-14T08:29:57.195395+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.77,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-14T04:28:55.039846+00:00"
+        "timestamp": "2025-10-14T08:29:57.195399+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "6ef7782ca9429409e75bb835646da125",
-      "title": "Microsoft Azure Unveils World’s First NVIDIA GB300 NVL72 Supercomputing Cluster for OpenAI",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/microsoft-azure-worlds-first-gb300-nvl72-supercomputing-cluster-openai/",
-      "published_date": "2025-10-09T16:00:57+00:00",
-      "category": "Industry",
-      "description": "Microsoft Azure today announced the new NDv6 GB300 VM series, delivering the industry’s first supercomputing-scale production cluster of NVIDIA GB300 NVL72 systems, purpose-built for OpenAI’s most demanding AI inference workloads. This supercomputer-scale cluster features over 4,600 NVIDIA Blackwell Ultra GPUs connected via the NVIDIA Quantum-X800 InfiniBand networking platform. Microsoft’s unique systems approach applied radical engineering Read Article",
-      "author": "Ian Buck",
-      "content": "Microsoft Azure today announced the new NDv6 GB300 VM series, delivering the industry’s first supercomputing-scale production cluster of NVIDIA GB300 NVL72 systems, purpose-built for OpenAI’s most demanding AI inference workloads. This supercomputer-scale cluster features over 4,600 NVIDIA Blackwell Ultra GPUs connected via the NVIDIA Quantum-X800 InfiniBand networking platform. Microsoft’s unique systems approach applied radical engineering Read Article",
+      "article_id": "59a05203dcbdad14889b65beb1b0a586",
+      "title": "Local tech ready for take-off as 14 projects supporting businesses and jobs unveiled",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/local-tech-ready-for-take-off-as-14-projects-supporting-businesses-and-jobs-unveiled",
+      "published_date": "2025-09-30T23:01:02+00:00",
+      "category": "Government",
+      "description": "Communities set to benefit from better jobs and more opportunities in tech as 14 government-backed projects to support local tech sectors across the UK are unveiled.",
+      "author": "",
+      "content": "Communities set to benefit from better jobs and more opportunities in tech as 14 government-backed projects to support local tech sectors across the UK are unveiled.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
@@ -603,21 +789,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.92,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-14T04:28:55.038246+00:00"
+        "consensus_timestamp": "2025-10-14T08:29:57.191567+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.752,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-14T04:28:55.038249+00:00"
+        "timestamp": "2025-10-14T08:29:57.191570+00:00"
       },
       "article_type": "article"
     },
@@ -664,103 +850,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.92,
+        "confidence": 0.92,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-14T04:28:55.039884+00:00"
+        "consensus_timestamp": "2025-10-14T08:29:57.195443+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.752,
+        "combined_confidence": 0.752,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-14T04:28:55.039886+00:00"
+        "timestamp": "2025-10-14T08:29:57.195446+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "aa1c20fea8184bc0bae57a16470156ee",
-      "title": "The 20-Year-Old Indian Prodigy Who Gave AI a Supermemory",
+      "article_id": "962766710b20fb55567f862b48a0ae17",
+      "title": "Microsoft Takes on Google’s Nano Banana and OpenAI’s GPT-Image-1 with New AI Model",
       "source": "analytics_india_magazine",
-      "url": "https://analyticsindiamag.com/ai-features/the-20-year-old-indian-prodigy-who-gave-ai-a-supermemory/",
-      "published_date": "2025-10-12T05:30:00+00:00",
+      "url": "https://analyticsindiamag.com/ai-news-updates/microsoft-takes-on-googles-nano-banana-and-openais-gpt-image-1-with-new-ai-model/",
+      "published_date": "2025-10-14T05:09:18+00:00",
       "category": "Industry",
-      "description": "Supermemory has attracted investments from Google AI chief Jeff Dean, Cloudflare CTO Dane Knecht and DeepMind’s Logan Kilpatrick, among others. The post The 20-Year-Old Indian Prodigy Who Gave AI a Supermemory appeared first on Analytics India Magazine.",
-      "author": "Mohit Pandey",
-      "content": "Supermemory has attracted investments from Google AI chief Jeff Dean, Cloudflare CTO Dane Knecht and DeepMind’s Logan Kilpatrick, among others. The post The 20-Year-Old Indian Prodigy Who Gave AI a Supermemory appeared first on Analytics India Magazine.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.87,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-14T04:28:55.040468+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-14T04:28:55.040470+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c8528f4012c3c26bed7f855e2663d2c5",
-      "title": "Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/",
-      "published_date": "2025-10-09T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Microsoft delivers the first at-scale production cluster with more than 4,600 NVIDIA GB300 NVL72, featuring NVIDIA Blackwell Ultra GPUs connected through the next-generation NVIDIA InfiniBand network. The post Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads appeared first on Microsoft Azure Blog.",
-      "author": "Rani Borkar and Nidhi Chappell",
-      "content": "Microsoft delivers the first at-scale production cluster with more than 4,600 NVIDIA GB300 NVL72, featuring NVIDIA Blackwell Ultra GPUs connected through the next-generation NVIDIA InfiniBand network. The post Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads appeared first on Microsoft Azure Blog.",
+      "description": "Microsoft said that it will be available on Copilot and Bing Image Creator ‘very soon’, and the model can be used for testing at LMArena. The post Microsoft Takes on Google’s Nano Banana and OpenAI’s GPT-Image-1 with New AI Model appeared first on Analytics India Magazine.",
+      "author": "Supreeth Koundinya",
+      "content": "Microsoft said that it will be available on Copilot and Bing Image Creator ‘very soon’, and the model can be used for testing at LMArena. The post Microsoft Takes on Google’s Nano Banana and OpenAI’s GPT-Image-1 with New AI Model appeared first on Analytics India Magazine.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -792,7 +916,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-14T04:28:55.037253+00:00"
+        "consensus_timestamp": "2025-10-14T08:29:57.195810+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,131 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-14T04:28:55.037256+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "716fe726d3dff6a03e43abdcf1a932a1",
-      "title": "While OpenAI races to build AI data centers, Nadella reminds us that Microsoft already has them",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2025/10/09/while-openai-races-to-build-ai-data-centers-nadella-reminds-us-that-microsoft-already-has-them/",
-      "published_date": "2025-10-09T23:53:36+00:00",
-      "category": "Industry",
-      "description": "Microsoft CEO Satya Nadella offered a glimpse of the \"first of many\" massive Nvidia AI systems it is rolling out, starting now.",
-      "author": "Julie Bort",
-      "content": "Microsoft CEO Satya Nadella offered a glimpse of the \"first of many\" massive Nvidia AI systems it is rolling out, starting now.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-14T04:28:55.039046+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-14T04:28:55.039048+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "05235defd4fbf47b2cd002b73cf23fd0",
-      "title": "Policy paper: IT Reuse for Good charter",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/it-reuse-for-good-charter",
-      "published_date": "2025-10-07T12:10:19+00:00",
-      "category": "Government",
-      "description": "Organisations and public bodies, express you interest and sign this charter to take a ‘reuse first’ approach to IT assets and help close the digital divide.",
-      "author": "",
-      "content": "Organisations and public bodies, express you interest and sign this charter to take a ‘reuse first’ approach to IT assets and help close the digital divide.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.6,
-        "impact_score": 0.9,
-        "overall_score": 0.8250000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-14T04:28:55.035995+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-14T04:28:55.035999+00:00"
+        "timestamp": "2025-10-14T08:29:57.195813+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 169.26185488700867,
+    "processing_time": 172.0273015499115,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 124,
+      "total_processed": 123,
       "candidates": {
-        "headlines": 8,
-        "articles": 116,
+        "headlines": 11,
+        "articles": 112,
         "research_papers": 0
       },
       "selected": {
