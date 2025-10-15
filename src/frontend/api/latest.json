@@ -1,22 +1,22 @@
 {
-  "generated_at": "2025-10-15T01:42:18.290746+00:00",
+  "generated_at": "2025-10-15T04:28:51.880603+00:00",
   "articles": [
     {
-      "article_id": "36efd0da9ab29c89b24cbb77fec4ca67",
-      "title": "Andrej Karpathy Releases ‘nanochat’: A Minimal, End-to-End ChatGPT-Style Pipeline You Can Train in ~4 Hours for ~$100",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2025/10/14/andrej-karpathy-releases-nanochat-a-minimal-end-to-end-chatgpt-style-pipeline-you-can-train-in-4-hours-for-100/",
-      "published_date": "2025-10-14T17:40:10+00:00",
+      "article_id": "8b446ff731272a0cce4df6c86af5c366",
+      "title": "Andrej Karpathy Releases nanochat, a Minimal ChatGPT Clone",
+      "source": "analytics_india_magazine",
+      "url": "https://analyticsindiamag.com/ai-news-updates/andrej-karpathy-releases-nanochat-a-minimal-chatgpt-clone/",
+      "published_date": "2025-10-13T16:43:40+00:00",
       "category": "Industry",
-      "description": "Andrej Karpathy has open-sourced nanochat, a compact, dependency-light codebase that implements a full ChatGPT-style stack—from tokenizer training to web UI inference—aimed at reproducible, hackable LLM training on a single multi-GPU node. The repo provides a single-script “speedrun” that executes the full loop: tokenization, base pretraining, mid-training on chat/multiple-choice/tool-use data, Supervised Finetuning (SFT), optional RL on […] The post Andrej Karpathy Releases ‘nanochat’: A...",
-      "author": "Asif Razzaq",
-      "content": "Andrej Karpathy has open-sourced nanochat, a compact, dependency-light codebase that implements a full ChatGPT-style stack—from tokenizer training to web UI inference—aimed at reproducible, hackable LLM training on a single multi-GPU node. The repo provides a single-script “speedrun” that executes the full loop: tokenization, base pretraining, mid-training on chat/multiple-choice/tool-use data, Supervised Finetuning (SFT), optional RL on […] The post Andrej Karpathy Releases ‘nanochat’: A...",
+      "description": "The repo consists of about 8,000 lines of code and covers the entire pipeline. The post Andrej Karpathy Releases nanochat, a Minimal ChatGPT Clone appeared first on Analytics India Magazine.",
+      "author": "Siddharth Jindal",
+      "content": "The repo consists of about 8,000 lines of code and covers the entire pipeline. The post Andrej Karpathy Releases nanochat, a Minimal ChatGPT Clone appeared first on Analytics India Magazine.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.9225000000000001,
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -44,103 +44,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.8,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-15T01:42:18.246484+00:00"
+        "consensus_timestamp": "2025-10-15T04:28:51.835493+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-15T01:42:18.246487+00:00"
+        "timestamp": "2025-10-15T04:28:51.835496+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "8e161ceef67a91aa969d474482248bd9",
-      "title": "Why AI for good depends on good data",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/why-ai-for-good-depends-on-good-data",
-      "published_date": "2025-10-14T13:02:42+00:00",
+      "article_id": "d383453b604fab8b9c352c3e2ba3fec9",
+      "title": "Practical LLM Security Advice from the NVIDIA AI Red Team",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/practical-llm-security-advice-from-the-nvidia-ai-red-team/",
+      "published_date": "2025-10-02T16:52:26+00:00",
       "category": "Industry",
-      "description": "New technologies are helping vulnerable communities produce maps that integrate topographical, infrastructural, seasonal, and real-time data — an essential tool for many humanitarian endeavors.",
-      "author": "Dr. Werner Vogels",
-      "content": "New technologies are helping vulnerable communities produce maps that integrate topographical, infrastructural, seasonal, and real-time data — an essential tool for many humanitarian endeavors.",
+      "description": "Over the last several years, the NVIDIA AI Red Team (AIRT) has evaluated numerous and diverse AI-enabled systems for potential vulnerabilities and security...",
+      "author": "Rich Harang",
+      "content": "Over the last several years, the NVIDIA AI Red Team (AIRT) has evaluated numerous and diverse AI-enabled systems for potential vulnerabilities and security...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.9225000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.92,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-15T01:42:18.245255+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-15T01:42:18.245257+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "67381f5f35d42bb738a5ec324f9a03f4",
-      "title": "​​Speech-to-Retrieval (S2R): A new approach to voice search",
-      "source": "google_research_blog",
-      "url": "https://research.google/blog/speech-to-retrieval-s2r-a-new-approach-to-voice-search/",
-      "published_date": "2025-10-07T15:22:00+00:00",
-      "category": "Industry",
-      "description": "Machine Intelligence",
-      "author": "",
-      "content": "Machine Intelligence",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8875000000000001,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -172,7 +110,7 @@
         "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-15T01:42:18.245116+00:00"
+        "consensus_timestamp": "2025-10-15T04:28:51.834474+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,27 +121,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-15T01:42:18.245118+00:00"
+        "timestamp": "2025-10-15T04:28:51.834476+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c6a653d5c71e5fdadc1a0181a7571c85",
-      "title": "Building the 800 VDC Ecosystem for Efficient, Scalable AI Factories",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/building-the-800-vdc-ecosystem-for-efficient-scalable-ai-factories/",
-      "published_date": "2025-10-13T15:00:00+00:00",
-      "category": "Industry",
-      "description": "For decades, traditional data centers have been vast halls of servers with power and cooling as secondary considerations. The rise of generative AI has changed...",
-      "author": "Neeraj Srivastava",
-      "content": "For decades, traditional data centers have been vast halls of servers with power and cooling as secondary considerations. The rise of generative AI has changed...",
+      "article_id": "e76947dff06bb2e6e517f673f21218ce",
+      "title": "Repeated head impacts cause early neuron loss and inflammation in young athletes",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/repeated-head-impacts-cause-early-neuron-loss-inflammation-young-athletes",
+      "published_date": "2025-10-15T04:24:57.633681+00:00",
+      "category": "Government",
+      "description": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
+      "author": "",
+      "content": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
+        "overall_score": 0.89,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -230,35 +168,35 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-15T01:42:18.244624+00:00"
+        "consensus_timestamp": "2025-10-15T04:28:51.830085+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-15T01:42:18.244627+00:00"
+        "timestamp": "2025-10-15T04:28:51.830088+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "dc8a9e3b37b8917a1462d98f3b29a244",
-      "title": "Research: Identifying and describing UK innovation clusters",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/identifying-and-describing-uk-innovation-clusters",
-      "published_date": "2025-10-01T15:44:04+00:00",
-      "category": "Government",
-      "description": "A methodology report and descriptive analysis of the original Innovation Clusters Map published in February 2024.",
+      "article_id": "223bcb05631b2a03b945930163345d41",
+      "title": "Argentina’s AI opportunity",
+      "source": "openai_blog",
+      "url": "https://openai.com/global-affairs/argentinas-ai-opportunity",
+      "published_date": "2025-10-14T06:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI and Sur Energy are exploring Argentina’s first Stargate project—an AI and clean energy collaboration that could make Argentina a Latin American leader in artificial intelligence, sustainable infrastructure, and digital innovation.",
       "author": "",
-      "content": "A methodology report and descriptive analysis of the original Innovation Clusters Map published in February 2024.",
+      "content": "OpenAI and Sur Energy are exploring Argentina’s first Stargate project—an AI and clean energy collaboration that could make Argentina a Latin American leader in artificial intelligence, sustainable infrastructure, and digital innovation.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -296,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-15T01:42:18.241146+00:00"
+        "consensus_timestamp": "2025-10-15T04:28:51.831013+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,69 +245,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-15T01:42:18.241149+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "de8fd80b0d10f7771f1a97521b0d51ce",
-      "title": "It’s not too late for Apple to get AI right",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2025/10/11/its-not-too-late-for-apple-to-get-ai-right/",
-      "published_date": "2025-10-11T15:00:00+00:00",
-      "category": "Industry",
-      "description": "Apple still has a shot at leading the AI-powered app era. As OpenAI launches its ChatGPT app platform, Apple’s smarter Siri and deep ecosystem could keep it ahead.",
-      "author": "Sarah Perez",
-      "content": "Apple still has a shot at leading the AI-powered app era. As OpenAI launches its ChatGPT app platform, Apple’s smarter Siri and deep ecosystem could keep it ahead.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-15T01:42:18.244432+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-15T01:42:18.244435+00:00"
+        "timestamp": "2025-10-15T04:28:51.831015+00:00"
       },
       "article_type": "article"
     },
@@ -389,68 +265,6 @@
         "novelty_score": 0.8,
         "impact_score": 0.95,
         "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-15T01:42:18.241786+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-15T01:42:18.241789+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e76947dff06bb2e6e517f673f21218ce",
-      "title": "Repeated head impacts cause early neuron loss and inflammation in young athletes",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/repeated-head-impacts-cause-early-neuron-loss-inflammation-young-athletes",
-      "published_date": "2025-10-15T01:38:18.432975+00:00",
-      "category": "Government",
-      "description": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
-      "author": "",
-      "content": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -479,34 +293,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-15T01:42:18.240046+00:00"
+        "consensus_timestamp": "2025-10-15T04:28:51.831527+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-15T01:42:18.240050+00:00"
+        "timestamp": "2025-10-15T04:28:51.831530+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "6cefd98b960d26cd7059541fac315dc7",
-      "title": "Defining and evaluating political bias in LLMs",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/defining-and-evaluating-political-bias-in-llms",
-      "published_date": "2025-10-09T13:00:00+00:00",
+      "article_id": "c27b3e2c7d4fbc754993938a21baaceb",
+      "title": "Responsible AI: How PowerSchool safeguards millions of students with AI-powered content filtering using Amazon SageMaker AI",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-how-powerschool-safeguards-millions-of-students-with-ai-powered-content-filtering-using-amazon-sagemaker-ai/",
+      "published_date": "2025-10-06T19:14:40+00:00",
       "category": "Industry",
-      "description": "Learn how OpenAI evaluates political bias in ChatGPT through new real-world testing methods that improve objectivity and reduce bias.",
-      "author": "",
-      "content": "Learn how OpenAI evaluates political bias in ChatGPT through new real-world testing methods that improve objectivity and reduce bias.",
+      "description": "In this post, we demonstrate how PowerSchool built and deployed a custom content filtering solution using Amazon SageMaker AI that achieved better accuracy while maintaining low false positive rates. We walk through our technical approach to fine tuning Llama 3.1 8B, our deployment architecture, and the performance results from internal validations.",
+      "author": "Anjali Vijayakumar",
+      "content": "In this post, we demonstrate how PowerSchool built and deployed a custom content filtering solution using Amazon SageMaker AI that achieved better accuracy while maintaining low false positive rates. We walk through our technical approach to fine tuning Llama 3.1 8B, our deployment architecture, and the performance results from internal validations.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -544,7 +358,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-15T01:42:18.241431+00:00"
+        "consensus_timestamp": "2025-10-15T04:28:51.832358+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -555,89 +369,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-15T01:42:18.241434+00:00"
+        "timestamp": "2025-10-15T04:28:51.832360+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "979abfdaa97e4e99705c3c88452b9a01",
-      "title": "Jensen Huang Delivers Elon Musk First Units of ‘World’s Smallest AI Supercomputer’",
-      "source": "analytics_india_magazine",
-      "url": "https://analyticsindiamag.com/ai-news-updates/jensen-huang-delivers-elon-musk-first-units-of-worlds-smallest-ai-supercomputer/",
-      "published_date": "2025-10-14T06:10:20+00:00",
+      "article_id": "c82a2e303f6c441ad07fade4e1506b7f",
+      "title": "Accelerate development with the Amazon Bedrock AgentCore MCP server",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-development-with-the-amazon-bedrock-agentcore-mcpserver/",
+      "published_date": "2025-10-02T21:12:34+00:00",
       "category": "Industry",
-      "description": "The NVIDIA DGX Spark is available to ship at $3,999. The post Jensen Huang Delivers Elon Musk First Units of ‘World’s Smallest AI Supercomputer’ appeared first on Analytics India Magazine.",
-      "author": "Supreeth Koundinya",
-      "content": "The NVIDIA DGX Spark is available to ship at $3,999. The post Jensen Huang Delivers Elon Musk First Units of ‘World’s Smallest AI Supercomputer’ appeared first on Analytics India Magazine.",
+      "description": "Today, we’re excited to announce the Amazon Bedrock AgentCore Model Context Protocol (MCP) Server. With built-in support for runtime, gateway integration, identity management, and agent memory, the AgentCore MCP Server is purpose-built to speed up creation of components compatible with Bedrock AgentCore. You can use the AgentCore MCP server for rapid prototyping, production AI solutions, […]",
+      "author": "Shreyas Subramanian",
+      "content": "Today, we’re excited to announce the Amazon Bedrock AgentCore Model Context Protocol (MCP) Server. With built-in support for runtime, gateway integration, identity management, and agent memory, the AgentCore MCP Server is purpose-built to speed up creation of components compatible with Bedrock AgentCore. You can use the AgentCore MCP server for rapid prototyping, production AI solutions, […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.95,
         "overall_score": 0.8725,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-15T01:42:18.245913+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-15T01:42:18.245916+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d0c386f3cc5af4e958c8b1b1e912c7fa",
-      "title": "India to Host Global AI Summit 2026 with Anthropic",
-      "source": "analytics_india_magazine",
-      "url": "https://analyticsindiamag.com/videos/india-to-host-global-ai-summit-2026-with-anthropic/",
-      "published_date": "2025-10-14T05:43:00+00:00",
-      "category": "Industry",
-      "description": "Anthropic, the creator of Claude AI, has announced a major partnership with the Government of India to co-host the Global AI Summit in February 2026 The post India to Host Global AI Summit 2026 with Anthropic appeared first on Analytics India Magazine.",
-      "author": "Pabitra Moharana",
-      "content": "Anthropic, the creator of Claude AI, has announced a major partnership with the Government of India to co-host the Global AI Summit in February 2026 The post India to Host Global AI Summit 2026 with Anthropic appeared first on Analytics India Magazine.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.95
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -668,7 +420,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-15T01:42:18.246003+00:00"
+        "consensus_timestamp": "2025-10-15T04:28:51.832533+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,20 +431,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-15T01:42:18.246006+00:00"
+        "timestamp": "2025-10-15T04:28:51.832535+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "d383453b604fab8b9c352c3e2ba3fec9",
-      "title": "Practical LLM Security Advice from the NVIDIA AI Red Team",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/practical-llm-security-advice-from-the-nvidia-ai-red-team/",
-      "published_date": "2025-10-02T16:52:26+00:00",
+      "article_id": "5d80957deb5c743a83fd569701080085",
+      "title": "Customizing text content moderation with Amazon Nova",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/customizing-text-content-moderation-with-amazon-nova/",
+      "published_date": "2025-10-09T21:47:08+00:00",
       "category": "Industry",
-      "description": "Over the last several years, the NVIDIA AI Red Team (AIRT) has evaluated numerous and diverse AI-enabled systems for potential vulnerabilities and security...",
-      "author": "Rich Harang",
-      "content": "Over the last several years, the NVIDIA AI Red Team (AIRT) has evaluated numerous and diverse AI-enabled systems for potential vulnerabilities and security...",
+      "description": "In this post, we introduce Amazon Nova customization for text content moderation through Amazon SageMaker AI, enabling organizations to fine-tune models for their specific moderation needs. The evaluation across three benchmarks shows that customized Nova models achieve an average improvement of 7.3% in F1 scores compared to the baseline Nova Lite, with individual improvements ranging from 4.2% to 9.2% across different content moderation tasks.",
+      "author": "Yooju Shin",
+      "content": "In this post, we introduce Amazon Nova customization for text content moderation through Amazon SageMaker AI, enabling organizations to fine-tune models for their specific moderation needs. The evaluation across three benchmarks shows that customized Nova models achieve an average improvement of 7.3% in F1 scores compared to the baseline Nova Lite, with individual improvements ranging from 4.2% to 9.2% across different content moderation tasks.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.85,
         "quality_score": 0.9,
@@ -726,159 +478,35 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-15T01:42:18.245028+00:00"
+        "consensus_timestamp": "2025-10-15T04:28:51.832113+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-15T01:42:18.245030+00:00"
+        "timestamp": "2025-10-15T04:28:51.832116+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3d5d97c607f04f617db887d25124b087",
-      "title": "Expert Council on Well-Being and AI",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/expert-council-on-well-being-and-ai",
-      "published_date": "2025-10-14T10:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI’s new Expert Council on Well-Being and AI brings together leading psychologists, clinicians, and researchers to guide how ChatGPT supports emotional health, especially for teens. Learn how their insights are shaping safer, more caring AI experiences.",
+      "article_id": "fe9ebe25907c8a413fab2c9634789fb1",
+      "title": "NIH establishes nation's first dedicated organoid development center to reduce reliance on animal modeling",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-establishes-nations-first-dedicated-organoid-development-center-reduce-reliance-animal-modeling",
+      "published_date": "2025-10-15T04:24:57.633530+00:00",
+      "category": "Government",
+      "description": "The Standardized Organoid Modeling Center aims to produce standardized protocols for organoid research, addressing reproducibility challenges.",
       "author": "",
-      "content": "OpenAI’s new Expert Council on Well-Being and AI brings together leading psychologists, clinicians, and researchers to guide how ChatGPT supports emotional health, especially for teens. Learn how their insights are shaping safer, more caring AI experiences.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-15T01:42:18.241237+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-15T01:42:18.241240+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "b22427c069b9ef8b244bf3e104f113eb",
-      "title": "Speeding Up Data Decompression with nvCOMP and the NVIDIA Blackwell Decompression Engine",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/speeding-up-data-decompression-with-nvcomp-and-the-nvidia-blackwell-decompression-engine/",
-      "published_date": "2025-10-06T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Compression is a common technique to reduce storage costs and accelerate input/output transfer times across databases, data-center communications,...",
-      "author": "Eric Schmidt",
-      "content": "Compression is a common technique to reduce storage costs and accelerate input/output transfer times across databases, data-center communications,...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.9,
-        "overall_score": 0.8500000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.92,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-15T01:42:18.244849+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-15T01:42:18.244852+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "3cc752e1439bbfcde73c14b15ec24ba2",
-      "title": "Vxceed builds the perfect sales pitch for sales teams at scale using Amazon Bedrock",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/vxceed-builds-the-perfect-sales-pitch-for-sales-teams-at-scale-using-amazon-bedrock/",
-      "published_date": "2025-10-08T16:26:47+00:00",
-      "category": "Industry",
-      "description": "In this post, we show how Vxceed used Amazon Bedrock to develop this AI-powered multi-agent solution that generates personalized sales pitches for field sales teams at scale.",
-      "author": "Roger Wang",
-      "content": "In this post, we show how Vxceed used Amazon Bedrock to develop this AI-powered multi-agent solution that generates personalized sales pitches for field sales teams at scale.",
+      "content": "The Standardized Organoid Modeling Center aims to produce standardized protocols for organoid research, addressing reproducibility challenges.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -916,7 +544,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-15T01:42:18.242648+00:00"
+        "consensus_timestamp": "2025-10-15T04:28:51.829968+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +555,379 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-15T01:42:18.242652+00:00"
+        "timestamp": "2025-10-15T04:28:51.829972+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ba404fae9a1b517fdef00741b20ce61b",
+      "title": "Kitsa transforms clinical trial site selection with Amazon Quick Automate",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/kitsa-transforms-clinical-trial-site-selection-with-amazon-quick-automate/",
+      "published_date": "2025-10-13T17:26:05+00:00",
+      "category": "Industry",
+      "description": "In this post, we'll show how Kitsa, a health-tech company specializing in AI-driven clinical trial recruitment and site selection, used Amazon Quick Automate to transform their clinical trial site selection solution. Amazon Quick Automate, a capability of Amazon Quick Suite, enables enterprises to build, deploy and maintain resilient workflow automations at scale.",
+      "author": "Chethan Shriyan",
+      "content": "In this post, we'll show how Kitsa, a health-tech company specializing in AI-driven clinical trial recruitment and site selection, used Amazon Quick Automate to transform their clinical trial site selection solution. Amazon Quick Automate, a capability of Amazon Quick Suite, enables enterprises to build, deploy and maintain resilient workflow automations at scale.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-15T04:28:51.831934+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-15T04:28:51.831937+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "813cd69bf515de46dd81a2a6ab4cbbf5",
+      "title": "Improve Variant Calling Accuracy with NVIDIA Parabricks",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/improve-variant-calling-accuracy-with-nvidia-parabricks/",
+      "published_date": "2025-10-14T13:00:00+00:00",
+      "category": "Industry",
+      "description": "Built for data scientists and bioinformaticians, NVIDIA Parabricks is a scalable genomics software suite for secondary analysis. Providing GPU-accelerated...",
+      "author": "TJ Chen",
+      "content": "Built for data scientists and bioinformaticians, NVIDIA Parabricks is a scalable genomics software suite for secondary analysis. Providing GPU-accelerated...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-15T04:28:51.834005+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-15T04:28:51.834007+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "fea265cc2d318684c28f71b79231e830",
+      "title": "Accelerating Large-Scale Data Analytics with GPU-Native Velox and NVIDIA cuDF",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/accelerating-large-scale-data-analytics-with-gpu-native-velox-and-nvidia-cudf/",
+      "published_date": "2025-10-06T12:00:00+00:00",
+      "category": "Industry",
+      "description": "As workloads scale and demand for faster data processing grows, GPU-accelerated databases and query engines have been shown to deliver significant...",
+      "author": "Gregory Kimball",
+      "content": "As workloads scale and demand for faster data processing grows, GPU-accelerated databases and query engines have been shown to deliver significant...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-15T04:28:51.834338+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-15T04:28:51.834341+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4891278617366582b962a958f81d9faf",
+      "title": "One dose of antibiotic treats early syphilis as well as three doses",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/one-dose-antibiotic-treats-early-syphilis-well-three-doses",
+      "published_date": "2025-10-15T04:24:57.634037+00:00",
+      "category": "Government",
+      "description": "NIH-funded clinical trial shows potential to simplify treatment for early syphilis.",
+      "author": "",
+      "content": "NIH-funded clinical trial shows potential to simplify treatment for early syphilis.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-15T04:28:51.830308+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-15T04:28:51.830312+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "be8d094b206035f2022f94623d1033e5",
+      "title": "From Assistant to Adversary: Exploiting Agentic AI Developer Tools",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/from-assistant-to-adversary-exploiting-agentic-ai-developer-tools/",
+      "published_date": "2025-10-09T16:00:00+00:00",
+      "category": "Industry",
+      "description": "Developers are increasingly turning to AI-enabled tools for coding, including Cursor, OpenAI Codex, Claude Code, and GitHub Copilot. While these automation...",
+      "author": "Becca Lynch",
+      "content": "Developers are increasingly turning to AI-enabled tools for coding, including Cursor, OpenAI Codex, Claude Code, and GitHub Copilot. While these automation...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8500000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-15T04:28:51.834142+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-15T04:28:51.834144+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "428d7b766542e89e469509076aa1951a",
+      "title": "Unlock global AI inference scalability using new global cross-Region inference on Amazon Bedrock  with Anthropic’s Claude Sonnet 4.5",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/unlock-global-ai-inference-scalability-using-new-global-cross-region-inference-on-amazon-bedrock-with-anthropics-claude-sonnet-4-5/",
+      "published_date": "2025-10-03T21:37:26+00:00",
+      "category": "Industry",
+      "description": "Organizations are increasingly integrating generative AI capabilities into their applications to enhance customer experiences, streamline operations, and drive innovation. As generative AI workloads continue to grow in scale and importance, organizations face new challenges in maintaining consistent performance, reliability, and availability of their AI-powered applications. Customers are looking to scale their AI inference workloads across […]",
+      "author": "Melanie Li",
+      "content": "Organizations are increasingly integrating generative AI capabilities into their applications to enhance customer experiences, streamline operations, and drive innovation. As generative AI workloads continue to grow in scale and importance, organizations face new challenges in maintaining consistent performance, reliability, and availability of their AI-powered applications. Customers are looking to scale their AI inference workloads across […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.85,
+        "quality_score": 0.8,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.85
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-15T04:28:51.832401+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-15T04:28:51.832404+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 169.40358352661133,
+    "processing_time": 167.27949357032776,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 132,
+      "total_processed": 130,
       "candidates": {
         "headlines": 16,
-        "articles": 116,
+        "articles": 114,
         "research_papers": 0
       },
       "selected": {

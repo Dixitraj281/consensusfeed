@@ -1,22 +1,22 @@
 {
-  "updated": "2025-10-15T01:42:18.293779+00:00",
+  "updated": "2025-10-15T04:28:51.883602+00:00",
   "top_stories": [
     {
-      "article_id": "36efd0da9ab29c89b24cbb77fec4ca67",
-      "title": "Andrej Karpathy Releases ‘nanochat’: A Minimal, End-to-End ChatGPT-Style Pipeline You Can Train in ~4 Hours for ~$100",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2025/10/14/andrej-karpathy-releases-nanochat-a-minimal-end-to-end-chatgpt-style-pipeline-you-can-train-in-4-hours-for-100/",
-      "published_date": "2025-10-14T17:40:10+00:00",
+      "article_id": "8b446ff731272a0cce4df6c86af5c366",
+      "title": "Andrej Karpathy Releases nanochat, a Minimal ChatGPT Clone",
+      "source": "analytics_india_magazine",
+      "url": "https://analyticsindiamag.com/ai-news-updates/andrej-karpathy-releases-nanochat-a-minimal-chatgpt-clone/",
+      "published_date": "2025-10-13T16:43:40+00:00",
       "category": "Industry",
-      "description": "Andrej Karpathy has open-sourced nanochat, a compact, dependency-light codebase that implements a full ChatGPT-style stack—from tokenizer training to web UI inference—aimed at reproducible, hackable LLM training on a single multi-GPU node. The repo provides a single-script “speedrun” that executes the full loop: tokenization, base pretraining, mid-training on chat/multiple-choice/tool-use data, Supervised Finetuning (SFT), optional RL on […] The post Andrej Karpathy Releases ‘nanochat’: A...",
-      "author": "Asif Razzaq",
-      "content": "Andrej Karpathy has open-sourced nanochat, a compact, dependency-light codebase that implements a full ChatGPT-style stack—from tokenizer training to web UI inference—aimed at reproducible, hackable LLM training on a single multi-GPU node. The repo provides a single-script “speedrun” that executes the full loop: tokenization, base pretraining, mid-training on chat/multiple-choice/tool-use data, Supervised Finetuning (SFT), optional RL on […] The post Andrej Karpathy Releases ‘nanochat’: A...",
+      "description": "The repo consists of about 8,000 lines of code and covers the entire pipeline. The post Andrej Karpathy Releases nanochat, a Minimal ChatGPT Clone appeared first on Analytics India Magazine.",
+      "author": "Siddharth Jindal",
+      "content": "The repo consists of about 8,000 lines of code and covers the entire pipeline. The post Andrej Karpathy Releases nanochat, a Minimal ChatGPT Clone appeared first on Analytics India Magazine.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.9225000000000001,
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -44,103 +44,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.8,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-15T01:42:18.246484+00:00"
+        "consensus_timestamp": "2025-10-15T04:28:51.835493+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-15T01:42:18.246487+00:00"
+        "timestamp": "2025-10-15T04:28:51.835496+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "8e161ceef67a91aa969d474482248bd9",
-      "title": "Why AI for good depends on good data",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/why-ai-for-good-depends-on-good-data",
-      "published_date": "2025-10-14T13:02:42+00:00",
+      "article_id": "d383453b604fab8b9c352c3e2ba3fec9",
+      "title": "Practical LLM Security Advice from the NVIDIA AI Red Team",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/practical-llm-security-advice-from-the-nvidia-ai-red-team/",
+      "published_date": "2025-10-02T16:52:26+00:00",
       "category": "Industry",
-      "description": "New technologies are helping vulnerable communities produce maps that integrate topographical, infrastructural, seasonal, and real-time data — an essential tool for many humanitarian endeavors.",
-      "author": "Dr. Werner Vogels",
-      "content": "New technologies are helping vulnerable communities produce maps that integrate topographical, infrastructural, seasonal, and real-time data — an essential tool for many humanitarian endeavors.",
+      "description": "Over the last several years, the NVIDIA AI Red Team (AIRT) has evaluated numerous and diverse AI-enabled systems for potential vulnerabilities and security...",
+      "author": "Rich Harang",
+      "content": "Over the last several years, the NVIDIA AI Red Team (AIRT) has evaluated numerous and diverse AI-enabled systems for potential vulnerabilities and security...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.9225000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.92,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-15T01:42:18.245255+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-15T01:42:18.245257+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "67381f5f35d42bb738a5ec324f9a03f4",
-      "title": "​​Speech-to-Retrieval (S2R): A new approach to voice search",
-      "source": "google_research_blog",
-      "url": "https://research.google/blog/speech-to-retrieval-s2r-a-new-approach-to-voice-search/",
-      "published_date": "2025-10-07T15:22:00+00:00",
-      "category": "Industry",
-      "description": "Machine Intelligence",
-      "author": "",
-      "content": "Machine Intelligence",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8875000000000001,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -172,7 +110,7 @@
         "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-15T01:42:18.245116+00:00"
+        "consensus_timestamp": "2025-10-15T04:28:51.834474+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,27 +121,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-15T01:42:18.245118+00:00"
+        "timestamp": "2025-10-15T04:28:51.834476+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c6a653d5c71e5fdadc1a0181a7571c85",
-      "title": "Building the 800 VDC Ecosystem for Efficient, Scalable AI Factories",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/building-the-800-vdc-ecosystem-for-efficient-scalable-ai-factories/",
-      "published_date": "2025-10-13T15:00:00+00:00",
-      "category": "Industry",
-      "description": "For decades, traditional data centers have been vast halls of servers with power and cooling as secondary considerations. The rise of generative AI has changed...",
-      "author": "Neeraj Srivastava",
-      "content": "For decades, traditional data centers have been vast halls of servers with power and cooling as secondary considerations. The rise of generative AI has changed...",
+      "article_id": "e76947dff06bb2e6e517f673f21218ce",
+      "title": "Repeated head impacts cause early neuron loss and inflammation in young athletes",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/repeated-head-impacts-cause-early-neuron-loss-inflammation-young-athletes",
+      "published_date": "2025-10-15T04:24:57.633681+00:00",
+      "category": "Government",
+      "description": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
+      "author": "",
+      "content": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
+        "overall_score": 0.89,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -230,35 +168,35 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-15T01:42:18.244624+00:00"
+        "consensus_timestamp": "2025-10-15T04:28:51.830085+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-15T01:42:18.244627+00:00"
+        "timestamp": "2025-10-15T04:28:51.830088+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "dc8a9e3b37b8917a1462d98f3b29a244",
-      "title": "Research: Identifying and describing UK innovation clusters",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/identifying-and-describing-uk-innovation-clusters",
-      "published_date": "2025-10-01T15:44:04+00:00",
-      "category": "Government",
-      "description": "A methodology report and descriptive analysis of the original Innovation Clusters Map published in February 2024.",
+      "article_id": "223bcb05631b2a03b945930163345d41",
+      "title": "Argentina’s AI opportunity",
+      "source": "openai_blog",
+      "url": "https://openai.com/global-affairs/argentinas-ai-opportunity",
+      "published_date": "2025-10-14T06:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI and Sur Energy are exploring Argentina’s first Stargate project—an AI and clean energy collaboration that could make Argentina a Latin American leader in artificial intelligence, sustainable infrastructure, and digital innovation.",
       "author": "",
-      "content": "A methodology report and descriptive analysis of the original Innovation Clusters Map published in February 2024.",
+      "content": "OpenAI and Sur Energy are exploring Argentina’s first Stargate project—an AI and clean energy collaboration that could make Argentina a Latin American leader in artificial intelligence, sustainable infrastructure, and digital innovation.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -296,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-15T01:42:18.241146+00:00"
+        "consensus_timestamp": "2025-10-15T04:28:51.831013+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +245,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-15T01:42:18.241149+00:00"
+        "timestamp": "2025-10-15T04:28:51.831015+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4956f988f9e2bdeeb9cd407b3869e2cd",
+      "title": "Introducing AgentKit, new Evals, and RFT for agents",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/introducing-agentkit",
+      "published_date": "2025-10-06T00:00:00+00:00",
+      "category": "Industry",
+      "description": "Today, we’re releasing new tools to help developers go from prototype to production faster: AgentKit, expanded evals capabilities, and reinforcement fine-tuning for agents.",
+      "author": "",
+      "content": "Today, we’re releasing new tools to help developers go from prototype to production faster: AgentKit, expanded evals capabilities, and reinforcement fine-tuning for agents.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-15T04:28:51.831527+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-15T04:28:51.831530+00:00"
       },
       "article_type": "article"
     }
