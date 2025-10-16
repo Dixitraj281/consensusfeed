@@ -1,22 +1,84 @@
 {
-  "updated": "2025-10-16T01:33:09.376070+00:00",
+  "updated": "2025-10-16T04:28:23.560916+00:00",
   "top_stories": [
     {
-      "article_id": "6f777fd34939a1f633201874e5c0d484",
-      "title": "Informatica Launches New Oracle Cloud Infrastructure Integrations",
-      "source": "ai_techpark",
-      "url": "https://ai-techpark.com/informatica-launches-new-oracle-cloud-infrastructure-integrations/",
-      "published_date": "2025-10-15T14:04:06+00:00",
+      "article_id": "3c6fb56022d9fe71b6333f04d8d85eb9",
+      "title": "OpenAI and Broadcom partner on AI hardware",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2025/10/14/openai-and-broadcom-partner-on-ai-hardware/",
+      "published_date": "2025-10-14T15:27:47+00:00",
       "category": "Industry",
-      "description": "New integrations represent significant milestones in AI-driven cloud data management Informatica® (NYSE: INFA), a leader in enterprise AI-powered cloud data management and an Oracle partner, today announced four significant milestones in AI-driven cloud data management. These innovations, when available, can help Oracle customers unify and govern trusted master records across... The post Informatica Launches New Oracle Cloud Infrastructure Integrations first appeared on AI-Tech Park.",
-      "author": "Business Wire",
-      "content": "New integrations represent significant milestones in AI-driven cloud data management Informatica® (NYSE: INFA), a leader in enterprise AI-powered cloud data management and an Oracle partner, today announced four significant milestones in AI-driven cloud data management. These innovations, when available, can help Oracle customers unify and govern trusted master records across... The post Informatica Launches New Oracle Cloud Infrastructure Integrations first appeared on AI-Tech Park.",
+      "description": "OpenAI will purchase 10 gigawatts' worth of AI accelerator hardware from semiconductor Broadcom.",
+      "author": "Rebecca Szkutak",
+      "content": "OpenAI will purchase 10 gigawatts' worth of AI accelerator hardware from semiconductor Broadcom.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-16T04:28:23.513325+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-16T04:28:23.513327+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "1280238e8a2333f8f14f50511773dd30",
+      "title": "Microsoft’s commitment to supporting cloud infrastructure demand in Asia",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-asia/",
+      "published_date": "2025-10-09T15:00:00+00:00",
+      "category": "Industry",
+      "description": "Microsoft is expanding its cloud infrastructure across Asia to help organizations scale with secure, AI-ready services. Learn more. The post Microsoft’s commitment to supporting cloud infrastructure demand in Asia appeared first on Microsoft Azure Blog.",
+      "author": "Omar Khan",
+      "content": "Microsoft is expanding its cloud infrastructure across Asia to help organizations scale with secure, AI-ready services. Learn more. The post Microsoft’s commitment to supporting cloud infrastructure demand in Asia appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.95,
+        "overall_score": 0.9125000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -48,7 +110,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-16T01:33:09.333407+00:00"
+        "consensus_timestamp": "2025-10-16T04:28:23.511180+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,26 +121,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-16T01:33:09.333410+00:00"
+        "timestamp": "2025-10-16T04:28:23.511183+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "c9f14444511f89c7d677ccfdd2dae2b7",
-      "title": "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/openai-amd-strategic-partnership",
-      "published_date": "2025-10-06T06:00:00+00:00",
+      "article_id": "16d88dcd487eb2e49aaf081f4817b935",
+      "title": "How Amazon Bedrock Custom Model Import streamlined LLM deployment for Salesforce",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-custom-model-import-streamlined-llm-deployment-for-salesforce/",
+      "published_date": "2025-10-14T16:33:57+00:00",
       "category": "Industry",
-      "description": "AMD and OpenAI have announced a multi-year partnership to deploy 6 gigawatts of AMD Instinct GPUs, beginning with 1 gigawatt in 2026, to power OpenAI’s next-generation AI infrastructure and accelerate global AI innovation.",
-      "author": "",
-      "content": "AMD and OpenAI have announced a multi-year partnership to deploy 6 gigawatts of AMD Instinct GPUs, beginning with 1 gigawatt in 2026, to power OpenAI’s next-generation AI infrastructure and accelerate global AI innovation.",
+      "description": "This post shows how Salesforce integrated Amazon Bedrock Custom Model Import into their machine learning operations (MLOps) workflow, reused existing endpoints without application changes, and benchmarked scalability. We share key metrics on operational efficiency and cost optimization gains, and offer practical insights for simplifying your deployment strategy.",
+      "author": "Srikanta Prasad, Utkarsh Arora, Raghav Tanaji, Nitin Surya, Gokulakrishnan Gopalakrishnan, Akhilesh Deepak Gotmare,",
+      "content": "This post shows how Salesforce integrated Amazon Bedrock Custom Model Import into their machine learning operations (MLOps) workflow, reused existing endpoints without application changes, and benchmarked scalability. We share key metrics on operational efficiency and cost optimization gains, and offer practical insights for simplifying your deployment strategy.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.931,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
@@ -107,41 +169,103 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-16T01:33:09.328793+00:00"
+        "consensus_timestamp": "2025-10-16T04:28:23.511553+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-16T01:33:09.328795+00:00"
+        "timestamp": "2025-10-16T04:28:23.511556+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "813cd69bf515de46dd81a2a6ab4cbbf5",
-      "title": "Improve Variant Calling Accuracy with NVIDIA Parabricks",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/improve-variant-calling-accuracy-with-nvidia-parabricks/",
-      "published_date": "2025-10-14T13:00:00+00:00",
-      "category": "Industry",
-      "description": "Built for data scientists and bioinformaticians, NVIDIA Parabricks is a scalable genomics software suite for secondary analysis. Providing GPU-accelerated...",
-      "author": "TJ Chen",
-      "content": "Built for data scientists and bioinformaticians, NVIDIA Parabricks is a scalable genomics software suite for secondary analysis. Providing GPU-accelerated...",
+      "article_id": "e76947dff06bb2e6e517f673f21218ce",
+      "title": "Repeated head impacts cause early neuron loss and inflammation in young athletes",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/repeated-head-impacts-cause-early-neuron-loss-inflammation-young-athletes",
+      "published_date": "2025-10-16T04:24:08.016469+00:00",
+      "category": "Government",
+      "description": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
+      "author": "",
+      "content": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.89,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-16T04:28:23.509645+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-16T04:28:23.509649+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ed3c5c0c42e198323a9c978dc50d55e9",
+      "title": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration",
+      "published_date": "2025-10-13T06:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrastructure by 2029.",
+      "author": "",
+      "content": "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrastructure by 2029.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.915,
-        "confidence_mean": 0.95
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -172,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-16T01:33:09.332346+00:00"
+        "consensus_timestamp": "2025-10-16T04:28:23.510509+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,131 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-16T01:33:09.332349+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "21c66b92c5f6d20ce91de983e48f01a7",
-      "title": "Infosys Wins ₹14,000 Crore UK Contract, Largest in Nearly Two Years",
-      "source": "analytics_india_magazine",
-      "url": "https://analyticsindiamag.com/ai-news-updates/infosys-wins-%e2%82%b914000-crore-uk-contract-largest-in-nearly-two-years/",
-      "published_date": "2025-10-15T12:22:46+00:00",
-      "category": "Industry",
-      "description": "The 15-year engagement will serve 1.9 million NHS employees across England and Wales, processing over £55 billion in annual payroll. The post Infosys Wins ₹14,000 Crore UK Contract, Largest in Nearly Two Years appeared first on Analytics India Magazine.",
-      "author": "C P Balasubramanyam",
-      "content": "The 15-year engagement will serve 1.9 million NHS employees across England and Wales, processing over £55 billion in annual payroll. The post Infosys Wins ₹14,000 Crore UK Contract, Largest in Nearly Two Years appeared first on Analytics India Magazine.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-16T01:33:09.333922+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-16T01:33:09.333925+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "b34fb3c9c6ae35f39b3c233b9d22f7cb",
-      "title": "Training Federated AI Models to Predict Protein Properties",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/training-federated-ai-models-to-predict-protein-properties/",
-      "published_date": "2025-10-08T16:58:05+00:00",
-      "category": "Industry",
-      "description": "Predicting where proteins are located inside a cell is critical in biology and drug discovery. This process is known as subcellular localization. The location...",
-      "author": "Holger Roth",
-      "content": "Predicting where proteins are located inside a cell is critical in biology and drug discovery. This process is known as subcellular localization. The location...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-16T01:33:09.332583+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-16T01:33:09.332585+00:00"
+        "timestamp": "2025-10-16T04:28:23.510512+00:00"
       },
       "article_type": "article"
     }
