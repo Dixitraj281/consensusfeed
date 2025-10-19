@@ -1,23 +1,23 @@
 {
-  "updated": "2025-10-19T16:27:09.502189+00:00",
+  "updated": "2025-10-19T20:25:16.258655+00:00",
   "top_stories": [
     {
-      "article_id": "697beb2e9b55fa6700df9c3fb6e5412d",
-      "title": "Your AI tools run on fracked gas and bulldozed Texas land",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2025/10/17/your-ai-tools-run-on-fracked-gas-and-bulldozed-texas-land/",
-      "published_date": "2025-10-17T19:53:30+00:00",
-      "category": "Industry",
-      "description": "If you're wondering why AI companies are pursuing this path, they'll tell you it's not just about electricity — it's about beating China.",
-      "author": "Connie Loizos",
-      "content": "If you're wondering why AI companies are pursuing this path, they'll tell you it's not just about electricity — it's about beating China.",
+      "article_id": "f5a7404065d11e3bdf4be09cc855026f",
+      "title": "NIH launches consortium to reduce risk of stillbirth in the U.S.",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-launches-consortium-reduce-risk-stillbirth-us",
+      "published_date": "2025-10-19T20:21:26.241937+00:00",
+      "category": "Government",
+      "description": "More than 60% of the nearly 24,000 stillbirth cases annually remain unexplained.",
+      "author": "",
+      "content": "More than 60% of the nearly 24,000 stillbirth cases annually remain unexplained.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.7,
         "impact_score": 0.9,
-        "overall_score": 0.82,
-        "confidence_mean": 0.8
+        "overall_score": 0.8375,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -45,41 +45,103 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-19T16:27:09.463567+00:00"
+        "consensus_timestamp": "2025-10-19T20:25:16.218238+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-19T20:25:16.218245+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "769bdc893a2a17ede0142662c77e0eda",
+      "title": "Meta previews new parental controls for its AI experiences",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2025/10/17/meta-previews-new-parental-controls-for-its-ai-experiences/",
+      "published_date": "2025-10-17T10:00:00+00:00",
+      "category": "Industry",
+      "description": "Starting in the coming months, parents will be able to turn off chats with AI characters entirely for teens. This action won't block access to the Meta AI chatbot -- the company's general-purpose AI chatbot -- which will only discuss age-appropriate content.",
+      "author": "Ivan Mehta",
+      "content": "Starting in the coming months, parents will be able to turn off chats with AI characters entirely for teens. This action won't block access to the Meta AI chatbot -- the company's general-purpose AI chatbot -- which will only discuss age-appropriate content.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.95,
+        "novelty_score": 0.85,
+        "impact_score": 0.95,
+        "overall_score": 0.925,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-19T20:25:16.221679+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-19T16:27:09.463570+00:00"
+        "timestamp": "2025-10-19T20:25:16.221682+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "35f1d0a3e2e7c161f9a093ed67d75604",
-      "title": "Unlock Faster, Smarter Edge Models with 7x Gen AI Performance on NVIDIA Jetson AGX Thor",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/unlock-faster-smarter-edge-models-with-7x-gen-ai-performance-on-nvidia-jetson-agx-thor/",
-      "published_date": "2025-10-15T18:25:01+00:00",
+      "article_id": "acdc1795d4ab348de07f356b09d8c9b7",
+      "title": "HPE Named Leader in 2025 Gartner Magic Quadrant for Infrastructure",
+      "source": "ai_techpark",
+      "url": "https://ai-techpark.com/hpe-named-leader-in-2025-gartner-magic-quadrant-for-infrastructure/",
+      "published_date": "2025-10-17T13:15:00+00:00",
       "category": "Industry",
-      "description": "A defining strength of the NVIDIA software ecosystem is its commitment to continuous optimization. In August, NVIDIA Jetson AGX Thor launched, with up to a 5x...",
-      "author": "Suhas Hariharapura Sheshadri",
-      "content": "A defining strength of the NVIDIA software ecosystem is its commitment to continuous optimization. In August, NVIDIA Jetson AGX Thor launched, with up to a 5x...",
+      "description": "HPE positioned Highest in Execution and Furthest in Vision HPE (NYSE: HPE) today announced it was named a Leader in the inaugural 2025 Gartner® Magic Quadrant™ for Infrastructure Platform Consumption Services, positioned Highest in Execution and Furthest in Vision. As enterprises accelerate their AI strategies and diversify virtualized environments, many are... The post HPE Named Leader in 2025 Gartner Magic Quadrant for Infrastructure first appeared on AI-Tech Park.",
+      "author": "Business Wire",
+      "content": "HPE positioned Highest in Execution and Furthest in Vision HPE (NYSE: HPE) today announced it was named a Leader in the inaugural 2025 Gartner® Magic Quadrant™ for Infrastructure Platform Consumption Services, positioned Highest in Execution and Furthest in Vision. As enterprises accelerate their AI strategies and diversify virtualized environments, many are... The post HPE Named Leader in 2025 Gartner Magic Quadrant for Infrastructure first appeared on AI-Tech Park.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.98,
         "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-19T16:27:09.464357+00:00"
+        "consensus_timestamp": "2025-10-19T20:25:16.223603+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,69 +183,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-19T16:27:09.464360+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "0698d2d1f3fc0724cd71f94aef98c12a",
-      "title": "Transforming the physical world with AI: the next frontier in intelligent automation",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/transforming-the-physical-world-with-ai-the-next-frontier-in-intelligent-automation/",
-      "published_date": "2025-10-13T22:21:26+00:00",
-      "category": "Industry",
-      "description": "In this post, we explore how Physical AI represents the next frontier in intelligent automation, where artificial intelligence transcends digital boundaries to perceive, understand, and manipulate the tangible world around us.",
-      "author": "Sri Elaprolu, Alla Simoneau, Paul Amadeo, and Randi Larson",
-      "content": "In this post, we explore how Physical AI represents the next frontier in intelligent automation, where artificial intelligence transcends digital boundaries to perceive, understand, and manipulate the tangible world around us.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-19T16:27:09.462541+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-19T16:27:09.462544+00:00"
+        "timestamp": "2025-10-19T20:25:16.223606+00:00"
       },
       "article_type": "article"
     },
@@ -234,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-19T16:27:09.464801+00:00"
+        "consensus_timestamp": "2025-10-19T20:25:16.222899+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,27 +245,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-19T16:27:09.464804+00:00"
+        "timestamp": "2025-10-19T20:25:16.222901+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "ffb6088a2aa3fbaf59c8722df2d8b0ae",
-      "title": "Transforming enterprise operations: Four high-impact use cases with Amazon Nova",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/transforming-enterprise-operations-four-high-impact-use-cases-with-amazon-nova/",
-      "published_date": "2025-10-15T18:26:10+00:00",
-      "category": "Industry",
-      "description": "In this post, we share four high-impact, widely adopted use cases built with Nova in Amazon Bedrock, supported by real-world customers deployments, offerings available from AWS partners, and experiences. These examples are ideal for organizations researching their own AI adoption strategies and use cases across industries.",
-      "author": "Abhinav Bhargava",
-      "content": "In this post, we share four high-impact, widely adopted use cases built with Nova in Amazon Bedrock, supported by real-world customers deployments, offerings available from AWS partners, and experiences. These examples are ideal for organizations researching their own AI adoption strategies and use cases across industries.",
+      "article_id": "e76947dff06bb2e6e517f673f21218ce",
+      "title": "Repeated head impacts cause early neuron loss and inflammation in young athletes",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/repeated-head-impacts-cause-early-neuron-loss-inflammation-young-athletes",
+      "published_date": "2025-10-19T20:21:26.241787+00:00",
+      "category": "Government",
+      "description": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
+      "author": "",
+      "content": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
         "overall_score": 0.89,
-        "confidence_mean": 0.98
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -296,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-19T16:27:09.462253+00:00"
+        "consensus_timestamp": "2025-10-19T20:25:16.218091+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-19T16:27:09.462256+00:00"
+        "timestamp": "2025-10-19T20:25:16.218096+00:00"
       },
       "article_type": "article"
     }
