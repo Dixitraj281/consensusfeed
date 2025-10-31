@@ -1,23 +1,23 @@
 {
-  "updated": "2025-10-31T08:32:09.087943+00:00",
+  "updated": "2025-10-31T12:47:15.133727+00:00",
   "top_stories": [
     {
-      "article_id": "46bf1490b42b9e7b65dc2239b79219f6",
-      "title": "Nvidia becomes first public company worth $5 trillion",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2025/10/29/nvidia-becomes-first-public-company-worth-5-trillion/",
-      "published_date": "2025-10-29T15:52:53+00:00",
-      "category": "Industry",
-      "description": "With a market cap of $5 trillion, Nvidia is now worth more than the aggregated stock markets of all countries, apart from the United States, China, and Japan.",
-      "author": "Ivan Mehta",
-      "content": "With a market cap of $5 trillion, Nvidia is now worth more than the aggregated stock markets of all countries, apart from the United States, China, and Japan.",
+      "article_id": "f5a7404065d11e3bdf4be09cc855026f",
+      "title": "NIH launches consortium to reduce risk of stillbirth in the U.S.",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-launches-consortium-reduce-risk-stillbirth-us",
+      "published_date": "2025-10-31T12:43:05.011571+00:00",
+      "category": "Government",
+      "description": "More than 60% of the nearly 24,000 stillbirth cases annually remain unexplained.",
+      "author": "",
+      "content": "More than 60% of the nearly 24,000 stillbirth cases annually remain unexplained.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
-        "confidence_mean": 0.95
+        "quality_score": 0.85,
+        "novelty_score": 0.6,
+        "impact_score": 0.9,
+        "overall_score": 0.8125000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,227 +44,103 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.8,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-31T08:32:09.041845+00:00"
+        "consensus_timestamp": "2025-10-31T12:47:15.083671+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-31T08:32:09.041848+00:00"
+        "timestamp": "2025-10-31T12:47:15.083675+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "6e9efa209de01ac31ac5130b20f14873",
-      "title": "Introducing Aardvark: OpenAI’s agentic security researcher",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/introducing-aardvark",
-      "published_date": "2025-10-30T11:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.",
-      "author": "",
-      "content": "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-31T08:32:09.038945+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-31T08:32:09.038947+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "278be8d2b5fa2b93020287cc6afb7e1d",
-      "title": "The Signals Loop: Fine-tuning for world-class AI apps and agents",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/",
-      "published_date": "2025-10-21T15:00:00+00:00",
-      "category": "Industry",
-      "description": "Autonomous workflows, powered by real-time feedback and continuous learning, are becoming essential for productivity and decision-making. The post The Signals Loop: Fine-tuning for world-class AI apps and agents appeared first on Microsoft Azure Blog.",
-      "author": "Asha Sharma and Rolf Harms",
-      "content": "Autonomous workflows, powered by real-time feedback and continuous learning, are becoming essential for productivity and decision-making. The post The Signals Loop: Fine-tuning for world-class AI apps and agents appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-31T08:32:09.039871+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-31T08:32:09.039874+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "820ab3140625221917dc583e40694438",
-      "title": "Scaling Large MoE Models with Wide Expert Parallelism on NVL72 Rack Scale Systems",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/scaling-large-moe-models-with-wide-expert-parallelism-on-nvl72-rack-scale-systems/",
-      "published_date": "2025-10-20T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Modern AI workloads have moved well beyond single-GPU inference serving. Model parallelism, which efficiently splits computation across many GPUs, is now the...",
-      "author": "Eduardo Alvarez",
-      "content": "Modern AI workloads have moved well beyond single-GPU inference serving. Model parallelism, which efficiently splits computation across many GPUs, is now the...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-31T08:32:09.043031+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-31T08:32:09.043034+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e8a1b862060fff91aff7abe5bbe57970",
-      "title": "NVIDIA, NPS Commission the Navy’s AI Flagship for Training Tomorrow’s Leaders",
+      "article_id": "20f914516e09f2db72983b797029ee50",
+      "title": "Fueling Economic Development Across the US: How NVIDIA Is Empowering States, Municipalities and Universities to Drive Innovation",
       "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-ai/",
-      "published_date": "2025-10-28T18:00:49+00:00",
+      "url": "https://blogs.nvidia.com/blog/economic-development-us/",
+      "published_date": "2025-10-28T18:02:21+00:00",
       "category": "Industry",
-      "description": "Along the Pacific Ocean in Monterey, California, the Naval Postgraduate School (NPS) is making a splash all the way to Washington, D.C.: It’s using artificial intelligence to solve operational challenges while educating tomorrow’s leaders in AI skills. Like Silicon Valley, it’s not uncommon for NPS, the U.S. Navy’s flagship academic graduate university, to hold hackathons, Read Article",
-      "author": "Scott Martin",
-      "content": "Along the Pacific Ocean in Monterey, California, the Naval Postgraduate School (NPS) is making a splash all the way to Washington, D.C.: It’s using artificial intelligence to solve operational challenges while educating tomorrow’s leaders in AI skills. Like Silicon Valley, it’s not uncommon for NPS, the U.S. Navy’s flagship academic graduate university, to hold hackathons, Read Article",
+      "description": "To democratize access to AI technology nationwide, AI education and deployment can’t be limited to a few urban tech hubs — it must reach every community, university and state. That’s why NVIDIA is working with cities, states and educational institutions to embed AI education and innovation across the U.S., with the goal of helping the Read Article",
+      "author": "Louis Stewart",
+      "content": "To democratize access to AI technology nationwide, AI education and deployment can’t be limited to a few urban tech hubs — it must reach every community, university and state. That’s why NVIDIA is working with cities, states and educational institutions to embed AI education and innovation across the U.S., with the goal of helping the Read Article",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.925,
+        "novelty_score": 0.8,
+        "impact_score": 0.99,
+        "overall_score": 0.9079999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.92,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-31T12:47:15.087443+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.752,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-31T12:47:15.087446+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8b29fd1b79763e31ec1eaa789a180f9b",
+      "title": "The next chapter of the Microsoft–OpenAI partnership",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/next-chapter-of-microsoft-openai-partnership",
+      "published_date": "2025-10-28T06:00:00+00:00",
+      "category": "Industry",
+      "description": "Microsoft and OpenAI sign a new agreement that strengthens its long-term partnership, expands innovation, and ensures responsible AI progress.",
+      "author": "",
+      "content": "Microsoft and OpenAI sign a new agreement that strengthens its long-term partnership, expands innovation, and ensures responsible AI progress.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -296,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-31T08:32:09.041042+00:00"
+        "consensus_timestamp": "2025-10-31T12:47:15.084955+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +183,131 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-31T08:32:09.041045+00:00"
+        "timestamp": "2025-10-31T12:47:15.084958+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e76947dff06bb2e6e517f673f21218ce",
+      "title": "Repeated head impacts cause early neuron loss and inflammation in young athletes",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/repeated-head-impacts-cause-early-neuron-loss-inflammation-young-athletes",
+      "published_date": "2025-10-31T12:43:05.011413+00:00",
+      "category": "Government",
+      "description": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
+      "author": "",
+      "content": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.89,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-31T12:47:15.083570+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-31T12:47:15.083574+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3e785b3b8b7f7b101593d2750deb68bc",
+      "title": "Beyond vibes: How to properly select the right LLM for the right task",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-vibes-how-to-properly-select-the-right-llm-for-the-right-task/",
+      "published_date": "2025-10-17T16:09:22+00:00",
+      "category": "Industry",
+      "description": "In this post, we discuss an approach that can guide you to build comprehensive and empirically driven evaluations that can help you make better decisions when selecting the right model for your task.",
+      "author": "Claudio Mazzoni",
+      "content": "In this post, we discuss an approach that can guide you to build comprehensive and empirically driven evaluations that can help you make better decisions when selecting the right model for your task.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.89,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.92,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-31T12:47:15.087114+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.752,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-31T12:47:15.087119+00:00"
       },
       "article_type": "article"
     }
