@@ -1,16 +1,16 @@
 {
-  "generated_at": "2025-11-09T12:42:15.678965+00:00",
+  "generated_at": "2025-11-09T16:27:13.171798+00:00",
   "articles": [
     {
-      "article_id": "dca18d4bf2b1e4ccb3ebd80e587f3862",
-      "title": "OpenAI asked Trump administration to expand Chips Act tax credit to cover data centers",
+      "article_id": "88b29cc7c24ec6c5fe8868d6ae62f62c",
+      "title": "Seven more families are now suing OpenAI over ChatGPT’s role in suicides, delusions",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2025/11/08/openai-asked-trump-administration-to-expand-chips-act-tax-credit-to-cover-data-centers/",
-      "published_date": "2025-11-08T17:30:24+00:00",
+      "url": "https://techcrunch.com/2025/11/07/seven-more-families-are-now-suing-openai-over-chatgpts-role-in-suicides-delusions/",
+      "published_date": "2025-11-07T20:56:18+00:00",
       "category": "Industry",
-      "description": "A recent letter from OpenAI reveals more details about how the company is hoping the federal government can support the company's ambitious plans for data center construction.",
-      "author": "Anthony Ha",
-      "content": "A recent letter from OpenAI reveals more details about how the company is hoping the federal government can support the company's ambitious plans for data center construction.",
+      "description": "In one case, 23-year-old Zane Shamblin had a conversation with ChatGPT that lasted more than four hours.",
+      "author": "Amanda Silberling",
+      "content": "In one case, 23-year-old Zane Shamblin had a conversation with ChatGPT that lasted more than four hours.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.8,
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-09T12:42:15.647923+00:00"
+        "consensus_timestamp": "2025-11-09T16:27:13.139806+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,26 +59,88 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-09T12:42:15.647927+00:00"
+        "timestamp": "2025-11-09T16:27:13.139809+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "c31231a8da9a5af13c1e3c06cd084cd1",
-      "title": "Doppel’s AI defense system stops attacks before they spread",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/doppel",
-      "published_date": "2025-10-28T10:00:00+00:00",
+      "article_id": "cfa775c93fa01b5eb99e8336fe05021e",
+      "title": "Iterate faster with Amazon Bedrock AgentCore Runtime direct code deployment",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/iterate-faster-with-amazon-bedrock-agentcore-runtime-direct-code-deployment/",
+      "published_date": "2025-11-04T18:30:44+00:00",
       "category": "Industry",
-      "description": "Discover how Doppel uses OpenAI’s GPT-5 and reinforcement fine-tuning (RFT) to stop deepfake and impersonation attacks before they spread, cutting analyst workloads by 80% and reducing threat response from hours to minutes.",
-      "author": "",
-      "content": "Discover how Doppel uses OpenAI’s GPT-5 and reinforcement fine-tuning (RFT) to stop deepfake and impersonation attacks before they spread, cutting analyst workloads by 80% and reducing threat response from hours to minutes.",
+      "description": "Amazon Bedrock AgentCore is an agentic platform for building, deploying, and operating effective agents securely at scale. Amazon Bedrock AgentCore Runtime is a fully managed service of Bedrock AgentCore, which provides low latency serverless environments to deploy agents and tools. It provides session isolation, supports multiple agent frameworks including popular open-source frameworks, and handles multimodal […]",
+      "author": "Chaitra Mathur",
+      "content": "Amazon Bedrock AgentCore is an agentic platform for building, deploying, and operating effective agents securely at scale. Amazon Bedrock AgentCore Runtime is a fully managed service of Bedrock AgentCore, which provides low latency serverless environments to deploy agents and tools. It provides session isolation, supports multiple agent frameworks including popular open-source frameworks, and handles multimodal […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.931,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-09T16:27:13.138547+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-09T16:27:13.138550+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "d589947ffe5ea95300193d4c49d606d8",
+      "title": "Into the Omniverse: Open World Foundation Models Generate Synthetic Worlds for Physical AI Development",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/scaling-physical-ai-omniverse/",
+      "published_date": "2025-10-29T13:00:30+00:00",
+      "category": "Industry",
+      "description": "Physical AI models — which power robots, autonomous vehicles and other intelligent machines — must be safe, generalized for dynamic scenarios and capable of perceiving, reasoning and operating in real time.",
+      "author": "Katie Washabaugh",
+      "content": "Physical AI models — which power robots, autonomous vehicles and other intelligent machines — must be safe, generalized for dynamic scenarios and capable of perceiving, reasoning and operating in real time.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -110,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-09T12:42:15.645966+00:00"
+        "consensus_timestamp": "2025-11-09T16:27:13.139267+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,7 +183,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-09T12:42:15.645969+00:00"
+        "timestamp": "2025-11-09T16:27:13.139270+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "78a63b349f1c91f7ae92b4e8ddcb12b5",
+      "title": "GitHub Universe 2025: Where developer innovation took center stage",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/",
+      "published_date": "2025-10-30T15:00:00+00:00",
+      "category": "Industry",
+      "description": "At GitHub Universe 2025, the theme was clear: the ability to see, steer, and build across agents will bring the greatest impact. The post GitHub Universe 2025: Where developer innovation took center stage appeared first on Microsoft Azure Blog.",
+      "author": "Jessica Hawk",
+      "content": "At GitHub Universe 2025, the theme was clear: the ability to see, steer, and build across agents will bring the greatest impact. The post GitHub Universe 2025: Where developer innovation took center stage appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-09T16:27:13.138168+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-09T16:27:13.138171+00:00"
       },
       "article_type": "article"
     },
@@ -137,192 +261,6 @@
       "content": "Training massive mixture-of-experts (MoE) models has long been the domain of a few advanced users with deep infrastructure and distributed-systems expertise....",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.85,
-        "impact_score": 0.96,
-        "overall_score": 0.9120000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-09T12:42:15.648804+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-09T12:42:15.648807+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "b3c397606ba4de1ee2279ad7564fe8dd",
-      "title": "How Amazon Search increased ML training twofold using AWS Batch for Amazon SageMaker Training jobs",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-increased-ml-training-twofold-using-aws-batch-for-amazon-sagemaker-training-jobs/",
-      "published_date": "2025-11-05T17:15:35+00:00",
-      "category": "Industry",
-      "description": "In this post, we show you how Amazon Search optimized GPU instance utilization by leveraging AWS Batch for SageMaker Training jobs. This managed solution enabled us to orchestrate machine learning (ML) training workloads on GPU-accelerated instance families like P5, P4, and others. We will also provide a step-by-step walkthrough of the use case implementation.",
-      "author": "Mona Mona",
-      "content": "In this post, we show you how Amazon Search optimized GPU instance utilization by leveraging AWS Batch for SageMaker Training jobs. This managed solution enabled us to orchestrate machine learning (ML) training workloads on GPU-accelerated instance families like P5, P4, and others. We will also provide a step-by-step walkthrough of the use case implementation.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-09T12:42:15.646733+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-09T12:42:15.646736+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "7553bb8287c40d9150876c4b7407e888",
-      "title": "Building an Interactive AI Agent for Lightning-Fast Machine Learning Tasks",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/building-an-interactive-ai-agent-for-lightning-fast-machine-learning-tasks/",
-      "published_date": "2025-11-07T17:44:52+00:00",
-      "category": "Industry",
-      "description": "Data scientists spend a lot of time cleaning and preparing large, unstructured datasets before analysis can begin, often requiring strong programming and...",
-      "author": "Allison Ding",
-      "content": "Data scientists spend a lot of time cleaning and preparing large, unstructured datasets before analysis can begin, often requiring strong programming and...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-09T12:42:15.648666+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-09T12:42:15.648669+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "fb06c5714a951dc75582e14698dccb32",
-      "title": "Research: Business data use and productivity study (wave 2)",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/business-data-use-and-productivity-study-wave-2",
-      "published_date": "2025-10-31T10:04:13+00:00",
-      "category": "Government",
-      "description": "This is the second wave of a multi-year study to better understand the relationship between data use and productivity in UK businesses and the wider economy.",
-      "author": "",
-      "content": "This is the second wave of a multi-year study to better understand the relationship between data use and productivity in UK businesses and the wider economy.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.9,
         "impact_score": 0.9,
@@ -358,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-09T12:42:15.644925+00:00"
+        "consensus_timestamp": "2025-11-09T16:27:13.141288+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,26 +307,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-09T12:42:15.644928+00:00"
+        "timestamp": "2025-11-09T16:27:13.141291+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "9d35126c7147b08246f1efc15d78049a",
-      "title": "Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows",
+      "article_id": "8fb832ccc8abfd644815279c00998131",
+      "title": "AWS and OpenAI announce multi-year strategic partnership",
       "source": "openai_blog",
-      "url": "https://openai.com/index/notion",
-      "published_date": "2025-11-07T10:00:00+00:00",
+      "url": "https://openai.com/index/aws-and-openai-partnership",
+      "published_date": "2025-11-03T06:00:00+00:00",
       "category": "Industry",
-      "description": "Discover how Notion rebuilt its AI architecture with GPT-5 to create autonomous agents that reason, act, and adapt across workflows. Learn how this shift unlocked smarter, faster, and more flexible productivity in Notion 3.0.",
+      "description": "OpenAI and AWS have entered a multi-year, $38 billion partnership to scale advanced AI workloads. AWS will provide world-class infrastructure and compute capacity to power OpenAI’s next generation of models.",
       "author": "",
-      "content": "Discover how Notion rebuilt its AI architecture with GPT-5 to create autonomous agents that reason, act, and adapt across workflows. Learn how this shift unlocked smarter, faster, and more flexible productivity in Notion 3.0.",
+      "content": "OpenAI and AWS have entered a multi-year, $38 billion partnership to scale advanced AI workloads. AWS will provide world-class infrastructure and compute capacity to power OpenAI’s next generation of models.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.85,
         "quality_score": 0.9,
         "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.895,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -420,7 +358,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-09T12:42:15.645161+00:00"
+        "consensus_timestamp": "2025-11-09T16:27:13.137463+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -431,7 +369,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-09T12:42:15.645164+00:00"
+        "timestamp": "2025-11-09T16:27:13.137465+00:00"
       },
       "article_type": "article"
     },
@@ -440,7 +378,7 @@
       "title": "Repeated head impacts cause early neuron loss and inflammation in young athletes",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/repeated-head-impacts-cause-early-neuron-loss-inflammation-young-athletes",
-      "published_date": "2025-11-09T12:38:26.772009+00:00",
+      "published_date": "2025-11-09T16:23:21.601380+00:00",
       "category": "Government",
       "description": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
       "author": "",
@@ -482,7 +420,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-09T12:42:15.644273+00:00"
+        "consensus_timestamp": "2025-11-09T16:27:13.136295+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -493,69 +431,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-09T12:42:15.644277+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "229bd5788a889805d440321aef1f56dd",
-      "title": "How to Predict Biomolecular Structures Using the OpenFold3 NIM",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-to-predict-biomolecular-structures-using-the-openfold3-nim/",
-      "published_date": "2025-11-04T18:00:00+00:00",
-      "category": "Industry",
-      "description": "​​For decades, one of biology’s deepest mysteries was how a string of amino acids folds itself into the intricate architecture of life. Researchers built...",
-      "author": "Kyle Tretina",
-      "content": "​​For decades, one of biology’s deepest mysteries was how a string of amino acids folds itself into the intricate architecture of life. Researchers built...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-09T12:42:15.648893+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-09T12:42:15.648896+00:00"
+        "timestamp": "2025-11-09T16:27:13.136299+00:00"
       },
       "article_type": "article"
     },
@@ -603,40 +479,102 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-09T12:42:15.647707+00:00"
+        "consensus_timestamp": "2025-11-09T16:27:13.139584+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-09T12:42:15.647710+00:00"
+        "timestamp": "2025-11-09T16:27:13.139587+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "0eed93507d9f00a9c79091f529c2ca29",
-      "title": "Introducing gpt-oss-safeguard",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
-      "published_date": "2025-10-29T00:00:00+00:00",
+      "article_id": "c126cf20446bea8416d8d179c5a97964",
+      "title": "DEEPX Wins Two CES 2026 Awards; Powers Sixfab ALPON X5",
+      "source": "ai_techpark",
+      "url": "https://ai-techpark.com/deepx-wins-two-ces-2026-awards-powers-sixfab-alpon-x5/",
+      "published_date": "2025-11-07T10:45:00+00:00",
       "category": "Industry",
-      "description": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+      "description": "Global AI semiconductor company DEEPX (CEO Lokwon Kim) announced that it has won two CES 2026 Innovation Awards, while Sixfab, a US-based IoT and edge computing company, received the Best of Innovation award — CES’s highest honor — for its AI gateway ALPON X5 powered by DEEPX’s DX-M1. This milestone demonstrates how DEEPX’s solutions are... The post DEEPX Wins Two CES 2026 Awards; Powers Sixfab ALPON X5 first appeared on AI-Tech Park.",
+      "author": "PR Newswire",
+      "content": "Global AI semiconductor company DEEPX (CEO Lokwon Kim) announced that it has won two CES 2026 Innovation Awards, while Sixfab, a US-based IoT and edge computing company, received the Best of Innovation award — CES’s highest honor — for its AI gateway ALPON X5 powered by DEEPX’s DX-M1. This milestone demonstrates how DEEPX’s solutions are... The post DEEPX Wins Two CES 2026 Awards; Powers Sixfab ALPON X5 first appeared on AI-Tech Park.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.98,
+        "overall_score": 0.881,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-09T16:27:13.142313+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-09T16:27:13.142315+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "99343180c056d8213da39be93e91258a",
+      "title": "Knowledge preservation powered by ChatGPT",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/dai-nippon-printing",
+      "published_date": "2025-10-28T17:00:00+00:00",
+      "category": "Industry",
+      "description": "Dai Nippon Printing (DNP) rolled out ChatGPT Enterprise across ten core departments to drive companywide adoption. Within three months, it achieved 95% faster patent research, 10x processing volume, 100% weekly active usage, 87% automation, and 70% knowledge reuse.",
       "author": "",
-      "content": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+      "content": "Dai Nippon Printing (DNP) rolled out ChatGPT Enterprise across ten core departments to drive companywide adoption. Within three months, it achieved 95% faster patent research, 10x processing volume, 100% weekly active usage, 87% automation, and 70% knowledge reuse.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -668,7 +606,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-09T12:42:15.645829+00:00"
+        "consensus_timestamp": "2025-11-09T16:27:13.137742+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,26 +617,88 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-09T12:42:15.645832+00:00"
+        "timestamp": "2025-11-09T16:27:13.137745+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "543395315aaea8410ae2ea74c39969a0",
-      "title": "Clario streamlines clinical trial software configurations using Amazon Bedrock",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/clario-streamlines-clinical-trial-software-configurations-using-amazon-bedrock/",
-      "published_date": "2025-10-31T15:49:09+00:00",
+      "article_id": "8b29fd1b79763e31ec1eaa789a180f9b",
+      "title": "The next chapter of the Microsoft–OpenAI partnership",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/next-chapter-of-microsoft-openai-partnership",
+      "published_date": "2025-10-28T06:00:00+00:00",
       "category": "Industry",
-      "description": "This post builds upon our previous post discussing how Clario developed an AI solution powered by Amazon Bedrock to accelerate clinical trials. Since then, Clario has further enhanced their AI capabilities, focusing on innovative solutions that streamline the generation of software configurations and artifacts for clinical trials while delivering high-quality clinical evidence.",
-      "author": "Kim Nguyen, Shyam Banuprakash,",
-      "content": "This post builds upon our previous post discussing how Clario developed an AI solution powered by Amazon Bedrock to accelerate clinical trials. Since then, Clario has further enhanced their AI capabilities, focusing on innovative solutions that streamline the generation of software configurations and artifacts for clinical trials while delivering high-quality clinical evidence.",
+      "description": "Microsoft and OpenAI sign a new agreement that strengthens its long-term partnership, expands innovation, and ensures responsible AI progress.",
+      "author": "",
+      "content": "Microsoft and OpenAI sign a new agreement that strengthens its long-term partnership, expands innovation, and ensures responsible AI progress.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-09T16:27:13.137886+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-09T16:27:13.137889+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b700c041146665a632a82c6a73062d6f",
+      "title": "Introducing Agent HQ: Any agent, any way you work",
+      "source": "azure_ai_blog",
+      "url": "https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&utm_medium=social&utm_campaign=universe25",
+      "published_date": "2025-10-28T16:38:00+00:00",
+      "category": "Industry",
+      "description": "At Universe 2025, GitHub’s next evolution introduces a single, unified workflow for developers to be able to orchestrate any agent, any time, anywhere. The post Introducing Agent HQ: Any agent, any way you work appeared first on Microsoft Azure Blog.",
+      "author": "Kyle Daigle",
+      "content": "At Universe 2025, GitHub’s next evolution introduces a single, unified workflow for developers to be able to orchestrate any agent, any time, anywhere. The post Introducing Agent HQ: Any agent, any way you work appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.9,
+        "overall_score": 0.8500000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -730,7 +730,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-09T12:42:15.646965+00:00"
+        "consensus_timestamp": "2025-11-09T16:27:13.138262+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -741,89 +741,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-09T12:42:15.646968+00:00"
+        "timestamp": "2025-11-09T16:27:13.138265+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "fc1ab04f9616de2ffe1bec1affde151c",
-      "title": "Streamline AI Infrastructure with NVIDIA Run:ai on Microsoft Azure",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/streamline-ai-infrastructure-with-nvidia-runai-on-microsoft-azure/",
-      "published_date": "2025-10-30T17:10:00+00:00",
+      "article_id": "9d35126c7147b08246f1efc15d78049a",
+      "title": "Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/notion",
+      "published_date": "2025-11-07T10:00:00+00:00",
       "category": "Industry",
-      "description": "Modern AI workloads, ranging from large-scale training to real-time inference, demand dynamic access to powerful GPUs. However, Kubernetes environments have...",
-      "author": "Julie Adrounie",
-      "content": "Modern AI workloads, ranging from large-scale training to real-time inference, demand dynamic access to powerful GPUs. However, Kubernetes environments have...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.92,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-09T12:42:15.649119+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-09T12:42:15.649122+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "0f437d4bd9d43dd850f7003cd248098c",
-      "title": "DS-STAR: A state-of-the-art versatile data science agent",
-      "source": "google_research_blog",
-      "url": "https://research.google/blog/ds-star-a-state-of-the-art-versatile-data-science-agent/",
-      "published_date": "2025-11-06T17:50:36+00:00",
-      "category": "Industry",
-      "description": "Data Mining & Modeling",
+      "description": "Discover how Notion rebuilt its AI architecture with GPT-5 to create autonomous agents that reason, act, and adapt across workflows. Learn how this shift unlocked smarter, faster, and more flexible productivity in Notion 3.0.",
       "author": "",
-      "content": "Data Mining & Modeling",
+      "content": "Discover how Notion rebuilt its AI architecture with GPT-5 to create autonomous agents that reason, act, and adapt across workflows. Learn how this shift unlocked smarter, faster, and more flexible productivity in Notion 3.0.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.8,
+        "overall_score": 0.85,
+        "confidence_mean": 0.8
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -850,41 +788,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.91,
-        "confidence": 0.94,
+        "score": 0.8,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-09T12:42:15.649421+00:00"
+        "consensus_timestamp": "2025-11-09T16:27:13.137038+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.746,
-        "combined_confidence": 0.764,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-09T12:42:15.649424+00:00"
+        "timestamp": "2025-11-09T16:27:13.137042+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "0845255b6296c12b6a4a8eb11058a519",
-      "title": "Enhancing GPU-Accelerated Vector Search in Faiss with NVIDIA cuVS",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/enhancing-gpu-accelerated-vector-search-in-faiss-with-nvidia-cuvs/",
-      "published_date": "2025-11-06T20:41:38+00:00",
+      "article_id": "4ca7353175d368479503ad9f5db416cb",
+      "title": "How Chime is redefining marketing through AI",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/chime-vineet-mehra",
+      "published_date": "2025-11-05T15:00:00+00:00",
       "category": "Industry",
-      "description": "As companies collect more unstructured data and increasingly use large language models (LLMs), they need faster and more scalable systems. Advanced tools for...",
-      "author": "Tarang Jain",
-      "content": "As companies collect more unstructured data and increasingly use large language models (LLMs), they need faster and more scalable systems. Advanced tools for...",
+      "description": "Vineet Mehra, Chief Marketing Officer at Chime, shares how AI is reshaping marketing into an agent-driven discipline. He explains why CMOs who champion AI literacy and thoughtful adoption will lead in the new era of growth.",
+      "author": "",
+      "content": "Vineet Mehra, Chief Marketing Officer at Chime, shares how AI is reshaping marketing into an agent-driven discipline. He explains why CMOs who champion AI literacy and thoughtful adoption will lead in the new era of growth.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
-        "quality_score": 0.9,
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.7,
-        "impact_score": 0.92,
-        "overall_score": 0.8390000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -916,7 +854,7 @@
         "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-09T12:42:15.648759+00:00"
+        "consensus_timestamp": "2025-11-09T16:27:13.137280+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +865,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-09T12:42:15.648762+00:00"
+        "timestamp": "2025-11-09T16:27:13.137283+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a19de863b6adc5405e94c0271148b2bd",
+      "title": "Google Maps upgrades navigation in India with Gemini, safety alerts",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2025/11/06/google-maps-upgrades-navigation-in-india-with-gemini-safety-alerts/",
+      "published_date": "2025-11-06T11:56:51+00:00",
+      "category": "Industry",
+      "description": "India becomes the second market after the U.S. to get Gemini-powered navigation on Google Maps.",
+      "author": "Jagmeet Singh",
+      "content": "India becomes the second market after the U.S. to get Gemini-powered navigation on Google Maps.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-09T16:27:13.140906+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-09T16:27:13.140909+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 165.01162815093994,
+    "processing_time": 165.36554741859436,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 131,
+      "total_processed": 129,
       "candidates": {
         "headlines": 4,
-        "articles": 127,
+        "articles": 125,
         "research_papers": 0
       },
       "selected": {
