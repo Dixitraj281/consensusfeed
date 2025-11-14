@@ -1,12 +1,12 @@
 {
-  "updated": "2025-11-13T20:29:03.463405+00:00",
+  "updated": "2025-11-14T01:47:21.821597+00:00",
   "top_stories": [
     {
       "article_id": "c2e72078bb699e8eefca22c02a0d1380",
       "title": "NIH launches landmark project on whole-person health and function",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/nih-launches-landmark-project-whole-person-health-function",
-      "published_date": "2025-11-13T20:24:44.537751+00:00",
+      "published_date": "2025-11-14T01:43:16.509197+00:00",
       "category": "Government",
       "description": "Approach involves looking at the whole person—not just separate organs or body systems—and considering multiple factors that promote health.",
       "author": "",
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-13T20:29:03.409831+00:00"
+        "consensus_timestamp": "2025-11-14T01:47:21.768583+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,9 +59,71 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-13T20:29:03.409835+00:00"
+        "timestamp": "2025-11-14T01:47:21.768587+00:00"
       },
       "article_type": "headline"
+    },
+    {
+      "article_id": "2a610a377830ff4908295992f100a7f3",
+      "title": "How Clario automates clinical research analysis using generative AI on AWS",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-clario-automates-clinical-research-analysis-using-generative-ai-on-aws/",
+      "published_date": "2025-11-10T18:13:47+00:00",
+      "category": "Industry",
+      "description": "In this post, we demonstrate how Clario has used Amazon Bedrock and other AWS services to build an AI-powered solution that automates and improves the analysis of COA interviews.",
+      "author": "Alex Boudreau, Cuong Lai",
+      "content": "In this post, we demonstrate how Clario has used Amazon Bedrock and other AWS services to build an AI-powered solution that automates and improves the analysis of COA interviews.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.925,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-14T01:47:21.771138+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-14T01:47:21.771141+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "1b1799673972bfe9306a00f95aca9364",
@@ -107,40 +169,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-13T20:29:03.412642+00:00"
+        "consensus_timestamp": "2025-11-14T01:47:21.771451+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-13T20:29:03.412645+00:00"
+        "timestamp": "2025-11-14T01:47:21.771454+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "1b5c2988cec42d452ac41c9b62f292fc",
-      "title": "Accelerating Large-Scale Mixture-of-Experts Training in PyTorch",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/accelerating-large-scale-mixture-of-experts-training-in-pytorch/",
-      "published_date": "2025-11-06T17:00:00+00:00",
-      "category": "Industry",
-      "description": "Training massive mixture-of-experts (MoE) models has long been the domain of a few advanced users with deep infrastructure and distributed-systems expertise....",
-      "author": "Hemil Desai",
-      "content": "Training massive mixture-of-experts (MoE) models has long been the domain of a few advanced users with deep infrastructure and distributed-systems expertise....",
+      "article_id": "93008f57b7b8fc55f12e92375a633648",
+      "title": "Research: Independent research on the economic impact of cyber attacks on the UK",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/independent-research-on-the-economic-impact-of-cyber-attacks-on-the-uk",
+      "published_date": "2025-11-12T00:00:00+00:00",
+      "category": "Government",
+      "description": "A set of reports detailing the costs and economic impact of cyber attacks on the UK economy.",
+      "author": "",
+      "content": "A set of reports detailing the costs and economic impact of cyber attacks on the UK economy.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "overall_score": 0.8935,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -172,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-13T20:29:03.415554+00:00"
+        "consensus_timestamp": "2025-11-14T01:47:21.769167+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,88 +245,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-13T20:29:03.415556+00:00"
+        "timestamp": "2025-11-14T01:47:21.769170+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "44434efffd14e21889699513f051c4b8",
-      "title": "Understanding neural networks through sparse circuits",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/understanding-neural-networks-through-sparse-circuits",
-      "published_date": "2025-11-13T10:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI is exploring mechanistic interpretability to understand how neural networks reason. Our new sparse model approach could make AI systems more transparent and support safer, more reliable behavior.",
+      "article_id": "33e5c2023aaec71a9b4ef194418f942f",
+      "title": "AI Growth Zones to create thousands of jobs and unlock up to £100 billion in investment, as new site confirmed for North Wales",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/ai-growth-zones-to-create-thousands-of-jobs-and-unlock-up-to-100-billion-in-investment-as-new-site-confirmed-for-north-wales",
+      "published_date": "2025-11-13T00:00:00+00:00",
+      "category": "Government",
+      "description": "North Wales in line for more than 3,400 new jobs through newly announced AI Growth Zone, as the Prime Minister and Technology Secretary set out plans to ensure sites deliver for working people.",
       "author": "",
-      "content": "OpenAI is exploring mechanistic interpretability to understand how neural networks reason. Our new sparse model approach could make AI systems more transparent and support safer, more reliable behavior.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-13T20:29:03.410923+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-13T20:29:03.410926+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "fd6c1d34cc7ccd8d3d89c8fa775fe5ad",
-      "title": "Forecasting the future of forests with AI: From counting losses to predicting risk",
-      "source": "google_research_blog",
-      "url": "https://research.google/blog/forecasting-the-future-of-forests-with-ai-from-counting-losses-to-predicting-risk/",
-      "published_date": "2025-11-05T15:41:00+00:00",
-      "category": "Industry",
-      "description": "Climate & Sustainability",
-      "author": "",
-      "content": "Climate & Sustainability",
+      "content": "North Wales in line for more than 3,400 new jobs through newly announced AI Growth Zone, as the Prime Minister and Technology Secretary set out plans to ensure sites deliver for working people.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -292,22 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.98,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-13T20:29:03.415912+00:00"
+        "consensus_timestamp": "2025-11-14T01:47:21.768933+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-13T20:29:03.415915+00:00"
+        "timestamp": "2025-11-14T01:47:21.768936+00:00"
       },
       "article_type": "article"
     }
