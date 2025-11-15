@@ -1,22 +1,84 @@
 {
-  "updated": "2025-11-15T08:29:31.040868+00:00",
+  "updated": "2025-11-15T12:42:44.724926+00:00",
   "top_stories": [
     {
-      "article_id": "15e8bee595ac7b75cb94cc5038f07779",
-      "title": "Apple’s new App Review Guidelines clamp down on apps sharing personal data with ‘third-party AI’",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2025/11/13/apples-new-app-review-guidelines-clamp-down-on-apps-sharing-personal-data-with-third-party-ai/",
-      "published_date": "2025-11-13T21:14:35+00:00",
-      "category": "Industry",
-      "description": "Apple updates its App Store rules to restrict apps from sharing personal data with third-party AI without disclosure and explicit permission.",
-      "author": "Sarah Perez",
-      "content": "Apple updates its App Store rules to restrict apps from sharing personal data with third-party AI without disclosure and explicit permission.",
+      "article_id": "c2e72078bb699e8eefca22c02a0d1380",
+      "title": "NIH launches landmark project on whole-person health and function",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-launches-landmark-project-whole-person-health-function",
+      "published_date": "2025-11-15T12:39:02.737147+00:00",
+      "category": "Government",
+      "description": "Approach involves looking at the whole person—not just separate organs or body systems—and considering multiple factors that promote health.",
+      "author": "",
+      "content": "Approach involves looking at the whole person—not just separate organs or body systems—and considering multiple factors that promote health.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-15T12:42:44.676536+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-15T12:42:44.676540+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "9bd8a3ad37342b98afda3529cd60c8c7",
+      "title": "Transform your MCP architecture: Unite MCP servers through AgentCore Gateway",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/transform-your-mcp-architecture-unite-mcp-servers-through-agentcore-gateway/",
+      "published_date": "2025-11-06T17:43:23+00:00",
+      "category": "Industry",
+      "description": "Earlier this year, we introduced Amazon Bedrock AgentCore Gateway, a fully managed service that serves as a centralized MCP tool server, providing a unified interface where agents can discover, access, and invoke tools. Today, we're extending support for existing MCP servers as a new target type in AgentCore Gateway. With this capability, you can group multiple task-specific MCP servers aligned to agent goals behind a single, manageable MCP gateway interface. This reduces the operational...",
+      "author": "Frank Dallezotte",
+      "content": "Earlier this year, we introduced Amazon Bedrock AgentCore Gateway, a fully managed service that serves as a centralized MCP tool server, providing a unified interface where agents can discover, access, and invoke tools. Today, we're extending support for existing MCP servers as a new target type in AgentCore Gateway. With this capability, you can group multiple task-specific MCP servers aligned to agent goals behind a single, manageable MCP gateway interface. This reduces the operational...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
         "impact_score": 0.95,
-        "overall_score": 0.8975,
+        "overall_score": 0.925,
         "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
@@ -48,7 +110,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-15T08:29:30.993469+00:00"
+        "consensus_timestamp": "2025-11-15T12:42:44.679515+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,9 +121,9 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-15T08:29:30.993472+00:00"
+        "timestamp": "2025-11-15T12:42:44.679518+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
       "article_id": "97ba46b2eedfcaa10c475046e5004fc9",
@@ -107,103 +169,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-15T08:29:30.991094+00:00"
+        "consensus_timestamp": "2025-11-15T12:42:44.677463+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-15T08:29:30.991097+00:00"
+        "timestamp": "2025-11-15T12:42:44.677470+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f094701d5d1c2a32426e7a46b12a4c14",
-      "title": "NVIDIA Blackwell Architecture Sweeps MLPerf Training v5.1 Benchmarks",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-blackwell-architecture-sweeps-mlperf-training-v5-1-benchmarks/",
-      "published_date": "2025-11-13T00:08:00+00:00",
+      "article_id": "8751af028cec4a20b4c0e3bc0f1bd2e5",
+      "title": "Introducing agent-to-agent protocol support in Amazon Bedrock AgentCore Runtime",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-agent-to-agent-protocol-support-in-amazon-bedrock-agentcore-runtime/",
+      "published_date": "2025-11-11T21:32:31+00:00",
       "category": "Industry",
-      "description": "The NVIDIA Blackwell architecture powered the fastest time to train across every MLPerf Training v5.1 benchmark, marking a clean sweep in the latest round of...",
-      "author": "Ashraf Eassa",
-      "content": "The NVIDIA Blackwell architecture powered the fastest time to train across every MLPerf Training v5.1 benchmark, marking a clean sweep in the latest round of...",
+      "description": "In this post, we demonstrate how you can use the A2A protocol for AI agents built with different frameworks to collaborate seamlessly. You'll learn how to deploy A2A servers on AgentCore Runtime, configure agent discovery and authentication, and build a real-world multi-agent system for incident response. We'll cover the complete A2A request lifecycle, from agent card discovery to task delegation, showing how standardized protocols eliminate the complexity of multi-agent coordination.",
+      "author": "Madhur Prashant",
+      "content": "In this post, we demonstrate how you can use the A2A protocol for AI agents built with different frameworks to collaborate seamlessly. You'll learn how to deploy A2A servers on AgentCore Runtime, configure agent discovery and authentication, and build a real-world multi-agent system for incident response. We'll cover the complete A2A request lifecycle, from agent card discovery to task delegation, showing how standardized protocols eliminate the complexity of multi-agent coordination.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-15T08:29:30.994163+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-15T08:29:30.994166+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "0f437d4bd9d43dd850f7003cd248098c",
-      "title": "DS-STAR: A state-of-the-art versatile data science agent",
-      "source": "google_research_blog",
-      "url": "https://research.google/blog/ds-star-a-state-of-the-art-versatile-data-science-agent/",
-      "published_date": "2025-11-06T17:50:36+00:00",
-      "category": "Industry",
-      "description": "Data Mining & Modeling",
-      "author": "",
-      "content": "Data Mining & Modeling",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.9099999999999999,
-        "confidence_mean": 0.9
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -231,34 +231,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-15T08:29:30.994931+00:00"
+        "consensus_timestamp": "2025-11-15T12:42:44.679136+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-15T08:29:30.994933+00:00"
+        "timestamp": "2025-11-15T12:42:44.679139+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "74e36734787abc8edd879c4c047a9fd4",
-      "title": "How NVIDIA GeForce RTX GPUs Power Modern Creative Workflows",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-adobe-max-creativity/",
-      "published_date": "2025-11-04T14:00:26+00:00",
+      "article_id": "21c3b1332c485075f5f88924ca65c913",
+      "title": "Enabling Multi-Node NVLink on Kubernetes for NVIDIA GB200 NVL72 and Beyond",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/enabling-multi-node-nvlink-on-kubernetes-for-gb200-and-beyond/",
+      "published_date": "2025-11-10T14:00:00+00:00",
       "category": "Industry",
-      "description": "When inspiration strikes, nothing kills momentum faster than a slow tool or a frozen timeline. Creative apps should feel fast and fluid — an extension of imagination that keeps up with every idea. NVIDIA RTX GPUs — backed by the NVIDIA Studio platform — help ideas move faster, keeping the process smooth and intuitive. GeForce Read Article",
-      "author": "Michael Fukuyama",
-      "content": "When inspiration strikes, nothing kills momentum faster than a slow tool or a frozen timeline. Creative apps should feel fast and fluid — an extension of imagination that keeps up with every idea. NVIDIA RTX GPUs — backed by the NVIDIA Studio platform — help ideas move faster, keeping the process smooth and intuitive. GeForce Read Article",
+      "description": "The NVIDIA GB200 NVL72 pushes AI infrastructure to new limits, enabling breakthroughs in training large-language models and running scalable, low-latency...",
+      "author": "Kevin Klues",
+      "content": "The NVIDIA GB200 NVL72 pushes AI infrastructure to new limits, enabling breakthroughs in training large-language models and running scalable, low-latency...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -292,22 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-15T08:29:30.993172+00:00"
+        "consensus_timestamp": "2025-11-15T12:42:44.681459+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-15T08:29:30.993175+00:00"
+        "timestamp": "2025-11-15T12:42:44.681462+00:00"
       },
       "article_type": "article"
     }

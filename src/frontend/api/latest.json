@@ -1,22 +1,84 @@
 {
-  "generated_at": "2025-11-15T08:29:31.037806+00:00",
+  "generated_at": "2025-11-15T12:42:44.721823+00:00",
   "articles": [
     {
-      "article_id": "15e8bee595ac7b75cb94cc5038f07779",
-      "title": "Apple’s new App Review Guidelines clamp down on apps sharing personal data with ‘third-party AI’",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2025/11/13/apples-new-app-review-guidelines-clamp-down-on-apps-sharing-personal-data-with-third-party-ai/",
-      "published_date": "2025-11-13T21:14:35+00:00",
-      "category": "Industry",
-      "description": "Apple updates its App Store rules to restrict apps from sharing personal data with third-party AI without disclosure and explicit permission.",
-      "author": "Sarah Perez",
-      "content": "Apple updates its App Store rules to restrict apps from sharing personal data with third-party AI without disclosure and explicit permission.",
+      "article_id": "c2e72078bb699e8eefca22c02a0d1380",
+      "title": "NIH launches landmark project on whole-person health and function",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-launches-landmark-project-whole-person-health-function",
+      "published_date": "2025-11-15T12:39:02.737147+00:00",
+      "category": "Government",
+      "description": "Approach involves looking at the whole person—not just separate organs or body systems—and considering multiple factors that promote health.",
+      "author": "",
+      "content": "Approach involves looking at the whole person—not just separate organs or body systems—and considering multiple factors that promote health.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-15T12:42:44.676536+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-15T12:42:44.676540+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "9bd8a3ad37342b98afda3529cd60c8c7",
+      "title": "Transform your MCP architecture: Unite MCP servers through AgentCore Gateway",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/transform-your-mcp-architecture-unite-mcp-servers-through-agentcore-gateway/",
+      "published_date": "2025-11-06T17:43:23+00:00",
+      "category": "Industry",
+      "description": "Earlier this year, we introduced Amazon Bedrock AgentCore Gateway, a fully managed service that serves as a centralized MCP tool server, providing a unified interface where agents can discover, access, and invoke tools. Today, we're extending support for existing MCP servers as a new target type in AgentCore Gateway. With this capability, you can group multiple task-specific MCP servers aligned to agent goals behind a single, manageable MCP gateway interface. This reduces the operational...",
+      "author": "Frank Dallezotte",
+      "content": "Earlier this year, we introduced Amazon Bedrock AgentCore Gateway, a fully managed service that serves as a centralized MCP tool server, providing a unified interface where agents can discover, access, and invoke tools. Today, we're extending support for existing MCP servers as a new target type in AgentCore Gateway. With this capability, you can group multiple task-specific MCP servers aligned to agent goals behind a single, manageable MCP gateway interface. This reduces the operational...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
         "impact_score": 0.95,
-        "overall_score": 0.8975,
+        "overall_score": 0.925,
         "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
@@ -48,7 +110,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-15T08:29:30.993469+00:00"
+        "consensus_timestamp": "2025-11-15T12:42:44.679515+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,9 +121,9 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-15T08:29:30.993472+00:00"
+        "timestamp": "2025-11-15T12:42:44.679518+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
       "article_id": "97ba46b2eedfcaa10c475046e5004fc9",
@@ -107,103 +169,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-15T08:29:30.991094+00:00"
+        "consensus_timestamp": "2025-11-15T12:42:44.677463+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-15T08:29:30.991097+00:00"
+        "timestamp": "2025-11-15T12:42:44.677470+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f094701d5d1c2a32426e7a46b12a4c14",
-      "title": "NVIDIA Blackwell Architecture Sweeps MLPerf Training v5.1 Benchmarks",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-blackwell-architecture-sweeps-mlperf-training-v5-1-benchmarks/",
-      "published_date": "2025-11-13T00:08:00+00:00",
+      "article_id": "8751af028cec4a20b4c0e3bc0f1bd2e5",
+      "title": "Introducing agent-to-agent protocol support in Amazon Bedrock AgentCore Runtime",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-agent-to-agent-protocol-support-in-amazon-bedrock-agentcore-runtime/",
+      "published_date": "2025-11-11T21:32:31+00:00",
       "category": "Industry",
-      "description": "The NVIDIA Blackwell architecture powered the fastest time to train across every MLPerf Training v5.1 benchmark, marking a clean sweep in the latest round of...",
-      "author": "Ashraf Eassa",
-      "content": "The NVIDIA Blackwell architecture powered the fastest time to train across every MLPerf Training v5.1 benchmark, marking a clean sweep in the latest round of...",
+      "description": "In this post, we demonstrate how you can use the A2A protocol for AI agents built with different frameworks to collaborate seamlessly. You'll learn how to deploy A2A servers on AgentCore Runtime, configure agent discovery and authentication, and build a real-world multi-agent system for incident response. We'll cover the complete A2A request lifecycle, from agent card discovery to task delegation, showing how standardized protocols eliminate the complexity of multi-agent coordination.",
+      "author": "Madhur Prashant",
+      "content": "In this post, we demonstrate how you can use the A2A protocol for AI agents built with different frameworks to collaborate seamlessly. You'll learn how to deploy A2A servers on AgentCore Runtime, configure agent discovery and authentication, and build a real-world multi-agent system for incident response. We'll cover the complete A2A request lifecycle, from agent card discovery to task delegation, showing how standardized protocols eliminate the complexity of multi-agent coordination.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-15T08:29:30.994163+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-15T08:29:30.994166+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "0f437d4bd9d43dd850f7003cd248098c",
-      "title": "DS-STAR: A state-of-the-art versatile data science agent",
-      "source": "google_research_blog",
-      "url": "https://research.google/blog/ds-star-a-state-of-the-art-versatile-data-science-agent/",
-      "published_date": "2025-11-06T17:50:36+00:00",
-      "category": "Industry",
-      "description": "Data Mining & Modeling",
-      "author": "",
-      "content": "Data Mining & Modeling",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.9099999999999999,
-        "confidence_mean": 0.9
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -231,34 +231,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-15T08:29:30.994931+00:00"
+        "consensus_timestamp": "2025-11-15T12:42:44.679136+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-15T08:29:30.994933+00:00"
+        "timestamp": "2025-11-15T12:42:44.679139+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "74e36734787abc8edd879c4c047a9fd4",
-      "title": "How NVIDIA GeForce RTX GPUs Power Modern Creative Workflows",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-adobe-max-creativity/",
-      "published_date": "2025-11-04T14:00:26+00:00",
+      "article_id": "21c3b1332c485075f5f88924ca65c913",
+      "title": "Enabling Multi-Node NVLink on Kubernetes for NVIDIA GB200 NVL72 and Beyond",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/enabling-multi-node-nvlink-on-kubernetes-for-gb200-and-beyond/",
+      "published_date": "2025-11-10T14:00:00+00:00",
       "category": "Industry",
-      "description": "When inspiration strikes, nothing kills momentum faster than a slow tool or a frozen timeline. Creative apps should feel fast and fluid — an extension of imagination that keeps up with every idea. NVIDIA RTX GPUs — backed by the NVIDIA Studio platform — help ideas move faster, keeping the process smooth and intuitive. GeForce Read Article",
-      "author": "Michael Fukuyama",
-      "content": "When inspiration strikes, nothing kills momentum faster than a slow tool or a frozen timeline. Creative apps should feel fast and fluid — an extension of imagination that keeps up with every idea. NVIDIA RTX GPUs — backed by the NVIDIA Studio platform — help ideas move faster, keeping the process smooth and intuitive. GeForce Read Article",
+      "description": "The NVIDIA GB200 NVL72 pushes AI infrastructure to new limits, enabling breakthroughs in training large-language models and running scalable, low-latency...",
+      "author": "Kevin Klues",
+      "content": "The NVIDIA GB200 NVL72 pushes AI infrastructure to new limits, enabling breakthroughs in training large-language models and running scalable, low-latency...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -292,84 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-15T08:29:30.993172+00:00"
+        "consensus_timestamp": "2025-11-15T12:42:44.681459+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-15T08:29:30.993175+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "f19fd8f5b09ba2d1bc501ecd37abac6f",
-      "title": "New law to tackle AI child abuse images at source as reports more than double",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/new-law-to-tackle-ai-child-abuse-images-at-source-as-reports-more-than-double",
-      "published_date": "2025-11-12T00:01:00+00:00",
-      "category": "Government",
-      "description": "New legislation sees government work with AI industry and child protection organisations to ensure AI models cannot be misused to create synthetic child sexual abuse images.",
-      "author": "",
-      "content": "New legislation sees government work with AI industry and child protection organisations to ensure AI models cannot be misused to create synthetic child sexual abuse images.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-15T08:29:30.990849+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-15T08:29:30.990852+00:00"
+        "timestamp": "2025-11-15T12:42:44.681462+00:00"
       },
       "article_type": "article"
     },
@@ -389,69 +327,7 @@
         "novelty_score": 0.8,
         "impact_score": 0.95,
         "overall_score": 0.8875,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-15T08:29:30.991366+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-15T08:29:30.991369+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "02be05a7f0a749855e0cdaa2f9b6d599",
-      "title": "Make your web apps hands-free with Amazon Nova Sonic",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/make-your-web-apps-hands-free-with-amazon-nova-sonic/",
-      "published_date": "2025-11-14T18:18:54+00:00",
-      "category": "Industry",
-      "description": "Graphical user interfaces have carried the torch for decades, but today’s users increasingly expect to talk to their applications. In this post we show how we added a true voice-first experience to a reference application—the Smart Todo App—turning routine task management into a fluid, hands-free conversation.",
-      "author": "Manu Mishra",
-      "content": "Graphical user interfaces have carried the torch for decades, but today’s users increasingly expect to talk to their applications. In this post we show how we added a true voice-first experience to a reference application—the Smart Todo App—turning routine task management into a fluid, hands-free conversation.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8599999999999999,
-        "confidence_mean": 0.95
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -482,7 +358,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-15T08:29:30.992217+00:00"
+        "consensus_timestamp": "2025-11-15T12:42:44.677773+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -493,88 +369,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-15T08:29:30.992220+00:00"
+        "timestamp": "2025-11-15T12:42:44.677776+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "8751af028cec4a20b4c0e3bc0f1bd2e5",
-      "title": "Introducing agent-to-agent protocol support in Amazon Bedrock AgentCore Runtime",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-agent-to-agent-protocol-support-in-amazon-bedrock-agentcore-runtime/",
-      "published_date": "2025-11-11T21:32:31+00:00",
+      "article_id": "e3788fd611c79fe753fd888101fc5677",
+      "title": "Microsoft strengthens sovereign cloud capabilities with new services",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/",
+      "published_date": "2025-11-05T07:00:00+00:00",
       "category": "Industry",
-      "description": "In this post, we demonstrate how you can use the A2A protocol for AI agents built with different frameworks to collaborate seamlessly. You'll learn how to deploy A2A servers on AgentCore Runtime, configure agent discovery and authentication, and build a real-world multi-agent system for incident response. We'll cover the complete A2A request lifecycle, from agent card discovery to task delegation, showing how standardized protocols eliminate the complexity of multi-agent coordination.",
-      "author": "Madhur Prashant",
-      "content": "In this post, we demonstrate how you can use the A2A protocol for AI agents built with different frameworks to collaborate seamlessly. You'll learn how to deploy A2A servers on AgentCore Runtime, configure agent discovery and authentication, and build a real-world multi-agent system for incident response. We'll cover the complete A2A request lifecycle, from agent card discovery to task delegation, showing how standardized protocols eliminate the complexity of multi-agent coordination.",
+      "description": "We continue to adapt our sovereignty approach—innovating to meet customer needs and regulatory requirements within our Sovereign Public Cloud and Sovereign Private Cloud. We are announcing a new wave of capabilities, building upon our digital sovereignty controls, to deliver advanced AI and scale, strengthened by our ecosystem of specialized in-country partner experts. The post Microsoft strengthens sovereign cloud capabilities with new services appeared first on Microsoft Azure Blog.",
+      "author": "Douglas Phillips",
+      "content": "We continue to adapt our sovereignty approach—innovating to meet customer needs and regulatory requirements within our Sovereign Public Cloud and Sovereign Private Cloud. We are announcing a new wave of capabilities, building upon our digital sovereignty controls, to deliver advanced AI and scale, strengthened by our ecosystem of specialized in-country partner experts. The post Microsoft strengthens sovereign cloud capabilities with new services appeared first on Microsoft Azure Blog.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.85,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.95,
         "overall_score": 0.8699999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-15T08:29:30.992301+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-15T08:29:30.992303+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "0845255b6296c12b6a4a8eb11058a519",
-      "title": "Enhancing GPU-Accelerated Vector Search in Faiss with NVIDIA cuVS",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/enhancing-gpu-accelerated-vector-search-in-faiss-with-nvidia-cuvs/",
-      "published_date": "2025-11-06T20:41:38+00:00",
-      "category": "Industry",
-      "description": "As companies collect more unstructured data and increasingly use large language models (LLMs), they need faster and more scalable systems. Advanced tools for...",
-      "author": "Tarang Jain",
-      "content": "As companies collect more unstructured data and increasingly use large language models (LLMs), they need faster and more scalable systems. Advanced tools for...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8785000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -603,41 +417,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-15T08:29:30.994630+00:00"
+        "consensus_timestamp": "2025-11-15T12:42:44.678819+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-15T08:29:30.994633+00:00"
+        "timestamp": "2025-11-15T12:42:44.678822+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "648da338a8172ffd80bcf7a77905d421",
-      "title": "Fighting the New York Times’ invasion of user privacy",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/fighting-nyt-user-privacy-invasion",
-      "published_date": "2025-11-12T06:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI is fighting the New York Times’ demand for 20 million private ChatGPT conversations and accelerating new security and privacy protections to protect your data.",
+      "article_id": "f19fd8f5b09ba2d1bc501ecd37abac6f",
+      "title": "New law to tackle AI child abuse images at source as reports more than double",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/new-law-to-tackle-ai-child-abuse-images-at-source-as-reports-more-than-double",
+      "published_date": "2025-11-12T00:01:00+00:00",
+      "category": "Government",
+      "description": "New legislation sees government work with AI industry and child protection organisations to ensure AI models cannot be misused to create synthetic child sexual abuse images.",
       "author": "",
-      "content": "OpenAI is fighting the New York Times’ demand for 20 million private ChatGPT conversations and accelerating new security and privacy protections to protect your data.",
+      "content": "New legislation sees government work with AI industry and child protection organisations to ensure AI models cannot be misused to create synthetic child sexual abuse images.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -668,7 +482,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-15T08:29:30.991542+00:00"
+        "consensus_timestamp": "2025-11-15T12:42:44.677207+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,131 +493,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-15T08:29:30.991544+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "b3cf8df7fa080e9b02ef925091ddbf20",
-      "title": "Why India’s Voice-First Moat Is Finally Real",
-      "source": "analytics_india_magazine",
-      "url": "https://analyticsindiamag.com/ai-startups/why-indias-voice-first-moat-is-finally-real/",
-      "published_date": "2025-11-14T10:21:40+00:00",
-      "category": "Industry",
-      "description": "“The Indian enterprise market has evolved rapidly, with voice technology now seen as core infrastructure rather than a peripheral add-on.” The post Why India’s Voice-First Moat Is Finally Real appeared first on Analytics India Magazine.",
-      "author": "Smruthi Nadig",
-      "content": "“The Indian enterprise market has evolved rapidly, with voice technology now seen as core infrastructure rather than a peripheral add-on.” The post Why India’s Voice-First Moat Is Finally Real appeared first on Analytics India Magazine.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-15T08:29:30.995292+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-15T08:29:30.995295+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e76947dff06bb2e6e517f673f21218ce",
-      "title": "Repeated head impacts cause early neuron loss and inflammation in young athletes",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/repeated-head-impacts-cause-early-neuron-loss-inflammation-young-athletes",
-      "published_date": "2025-11-15T08:25:42.756724+00:00",
-      "category": "Government",
-      "description": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
-      "author": "",
-      "content": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.87,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-15T08:29:30.945936+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-15T08:29:30.945940+00:00"
+        "timestamp": "2025-11-15T12:42:44.677212+00:00"
       },
       "article_type": "article"
     },
@@ -851,40 +541,102 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-15T08:29:30.991867+00:00"
+        "consensus_timestamp": "2025-11-15T12:42:44.678312+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-15T08:29:30.991870+00:00"
+        "timestamp": "2025-11-15T12:42:44.678315+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "88db9b549a29c8b96a1b272f4d08bc7e",
-      "title": "Top 7 SaaS Platforms Going AI-Native by 2026",
-      "source": "analytics_india_magazine",
-      "url": "https://analyticsindiamag.com/ai-trends/top-7-saas-platforms-going-ai-native-by-2026/",
-      "published_date": "2025-11-15T04:54:17+00:00",
+      "article_id": "2a610a377830ff4908295992f100a7f3",
+      "title": "How Clario automates clinical research analysis using generative AI on AWS",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-clario-automates-clinical-research-analysis-using-generative-ai-on-aws/",
+      "published_date": "2025-11-10T18:13:47+00:00",
       "category": "Industry",
-      "description": "Some of the known SaaS platforms are transforming their approach, keeping AI in mind. The post Top 7 SaaS Platforms Going AI-Native by 2026 appeared first on Analytics India Magazine.",
-      "author": "Ankush Das",
-      "content": "Some of the known SaaS platforms are transforming their approach, keeping AI in mind. The post Top 7 SaaS Platforms Going AI-Native by 2026 appeared first on Analytics India Magazine.",
+      "description": "In this post, we demonstrate how Clario has used Amazon Bedrock and other AWS services to build an AI-powered solution that automates and improves the analysis of COA interviews.",
+      "author": "Alex Boudreau, Cuong Lai",
+      "content": "In this post, we demonstrate how Clario has used Amazon Bedrock and other AWS services to build an AI-powered solution that automates and improves the analysis of COA interviews.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.9,
         "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-15T12:42:44.679380+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-15T12:42:44.679383+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "1b5c2988cec42d452ac41c9b62f292fc",
+      "title": "Accelerating Large-Scale Mixture-of-Experts Training in PyTorch",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/accelerating-large-scale-mixture-of-experts-training-in-pytorch/",
+      "published_date": "2025-11-06T17:00:00+00:00",
+      "category": "Industry",
+      "description": "Training massive mixture-of-experts (MoE) models has long been the domain of a few advanced users with deep infrastructure and distributed-systems expertise....",
+      "author": "Hemil Desai",
+      "content": "Training massive mixture-of-experts (MoE) models has long been the domain of a few advanced users with deep infrastructure and distributed-systems expertise....",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -912,22 +664,270 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.92,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-15T08:29:30.995167+00:00"
+        "consensus_timestamp": "2025-11-15T12:42:44.681594+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.752,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-15T08:29:30.995169+00:00"
+        "timestamp": "2025-11-15T12:42:44.681597+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "23f79824f38996c122902a3c05ccf8fb",
+      "title": "Separating natural forests from other tree cover with AI for deforestation-free supply chains",
+      "source": "google_research_blog",
+      "url": "https://research.google/blog/separating-natural-forests-from-other-tree-cover-with-ai-for-deforestation-free-supply-chains/",
+      "published_date": "2025-11-13T19:04:07+00:00",
+      "category": "Industry",
+      "description": "Climate & Sustainability",
+      "author": "",
+      "content": "Climate & Sustainability",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.91,
+        "confidence": 0.94,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-15T12:42:44.681875+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.746,
+        "combined_confidence": 0.764,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-15T12:42:44.681878+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "69a9759ec806e9bca97cc00998d04d6b",
+      "title": "Policy paper: Cyber Security and Resilience (Network and Information Systems) Bill: factsheets",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/deleted-cyber-security-and-resilience-network-and-information-systems-bill-factsheets",
+      "published_date": "2025-11-12T00:00:00+00:00",
+      "category": "Government",
+      "description": "Factsheets relating to the Cyber Security and Resilience (Network and Information Systems) Bill introduced to Parliament on 12 November 2025.",
+      "author": "",
+      "content": "Factsheets relating to the Cyber Security and Resilience (Network and Information Systems) Bill introduced to Parliament on 12 November 2025.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-15T12:42:44.677354+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-15T12:42:44.677357+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c3f95e989a6686e4ce9b6d44e7c54850",
+      "title": "UK to advance targeted science cooperation with China",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/uk-to-advance-targeted-science-cooperation-with-china",
+      "published_date": "2025-11-11T00:00:00+00:00",
+      "category": "Government",
+      "description": "UK Science Minister Lord Vallance leads UK delegation of senior figures to China, opening up science opportunities that both countries can benefit from.",
+      "author": "",
+      "content": "UK Science Minister Lord Vallance leads UK delegation of senior figures to China, opening up science opportunities that both countries can benefit from.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-15T12:42:44.677573+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-15T12:42:44.677576+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3fe241fc3cff9d287b37492f4600f882",
+      "title": "Build a biomedical research agent with Biomni tools and Amazon Bedrock AgentCore Gateway",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-biomedical-research-agent-with-biomni-tools-and-amazon-bedrock-agentcore-gateway/",
+      "published_date": "2025-11-14T18:28:42+00:00",
+      "category": "Industry",
+      "description": "In this post, we demonstrate how to build a production-ready biomedical research agent by integrating Biomni's specialized tools with Amazon Bedrock AgentCore Gateway, enabling researchers to access over 30 biomedical databases through a secure, scalable infrastructure. The implementation showcases how to transform research prototypes into enterprise-grade systems with persistent memory, semantic tool discovery, and comprehensive observability for scientific reproducibility .",
+      "author": "Hasan Poonawala",
+      "content": "In this post, we demonstrate how to build a production-ready biomedical research agent by integrating Biomni's specialized tools with Amazon Bedrock AgentCore Gateway, enabling researchers to access over 30 biomedical databases through a secure, scalable infrastructure. The implementation showcases how to transform research prototypes into enterprise-grade systems with persistent memory, semantic tool discovery, and comprehensive observability for scientific reproducibility .",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-15T12:42:44.678958+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-15T12:42:44.678961+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 161.6185324192047,
+    "processing_time": 152.42405343055725,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,9 +953,9 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 130,
+      "total_processed": 128,
       "candidates": {
-        "headlines": 15,
+        "headlines": 13,
         "articles": 115,
         "research_papers": 0
       },
