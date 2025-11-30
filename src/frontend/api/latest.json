@@ -1,16 +1,140 @@
 {
-  "generated_at": "2025-11-30T04:39:58.921770+00:00",
+  "generated_at": "2025-11-30T08:29:56.209242+00:00",
   "articles": [
     {
-      "article_id": "ecd428aa0aea150f18ae0e98e0648d9c",
-      "title": "NIH launches $50M Autism Data Science Initiative to unlock causes and improve outcomes",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-launches-fifty-million-autism-data-science-initiative-unlock-causes-improve-outcomes",
-      "published_date": "2025-11-30T04:35:32.329485+00:00",
-      "category": "Government",
-      "description": "Funded projects will drive discoveries across biology, environment, and autism services.",
+      "article_id": "2940dd563d7024753510d62e1067e11e",
+      "title": "No, you can’t get your AI to ‘admit’ to being sexist, but it probably is anyway",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2025/11/29/no-you-cant-get-your-ai-to-admit-to-being-sexist-but-it-probably-is/",
+      "published_date": "2025-11-29T16:00:00+00:00",
+      "category": "Industry",
+      "description": "Though LLMs might not use explicitly biased language, they may infer your demographic data and display implicit biases, researchers say.",
+      "author": "Dominic-Madori Davis",
+      "content": "Though LLMs might not use explicitly biased language, they may infer your demographic data and display implicit biases, researchers say.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.8250000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.7,
+        "confidence": 0.75,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-30T08:29:56.176966+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.62,
+        "combined_confidence": 0.6499999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-30T08:29:56.176969+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "5e143aced1b77a9d60f58466f0c7582f",
+      "title": "University of California Los Angeles delivers an immersive theater experience with AWS generative AI services",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/university-of-california-los-angeles-delivers-an-immersive-theater-experience-with-aws-generative-ai-services/",
+      "published_date": "2025-11-26T21:20:45+00:00",
+      "category": "Industry",
+      "description": "In this post, we will walk through the performance constraints and design choices by OARC and REMAP teams at UCLA, including how AWS serverless infrastructure, AWS Managed Services, and generative AI services supported the rapid design and deployment of our solution. We will also describe our use of Amazon SageMaker AI and how it can be used reliably in immersive live experiences.",
+      "author": "Aditya Singh",
+      "content": "In this post, we will walk through the performance constraints and design choices by OARC and REMAP teams at UCLA, including how AWS serverless infrastructure, AWS Managed Services, and generative AI services supported the rapid design and deployment of our solution. We will also describe our use of Amazon SageMaker AI and how it can be used reliably in immersive live experiences.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.925,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-30T08:29:56.175616+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-30T08:29:56.175619+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "855f1c5a6aa95a36166fbe193d7271af",
+      "title": "GPT-5 and the future of mathematical discovery",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/gpt-5-mathematical-discovery",
+      "published_date": "2025-11-24T00:00:00+00:00",
+      "category": "Industry",
+      "description": "UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery.",
       "author": "",
-      "content": "Funded projects will drive discoveries across biology, environment, and autism services.",
+      "content": "UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -48,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T04:39:58.883142+00:00"
+        "consensus_timestamp": "2025-11-30T08:29:56.174525+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,20 +183,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-30T04:39:58.883146+00:00"
+        "timestamp": "2025-11-30T08:29:56.174527+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "90ff8b6b08d4b5e0651dda8bc76628ff",
-      "title": "Warner Bros. Discovery achieves 60% cost savings and faster ML inference with AWS Graviton",
+      "article_id": "005a079e3bf1282d4c4d70be02e5a3ef",
+      "title": "Research: Perspectives on the plan for PQC transition",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/perspectives-on-the-plan-for-pqc-transition",
+      "published_date": "2025-11-27T16:19:10+00:00",
+      "category": "Government",
+      "description": "Independent research setting out regulator and industry perspectives on the current plan for transition to post-quantum cryptography.",
+      "author": "",
+      "content": "Independent research setting out regulator and industry perspectives on the current plan for transition to post-quantum cryptography.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-30T08:29:56.173355+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-30T08:29:56.173360+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c84ad81d5ab40e81e2964eda3e9fd3ea",
+      "title": "Practical implementation considerations to close the AI value gap",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/warner-bros-discovery-achieves-60-cost-savings-and-faster-ml-inference-with-aws-graviton/",
-      "published_date": "2025-11-25T17:26:48+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/practical-implementation-considerations-to-close-the-ai-value-gap/",
+      "published_date": "2025-11-25T20:19:50+00:00",
       "category": "Industry",
-      "description": "Warner Bros. Discovery (WBD) is a leading global media and entertainment company that creates and distributes the world’s most differentiated and complete portfolio of content and brands across television, film and streaming. In this post, we describe the scale of our offerings, artificial intelligence (AI)/machine learning (ML) inference infrastructure requirements for our real time recommender systems, and how we used AWS Graviton-based Amazon SageMaker AI instances for our ML inference...",
-      "author": "Nukul Sharma, Karthik Dasani",
-      "content": "Warner Bros. Discovery (WBD) is a leading global media and entertainment company that creates and distributes the world’s most differentiated and complete portfolio of content and brands across television, film and streaming. In this post, we describe the scale of our offerings, artificial intelligence (AI)/machine learning (ML) inference infrastructure requirements for our real time recommender systems, and how we used AWS Graviton-based Amazon SageMaker AI instances for our ML inference...",
+      "description": "The AWS Customer Success Center of Excellence (CS COE) helps customers get tangible value from their AWS investments. We've seen a pattern: customers who build AI strategies that address people, process, and technology together succeed more often. In this post, we share practical considerations that can help close the AI value gap.",
+      "author": "Bhargs Srivathsan",
+      "content": "The AWS Customer Success Center of Excellence (CS COE) helps customers get tangible value from their AWS investments. We've seen a pattern: customers who build AI strategies that address people, process, and technology together succeed more often. In this post, we share practical considerations that can help close the AI value gap.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -107,96 +293,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T04:39:58.886351+00:00"
+        "consensus_timestamp": "2025-11-30T08:29:56.175987+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-30T04:39:58.886354+00:00"
+        "timestamp": "2025-11-30T08:29:56.175991+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "855f1c5a6aa95a36166fbe193d7271af",
-      "title": "GPT-5 and the future of mathematical discovery",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/gpt-5-mathematical-discovery",
-      "published_date": "2025-11-24T00:00:00+00:00",
-      "category": "Industry",
-      "description": "UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery.",
-      "author": "",
-      "content": "UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T04:39:58.884711+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-30T04:39:58.884714+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "005a079e3bf1282d4c4d70be02e5a3ef",
-      "title": "Research: Perspectives on the plan for PQC transition",
+      "article_id": "bf0fe30c4eaee753707690e73ca457b1",
+      "title": "Transparency data: AI for Science Strategy Expert Group: terms of reference",
       "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/perspectives-on-the-plan-for-pqc-transition",
-      "published_date": "2025-11-27T16:19:10+00:00",
+      "url": "https://www.gov.uk/government/publications/ai-for-science-strategy-expert-group-terms-of-reference",
+      "published_date": "2025-11-27T10:34:06+00:00",
       "category": "Government",
-      "description": "Independent research setting out regulator and industry perspectives on the current plan for transition to post-quantum cryptography.",
+      "description": "Terms of reference for AI for Science Strategy Expert Group.",
       "author": "",
-      "content": "Independent research setting out regulator and industry perspectives on the current plan for transition to post-quantum cryptography.",
+      "content": "Terms of reference for AI for Science Strategy Expert Group.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -231,83 +355,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T04:39:58.883807+00:00"
+        "consensus_timestamp": "2025-11-30T08:29:56.173761+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-30T04:39:58.883810+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "bf0fe30c4eaee753707690e73ca457b1",
-      "title": "Transparency data: AI for Science Strategy Expert Group: terms of reference",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/ai-for-science-strategy-expert-group-terms-of-reference",
-      "published_date": "2025-11-27T10:34:06+00:00",
-      "category": "Government",
-      "description": "Terms of reference for AI for Science Strategy Expert Group.",
-      "author": "",
-      "content": "Terms of reference for AI for Science Strategy Expert Group.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T04:39:58.883962+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-30T04:39:58.883965+00:00"
+        "timestamp": "2025-11-30T08:29:56.173766+00:00"
       },
       "article_type": "article"
     },
@@ -358,7 +420,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T04:39:58.884322+00:00"
+        "consensus_timestamp": "2025-11-30T08:29:56.174116+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,7 +431,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-30T04:39:58.884325+00:00"
+        "timestamp": "2025-11-30T08:29:56.174119+00:00"
       },
       "article_type": "article"
     },
@@ -420,7 +482,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T04:39:58.884468+00:00"
+        "consensus_timestamp": "2025-11-30T08:29:56.174256+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -431,151 +493,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-30T04:39:58.884471+00:00"
+        "timestamp": "2025-11-30T08:29:56.174259+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "9c4446effdf59d5384aeab0bfc23c9f5",
-      "title": "Pioneering AI Co-Scientists for Fusion Research and Cancer Treatment",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/pioneering-ai-co-scientists-for-fusion-research-and-cancer-treatment/",
-      "published_date": "2025-11-17T22:30:00+00:00",
+      "article_id": "6303ac33fe2b546f8712c5924efddc5c",
+      "title": "OpenAI named Emerging Leader in Generative AI",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/gartner-2025-emerging-leader",
+      "published_date": "2025-11-17T10:00:00+00:00",
       "category": "Industry",
-      "description": "AI is reshaping scientific research and innovation. Scientists can leverage AI to generate, summarize, combine, and analyze scientific data. AI models can find...",
-      "author": "Geetika Gupta",
-      "content": "AI is reshaping scientific research and innovation. Scientists can leverage AI to generate, summarize, combine, and analyze scientific data. AI models can find...",
+      "description": "OpenAI has been named an Emerging Leader in Gartner’s 2025 Innovation Guide for Generative AI Model Providers. The recognition reflects our enterprise momentum, with over 1 million companies building with ChatGPT.",
+      "author": "",
+      "content": "OpenAI has been named an Emerging Leader in Gartner’s 2025 Innovation Guide for Generative AI Model Providers. The recognition reflects our enterprise momentum, with over 1 million companies building with ChatGPT.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T04:39:58.887959+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-30T04:39:58.887961+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8b9e82453e122902a5b909cadf5a34af",
-      "title": "63 Amazon Research Award recipients announced",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/research-areas/latest-news/63-amazon-research-award-recipients-announced-spring-2025",
-      "published_date": "2025-11-25T16:57:15+00:00",
-      "category": "Industry",
-      "description": "Awardees, who represent 41 universities in 8 countries, have access to Amazon public datasets, along with AWS AI/ML services and tools.",
-      "author": "Amazon Research Awards team",
-      "content": "Awardees, who represent 41 universities in 8 countries, have access to Amazon public datasets, along with AWS AI/ML services and tools.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.92,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T04:39:58.888113+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-30T04:39:58.888117+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "bbb3fc121c2270f1e0462cb9885f86f5",
-      "title": "Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/",
-      "published_date": "2025-11-18T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Today, I’m thrilled to announce the next generation of Microsoft’s databases: SQL Server 2025, Azure Document DB, Azure Horizon DB, and Fabric Databases, each redesigned to meet the demands of AI. The post Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate appeared first on Microsoft Azure Blog.",
-      "author": "Arun Ulagaratchagan",
-      "content": "Today, I’m thrilled to announce the next generation of Microsoft’s databases: SQL Server 2025, Azure Document DB, Azure Horizon DB, and Fabric Databases, each redesigned to meet the demands of AI. The post Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
+        "overall_score": 0.8875,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -606,7 +544,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T04:39:58.885451+00:00"
+        "consensus_timestamp": "2025-11-30T08:29:56.175044+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -617,26 +555,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-30T04:39:58.885454+00:00"
+        "timestamp": "2025-11-30T08:29:56.175047+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c84ad81d5ab40e81e2964eda3e9fd3ea",
-      "title": "Practical implementation considerations to close the AI value gap",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/practical-implementation-considerations-to-close-the-ai-value-gap/",
-      "published_date": "2025-11-25T20:19:50+00:00",
+      "article_id": "9cfd7c8d7132e4556a32ae9bd15cd4d5",
+      "title": "From Government to Gaming, AI Is ‘Strengthening Korea’s Digital Foundation,’ NVIDIA Leader Says at AI Day Seoul",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/ai-day-seoul/",
+      "published_date": "2025-11-26T17:00:32+00:00",
       "category": "Industry",
-      "description": "The AWS Customer Success Center of Excellence (CS COE) helps customers get tangible value from their AWS investments. We've seen a pattern: customers who build AI strategies that address people, process, and technology together succeed more often. In this post, we share practical considerations that can help close the AI value gap.",
-      "author": "Bhargs Srivathsan",
-      "content": "The AWS Customer Success Center of Excellence (CS COE) helps customers get tangible value from their AWS investments. We've seen a pattern: customers who build AI strategies that address people, process, and technology together succeed more often. In this post, we share practical considerations that can help close the AI value gap.",
+      "description": "Last week, more than 1,000 attendees joined NVIDIA AI Day Seoul to learn about sovereign AI — including breakout sessions on agentic and physical AI, hands-on workshops and a startup reception for members of the NVIDIA Inception program, all offering insights into the current and future landscape of the AI ecosystem in Korea.",
+      "author": "Solee Moon",
+      "content": "Last week, more than 1,000 attendees joined NVIDIA AI Day Seoul to learn about sovereign AI — including breakout sessions on agentic and physical AI, hands-on workshops and a startup reception for members of the NVIDIA Inception program, all offering insights into the current and future landscape of the AI ecosystem in Korea.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.75,
-        "impact_score": 0.9,
-        "overall_score": 0.8500000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.875,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -668,7 +606,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T04:39:58.886252+00:00"
+        "consensus_timestamp": "2025-11-30T08:29:56.176321+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,26 +617,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-30T04:39:58.886255+00:00"
+        "timestamp": "2025-11-30T08:29:56.176324+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "e67c1f19afef27152a5d56ac6e1abdc0",
-      "title": "Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/money/hedera-hashgraph-hbar-price-prediction",
-      "published_date": "2025-11-29T15:15:56+00:00",
+      "article_id": "acd423ad2fcda3e7e4c53e9f9b42cac3",
+      "title": "Physical AI in practice: Technical foundations that fuel human-machine interactions",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/physical-ai-in-practice-technical-foundations-that-fuel-human-machine-interactions/",
+      "published_date": "2025-11-25T17:00:25+00:00",
       "category": "Industry",
-      "description": "The post Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Hedera Hashgraph (HBAR) could reach $0.873 by 2030. Feeling confident about this HBAR price prediction? You can trade Hedera Hashgraph on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade....",
-      "author": "Ryan Peterson",
-      "content": "The post Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Hedera Hashgraph (HBAR) could reach $0.873 by 2030. Feeling confident about this HBAR price prediction? You can trade Hedera Hashgraph on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade....",
+      "description": "In this post, we explore the complete development lifecycle of physical AI—from data collection and model training to edge deployment—and examine how these intelligent systems learn to understand, reason, and interact with the physical world through continuous feedback loops. We illustrate this workflow through Diligent Robotics' Moxi, a mobile manipulation robot that has completed over 1.2 million deliveries in hospitals, saving nearly 600,000 hours for clinical staff while transforming...",
+      "author": "Sri Elaprolu, Alla Simoneau, Paul Amadeo, and Laura Kulowski",
+      "content": "In this post, we explore the complete development lifecycle of physical AI—from data collection and model training to edge deployment—and examine how these intelligent systems learn to understand, reason, and interact with the physical world through continuous feedback loops. We illustrate this workflow through Diligent Robotics' Moxi, a mobile manipulation robot that has completed over 1.2 million deliveries in hospitals, saving nearly 600,000 hours for clinical staff while transforming...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -727,21 +665,145 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T04:39:58.889331+00:00"
+        "consensus_timestamp": "2025-11-30T08:29:56.176127+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-30T04:39:58.889334+00:00"
+        "timestamp": "2025-11-30T08:29:56.176130+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3987dca8b8644b9927deece2c2b54bf6",
+      "title": "Apply fine-grained access control with Bedrock AgentCore Gateway interceptors",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/apply-fine-grained-access-control-with-bedrock-agentcore-gateway-interceptors/",
+      "published_date": "2025-11-26T22:28:29+00:00",
+      "category": "Industry",
+      "description": "We are launching a new feature: gateway interceptors for Amazon Bedrock AgentCore Gateway. This powerful new capability provides fine-grained security, dynamic access control, and flexible schema management.",
+      "author": "Dhawalkumar Patel",
+      "content": "We are launching a new feature: gateway interceptors for Amazon Bedrock AgentCore Gateway. This powerful new capability provides fine-grained security, dynamic access control, and flexible schema management.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-30T08:29:56.175476+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-30T08:29:56.175479+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "fe9ebe25907c8a413fab2c9634789fb1",
+      "title": "NIH establishes nation's first dedicated organoid development center to reduce reliance on animal modeling",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-establishes-nations-first-dedicated-organoid-development-center-reduce-reliance-animal-modeling",
+      "published_date": "2025-11-30T08:26:00.668973+00:00",
+      "category": "Government",
+      "description": "The Standardized Organoid Modeling Center aims to produce standardized protocols for organoid research, addressing reproducibility challenges.",
+      "author": "",
+      "content": "The Standardized Organoid Modeling Center aims to produce standardized protocols for organoid research, addressing reproducibility challenges.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-30T08:29:56.172919+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-30T08:29:56.172923+00:00"
       },
       "article_type": "article"
     },
@@ -788,22 +850,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.9,
+        "score": 0.85,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T04:39:58.887006+00:00"
+        "consensus_timestamp": "2025-11-30T08:29:56.177387+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-30T04:39:58.887009+00:00"
+        "timestamp": "2025-11-30T08:29:56.177390+00:00"
       },
       "article_type": "article"
     },
@@ -812,7 +874,7 @@
       "title": "Treating opioid addiction in jails improves treatment engagement, reduces overdose deaths and reincarceration",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/treating-opioid-addiction-jails-improves-treatment-engagement-reduces-overdose-deaths-reincarceration",
-      "published_date": "2025-11-30T04:35:32.329863+00:00",
+      "published_date": "2025-11-30T08:26:00.669470+00:00",
       "category": "Government",
       "description": "NIH-funded study demonstrates life-saving potential of providing medications for opioid use disorder in carceral settings.",
       "author": "",
@@ -854,7 +916,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T04:39:58.883308+00:00"
+        "consensus_timestamp": "2025-11-30T08:29:56.173129+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -865,69 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-30T04:39:58.883312+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "5b6bce31ac4fc5eae9c5a644fda91de9",
-      "title": "A free version of ChatGPT built for teachers",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/chatgpt-for-teachers",
-      "published_date": "2025-11-19T00:00:00+00:00",
-      "category": "Industry",
-      "description": "ChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls. Free for verified U.S. K–12 educators through June 2027.",
-      "author": "",
-      "content": "ChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls. Free for verified U.S. K–12 educators through June 2027.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T04:39:58.885117+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-30T04:39:58.885120+00:00"
+        "timestamp": "2025-11-30T08:29:56.173132+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 159.43167972564697,
+    "processing_time": 160.79328203201294,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 124,
+      "total_processed": 128,
       "candidates": {
-        "headlines": 9,
-        "articles": 115,
+        "headlines": 7,
+        "articles": 121,
         "research_papers": 0
       },
       "selected": {
