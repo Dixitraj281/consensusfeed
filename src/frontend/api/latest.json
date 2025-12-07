@@ -1,140 +1,16 @@
 {
-  "generated_at": "2025-12-07T08:31:06.923503+00:00",
+  "generated_at": "2025-12-07T12:44:12.154753+00:00",
   "articles": [
     {
-      "article_id": "7495fbad5c78f3322a2b2c5bf3a8b673",
-      "title": "Sources: AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation",
+      "article_id": "14ca22b8a36173b210278efa05a85f8f",
+      "title": "AWS needs you to believe in AI agents",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation/",
-      "published_date": "2025-12-05T23:38:59+00:00",
+      "url": "https://techcrunch.com/video/aws-needs-you-to-believe-in-ai-agents/",
+      "published_date": "2025-12-05T22:00:00+00:00",
       "category": "Industry",
-      "description": "The one-year-old startup, which does market research on simulated populations, had a multi-tier valuation round, sources tell TechCrunch.",
-      "author": "Marina Temkin",
-      "content": "The one-year-old startup, which does market research on simulated populations, had a multi-tier valuation round, sources tell TechCrunch.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-07T08:31:06.889146+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-07T08:31:06.889149+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "af744d24ac58b52a86d7b69232f58aee",
-      "title": "From Waveforms to Wisdom: The New Benchmark for Auditory Intelligence",
-      "source": "google_research_blog",
-      "url": "https://research.google/blog/from-waveforms-to-wisdom-the-new-benchmark-for-auditory-intelligence/",
-      "published_date": "2025-12-03T22:47:00+00:00",
-      "category": "Industry",
-      "description": "Machine Intelligence",
-      "author": "",
-      "content": "Machine Intelligence",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.9375,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-07T08:31:06.890808+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-07T08:31:06.890811+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "32f1e46b0121b9f5df47fc417fd38d7f",
-      "title": "Amazon SageMaker AI introduces EAGLE based adaptive speculative decoding to accelerate generative AI inference",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-introduces-eagle-based-adaptive-speculative-decoding-to-accelerate-generative-ai-inference/",
-      "published_date": "2025-11-26T00:29:42+00:00",
-      "category": "Industry",
-      "description": "Amazon SageMaker AI now supports EAGLE-based adaptive speculative decoding, a technique that accelerates large language model inference by up to 2.5x while maintaining output quality. In this post, we explain how to use EAGLE 2 and EAGLE 3 speculative decoding in Amazon SageMaker AI, covering the solution architecture, optimization workflows using your own datasets or SageMaker's built-in data, and benchmark results demonstrating significant improvements in throughput and latency.",
-      "author": "Kareem Syed-Mohammed",
-      "content": "Amazon SageMaker AI now supports EAGLE-based adaptive speculative decoding, a technique that accelerates large language model inference by up to 2.5x while maintaining output quality. In this post, we explain how to use EAGLE 2 and EAGLE 3 speculative decoding in Amazon SageMaker AI, covering the solution architecture, optimization workflows using your own datasets or SageMaker's built-in data, and benchmark results demonstrating significant improvements in throughput and latency.",
+      "description": "AWS announced a wave of new AI agent tools at re:Invent 2025, but can Amazon actually catch up to the AI leaders? While the cloud giant is betting big on enterprise AI with its third-gen chip and database discounts that got developers cheering, it’s still fighting to prove it can compete beyond infrastructure. This week […]",
+      "author": "Theresa Loconsolo",
+      "content": "AWS announced a wave of new AI agent tools at re:Invent 2025, but can Amazon actually catch up to the AI leaders? While the cloud giant is betting big on enterprise AI with its third-gen chip and database discounts that got developers cheering, it’s still fighting to prove it can compete beyond infrastructure. This week […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -172,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-07T08:31:06.888318+00:00"
+        "consensus_timestamp": "2025-12-07T12:44:12.114495+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,212 +59,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-07T08:31:06.888320+00:00"
+        "timestamp": "2025-12-07T12:44:12.114500+00:00"
       },
-      "article_type": "article"
+      "article_type": "headline"
     },
     {
-      "article_id": "2a3e024ef7ede0d44ff0d21f1012042e",
-      "title": "Guidance: Software Security Code of Practice",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/software-security-code-of-practice",
-      "published_date": "2025-11-28T15:40:33+00:00",
-      "category": "Government",
-      "description": "This Code of Practice sets out expectations for the security and resilience of software.",
-      "author": "",
-      "content": "This Code of Practice sets out expectations for the security and resilience of software.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-07T08:31:06.886728+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-07T08:31:06.886731+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "5e143aced1b77a9d60f58466f0c7582f",
-      "title": "University of California Los Angeles delivers an immersive theater experience with AWS generative AI services",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/university-of-california-los-angeles-delivers-an-immersive-theater-experience-with-aws-generative-ai-services/",
-      "published_date": "2025-11-26T21:20:45+00:00",
+      "article_id": "10ff1e4ff1d033f74c7fa766e861384a",
+      "title": "Meet AWS’ Frontier Agents Built to End Developers’ 2 AM Nightmares",
+      "source": "analytics_india_magazine",
+      "url": "https://analyticsindiamag.com/global-tech/meet-aws-frontier-agents-built-to-end-developers-2-am-nightmares/",
+      "published_date": "2025-12-05T13:51:26+00:00",
       "category": "Industry",
-      "description": "In this post, we will walk through the performance constraints and design choices by OARC and REMAP teams at UCLA, including how AWS serverless infrastructure, AWS Managed Services, and generative AI services supported the rapid design and deployment of our solution. We will also describe our use of Amazon SageMaker AI and how it can be used reliably in immersive live experiences.",
-      "author": "Aditya Singh",
-      "content": "In this post, we will walk through the performance constraints and design choices by OARC and REMAP teams at UCLA, including how AWS serverless infrastructure, AWS Managed Services, and generative AI services supported the rapid design and deployment of our solution. We will also describe our use of Amazon SageMaker AI and how it can be used reliably in immersive live experiences.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-07T08:31:06.888127+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-07T08:31:06.888130+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "6426802aedbb1c661923f8d6d6741b0b",
-      "title": "AI in 2026: The Tale of Two AIs",
-      "source": "sequoia_ai",
-      "url": "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/",
-      "published_date": "2025-12-03T22:04:19+00:00",
-      "category": "Startups",
-      "description": "The post AI in 2026: The Tale of Two AIs appeared first on Sequoia Capital.",
-      "author": "amoore",
-      "content": "The post AI in 2026: The Tale of Two AIs appeared first on Sequoia Capital.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.92,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-07T08:31:06.890724+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-07T08:31:06.890727+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "0d289046a302eea4d246ac979617354e",
-      "title": "NVIDIA Kaggle Grandmasters Win Artificial General Intelligence Competition",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-kaggle-grandmasters-win-artificial-general-intelligence-competition/",
-      "published_date": "2025-12-05T18:00:00+00:00",
-      "category": "Industry",
-      "description": "NVIDIA researchers on Friday won a key Kaggle competition many in the field treat as a real-time pulse check on humanity’s progress toward artificial general...",
-      "author": "Moon Chung",
-      "content": "NVIDIA researchers on Friday won a key Kaggle competition many in the field treat as a real-time pulse check on humanity’s progress toward artificial general...",
+      "description": "The company said the agents are autonomous, scalable, and capable of operating for extended periods without intervention. The post Meet AWS’ Frontier Agents Built to End Developers’ 2 AM Nightmares appeared first on Analytics India Magazine.",
+      "author": "Siddharth Jindal",
+      "content": "The company said the agents are autonomous, scalable, and capable of operating for extended periods without intervention. The post Meet AWS’ Frontier Agents Built to End Developers’ 2 AM Nightmares appeared first on Analytics India Magazine.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
+        "impact_score": 0.9,
+        "overall_score": 0.89,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -420,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-07T08:31:06.889990+00:00"
+        "consensus_timestamp": "2025-12-07T12:44:12.117215+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -431,20 +121,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-07T08:31:06.889998+00:00"
+        "timestamp": "2025-12-07T12:44:12.117218+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "e68beb231ced59a2ff69c59c22963fbd",
-      "title": "NVIDIA-Accelerated Mistral 3 Open Models Deliver Efficiency, Accuracy at Any Scale",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-accelerated-mistral-3-open-models-deliver-efficiency-accuracy-at-any-scale/",
-      "published_date": "2025-12-02T18:10:02+00:00",
+      "article_id": "c184ba0061b8ec3ebd6593cedd41f744",
+      "title": "NVIDIA Awards up to $60,000 Research Fellowships to PhD Students",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2026-2027/",
+      "published_date": "2025-12-04T17:00:44+00:00",
       "category": "Industry",
-      "description": "The new Mistral 3 open model family delivers industry-leading accuracy, efficiency, and customization capabilities for developers and enterprises. Optimized...",
-      "author": "Anu Srivastava",
-      "content": "The new Mistral 3 open model family delivers industry-leading accuracy, efficiency, and customization capabilities for developers and enterprises. Optimized...",
+      "description": "For 25 years, the NVIDIA Graduate Fellowship Program has supported graduate students doing outstanding work relevant to NVIDIA technologies. Today, the program announced the latest awards of up to $60,000 each to 10 Ph.D. students involved in research that spans all areas of computing innovation. Selected from a highly competitive applicant pool, the awardees will Read Article",
+      "author": "Sylvia Chanak",
+      "content": "For 25 years, the NVIDIA Graduate Fellowship Program has supported graduate students doing outstanding work relevant to NVIDIA technologies. Today, the program announced the latest awards of up to $60,000 each to 10 Ph.D. students involved in research that spans all areas of computing innovation. Selected from a highly competitive applicant pool, the awardees will Read Article",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
@@ -479,34 +169,34 @@
           }
         },
         "score": 0.95,
-        "confidence": 0.98,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-07T08:31:06.890332+00:00"
+        "consensus_timestamp": "2025-12-07T12:44:12.113886+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-07T08:31:06.890335+00:00"
+        "timestamp": "2025-12-07T12:44:12.113889+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "4bfdff99c60807157b9b5f7684abdecd",
-      "title": "Making GPU Clusters More Efficient with NVIDIA Data Center Monitoring Tools",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/making-gpu-clusters-more-efficient-with-nvidia-data-center-monitoring/",
-      "published_date": "2025-11-25T21:00:00+00:00",
+      "article_id": "999acc1926fe78d8d6533f0bda7627f6",
+      "title": "NVIDIA Partners With Mistral AI to Accelerate New Family of Open Models",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/mistral-frontier-open-models/",
+      "published_date": "2025-12-02T18:00:30+00:00",
       "category": "Industry",
-      "description": "High-performance computing (HPC) customers continue to scale rapidly, with generative AI, large language models (LLMs), computer vision, and other uses leading...",
-      "author": "Sachin Lakharia",
-      "content": "High-performance computing (HPC) customers continue to scale rapidly, with generative AI, large language models (LLMs), computer vision, and other uses leading...",
+      "description": "Today, Mistral AI announced the Mistral 3 family of open-source multilingual, multimodal models, optimized across NVIDIA supercomputing and edge platforms. Mistral Large 3 is a mixture-of-experts (MoE) model — instead of firing up every neuron for every token, it only activates the parts of the model with the most impact. The result is efficiency Read Article",
+      "author": "Kari Briski",
+      "content": "Today, Mistral AI announced the Mistral 3 family of open-source multilingual, multimodal models, optimized across NVIDIA supercomputing and edge platforms. Mistral Large 3 is a mixture-of-experts (MoE) model — instead of firing up every neuron for every token, it only activates the parts of the model with the most impact. The result is efficiency Read Article",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
@@ -540,35 +230,97 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-07T08:31:06.890556+00:00"
+        "consensus_timestamp": "2025-12-07T12:44:12.114086+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-07T08:31:06.890558+00:00"
+        "timestamp": "2025-12-07T12:44:12.114089+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3edb299a48f8a2cf1c5a79524d8db335",
-      "title": "The overthinking problem in AI",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/the-overthinking-problem-in-ai",
-      "published_date": "2025-11-26T14:00:00+00:00",
+      "article_id": "9e4020be1bd147573cb92df7be1ae3cf",
+      "title": "NVIDIA CUDA 13.1 Powers Next-Gen GPU Programming with NVIDIA CUDA Tile and Performance Gains",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-cuda-13-1-powers-next-gen-gpu-programming-with-nvidia-cuda-tile-and-performance-gains/",
+      "published_date": "2025-12-04T22:20:56+00:00",
       "category": "Industry",
-      "description": "Reasoning models can generate seven to 10 times as many tokens as necessary on simple tasks, creating unsustainable costs at scale. Amazon's vision for metacognitive AI could fundamentally shift how models allocate computational resources.",
-      "author": "Firat Elbey",
-      "content": "Reasoning models can generate seven to 10 times as many tokens as necessary on simple tasks, creating unsustainable costs at scale. Amazon's vision for metacognitive AI could fundamentally shift how models allocate computational resources.",
+      "description": "NVIDIA CUDA 13.1 introduces the largest and most comprehensive update to the CUDA platform since it was invented two decades ago. In this release,...",
+      "author": "Jonathan Bentz",
+      "content": "NVIDIA CUDA 13.1 introduces the largest and most comprehensive update to the CUDA platform since it was invented two decades ago. In this release,...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-07T12:44:12.115503+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-07T12:44:12.115506+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8033346da607dd9eddb98bc420f16dd4",
+      "title": "Nevis: Bringing AI to Wealth Management",
+      "source": "sequoia_ai",
+      "url": "https://sequoiacap.com/article/nevis-bringing-ai-to-wealth-management/",
+      "published_date": "2025-12-02T15:56:04+00:00",
+      "category": "Startups",
+      "description": "The post Nevis: Bringing AI to Wealth Management appeared first on Sequoia Capital.",
+      "author": "amoore",
+      "content": "The post Nevis: Bringing AI to Wealth Management appeared first on Sequoia Capital.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -606,7 +358,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-07T08:31:06.891087+00:00"
+        "consensus_timestamp": "2025-12-07T12:44:12.116260+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -617,27 +369,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-07T08:31:06.891090+00:00"
+        "timestamp": "2025-12-07T12:44:12.116263+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "b66a8d0c6d23916ec96f1b9c02290226",
-      "title": "How Myriad Genetics achieved fast, accurate, and cost-efficient document processing using the AWS open-source Generative AI Intelligent Document Processing Accelerator",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-myriad-genetics-achieved-fast-accurate-and-cost-efficient-document-processing-using-the-aws-open-source-generative-ai-intelligent-document-processing-accelerator/",
-      "published_date": "2025-11-27T00:58:14+00:00",
+      "article_id": "e72455587087f950387676629baac5fd",
+      "title": "Using LLMs to improve Amazon product listings",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/using-llms-to-improve-amazon-product-listings",
+      "published_date": "2025-11-28T20:25:51+00:00",
       "category": "Industry",
-      "description": "In this post, we explore how Myriad Genetics partnered with the AWS Generative AI Innovation Center to transform their healthcare document processing pipeline using Amazon Bedrock and Amazon Nova foundation models, achieving 98% classification accuracy while reducing costs by 77% and processing time by 80%. We detail the technical implementation using AWS's open-source GenAI Intelligent Document Processing Accelerator, the optimization strategies for document classification and key information...",
-      "author": "Priyashree Roy",
-      "content": "In this post, we explore how Myriad Genetics partnered with the AWS Generative AI Innovation Center to transform their healthcare document processing pipeline using Amazon Bedrock and Amazon Nova foundation models, achieving 98% classification accuracy while reducing costs by 77% and processing time by 80%. We detail the technical implementation using AWS's open-source GenAI Intelligent Document Processing Accelerator, the optimization strategies for document classification and key information...",
+      "description": "Large language models are increasing the accuracy, reliability, and consistency of the product catalogue at scale.",
+      "author": "Abhishek Agrawal",
+      "content": "Large language models are increasing the accuracy, reliability, and consistency of the product catalogue at scale.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.75,
         "impact_score": 0.95,
         "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -664,35 +416,35 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.9,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-07T08:31:06.887822+00:00"
+        "consensus_timestamp": "2025-12-07T12:44:12.116613+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-07T08:31:06.887825+00:00"
+        "timestamp": "2025-12-07T12:44:12.116616+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "477a88a8c090b90ce07941e63820d7e3",
-      "title": "AI On: 3 Ways Specialized AI Agents Are Reshaping Businesses",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/specialized-ai-agents/",
-      "published_date": "2025-11-24T17:00:00+00:00",
+      "article_id": "e882e1fd4ea060804bc418fe324a09e5",
+      "title": "Building AI-Powered Voice Applications: Amazon Nova Sonic Telephony Integration Guide",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-ai-powered-voice-applications-amazon-nova-sonic-telephony-integration-guide/",
+      "published_date": "2025-11-26T21:21:54+00:00",
       "category": "Industry",
-      "description": "Built on open-source models, today’s AI agents can be tailored for unique workflows and business needs to boost productivity and return on investment.",
-      "author": "Amanda Saunders",
-      "content": "Built on open-source models, today’s AI agents can be tailored for unique workflows and business needs to boost productivity and return on investment.",
+      "description": "Available through the Amazon Bedrock bidirectional streaming API, Amazon Nova Sonic can connect to your business data and external tools and can be integrated directly with telephony systems. This post will introduce sample implementations for the most common telephony scenarios.",
+      "author": "Reilly Manton",
+      "content": "Available through the Amazon Bedrock bidirectional streaming API, Amazon Nova Sonic can connect to your business data and external tools and can be integrated directly with telephony systems. This post will introduce sample implementations for the most common telephony scenarios.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -727,41 +479,41 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.85,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-07T08:31:06.889023+00:00"
+        "consensus_timestamp": "2025-12-07T12:44:12.113147+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-07T08:31:06.889025+00:00"
+        "timestamp": "2025-12-07T12:44:12.113150+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "bf39a3b77dcce05627276b2238455965",
-      "title": "AlphaFold: Five years of impact",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
-      "published_date": "2025-11-25T16:00:12+00:00",
+      "article_id": "425b5181265f3b6abc618bc33549ac62",
+      "title": "AWS Integrates AI Infrastructure with NVIDIA NVLink Fusion for Trainium4 Deployment",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/aws-integrates-ai-infrastructure-with-nvidia-nvlink-fusion-for-trainium4-deployment/",
+      "published_date": "2025-12-02T16:00:00+00:00",
       "category": "Industry",
-      "description": "Explore how AlphaFold has accelerated science and fueled a global wave of biological discovery.",
-      "author": "",
-      "content": "Explore how AlphaFold has accelerated science and fueled a global wave of biological discovery.",
+      "description": "As demand for AI continues to grow, hyperscalers are looking for ways to accelerate deployment of specialized AI infrastructure with the highest performance....",
+      "author": "Jesse Clayton",
+      "content": "As demand for AI continues to grow, hyperscalers are looking for ways to accelerate deployment of specialized AI infrastructure with the highest performance....",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8375,
-        "confidence_mean": 0.92
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -792,7 +544,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-07T08:31:06.890850+00:00"
+        "consensus_timestamp": "2025-12-07T12:44:12.115778+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,26 +555,150 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-07T08:31:06.890852+00:00"
+        "timestamp": "2025-12-07T12:44:12.115780+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "5d99154b884c8580db91456470bc52a4",
-      "title": "Build Efficient Financial Data Workflows with AI Model Distillation",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/build-efficient-financial-data-workflows-with-ai-model-distillation/",
-      "published_date": "2025-12-01T22:00:17+00:00",
+      "article_id": "fe9ebe25907c8a413fab2c9634789fb1",
+      "title": "NIH establishes nation's first dedicated organoid development center to reduce reliance on animal modeling",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-establishes-nations-first-dedicated-organoid-development-center-reduce-reliance-animal-modeling",
+      "published_date": "2025-12-07T12:40:19.345338+00:00",
+      "category": "Government",
+      "description": "The Standardized Organoid Modeling Center aims to produce standardized protocols for organoid research, addressing reproducibility challenges.",
+      "author": "",
+      "content": "The Standardized Organoid Modeling Center aims to produce standardized protocols for organoid research, addressing reproducibility challenges.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-07T12:44:12.110919+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-07T12:44:12.110947+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "37310d3cf51f2d0b825489ace2999e9b",
+      "title": "How Indian IT Turned Performance Reviews into an Exit Tool",
+      "source": "analytics_india_magazine",
+      "url": "https://analyticsindiamag.com/it-services/how-indian-it-turned-performance-reviews-into-an-exit-tool/",
+      "published_date": "2025-12-05T10:26:40+00:00",
       "category": "Industry",
-      "description": "Large language models (LLMs) in quantitative finance are increasingly being used for alpha generation, automated report analysis, and risk prediction. Yet...",
-      "author": "Dhruv Desai",
-      "content": "Large language models (LLMs) in quantitative finance are increasingly being used for alpha generation, automated report analysis, and risk prediction. Yet...",
+      "description": "Employees and HR leaders say PIPs are twisted into covert exit tools, enabling bias, unchecked power and procedural violations. The post How Indian IT Turned Performance Reviews into an Exit Tool appeared first on Analytics India Magazine.",
+      "author": "C P Balasubramanyam",
+      "content": "Employees and HR leaders say PIPs are twisted into covert exit tools, enabling bias, unchecked power and procedural violations. The post How Indian IT Turned Performance Reviews into an Exit Tool appeared first on Analytics India Magazine.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.85,
+        "overall_score": 0.8275,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.78,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-07T12:44:12.117310+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6679999999999999,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-07T12:44:12.117313+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c53a83c7baca916e402abb537faa9393",
+      "title": "Evaluate models with the Amazon Nova evaluation container using Amazon SageMaker AI",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-models-with-the-amazon-nova-evaluation-container-using-amazon-sagemaker-ai/",
+      "published_date": "2025-11-26T19:39:01+00:00",
+      "category": "Industry",
+      "description": "This blog post introduces the new Amazon Nova model evaluation features in Amazon SageMaker AI. This release adds custom metrics support, LLM-based preference testing, log probability capture, metadata analysis, and multi-node scaling for large evaluations.",
+      "author": "Tony Santiago",
+      "content": "This blog post introduces the new Amazon Nova model evaluation features in Amazon SageMaker AI. This release adds custom metrics support, LLM-based preference testing, log probability capture, metadata analysis, and multi-node scaling for large evaluations.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.8,
-        "novelty_score": 0.75,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8375,
+        "overall_score": 0.8500000000000001,
         "confidence_mean": 0.85
       },
       "combined_deep_intelligence": {
@@ -850,22 +726,146 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-07T08:31:06.890469+00:00"
+        "consensus_timestamp": "2025-12-07T12:44:12.113287+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-07T08:31:06.890472+00:00"
+        "timestamp": "2025-12-07T12:44:12.113289+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "9cfd7c8d7132e4556a32ae9bd15cd4d5",
+      "title": "From Government to Gaming, AI Is ‘Strengthening Korea’s Digital Foundation,’ NVIDIA Leader Says at AI Day Seoul",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/ai-day-seoul/",
+      "published_date": "2025-11-26T17:00:32+00:00",
+      "category": "Industry",
+      "description": "Last week, more than 1,000 attendees joined NVIDIA AI Day Seoul to learn about sovereign AI — including breakout sessions on agentic and physical AI, hands-on workshops and a startup reception for members of the NVIDIA Inception program, all offering insights into the current and future landscape of the AI ecosystem in Korea.",
+      "author": "Solee Moon",
+      "content": "Last week, more than 1,000 attendees joined NVIDIA AI Day Seoul to learn about sovereign AI — including breakout sessions on agentic and physical AI, hands-on workshops and a startup reception for members of the NVIDIA Inception program, all offering insights into the current and future landscape of the AI ecosystem in Korea.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.82,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-07T12:44:12.114218+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-07T12:44:12.114221+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "f430ea755dee3e7737792a4335385b93",
+      "title": "Scalar i3 Doubles Capacity and Adds Ethernet Tape via New iSCSI Bridge",
+      "source": "ai_techpark",
+      "url": "https://ai-techpark.com/scalar-i3-doubles-capacity-and-adds-ethernet-tape-via-new-iscsi-bridge/",
+      "published_date": "2025-12-05T15:15:00+00:00",
+      "category": "Industry",
+      "description": "Enhancements deliver industry-leading storage capacity, enable SAS-over-Ethernet in a single chassis Quantum Corporation (Nasdaq: QMCO) today announced enhancements to the Scalar® i3 tape library, including increased capacity and extended connectivity into more environments thanks to new Ethernet connectivity enabled by the Scalar iSCSI Bridge. These improvements make Scalar i3 an... The post Scalar i3 Doubles Capacity and Adds Ethernet Tape via New iSCSI Bridge first appeared on AI-Tech Park.",
+      "author": "Business Wire",
+      "content": "Enhancements deliver industry-leading storage capacity, enable SAS-over-Ethernet in a single chassis Quantum Corporation (Nasdaq: QMCO) today announced enhancements to the Scalar® i3 tape library, including increased capacity and extended connectivity into more environments thanks to new Ethernet connectivity enabled by the Scalar iSCSI Bridge. These improvements make Scalar i3 an... The post Scalar i3 Doubles Capacity and Adds Ethernet Tape via New iSCSI Bridge first appeared on AI-Tech Park.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.82,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.75,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-07T12:44:12.116793+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6499999999999999,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-07T12:44:12.116795+00:00"
       },
       "article_type": "article"
     },
@@ -916,7 +916,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-07T08:31:06.887293+00:00"
+        "consensus_timestamp": "2025-12-07T12:44:12.112402+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-07T08:31:06.887296+00:00"
+        "timestamp": "2025-12-07T12:44:12.112405+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 160.0504548549652,
+    "processing_time": 159.41647815704346,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 125,
+      "total_processed": 130,
       "candidates": {
-        "headlines": 9,
-        "articles": 116,
+        "headlines": 8,
+        "articles": 122,
         "research_papers": 0
       },
       "selected": {
