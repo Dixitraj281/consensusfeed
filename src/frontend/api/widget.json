@@ -1,12 +1,12 @@
 {
-  "updated": "2025-12-14T20:27:43.614321+00:00",
+  "updated": "2025-12-15T01:55:37.059364+00:00",
   "top_stories": [
     {
       "article_id": "ecd428aa0aea150f18ae0e98e0648d9c",
       "title": "NIH launches $50M Autism Data Science Initiative to unlock causes and improve outcomes",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/nih-launches-fifty-million-autism-data-science-initiative-unlock-causes-improve-outcomes",
-      "published_date": "2025-12-14T20:24:00.125840+00:00",
+      "published_date": "2025-12-15T01:51:38.340754+00:00",
       "category": "Government",
       "description": "Funded projects will drive discoveries across biology, environment, and autism services.",
       "author": "",
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-14T20:27:43.501349+00:00"
+        "consensus_timestamp": "2025-12-15T01:55:37.026851+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,26 +59,150 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-14T20:27:43.501354+00:00"
+        "timestamp": "2025-12-15T01:55:37.026857+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "e193bf200df768fd3bc690d4d544f0a5",
-      "title": "NIH-led study reveals role of mobile DNA elements in lung cancer progression",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-led-study-reveals-role-mobile-dna-elements-lung-cancer-progression",
-      "published_date": "2025-12-14T20:24:00.125351+00:00",
-      "category": "Government",
-      "description": "Sherlock-Lung study researchers use large-scale, multi-omics analysis to identify biomarker of aggressive lung tumors.",
+      "article_id": "ae00dc0025a9cb61d032338938ea5e0a",
+      "title": "BBVA and OpenAI collaborate to transform global banking",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/bbva-collaboration-expansion",
+      "published_date": "2025-12-12T00:00:00+00:00",
+      "category": "Industry",
+      "description": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI solutions that enhance customer interactions, streamline operations, and help build an AI-native banking experience.",
       "author": "",
-      "content": "Sherlock-Lung study researchers use large-scale, multi-omics analysis to identify biomarker of aggressive lung tumors.",
+      "content": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI solutions that enhance customer interactions, streamline operations, and help build an AI-native banking experience.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.931,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-15T01:55:37.027898+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-15T01:55:37.027900+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "fb1417d56c2a0d9ffec58a14dd7dfcf5",
+      "title": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
+      "published_date": "2025-12-09T11:29:03+00:00",
+      "category": "Industry",
+      "description": "Systematically evaluating the factuality of large language models with the FACTS Benchmark Suite.",
+      "author": "",
+      "content": "Systematically evaluating the factuality of large language models with the FACTS Benchmark Suite.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.95,
+        "overall_score": 0.9125000000000001,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-15T01:55:37.031638+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-15T01:55:37.031641+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "63dcdd90ccc1d5a45dbfe7da3921e7ca",
+      "title": "Increasing revenue 300% by bringing AI to SMBs",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/podium",
+      "published_date": "2025-12-11T00:00:00+00:00",
+      "category": "Industry",
+      "description": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
+      "author": "",
+      "content": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.95,
+        "quality_score": 0.9,
         "novelty_score": 0.9,
         "impact_score": 0.95,
-        "overall_score": 0.9225000000000001,
+        "overall_score": 0.9099999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -110,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-14T20:27:43.501070+00:00"
+        "consensus_timestamp": "2025-12-15T01:55:37.028133+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,20 +245,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-14T20:27:43.501074+00:00"
+        "timestamp": "2025-12-15T01:55:37.028136+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "670cdf4a572ae6702f0ffbf5e6b11134",
-      "title": "Enabling Horizontal Autoscaling of Enterprise RAG Components on Kubernetes",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/enabling-horizontal-autoscaling-of-enterprise-rag-components-on-kubernetes/",
-      "published_date": "2025-12-12T21:00:00+00:00",
-      "category": "Industry",
-      "description": "Today’s best AI agents rely on retrieval-augmented generation (RAG) to enable more accurate results. A RAG system facilitates the use of a knowledge base to...",
-      "author": "Juana Nakfour",
-      "content": "Today’s best AI agents rely on retrieval-augmented generation (RAG) to enable more accurate results. A RAG system facilitates the use of a knowledge base to...",
+      "article_id": "e193bf200df768fd3bc690d4d544f0a5",
+      "title": "NIH-led study reveals role of mobile DNA elements in lung cancer progression",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-led-study-reveals-role-mobile-dna-elements-lung-cancer-progression",
+      "published_date": "2025-12-15T01:51:38.340394+00:00",
+      "category": "Government",
+      "description": "Sherlock-Lung study researchers use large-scale, multi-omics analysis to identify biomarker of aggressive lung tumors.",
+      "author": "",
+      "content": "Sherlock-Lung study researchers use large-scale, multi-omics analysis to identify biomarker of aggressive lung tumors.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -172,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-14T20:27:43.579183+00:00"
+        "consensus_timestamp": "2025-12-15T01:55:37.026600+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,131 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-14T20:27:43.579185+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c38ef284c8ca722b81dfa2ec5f51c6f7",
-      "title": "Port raises $100M at $800M valuation to take on Spotify’s Backstage",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2025/12/11/port-raises-100m-at-800m-valuation-to-take-on-spotifys-backstage/",
-      "published_date": "2025-12-11T11:00:00+00:00",
-      "category": "Industry",
-      "description": "Port offers a proprietary alternative to Spotify's popular devtool catalog Backstage, but with a valuable addition — it can be used to manage AI agents, too.",
-      "author": "Julie Bort",
-      "content": "Port offers a proprietary alternative to Spotify's popular devtool catalog Backstage, but with a valuable addition — it can be used to manage AI agents, too.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-14T20:27:43.579002+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-14T20:27:43.579004+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "760f66ecf27e720d22312bb3a834e9ce",
-      "title": "AI-native 6G: From networks to intelligence fabrics",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/ai-native-6g-from-networks-to-intelligence-fabrics",
-      "published_date": "2025-12-01T16:50:03+00:00",
-      "category": "Industry",
-      "description": "“Network language models” will coordinate complex interactions among intelligent components, computational infrastructure, access points, data centers, and more.",
-      "author": "Imen Grida Ben Yahya",
-      "content": "“Network language models” will coordinate complex interactions among intelligent components, computational infrastructure, access points, data centers, and more.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-14T20:27:43.580720+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-14T20:27:43.580723+00:00"
+        "timestamp": "2025-12-15T01:55:37.026604+00:00"
       },
       "article_type": "article"
     }
