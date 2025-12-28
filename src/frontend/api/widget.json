@@ -1,16 +1,78 @@
 {
-  "updated": "2025-12-28T02:03:05.012111+00:00",
+  "updated": "2025-12-28T04:50:50.702650+00:00",
   "top_stories": [
     {
-      "article_id": "a4a26b0cd193b0923459a1e2662d8bc5",
-      "title": "Boost GPU Memory Performance with No Code Changes Using NVIDIA CUDA MPS",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/boost-gpu-memory-performance-with-no-code-changes-using-nvidia-cuda-mps/",
-      "published_date": "2025-12-16T17:00:00+00:00",
+      "article_id": "ecd428aa0aea150f18ae0e98e0648d9c",
+      "title": "NIH launches $50M Autism Data Science Initiative to unlock causes and improve outcomes",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-launches-fifty-million-autism-data-science-initiative-unlock-causes-improve-outcomes",
+      "published_date": "2025-12-28T04:46:41.512107+00:00",
+      "category": "Government",
+      "description": "Funded projects will drive discoveries across biology, environment, and autism services.",
+      "author": "",
+      "content": "Funded projects will drive discoveries across biology, environment, and autism services.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.7,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.8400000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-28T04:50:50.676127+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-28T04:50:50.676131+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "4a102840743a7d49d9f04536af0bd57b",
+      "title": "AWS AI League: Model customization and agentic showdown",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/aws-ai-league-model-customization-and-agentic-showdown/",
+      "published_date": "2025-12-23T17:36:07+00:00",
       "category": "Industry",
-      "description": "NVIDIA CUDA developers have access to a wide range of tools and libraries that simplify development and deployment, enabling users to focus on the “what”...",
-      "author": "Sherwin Nassernia",
-      "content": "NVIDIA CUDA developers have access to a wide range of tools and libraries that simplify development and deployment, enabling users to focus on the “what”...",
+      "description": "In this post, we explore the new AWS AI League challenges and how they are transforming how organizations approach AI development. The grand finale at AWS re:Invent 2025 was an exciting showcase of their ingenuity and skills.",
+      "author": "Marc Karp",
+      "content": "In this post, we explore the new AWS AI League challenges and how they are transforming how organizations approach AI development. The grand finale at AWS re:Invent 2025 was an exciting showcase of their ingenuity and skills.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -45,145 +107,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.85,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-28T02:03:04.985449+00:00"
+        "consensus_timestamp": "2025-12-28T04:50:50.677757+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-28T02:03:04.985452+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "ac4010490ad406f2590120aa7a3ea453",
-      "title": "Introducing Visa Intelligent Commerce on AWS: Enabling agentic commerce with Amazon Bedrock AgentCore",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-visa-intelligent-commerce-on-aws-enabling-agentic-commerce-with-amazon-bedrock-agentcore/",
-      "published_date": "2025-12-23T16:45:47+00:00",
-      "category": "Industry",
-      "description": "In this post, we explore how AWS and Visa are partnering to enable agentic commerce through Visa Intelligent Commerce using Amazon Bedrock AgentCore. We demonstrate how autonomous AI agents can transform fragmented shopping and travel experiences into seamless, end-to-end workflows—from discovery and comparison to secure payment authorization—all driven by natural language.",
-      "author": "Sangeetha Bharath, Seemal Zaman",
-      "content": "In this post, we explore how AWS and Visa are partnering to enable agentic commerce through Visa Intelligent Commerce using Amazon Bedrock AgentCore. We demonstrate how autonomous AI agents can transform fragmented shopping and travel experiences into seamless, end-to-end workflows—from discovery and comparison to secure payment authorization—all driven by natural language.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-28T02:03:04.983189+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-28T02:03:04.983192+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "7e73bf1dfd6d428ee392052efd9fc44b",
-      "title": "Waymo is testing Gemini as an in-car AI assistant in its robotaxis",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/",
-      "published_date": "2025-12-24T16:27:55+00:00",
-      "category": "Industry",
-      "description": "Waymo is testing a Gemini-powered in-car AI assistant, per findings from a 1,200-line system prompt. The assistant can answer general knowledge questions, control certain in-cabin features, and more.",
-      "author": "Rebecca Bellan",
-      "content": "Waymo is testing a Gemini-powered in-car AI assistant, per findings from a 1,200-line system prompt. The assistant can answer general knowledge questions, control certain in-cabin features, and more.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-28T02:03:04.984330+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-28T02:03:04.984332+00:00"
+        "timestamp": "2025-12-28T04:50:50.677760+00:00"
       },
       "article_type": "article"
     },
@@ -234,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-28T02:03:04.982102+00:00"
+        "consensus_timestamp": "2025-12-28T04:50:50.677158+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,26 +183,88 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-28T02:03:04.982105+00:00"
+        "timestamp": "2025-12-28T04:50:50.677161+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3dc3553db6b41dccae0ccf9f4deeeecd",
-      "title": "Alphabet to buy Intersect Power to bypass energy grid bottlenecks",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2025/12/22/alphabet-to-buy-intersect-power-to-bypass-energy-grid-bottlenecks/",
-      "published_date": "2025-12-22T21:10:54+00:00",
+      "article_id": "e0cc4ee268e4b1d62c96788629f9d73f",
+      "title": "NVIDIA CUDA-X Powers the New Sirius GPU Engine for DuckDB, Setting ClickBench Records",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-gpu-accelerated-sirius-achieves-record-setting-clickbench-record/",
+      "published_date": "2025-12-15T17:18:31+00:00",
       "category": "Industry",
-      "description": "Alphabet is set to pay $4.75 billion in cash, plus debt, for the data center and clean energy developer.",
-      "author": "Marina Temkin",
-      "content": "Alphabet is set to pay $4.75 billion in cash, plus debt, for the data center and clean energy developer.",
+      "description": "Sirius, an open-source GPU native SQL engine, achieved a new performance record on Clickbench—a widely used analytics benchmark. Developed by University of...",
+      "author": "Xiangyao Yu",
+      "content": "Sirius, an open-source GPU native SQL engine, achieved a new performance record on Clickbench—a widely used analytics benchmark. Developed by University of...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-28T04:50:50.679456+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-28T04:50:50.679458+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "669407127bcab28e7dfdad3fac354d5b",
+      "title": "Build a multimodal generative AI assistant for root cause diagnosis in predictive maintenance using Amazon Bedrock",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-multimodal-generative-ai-assistant-for-root-cause-diagnosis-in-predictive-maintenance-using-amazon-bedrock/",
+      "published_date": "2025-12-22T18:21:28+00:00",
+      "category": "Industry",
+      "description": "In this post, we demonstrate how to implement a predictive maintenance solution using Foundation Models (FMs) on Amazon Bedrock, with a case study of Amazon's manufacturing equipment within their fulfillment centers. The solution is highly adaptable and can be customized for other industries, including oil and gas, logistics, manufacturing, and healthcare.",
+      "author": "Carla Lorente",
+      "content": "In this post, we demonstrate how to implement a predictive maintenance solution using Foundation Models (FMs) on Amazon Bedrock, with a case study of Amazon's manufacturing equipment within their fulfillment centers. The solution is highly adaptable and can be customized for other industries, including oil and gas, logistics, manufacturing, and healthcare.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
         "quality_score": 0.9,
         "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.9,
+        "overall_score": 0.87,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -296,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-28T02:03:04.984665+00:00"
+        "consensus_timestamp": "2025-12-28T04:50:50.678072+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,11 +307,11 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-28T02:03:04.984667+00:00"
+        "timestamp": "2025-12-28T04:50:50.678074+00:00"
       },
       "article_type": "article"
     }
   ],
-  "total_count": 14,
+  "total_count": 15,
   "pipeline_version": "3.0_with_deep_intelligence"
 }
