@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-30T20:30:04.213854+00:00",
+  "updated": "2025-12-31T01:53:51.733172+00:00",
   "top_stories": [
     {
       "article_id": "0110c39596b6803ede508fb43716499d",
@@ -12,74 +12,12 @@
       "author": "Rebecca Szkutak",
       "content": "Enterprises have been experimenting with AI tools for a few years. Investors predict they will start to pick winners in 2026.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8250000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-30T20:30:04.181662+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-30T20:30:04.181665+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "fe9ebe25907c8a413fab2c9634789fb1",
-      "title": "NIH establishes nation's first dedicated organoid development center to reduce reliance on animal modeling",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-establishes-nations-first-dedicated-organoid-development-center-reduce-reliance-animal-modeling",
-      "published_date": "2025-12-30T20:26:20.491009+00:00",
-      "category": "Government",
-      "description": "The Standardized Organoid Modeling Center aims to produce standardized protocols for organoid research, addressing reproducibility challenges.",
-      "author": "",
-      "content": "The Standardized Organoid Modeling Center aims to produce standardized protocols for organoid research, addressing reproducibility challenges.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.95,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8975,
-        "confidence_mean": 0.95
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.9435,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +48,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-30T20:30:04.178959+00:00"
+        "consensus_timestamp": "2025-12-31T01:53:51.699108+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,20 +59,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-30T20:30:04.178963+00:00"
+        "timestamp": "2025-12-31T01:53:51.699111+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "656667702fd12ca9fdc415a5e7c4fe38",
+      "title": "Solving Large-Scale Linear Sparse Problems with NVIDIA cuDSS",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/solving-large-scale-linear-sparse-problems-with-nvidia-cudss/",
+      "published_date": "2025-12-17T18:30:00+00:00",
+      "category": "Industry",
+      "description": "Solving large-scale problems in Electronic Design Automation (EDA), Computational Fluid Dynamics (CFD), and advanced optimization workflows has become the norm...",
+      "author": "Jeff Layton",
+      "content": "Solving large-scale problems in Electronic Design Automation (EDA), Computational Fluid Dynamics (CFD), and advanced optimization workflows has become the norm...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.98,
+        "overall_score": 0.9185000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-31T01:53:51.700030+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-31T01:53:51.700033+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "b9444b4537eebf9e3530ef6b439d63d5",
-      "title": "Faster treatments and support for health workers as AI tackles A&E bottlenecks",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/faster-treatments-and-support-for-health-workers-as-ai-tackles-ae-bottlenecks",
-      "published_date": "2025-12-28T22:30:00+00:00",
-      "category": "Government",
-      "description": "AI tool helping 50 NHS organisations predict A&E demand this winter, speeding up patient care as government delivers on building an NHS fit for the future.",
-      "author": "",
-      "content": "AI tool helping 50 NHS organisations predict A&E demand this winter, speeding up patient care as government delivers on building an NHS fit for the future.",
+      "article_id": "300511cd47e5e4631323315c88069058",
+      "title": "How to Build a Robust Multi-Agent Pipeline Using CAMEL with Planning, Web-Augmented Reasoning, Critique, and Persistent Memory",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2025/12/29/how-to-build-a-robust-multi-agent-pipeline-using-camel-with-planning-web-augmented-reasoning-critique-and-persistent-memory/",
+      "published_date": "2025-12-30T07:42:12+00:00",
+      "category": "Industry",
+      "description": "In this tutorial, we build an advanced, end-to-end multi-agent research workflow using the CAMEL framework. We design a coordinated society of agents, Planner, Researcher, Writer, Critic, and Finalizer, that collaboratively transform a high-level topic into a polished, evidence-grounded research brief. We securely integrate the OpenAI API, orchestrate agent interactions programmatically, and add lightweight persistent memory […] The post How to Build a Robust Multi-Agent Pipeline Using CAMEL...",
+      "author": "Michal Sutter",
+      "content": "In this tutorial, we build an advanced, end-to-end multi-agent research workflow using the CAMEL framework. We design a coordinated society of agents, Planner, Researcher, Writer, Critic, and Finalizer, that collaboratively transform a high-level topic into a polished, evidence-grounded research brief. We securely integrate the OpenAI API, orchestrate agent interactions programmatically, and add lightweight persistent memory […] The post How to Build a Robust Multi-Agent Pipeline Using CAMEL...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -169,83 +169,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-30T20:30:04.179106+00:00"
+        "consensus_timestamp": "2025-12-31T01:53:51.701612+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-30T20:30:04.179109+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "da82d10f435fd6c46438e77b150ab849",
-      "title": "Introducing GPT-5.2-Codex",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/introducing-gpt-5-2-codex",
-      "published_date": "2025-12-18T00:00:00+00:00",
-      "category": "Industry",
-      "description": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
-      "author": "",
-      "content": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-30T20:30:04.180207+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-30T20:30:04.180210+00:00"
+        "timestamp": "2025-12-31T01:53:51.701615+00:00"
       },
       "article_type": "article"
     },
@@ -263,8 +201,8 @@
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.885,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -293,21 +231,83 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-30T20:30:04.181478+00:00"
+        "consensus_timestamp": "2025-12-31T01:53:51.698967+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-31T01:53:51.698970+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4064e256349f06d0328f42ae9c88f6aa",
+      "title": "DebitMyData Lays the Foundation for the Human Energy Grid",
+      "source": "ai_techpark",
+      "url": "https://ai-techpark.com/debitmydata-lays-the-foundation-for-the-human-energy-grid/",
+      "published_date": "2025-12-29T07:00:00+00:00",
+      "category": "Industry",
+      "description": "As AI accelerates beyond human employment capacity and public trust erodes under massive data center expansion, DebitMyData, Inc. is building the missing bridge — the human and digital foundation for the next economy. Before governments acted, before the Genesis Executive Order ignited a national push for ethical AI infrastructure, DebitMyData... The post DebitMyData Lays the Foundation for the Human Energy Grid first appeared on AI-Tech Park.",
+      "author": "GlobeNewswire",
+      "content": "As AI accelerates beyond human employment capacity and public trust erodes under massive data center expansion, DebitMyData, Inc. is building the missing bridge — the human and digital foundation for the next economy. Before governments acted, before the Genesis Executive Order ignited a national push for ethical AI infrastructure, DebitMyData... The post DebitMyData Lays the Foundation for the Human Energy Grid first appeared on AI-Tech Park.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-31T01:53:51.700459+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-30T20:30:04.181481+00:00"
+        "timestamp": "2025-12-31T01:53:51.700461+00:00"
       },
       "article_type": "article"
     }
