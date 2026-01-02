@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-01-02T08:35:06.293014+00:00",
+  "generated_at": "2026-01-02T12:47:46.905724+00:00",
   "articles": [
     {
       "article_id": "ecd428aa0aea150f18ae0e98e0648d9c",
       "title": "NIH launches $50M Autism Data Science Initiative to unlock causes and improve outcomes",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/nih-launches-fifty-million-autism-data-science-initiative-unlock-causes-improve-outcomes",
-      "published_date": "2026-01-02T08:32:04.380220+00:00",
+      "published_date": "2026-01-02T12:45:01.540424+00:00",
       "category": "Government",
       "description": "Funded projects will drive discoveries across biology, environment, and autism services.",
       "author": "",
@@ -48,7 +48,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-02T08:35:06.266367+00:00"
+        "consensus_timestamp": "2026-01-02T12:47:46.876232+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,27 +59,89 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-02T08:35:06.266371+00:00"
+        "timestamp": "2026-01-02T12:47:46.876235+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "4b96350fe9bf758c0411e0d9b564af88",
-      "title": "How Google Cloud is shaping the enterprise AI inference moment",
+      "article_id": "5334e701b4d1de5a1564eae4b146d615",
+      "title": "MiniMax releases M2.1 AI model for multi-language programming versatility",
       "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2025/12/19/google-cloud-runs-ai-inference-real-world-scale-googlecloud/",
-      "published_date": "2025-12-19T21:47:40+00:00",
+      "url": "https://siliconangle.com/2025/12/23/minimax-releases-m2-1-ai-model-multi-language-programming-versatility/",
+      "published_date": "2025-12-23T16:30:54+00:00",
       "category": "Industry",
-      "description": "Enterprise technology investment continues to accelerate, but the friction point has shifted. The hard part is no longer training models or selecting architectures. It’s getting those models into production, keeping them responsive under real-world conditions and proving they deliver value once they’re live. AI inference is where initiatives either prove their value or grind to […] The post How Google Cloud is shaping the enterprise AI inference moment appeared first on SiliconANGLE.",
-      "author": "Victoria Gayton",
-      "content": "Enterprise technology investment continues to accelerate, but the friction point has shifted. The hard part is no longer training models or selecting architectures. It’s getting those models into production, keeping them responsive under real-world conditions and proving they deliver value once they’re live. AI inference is where initiatives either prove their value or grind to […] The post How Google Cloud is shaping the enterprise AI inference moment appeared first on SiliconANGLE.",
+      "description": "Chinese artificial intelligence startup MiniMax today announced the release of M2.1, a significantly enhanced performance for real-world complex tasks and agentic capabilities across more programming languages and office scenarios. The key highlights of M2.1 include dramatically enhanced programming skills in a multitude of programming languages, including Rust, Java, Golang, C++, Kotlin, Objective-C, TypeScript and JavaScript. […] The post MiniMax releases M2.1 AI model for multi-language...",
+      "author": "Kyt Dotson",
+      "content": "Chinese artificial intelligence startup MiniMax today announced the release of M2.1, a significantly enhanced performance for real-world complex tasks and agentic capabilities across more programming languages and office scenarios. The key highlights of M2.1 include dramatically enhanced programming skills in a multitude of programming languages, including Rust, Java, Golang, C++, Kotlin, Objective-C, TypeScript and JavaScript. […] The post MiniMax releases M2.1 AI model for multi-language...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.98
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.92,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-02T12:47:46.880515+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.752,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-02T12:47:46.880518+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "5aef608baad659777ebaa744b0f91ca2",
+      "title": "Accelerating AI-Powered Chemistry and Materials Science Simulations with NVIDIA ALCHEMI Toolkit-Ops",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/accelerating-ai-powered-chemistry-and-materials-science-simulations-with-nvidia-alchemi-toolkit-ops/",
+      "published_date": "2025-12-19T17:00:00+00:00",
+      "category": "Industry",
+      "description": "Machine learning interatomic potentials (MLIPs) are transforming the landscape of computational chemistry and materials science. MLIPs enable atomistic...",
+      "author": "Justin S. Smith",
+      "content": "Machine learning interatomic potentials (MLIPs) are transforming the landscape of computational chemistry and materials science. MLIPs enable atomistic...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -107,21 +169,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-02T08:35:06.270467+00:00"
+        "consensus_timestamp": "2026-01-02T12:47:46.878598+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-02T08:35:06.270470+00:00"
+        "timestamp": "2026-01-02T12:47:46.878601+00:00"
       },
       "article_type": "article"
     },
@@ -172,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-02T08:35:06.266562+00:00"
+        "consensus_timestamp": "2026-01-02T12:47:46.876425+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,7 +245,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-02T08:35:06.266566+00:00"
+        "timestamp": "2026-01-02T12:47:46.876431+00:00"
       },
       "article_type": "article"
     },
@@ -234,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-02T08:35:06.266902+00:00"
+        "consensus_timestamp": "2026-01-02T12:47:46.876757+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,213 +307,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-02T08:35:06.266906+00:00"
+        "timestamp": "2026-01-02T12:47:46.876760+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "e5b32ccbf80d9c98bde18aaff20d2b34",
-      "title": "Faster agents, bigger blast radius: Why agent governance is the new control plane for resilience",
-      "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2025/12/23/ai-agent-governance-new-resilience-mandate-rubrikresilience/",
-      "published_date": "2025-12-23T14:15:53+00:00",
+      "article_id": "30c4c3664a791d6bd8a039ba226946d5",
+      "title": "Amazon blocks 1800 North Korean operatives from remote jobs",
+      "source": "dataconomy",
+      "url": "https://dataconomy.com/2026/01/02/amazon-blocks-1800-north-korean-operatives-from-remote-jobs/",
+      "published_date": "2026-01-02T10:04:13+00:00",
       "category": "Industry",
-      "description": "As enterprises accelerate their move toward autonomous workflows powered by artificial intelligence, the urgent need for robust AI agent governance has become a critical operational mandate. An agent’s potential relies on the fact that they can perform higher-level tasks, including assuming identities and executing business processes. But if that is compromised, attackers have effectively hijacked […] The post Faster agents, bigger blast radius: Why agent governance is the new control plane for...",
-      "author": "Ryan Stevens",
-      "content": "As enterprises accelerate their move toward autonomous workflows powered by artificial intelligence, the urgent need for robust AI agent governance has become a critical operational mandate. An agent’s potential relies on the fact that they can perform higher-level tasks, including assuming identities and executing business processes. But if that is compromised, attackers have effectively hijacked […] The post Faster agents, bigger blast radius: Why agent governance is the new control plane for...",
+      "description": "Amazon has blocked more than 1,800 suspected North Korean operatives from remote information technology jobs since April 2024. Stephen Schmidt, the company’s second senior vice president and chief security officer, detailed the effort in a LinkedIn post in late December 2025. North Korean nationals seek these positions at U.S. companies to funnel wages toward the […]",
+      "author": "Emre Çıtak",
+      "content": "Amazon has blocked more than 1,800 suspected North Korean operatives from remote information technology jobs since April 2024. Stephen Schmidt, the company’s second senior vice president and chief security officer, detailed the effort in a LinkedIn post in late December 2025. North Korean nationals seek these positions at U.S. companies to funnel wages toward the […]",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8624999999999998,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-02T08:35:06.270130+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-02T08:35:06.270133+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "529ef97f50c1a222196fa67820ae2a81",
-      "title": "Equity’s 2026 Predictions: AI Agents, Blockbuster IPOs, and the Future of VC",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/podcast/equitys-2026-predictions-ai-agents-blockbuster-ipos-and-the-future-of-vc/",
-      "published_date": "2025-12-26T18:00:00+00:00",
-      "category": "Industry",
-      "description": "TechCrunch’s Equity crew is bringing 2025 to a close and getting ahead on the year to come with our annual predictions episode! Hosts Kirsten Korosec, Anthony Ha, and Rebecca Bellan were joined by Build Mode host Isabelle Johannessen to dissect the year’s biggest tech developments, from mega AI funding rounds that defied expectations to the rise of “physical AI,” and make […]",
-      "author": "Theresa Loconsolo, Kirsten Korosec, Rebecca Bellan, Anthony Ha, Isabelle Johannessen",
-      "content": "TechCrunch’s Equity crew is bringing 2025 to a close and getting ahead on the year to come with our annual predictions episode! Hosts Kirsten Korosec, Anthony Ha, and Rebecca Bellan were joined by Build Mode host Isabelle Johannessen to dissect the year’s biggest tech developments, from mega AI funding rounds that defied expectations to the rise of “physical AI,” and make […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-02T08:35:06.268494+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-02T08:35:06.268497+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "671712119f8eab16361122285f646668",
-      "title": "Anthropic announces Bloom, an open-source tool for researchers evaluating AI behavior",
-      "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2025/12/22/anthropic-announces-bloom-open-source-tool-researchers-evaluating-ai-behavior/",
-      "published_date": "2025-12-22T16:10:20+00:00",
-      "category": "Industry",
-      "description": "Anthropic PBC Friday announced the release of Bloom, an open-source agentic framework for defining and exploring the behavior of frontier artificial intelligence models. Bloom takes a researcher-specified behavior and evaluates its frequency and severity by preparing scenarios to elicit and test for it. It’s designed to help speed up the tedious process of developing and […] The post Anthropic announces Bloom, an open-source tool for researchers evaluating AI behavior appeared first on...",
-      "author": "Kyt Dotson",
-      "content": "Anthropic PBC Friday announced the release of Bloom, an open-source agentic framework for defining and exploring the behavior of frontier artificial intelligence models. Bloom takes a researcher-specified behavior and evaluates its frequency and severity by preparing scenarios to elicit and test for it. It’s designed to help speed up the tedious process of developing and […] The post Anthropic announces Bloom, an open-source tool for researchers evaluating AI behavior appeared first on...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-02T08:35:06.270313+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-02T08:35:06.270316+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e955508a890ea0d713f9c9fad2b35622",
-      "title": "Deploy Mistral AI’s Voxtral on Amazon SageMaker AI",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-mistral-ais-voxtral-on-amazon-sagemaker-ai/",
-      "published_date": "2025-12-22T18:32:19+00:00",
-      "category": "Industry",
-      "description": "In this post, we demonstrate hosting Voxtral models on Amazon SageMaker AI endpoints using vLLM and the Bring Your Own Container (BYOC) approach. vLLM is a high-performance library for serving large language models (LLMs) that features paged attention for improved memory management and tensor parallelism for distributing models across multiple GPUs.",
-      "author": "Ying Hou",
-      "content": "In this post, we demonstrate hosting Voxtral models on Amazon SageMaker AI endpoints using vLLM and the Bring Your Own Container (BYOC) approach. vLLM is a high-performance library for serving large language models (LLMs) that features paged attention for improved memory management and tensor parallelism for distributing models across multiple GPUs.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.95
+        "overall_score": 0.87,
+        "confidence_mean": 0.8
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -478,22 +354,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.9,
+        "score": 0.92,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-02T08:35:06.267758+00:00"
+        "consensus_timestamp": "2026-01-02T12:47:46.879620+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.752,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-02T08:35:06.267761+00:00"
+        "timestamp": "2026-01-02T12:47:46.879623+00:00"
       },
       "article_type": "article"
     },
@@ -544,7 +420,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-02T08:35:06.267464+00:00"
+        "consensus_timestamp": "2026-01-02T12:47:46.876985+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -555,26 +431,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-02T08:35:06.267471+00:00"
+        "timestamp": "2026-01-02T12:47:46.876988+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "7e73bf1dfd6d428ee392052efd9fc44b",
-      "title": "Waymo is testing Gemini as an in-car AI assistant in its robotaxis",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/",
-      "published_date": "2025-12-24T16:27:55+00:00",
+      "article_id": "b737bb549f61ac0edca94df11201569c",
+      "title": "Introducing SOCI indexing for Amazon SageMaker Studio: Faster container startup times for AI/ML workloads",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-soci-indexing-for-amazon-sagemaker-studio-faster-container-startup-times-for-ai-ml-workloads/",
+      "published_date": "2025-12-19T18:23:50+00:00",
       "category": "Industry",
-      "description": "Waymo is testing a Gemini-powered in-car AI assistant, per findings from a 1,200-line system prompt. The assistant can answer general knowledge questions, control certain in-cabin features, and more.",
-      "author": "Rebecca Bellan",
-      "content": "Waymo is testing a Gemini-powered in-car AI assistant, per findings from a 1,200-line system prompt. The assistant can answer general knowledge questions, control certain in-cabin features, and more.",
+      "description": "Today, we are excited to introduce a new feature for SageMaker Studio: SOCI (Seekable Open Container Initiative) indexing. SOCI supports lazy loading of container images, where only the necessary parts of an image are downloaded initially rather than the entire container.",
+      "author": "Pranav Murthy",
+      "content": "Today, we are excited to introduce a new feature for SageMaker Studio: SOCI (Seekable Open Container Initiative) indexing. SOCI supports lazy loading of container images, where only the necessary parts of an image are downloaded initially rather than the entire container.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.75,
-        "impact_score": 0.9,
-        "overall_score": 0.8500000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -603,34 +479,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-02T08:35:06.268731+00:00"
+        "consensus_timestamp": "2026-01-02T12:47:46.877715+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-02T08:35:06.268734+00:00"
+        "timestamp": "2026-01-02T12:47:46.877718+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "a66a9722a833517a5f67fa229e80dab0",
-      "title": "HP leaks OMEN OLED gaming monitors ahead of CES 2026",
-      "source": "dataconomy",
-      "url": "https://dataconomy.com/2025/12/30/hp-leaks-omen-oled-gaming-monitors-ahead-of-ces-2026/",
-      "published_date": "2025-12-30T11:53:30+00:00",
+      "article_id": "130a6721583d2a39c1cdb3157ac19e61",
+      "title": "Tencent Released Tencent HY-Motion 1.0: A Billion-Parameter Text-to-Motion Model Built on the Diffusion Transformer (DiT) Architecture and Flow Matching",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2025/12/31/tencent-released-tencent-hy-motion-1-0-a-billion-parameter-text-to-motion-model-built-on-the-diffusion-transformer-dit-architecture-and-flow-matching/",
+      "published_date": "2025-12-31T10:00:52+00:00",
       "category": "Industry",
-      "description": "HP HyperX plans to unveil a new OMEN OLED monitor lineup at CES 2026, with details leaked by Windows Latest. Three models receive specifications: OMEN OLED 34, OMEN OLED 27qs, and OMEN OLED 27q. No resolutions appear in the leak. Sources cited by Windows Latest describe these as “the best gaming monitors HP has ever […]",
-      "author": "Emre Çıtak",
-      "content": "HP HyperX plans to unveil a new OMEN OLED monitor lineup at CES 2026, with details leaked by Windows Latest. Three models receive specifications: OMEN OLED 34, OMEN OLED 27qs, and OMEN OLED 27q. No resolutions appear in the leak. Sources cited by Windows Latest describe these as “the best gaming monitors HP has ever […]",
+      "description": "Tencent Hunyuan’s 3D Digital Human team has released HY-Motion 1.0, an open weight text-to-3D human motion generation family that scales Diffusion Transformer based Flow Matching to 1B parameters in the motion domain. The models turn natural language prompts plus an expected duration into 3D human motion clips on a unified SMPL-H skeleton and are available […] The post Tencent Released Tencent HY-Motion 1.0: A Billion-Parameter Text-to-Motion Model Built on the Diffusion Transformer (DiT)...",
+      "author": "Asif Razzaq",
+      "content": "Tencent Hunyuan’s 3D Digital Human team has released HY-Motion 1.0, an open weight text-to-3D human motion generation family that scales Diffusion Transformer based Flow Matching to 1B parameters in the motion domain. The models turn natural language prompts plus an expected duration into 3D human motion clips on a unified SMPL-H skeleton and are available […] The post Tencent Released Tencent HY-Motion 1.0: A Billion-Parameter Text-to-Motion Model Built on the Diffusion Transformer (DiT)...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.8,
@@ -664,84 +540,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-02T08:35:06.269511+00:00"
+        "consensus_timestamp": "2026-01-02T12:47:46.879945+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-02T08:35:06.269518+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "669407127bcab28e7dfdad3fac354d5b",
-      "title": "Build a multimodal generative AI assistant for root cause diagnosis in predictive maintenance using Amazon Bedrock",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-multimodal-generative-ai-assistant-for-root-cause-diagnosis-in-predictive-maintenance-using-amazon-bedrock/",
-      "published_date": "2025-12-22T18:21:28+00:00",
-      "category": "Industry",
-      "description": "In this post, we demonstrate how to implement a predictive maintenance solution using Foundation Models (FMs) on Amazon Bedrock, with a case study of Amazon's manufacturing equipment within their fulfillment centers. The solution is highly adaptable and can be customized for other industries, including oil and gas, logistics, manufacturing, and healthcare.",
-      "author": "Carla Lorente",
-      "content": "In this post, we demonstrate how to implement a predictive maintenance solution using Foundation Models (FMs) on Amazon Bedrock, with a case study of Amazon's manufacturing equipment within their fulfillment centers. The solution is highly adaptable and can be customized for other industries, including oil and gas, logistics, manufacturing, and healthcare.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.8,
-        "overall_score": 0.85,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-02T08:35:06.267853+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-02T08:35:06.267856+00:00"
+        "timestamp": "2026-01-02T12:47:46.879948+00:00"
       },
       "article_type": "article"
     },
@@ -750,7 +564,7 @@
       "title": "NIH-led study reveals role of mobile DNA elements in lung cancer progression",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/nih-led-study-reveals-role-mobile-dna-elements-lung-cancer-progression",
-      "published_date": "2026-01-02T08:32:04.379802+00:00",
+      "published_date": "2026-01-02T12:45:01.539958+00:00",
       "category": "Government",
       "description": "Sherlock-Lung study researchers use large-scale, multi-omics analysis to identify biomarker of aggressive lung tumors.",
       "author": "",
@@ -792,7 +606,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-02T08:35:06.266038+00:00"
+        "consensus_timestamp": "2026-01-02T12:47:46.875904+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,7 +617,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-02T08:35:06.266043+00:00"
+        "timestamp": "2026-01-02T12:47:46.875909+00:00"
       },
       "article_type": "article"
     },
@@ -854,7 +668,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-02T08:35:06.266758+00:00"
+        "consensus_timestamp": "2026-01-02T12:47:46.876619+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -865,26 +679,212 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-02T08:35:06.266761+00:00"
+        "timestamp": "2026-01-02T12:47:46.876622+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "2bed4b6999577cf4575dd25d156ac38e",
-      "title": "Report: OpenAI explores ways to make money from ChatGPT with conversational ads",
-      "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2025/12/24/report-openai-explores-ways-monetize-chatgpt-conversational-ads/",
-      "published_date": "2025-12-25T01:40:42+00:00",
+      "article_id": "feba116f2f9ce326bb73dbde7cb8b4d1",
+      "title": "The European startup market’s data doesn’t match its energy — yet",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2025/12/24/the-european-startup-markets-data-doesnt-match-its-energy-yet/",
+      "published_date": "2025-12-24T18:00:00+00:00",
       "category": "Industry",
-      "description": "Artificial intelligence industry darling OpenAI Group PBC is reportedly mulling the idea of embedding advertisements into ChatGPT’s responses amid pressure from investors to start making money from the chatbot. A report in The Information today suggests that OpenAI is already exploring possible ad formats and partnerships, with one of the favorite ideas being to integrate […] The post Report: OpenAI explores ways to make money from ChatGPT with conversational ads appeared first on SiliconANGLE.",
-      "author": "Mike Wheatley",
-      "content": "Artificial intelligence industry darling OpenAI Group PBC is reportedly mulling the idea of embedding advertisements into ChatGPT’s responses amid pressure from investors to start making money from the chatbot. A report in The Information today suggests that OpenAI is already exploring possible ad formats and partnerships, with one of the favorite ideas being to integrate […] The post Report: OpenAI explores ways to make money from ChatGPT with conversational ads appeared first on SiliconANGLE.",
+      "description": "Europe's startup market hasn't produced meaningful numbers but there is reason to believe the data will start to change.",
+      "author": "Rebecca Szkutak",
+      "content": "Europe's startup market hasn't produced meaningful numbers but there is reason to believe the data will start to change.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
+        "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.9,
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.8375,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-02T12:47:46.878463+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-02T12:47:46.878466+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3969d061ec181a84d01d03680729d5f8",
+      "title": "VCs predict strong enterprise AI adoption next year — again",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2025/12/29/vcs-predict-strong-enterprise-ai-adoption-next-year-again/",
+      "published_date": "2025-12-29T14:00:00+00:00",
+      "category": "Industry",
+      "description": "More than 20 venture capitalists share their thoughts on AI agents, enterprise AI budgets, and more for 2026.",
+      "author": "Rebecca Szkutak",
+      "content": "More than 20 venture capitalists share their thoughts on AI agents, enterprise AI budgets, and more for 2026.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
         "impact_score": 0.95,
-        "overall_score": 0.8674999999999999,
+        "overall_score": 0.835,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-02T12:47:46.878170+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-02T12:47:46.878173+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "d00988a74e3fcfd8ef1c49617239600f",
+      "title": "Dazzle, a new AI startup led by Marissa Mayer, raises $8M",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2025/12/23/dazzle-new-ai-startup-led-marissa-mayer-raises-8m/",
+      "published_date": "2025-12-24T01:19:18+00:00",
+      "category": "Industry",
+      "description": "Dazzle AI Inc., a startup founded by former Yahoo Inc. Chief Executive Marissa Mayer, today announced that it has raised $8 million in funding. Prominent venture capitalist Kirsten Green led the investment. She was joined by Mayer, Kleiner Perkins, Greycroft, Offline Ventures, Slow Ventures, Bling Capital, Amino Capital and Acquired Wisdom Fund. The round values […] The post Dazzle, a new AI startup led by Marissa Mayer, raises $8M appeared first on SiliconANGLE.",
+      "author": "Maria Deutscher",
+      "content": "Dazzle AI Inc., a startup founded by former Yahoo Inc. Chief Executive Marissa Mayer, today announced that it has raised $8 million in funding. Prominent venture capitalist Kirsten Green led the investment. She was joined by Mayer, Kleiner Perkins, Greycroft, Offline Ventures, Slow Ventures, Bling Capital, Amino Capital and Acquired Wisdom Fund. The round values […] The post Dazzle, a new AI startup led by Marissa Mayer, raises $8M appeared first on SiliconANGLE.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.835,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-02T12:47:46.880370+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-02T12:47:46.880374+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "5f51d94f3492b42b474b281fe56ed5bd",
+      "title": "Optimizing LLM inference on Amazon SageMaker AI with BentoML’s LLM- Optimizer",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-llm-inference-on-amazon-sagemaker-ai-with-bentomls-llm-optimizer/",
+      "published_date": "2025-12-24T17:17:44+00:00",
+      "category": "Industry",
+      "description": "In this post, we demonstrate how to optimize large language model (LLM) inference on Amazon SageMaker AI using BentoML's LLM-Optimizer to systematically identify the best serving configurations for your workload.",
+      "author": "Josh Longenecker",
+      "content": "In this post, we demonstrate how to optimize large language model (LLM) inference on Amazon SageMaker AI using BentoML's LLM-Optimizer to systematically identify the best serving configurations for your workload.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.8250000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -912,22 +912,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.8,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-02T08:35:06.269854+00:00"
+        "consensus_timestamp": "2026-01-02T12:47:46.876849+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-02T08:35:06.269857+00:00"
+        "timestamp": "2026-01-02T12:47:46.876852+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 117.60945463180542,
+    "processing_time": 112.53161478042603,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 94,
+      "total_processed": 93,
       "candidates": {
-        "headlines": 3,
-        "articles": 91,
+        "headlines": 5,
+        "articles": 88,
         "research_papers": 0
       },
       "selected": {
