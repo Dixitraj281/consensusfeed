@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-05T02:03:44.255384+00:00",
+  "generated_at": "2026-01-05T05:02:13.916650+00:00",
   "articles": [
     {
       "article_id": "cbed25006afa0a318b45433cbed855ea",
@@ -15,8 +15,8 @@
         "relevance_score": 0.85,
         "quality_score": 0.75,
         "novelty_score": 0.65,
-        "impact_score": 0.95,
-        "overall_score": 0.7949999999999999,
+        "impact_score": 0.9,
+        "overall_score": 0.785,
         "confidence_mean": 0.85
       },
       "combined_deep_intelligence": {
@@ -45,147 +45,23 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "REJECT",
+        "confidence": 0.7,
+        "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-05T02:03:44.231757+00:00"
+        "consensus_timestamp": "2026-01-05T05:02:13.892988+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.62,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-05T02:03:44.231796+00:00"
+        "timestamp": "2026-01-05T05:02:13.892991+00:00"
       },
       "article_type": "headline"
-    },
-    {
-      "article_id": "a1483f1ad793ef473fc6d1e16bbb2324",
-      "title": "Advancing ADHD diagnosis: How Qbtech built a mobile AI assessment Model Using Amazon SageMaker AI",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/advancing-adhd-diagnosis-how-qbtech-built-a-mobile-ai-assessment-model-using-amazon-sagemaker-ai/",
-      "published_date": "2025-12-23T17:11:30+00:00",
-      "category": "Industry",
-      "description": "In this post, we explore how Qbtech streamlined their machine learning (ML) workflow using Amazon SageMaker AI, a fully managed service to build, train and deploy ML models, and AWS Glue, a serverless service that makes data integration simpler, faster, and more cost effective. This new solution reduced their feature engineering time from weeks to hours, while maintaining the high clinical standards required by healthcare providers.",
-      "author": "Antonio Martellotta",
-      "content": "In this post, we explore how Qbtech streamlined their machine learning (ML) workflow using Amazon SageMaker AI, a fully managed service to build, train and deploy ML models, and AWS Glue, a serverless service that makes data integration simpler, faster, and more cost effective. This new solution reduced their feature engineering time from weeks to hours, while maintaining the high clinical standards required by healthcare providers.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-05T02:03:44.231081+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-05T02:03:44.231084+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "ba8ab55a59db85724fc23024f058d6ec",
-      "title": "HHS Doubles AI-Backed Childhood Cancer Research Funding",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/hhs-doubles-ai-backed-childhood-cancer-research-funding",
-      "published_date": "2026-01-05T02:00:54.526689+00:00",
-      "category": "Government",
-      "description": "Following an Executive Order by President Trump, HHS will increase funding of data-centered pediatric cancer research.",
-      "author": "",
-      "content": "Following an Executive Order by President Trump, HHS will increase funding of data-centered pediatric cancer research.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-05T02:03:44.230037+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-05T02:03:44.230041+00:00"
-      },
-      "article_type": "article"
     },
     {
       "article_id": "b5f86d3b47233c6079d725896f67545f",
@@ -234,7 +110,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-05T02:03:44.230686+00:00"
+        "consensus_timestamp": "2026-01-05T05:02:13.891952+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,7 +121,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-05T02:03:44.230689+00:00"
+        "timestamp": "2026-01-05T05:02:13.891955+00:00"
       },
       "article_type": "article"
     },
@@ -293,21 +169,83 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-05T02:03:44.233080+00:00"
+        "consensus_timestamp": "2026-01-05T05:02:13.894329+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-05T02:03:44.233083+00:00"
+        "timestamp": "2026-01-05T05:02:13.894332+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "5b7ca935b4321bfb3fcd1b1e3c8b0c27",
+      "title": "Recursive Language Models (RLMs): From MIT’s Blueprint to Prime Intellect’s RLMEnv for Long Horizon LLM Agents",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/01/02/recursive-language-models-rlms-from-mits-blueprint-to-prime-intellects-rlmenv-for-long-horizon-llm-agents/",
+      "published_date": "2026-01-02T20:54:59+00:00",
+      "category": "Industry",
+      "description": "Recursive Language Models aim to break the usual trade off between context length, accuracy and cost in large language models. Instead of forcing a model to read a giant prompt in one pass, RLMs treat the prompt as an external environment and let the model decide how to inspect it with code, then recursively call […] The post Recursive Language Models (RLMs): From MIT’s Blueprint to Prime Intellect’s RLMEnv for Long Horizon LLM Agents appeared first on MarkTechPost.",
+      "author": "Asif Razzaq",
+      "content": "Recursive Language Models aim to break the usual trade off between context length, accuracy and cost in large language models. Instead of forcing a model to read a giant prompt in one pass, RLMs treat the prompt as an external environment and let the model decide how to inspect it with code, then recursively call […] The post Recursive Language Models (RLMs): From MIT’s Blueprint to Prime Intellect’s RLMEnv for Long Horizon LLM Agents appeared first on MarkTechPost.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-05T05:02:13.895303+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-05T05:02:13.895306+00:00"
       },
       "article_type": "article"
     },
@@ -358,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-05T02:03:44.232888+00:00"
+        "consensus_timestamp": "2026-01-05T05:02:13.894142+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-05T02:03:44.232893+00:00"
+        "timestamp": "2026-01-05T05:02:13.894145+00:00"
       },
       "article_type": "article"
     },
@@ -416,42 +354,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
+        "score": 0.92,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-05T02:03:44.234580+00:00"
+        "consensus_timestamp": "2026-01-05T05:02:13.895914+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.752,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-05T02:03:44.234583+00:00"
+        "timestamp": "2026-01-05T05:02:13.895917+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "5b7ca935b4321bfb3fcd1b1e3c8b0c27",
-      "title": "Recursive Language Models (RLMs): From MIT’s Blueprint to Prime Intellect’s RLMEnv for Long Horizon LLM Agents",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/01/02/recursive-language-models-rlms-from-mits-blueprint-to-prime-intellects-rlmenv-for-long-horizon-llm-agents/",
-      "published_date": "2026-01-02T20:54:59+00:00",
+      "article_id": "a1483f1ad793ef473fc6d1e16bbb2324",
+      "title": "Advancing ADHD diagnosis: How Qbtech built a mobile AI assessment Model Using Amazon SageMaker AI",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/advancing-adhd-diagnosis-how-qbtech-built-a-mobile-ai-assessment-model-using-amazon-sagemaker-ai/",
+      "published_date": "2025-12-23T17:11:30+00:00",
       "category": "Industry",
-      "description": "Recursive Language Models aim to break the usual trade off between context length, accuracy and cost in large language models. Instead of forcing a model to read a giant prompt in one pass, RLMs treat the prompt as an external environment and let the model decide how to inspect it with code, then recursively call […] The post Recursive Language Models (RLMs): From MIT’s Blueprint to Prime Intellect’s RLMEnv for Long Horizon LLM Agents appeared first on MarkTechPost.",
-      "author": "Asif Razzaq",
-      "content": "Recursive Language Models aim to break the usual trade off between context length, accuracy and cost in large language models. Instead of forcing a model to read a giant prompt in one pass, RLMs treat the prompt as an external environment and let the model decide how to inspect it with code, then recursively call […] The post Recursive Language Models (RLMs): From MIT’s Blueprint to Prime Intellect’s RLMEnv for Long Horizon LLM Agents appeared first on MarkTechPost.",
+      "description": "In this post, we explore how Qbtech streamlined their machine learning (ML) workflow using Amazon SageMaker AI, a fully managed service to build, train and deploy ML models, and AWS Glue, a serverless service that makes data integration simpler, faster, and more cost effective. This new solution reduced their feature engineering time from weeks to hours, while maintaining the high clinical standards required by healthcare providers.",
+      "author": "Antonio Martellotta",
+      "content": "In this post, we explore how Qbtech streamlined their machine learning (ML) workflow using Amazon SageMaker AI, a fully managed service to build, train and deploy ML models, and AWS Glue, a serverless service that makes data integration simpler, faster, and more cost effective. This new solution reduced their feature engineering time from weeks to hours, while maintaining the high clinical standards required by healthcare providers.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.98
+        "novelty_score": 0.75,
+        "impact_score": 0.98,
+        "overall_score": 0.881,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -479,21 +417,83 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-05T02:03:44.234012+00:00"
+        "consensus_timestamp": "2026-01-05T05:02:13.892290+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-05T02:03:44.234015+00:00"
+        "timestamp": "2026-01-05T05:02:13.892293+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "67171ed297a34427801e6fdb8bd497e8",
+      "title": "Marine Biological Laboratory Explores Human Memory With AI and Virtual Reality",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/mbl-human-memory-ai-vr-rtx/",
+      "published_date": "2025-12-22T16:00:10+00:00",
+      "category": "Industry",
+      "description": "The works of Plato state that when humans have an experience, some level of change occurs in their brain, which is powered by memory — specifically long-term memory. This change is what Andre Fenton, professor of neural science at New York University, and Abhishek Kumar, assistant professor of cell and regenerative biology at the University Read Article",
+      "author": "Zoe Kessler",
+      "content": "The works of Plato state that when humans have an experience, some level of change occurs in their brain, which is powered by memory — specifically long-term memory. This change is what Andre Fenton, professor of neural science at New York University, and Abhishek Kumar, assistant professor of cell and regenerative biology at the University Read Article",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.98,
+        "overall_score": 0.881,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-05T05:02:13.892893+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-05T05:02:13.892896+00:00"
       },
       "article_type": "article"
     },
@@ -508,11 +508,11 @@
       "author": "Aytun Çelebi",
       "content": "Intel and Nvidia have officially formalized a strategic partnership involving a $5 billion stock transaction, a deal first agreed upon in September by CEOs Jensen Huang and Lip-Bu Tan. Regulatory filings confirm that Nvidia acquired approximately 215 million Intel shares at a fixed price of $23.28 per share. With Intel’s stock recently trading near $38, […]",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
         "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "overall_score": 0.87,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -541,145 +541,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-05T02:03:44.233622+00:00"
+        "consensus_timestamp": "2026-01-05T05:02:13.894981+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-05T02:03:44.233625+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "742a17467bd8c0c2baf35e0fdb9d1e84",
-      "title": "India orders Musk’s X to fix Grok over ‘obscene’ AI content",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/",
-      "published_date": "2026-01-02T18:29:26+00:00",
-      "category": "Industry",
-      "description": "India's IT ministry has given X 72 hours to submit an action-taken report.",
-      "author": "Jagmeet Singh",
-      "content": "India's IT ministry has given X 72 hours to submit an action-taken report.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "REJECT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-05T02:03:44.231905+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-05T02:03:44.231908+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e193bf200df768fd3bc690d4d544f0a5",
-      "title": "NIH-led study reveals role of mobile DNA elements in lung cancer progression",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-led-study-reveals-role-mobile-dna-elements-lung-cancer-progression",
-      "published_date": "2026-01-05T02:00:54.526467+00:00",
-      "category": "Government",
-      "description": "Sherlock-Lung study researchers use large-scale, multi-omics analysis to identify biomarker of aggressive lung tumors.",
-      "author": "",
-      "content": "Sherlock-Lung study researchers use large-scale, multi-omics analysis to identify biomarker of aggressive lung tumors.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-05T02:03:44.229852+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-05T02:03:44.229858+00:00"
+        "timestamp": "2026-01-05T05:02:13.894984+00:00"
       },
       "article_type": "article"
     },
@@ -727,72 +603,10 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-05T02:03:44.230592+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-05T02:03:44.230595+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "98b4e1c6f89a6be2f77c15f299133e54",
-      "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
-      "published_date": "2025-12-23T17:01:02+00:00",
-      "category": "Industry",
-      "description": "Google 2025 recap: Research breakthroughs of the year",
-      "author": "",
-      "content": "Google 2025 recap: Research breakthroughs of the year",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-05T02:03:44.232639+00:00"
+        "consensus_timestamp": "2026-01-05T05:02:13.891856+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,7 +617,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-05T02:03:44.232648+00:00"
+        "timestamp": "2026-01-05T05:02:13.891859+00:00"
       },
       "article_type": "article"
     },
@@ -851,40 +665,40 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.7,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-05T02:03:44.233124+00:00"
+        "consensus_timestamp": "2026-01-05T05:02:13.894592+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.62,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-05T02:03:44.233127+00:00"
+        "timestamp": "2026-01-05T05:02:13.894595+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "2231aefa2308c787c6f3f39d8c9a02c2",
-      "title": "OpenAI explores prioritizing sponsored ads in ChatGPT responses",
+      "article_id": "a8b20cdad521919a70663e88612492dc",
+      "title": "CES 2026: How to watch Sony Honda Afeela’s presentation",
       "source": "dataconomy",
-      "url": "https://dataconomy.com/2026/01/02/openai-explores-prioritizing-sponsored-ads-in-chatgpt-responses/",
-      "published_date": "2026-01-02T10:12:03+00:00",
+      "url": "https://dataconomy.com/2026/01/02/how-to-watch-sony-honda-afeela-ces-2026/",
+      "published_date": "2026-01-02T10:22:57+00:00",
       "category": "Industry",
-      "description": "OpenAI is exploring integration of advertisements into ChatGPT conversations by prioritizing sponsored content over non-sponsored results, according to internal employee discussions reported by The Information. Internal conversations among OpenAI staff addressed providing advertisers access to ChatGPT’s large user base. One specific discussion focused on granting sponsored chatbot results preferential treatment compared to non-sponsored ones, sources […]",
+      "description": "Sony Honda Mobility will stream its CES 2026 press conference live from Las Vegas on Monday, January 5, 2026, at 8 p.m. ET via the Afeela official YouTube channel. The event centers on electric vehicles from the Sony-Honda joint venture, highlighting the Afeela 1 model. The press conference occupies the traditional end-of-press-day slot at CES. […]",
       "author": "Aytun Çelebi",
-      "content": "OpenAI is exploring integration of advertisements into ChatGPT conversations by prioritizing sponsored content over non-sponsored results, according to internal employee discussions reported by The Information. Internal conversations among OpenAI staff addressed providing advertisers access to ChatGPT’s large user base. One specific discussion focused on granting sponsored chatbot results preferential treatment compared to non-sponsored ones, sources […]",
+      "content": "Sony Honda Mobility will stream its CES 2026 press conference live from Las Vegas on Monday, January 5, 2026, at 8 p.m. ET via the Afeela official YouTube channel. The event centers on electric vehicles from the Sony-Honda joint venture, highlighting the Afeela 1 model. The press conference occupies the traditional end-of-press-day slot at CES. […]",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.9,
+        "impact_score": 0.8,
+        "overall_score": 0.8550000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -912,22 +726,208 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
+        "score": 0.9,
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-05T02:03:44.233362+00:00"
+        "consensus_timestamp": "2026-01-05T05:02:13.894701+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.74,
         "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-05T02:03:44.233365+00:00"
+        "timestamp": "2026-01-05T05:02:13.894704+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4a102840743a7d49d9f04536af0bd57b",
+      "title": "AWS AI League: Model customization and agentic showdown",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/aws-ai-league-model-customization-and-agentic-showdown/",
+      "published_date": "2025-12-23T17:36:07+00:00",
+      "category": "Industry",
+      "description": "In this post, we explore the new AWS AI League challenges and how they are transforming how organizations approach AI development. The grand finale at AWS re:Invent 2025 was an exciting showcase of their ingenuity and skills.",
+      "author": "Marc Karp",
+      "content": "In this post, we explore the new AWS AI League challenges and how they are transforming how organizations approach AI development. The grand finale at AWS re:Invent 2025 was an exciting showcase of their ingenuity and skills.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.835,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-05T05:02:13.892150+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-05T05:02:13.892153+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "11535d16992075450a13ff10d2c74e4b",
+      "title": "Enhance document analytics with Strands AI Agents for the GenAI IDP Accelerator",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enhance-document-analytics-with-strands-ai-agents-for-the-genai-idp-accelerator/",
+      "published_date": "2025-12-22T18:26:17+00:00",
+      "category": "Industry",
+      "description": "To address the need for businesses to quickly analyze information and unlock actionable insights, we are announcing Analytics Agent, a new feature that is seamlessly integrated into the GenAI IDP Accelerator. With this feature, users can perform advanced searches and complex analyses using natural language queries without SQL or data analysis expertise. In this post, we discuss how non-technical users can use this tool to analyze and understand the documents they have processed at scale with...",
+      "author": "David Kaleko",
+      "content": "To address the need for businesses to quickly analyze information and unlock actionable insights, we are announcing Analytics Agent, a new feature that is seamlessly integrated into the GenAI IDP Accelerator. With this feature, users can perform advanced searches and complex analyses using natural language queries without SQL or data analysis expertise. In this post, we discuss how non-technical users can use this tool to analyze and understand the documents they have processed at scale with...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.835,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-05T05:02:13.892797+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-05T05:02:13.892800+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "742a17467bd8c0c2baf35e0fdb9d1e84",
+      "title": "India orders Musk’s X to fix Grok over ‘obscene’ AI content",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/",
+      "published_date": "2026-01-02T18:29:26+00:00",
+      "category": "Industry",
+      "description": "India's IT ministry has given X 72 hours to submit an action-taken report.",
+      "author": "Jagmeet Singh",
+      "content": "India's IT ministry has given X 72 hours to submit an action-taken report.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.835,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.7,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-05T05:02:13.893175+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.62,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-05T05:02:13.893178+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 112.83168292045593,
+    "processing_time": 113.22470045089722,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 87,
+      "total_processed": 95,
       "candidates": {
-        "headlines": 2,
-        "articles": 85,
+        "headlines": 3,
+        "articles": 92,
         "research_papers": 0
       },
       "selected": {
