@@ -1,23 +1,85 @@
 {
-  "updated": "2026-01-16T12:54:27.104640+00:00",
+  "updated": "2026-01-16T16:36:09.875457+00:00",
   "top_stories": [
     {
-      "article_id": "cd19e61d6980265216bb75c780fca77d",
-      "title": "Taiwan to invest $250B in US semiconductor manufacturing",
+      "article_id": "cafc2827395006bac3c43d685271506c",
+      "title": "The multibillion-dollar AI security problem enterprises can’t ignore",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/01/15/taiwan-to-invest-250b-in-us-semiconductor-manufacturing/",
-      "published_date": "2026-01-15T20:52:44+00:00",
+      "url": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
+      "published_date": "2026-01-14T19:26:51+00:00",
       "category": "Industry",
-      "description": "The U.S. struck a trade deal with Taiwan as the country looks to help boost domestic semiconductor manufacturing.",
-      "author": "Rebecca Szkutak",
-      "content": "The U.S. struck a trade deal with Taiwan as the country looks to help boost domestic semiconductor manufacturing.",
+      "description": "AI agents are supposed to make work easier. But they’re also creating a whole new category of security nightmares. As companies deploy AI-powered chatbots, agents, and copilots across their operations, they’re facing a new risk: How do you let employees and AI agents use powerful AI tools without accidentally leaking sensitive data, violating compliance rules, or opening […]",
+      "author": "Rebecca Bellan, Theresa Loconsolo",
+      "content": "AI agents are supposed to make work easier. But they’re also creating a whole new category of security nightmares. As companies deploy AI-powered chatbots, agents, and copilots across their operations, they’re facing a new risk: How do you let employees and AI agents use powerful AI tools without accidentally leaking sensitive data, violating compliance rules, or opening […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-16T16:36:09.831400+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-16T16:36:09.831404+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "d5ba5d3078390b21138db5d64beb0768",
+      "title": "AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing Labs",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/multiply-labs-isaac-omniverse/",
+      "published_date": "2026-01-12T15:00:48+00:00",
+      "category": "Industry",
+      "description": "Startup works with leading cell therapy companies to bring robotics manufacturing into the clean room, reducing costs by more than 70% while accelerating output compared with legacy systems.",
+      "author": "Scott Martin",
+      "content": "Startup works with leading cell therapy companies to bring robotics manufacturing into the clean room, reducing costs by more than 70% while accelerating output compared with legacy systems.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.85,
         "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
+        "overall_score": 0.9185000000000001,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -48,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-16T12:54:27.064250+00:00"
+        "consensus_timestamp": "2026-01-16T16:36:09.829953+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,69 +121,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-16T12:54:27.064253+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "19e93e93a4c8aebc6a3f2a53622d71fc",
-      "title": "Building Generalist Humanoid Capabilities with NVIDIA Isaac GR00T N1.6 Using a Sim-to-Real Workflow",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/building-generalist-humanoid-capabilities-with-nvidia-isaac-gr00t-n1-6-using-a-sim-to-real-workflow/",
-      "published_date": "2026-01-08T17:38:53+00:00",
-      "category": "Industry",
-      "description": "To make humanoid robots useful, they need cognition and loco-manipulation that span perception, planning, and whole-body control in dynamic environments. ...",
-      "author": "Edith Llontop",
-      "content": "To make humanoid robots useful, they need cognition and loco-manipulation that span perception, planning, and whole-body control in dynamic environments. ...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-16T12:54:27.065321+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-16T12:54:27.065324+00:00"
+        "timestamp": "2026-01-16T16:36:09.829957+00:00"
       },
       "article_type": "article"
     },
@@ -136,11 +136,73 @@
       "author": "Shreyas Subramanian",
       "content": "Leveraging existing environment simulators and reward functions based on verifiable ground truth boosts task success rate, even with small models and small training datasets.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.9099999999999999,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-16T16:36:09.832565+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-16T16:36:09.832568+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3bfd49cb7ada95cf2c4b530f9459d63f",
+      "title": "NVIDIA Expands Global DRIVE Hyperion Ecosystem to Accelerate the Road to Full Autonomy",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/global-drive-hyperion-ecosystem-full-autonomy/",
+      "published_date": "2026-01-05T22:48:47+00:00",
+      "category": "Industry",
+      "description": "At the CES trade show running this week in Las Vegas, NVIDIA announced that the global DRIVE Hyperion ecosystem is expanding to include tier 1 suppliers, automotive integrators and sensor partners, including Aeva, AUMOVIO, Astemo, Arbe, Bosch, Hesai, Magna, Omnivision, Quanta, Sony and ZF Group. This builds on collaborations unveiled at NVIDIA GTC Washington, D.C., Read Article",
+      "author": "Mo Poorsartep",
+      "content": "At the CES trade show running this week in Las Vegas, NVIDIA announced that the global DRIVE Hyperion ecosystem is expanding to include tier 1 suppliers, automotive integrators and sensor partners, including Aeva, AUMOVIO, Astemo, Arbe, Bosch, Hesai, Magna, Omnivision, Quanta, Sony and ZF Group. This builds on collaborations unveiled at NVIDIA GTC Washington, D.C., Read Article",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -172,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-16T12:54:27.066086+00:00"
+        "consensus_timestamp": "2026-01-16T16:36:09.830638+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,7 +245,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-16T12:54:27.066088+00:00"
+        "timestamp": "2026-01-16T16:36:09.830641+00:00"
       },
       "article_type": "article"
     },
@@ -200,9 +262,9 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.9184999999999999,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
         "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
@@ -234,7 +296,7 @@
         "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-16T12:54:27.061901+00:00"
+        "consensus_timestamp": "2026-01-16T16:36:09.828109+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,69 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-16T12:54:27.061904+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "9da7403de9178a36505ebd7eed9d2c61",
-      "title": "Secretary of State statement to the House of Commons: 12 January 2026",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/speeches/secretary-of-state-statement-to-the-house-of-commons-12-january-2026",
-      "published_date": "2026-01-12T18:04:08+00:00",
-      "category": "Government",
-      "description": "DSIT Secretary of State statement after concerns over Grok AI.",
-      "author": "",
-      "content": "DSIT Secretary of State statement after concerns over Grok AI.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-16T12:54:27.061768+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-16T12:54:27.061771+00:00"
+        "timestamp": "2026-01-16T16:36:09.828112+00:00"
       },
       "article_type": "article"
     }
