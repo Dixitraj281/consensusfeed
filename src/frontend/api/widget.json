@@ -1,22 +1,146 @@
 {
-  "updated": "2026-01-29T05:10:58.630876+00:00",
+  "updated": "2026-01-29T08:46:36.463099+00:00",
   "top_stories": [
     {
-      "article_id": "791343340a6be3d0d399db57aa9f738f",
-      "title": "Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks",
+      "article_id": "11f6277687b49d73ac50a68985e12f4c",
+      "title": "The AI infrastructure boom shows no sign of slowing down",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/",
-      "published_date": "2026-01-28T18:00:00+00:00",
+      "url": "https://techcrunch.com/2026/01/28/the-ai-infrastructure-boom-shows-no-sign-of-slowing-down/",
+      "published_date": "2026-01-28T15:21:35+00:00",
       "category": "Industry",
-      "description": "Google Chrome is adding Gemini in the sidebar and is rolling out an agentic feature for AI Pro and Ultra users.",
-      "author": "Ivan Mehta",
-      "content": "Google Chrome is adding Gemini in the sidebar and is rolling out an agentic feature for AI Pro and Ultra users.",
+      "description": "ASML’s record orders show chipmakers are still betting big on AI data centers.",
+      "author": "Russell Brandom",
+      "content": "ASML’s record orders show chipmakers are still betting big on AI data centers.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-29T08:46:36.412295+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-29T08:46:36.412298+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "3b460322dbc30606665beec91fe72fe0",
+      "title": "Unrolling the Codex agent loop",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/unrolling-the-codex-agent-loop",
+      "published_date": "2026-01-23T12:00:00+00:00",
+      "category": "Industry",
+      "description": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
+      "author": "",
+      "content": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-29T08:46:36.409864+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-29T08:46:36.409868+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e91225589d4775d6a1e27ac6d5db25c1",
+      "title": "Alibaba Introduces Qwen3-Max-Thinking, a Test Time Scaled Reasoning Model with Native Tool Use Powering Agentic Workloads",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/01/28/alibaba-introduces-qwen3-max-thinking-a-test-time-scaled-reasoning-model-with-native-tool-use-powering-agentic-workloads/",
+      "published_date": "2026-01-29T02:15:27+00:00",
+      "category": "Industry",
+      "description": "Qwen3-Max-Thinking is Alibaba’s new flagship reasoning model. It does not only scale parameters, it also changes how inference is done, with explicit control over thinking depth and built in tools for search, memory, and code execution. Model scale, data, and deployment Qwen3-Max-Thinking is a trillion-parameter MoE flagship LLM pretrained on 36T tokens and built on […] The post Alibaba Introduces Qwen3-Max-Thinking, a Test Time Scaled Reasoning Model with Native Tool Use Powering Agentic...",
+      "author": "Michal Sutter",
+      "content": "Qwen3-Max-Thinking is Alibaba’s new flagship reasoning model. It does not only scale parameters, it also changes how inference is done, with explicit control over thinking depth and built in tools for search, memory, and code execution. Model scale, data, and deployment Qwen3-Max-Thinking is a trillion-parameter MoE flagship LLM pretrained on 36T tokens and built on […] The post Alibaba Introduces Qwen3-Max-Thinking, a Test Time Scaled Reasoning Model with Native Tool Use Powering Agentic...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "overall_score": 0.9,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -44,165 +168,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
+        "score": 0.85,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-29T05:10:58.580664+00:00"
+        "consensus_timestamp": "2026-01-29T08:46:36.413689+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.71,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-29T05:10:58.580667+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "2eee6d0bc93c872e3d74698d874ce314",
-      "title": "‘Largest Infrastructure Buildout in Human History’: Jensen Huang on AI’s ‘Five-Layer Cake’ at Davos",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/davos-wef-blackrock-ceo-larry-fink-jensen-huang/",
-      "published_date": "2026-01-21T12:50:16+00:00",
-      "category": "Industry",
-      "description": "AI is becoming the foundation of the “largest infrastructure buildout in human history,” spanning energy and computing infrastructure, AI models and applications, NVIDIA founder and CEO Jensen Huang said during a World Economic Forum discussion with BlackRock CEO Larry Fink.",
-      "author": "Brian Caulfield",
-      "content": "AI is becoming the foundation of the “largest infrastructure buildout in human history,” spanning energy and computing infrastructure, AI models and applications, NVIDIA founder and CEO Jensen Huang said during a World Economic Forum discussion with BlackRock CEO Larry Fink.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.99,
-        "overall_score": 0.9205000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-29T05:10:58.580291+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-29T05:10:58.580294+00:00"
+        "timestamp": "2026-01-29T08:46:36.413692+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "2d7930a21afb8484c08f1ee0fa1aa220",
-      "title": "Build a generative AI-powered business reporting solution with Amazon Bedrock",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-powered-business-reporting-solution-with-amazon-bedrock/",
-      "published_date": "2026-01-15T15:53:15+00:00",
+      "article_id": "5c33fa015dcd2e896f3bb1ba9a373a4e",
+      "title": "NVIDIA Revolutionizes Climate Tech with ‘Earth-2’: The World’s First Fully Open Accelerated AI Weather Stack",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/01/26/nvidia-revolutionizes-climate-tech-with-earth-2-the-worlds-first-fully-open-accelerated-ai-weather-stack/",
+      "published_date": "2026-01-26T15:43:58+00:00",
       "category": "Industry",
-      "description": "This post introduces generative AI guided business reporting—with a focus on writing achievements & challenges about your business—providing a smart, practical solution that helps simplify and accelerate internal communication and reporting.",
-      "author": "Nick Biso",
-      "content": "This post introduces generative AI guided business reporting—with a focus on writing achievements & challenges about your business—providing a smart, practical solution that helps simplify and accelerate internal communication and reporting.",
+      "description": "For decades, predicting the weather has been the exclusive domain of massive government supercomputers running complex physics-based equations. NVIDIA has shattered that barrier with the release of the Earth-2 family of open models and tools for AI weather and climate prediction accessible to virtually anyone, from tech startups to national meteorological agencies. In a move […] The post NVIDIA Revolutionizes Climate Tech with ‘Earth-2’: The World’s First Fully Open Accelerated AI Weather Stack...",
+      "author": "Jean-marc Mommessin",
+      "content": "For decades, predicting the weather has been the exclusive domain of massive government supercomputers running complex physics-based equations. NVIDIA has shattered that barrier with the release of the Earth-2 family of open models and tools for AI weather and climate prediction accessible to virtually anyone, from tech startups to national meteorological agencies. In a move […] The post NVIDIA Revolutionizes Climate Tech with ‘Earth-2’: The World’s First Fully Open Accelerated AI Weather Stack...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.99,
-        "overall_score": 0.9079999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-29T05:10:58.579920+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-29T05:10:58.579923+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "3b460322dbc30606665beec91fe72fe0",
-      "title": "Unrolling the Codex agent loop",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/unrolling-the-codex-agent-loop",
-      "published_date": "2026-01-23T12:00:00+00:00",
-      "category": "Industry",
-      "description": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
-      "author": "",
-      "content": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "overall_score": 0.8935,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -234,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-29T05:10:58.508329+00:00"
+        "consensus_timestamp": "2026-01-29T08:46:36.413958+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,26 +245,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-29T05:10:58.508334+00:00"
+        "timestamp": "2026-01-29T08:46:36.413961+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "34faaa0f6e3199585e284a57c622c049",
-      "title": "Build an intelligent contract management solution with Amazon Quick Suite and Bedrock AgentCore",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-contract-management-solution-with-amazon-quick-suite-and-bedrock-agentcore/",
-      "published_date": "2026-01-27T16:28:16+00:00",
+      "article_id": "51cd42611f654d9b533eb9d9baf9d79c",
+      "title": "LiveKit raises $100M at $1B valuation to scale real-time AI and media platform",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/01/22/livekit-raises-100m-1b-valuation-scale-real-time-ai-media-platform/",
+      "published_date": "2026-01-22T23:15:44+00:00",
       "category": "Industry",
-      "description": "This blog post demonstrates how to build an intelligent contract management solution using Amazon Quick Suite as your primary contract management solution, augmented with Amazon Bedrock AgentCore for advanced multi-agent capabilities.",
-      "author": "Oliver Steffmann",
-      "content": "This blog post demonstrates how to build an intelligent contract management solution using Amazon Quick Suite as your primary contract management solution, augmented with Amazon Bedrock AgentCore for advanced multi-agent capabilities.",
+      "description": "Communications, real-time media and artificial intelligence infrastructure company LiveKit Inc. revealed today that it has raised $100 million in new funding on a $1 billion valuation. The funding will be used to accelerate the expansion of its real-time voice, video and AI developer platform by building out new compute, storage and network services and to […] The post LiveKit raises $100M at $1B valuation to scale real-time AI and media platform appeared first on SiliconANGLE.",
+      "author": "Duncan Riley",
+      "content": "Communications, real-time media and artificial intelligence infrastructure company LiveKit Inc. revealed today that it has raised $100 million in new funding on a $1 billion valuation. The funding will be used to accelerate the expansion of its real-time voice, video and AI developer platform by building out new compute, storage and network services and to […] The post LiveKit raises $100M at $1B valuation to scale real-time AI and media platform appeared first on SiliconANGLE.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -292,22 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
+        "score": 0.85,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-29T05:10:58.579143+00:00"
+        "consensus_timestamp": "2026-01-29T08:46:36.414292+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.71,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-29T05:10:58.579146+00:00"
+        "timestamp": "2026-01-29T08:46:36.414295+00:00"
       },
       "article_type": "article"
     }
