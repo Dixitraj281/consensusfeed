@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-03T05:19:24.119451+00:00",
+  "updated": "2026-02-03T08:43:41.433649+00:00",
   "top_stories": [
     {
       "article_id": "83ab61989021035354fe1d9c628abc4f",
@@ -14,9 +14,9 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.85,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "overall_score": 0.8875000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-03T05:19:24.080296+00:00"
+        "consensus_timestamp": "2026-02-03T08:43:41.392411+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,7 +59,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-03T05:19:24.080299+00:00"
+        "timestamp": "2026-02-03T08:43:41.392414+00:00"
       },
       "article_type": "headline"
     },
@@ -107,83 +107,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.92,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-03T05:19:24.079438+00:00"
+        "consensus_timestamp": "2026-02-03T08:43:41.391564+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.752,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-03T05:19:24.079441+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "626451e29bf1f67a6cba56d5c6cd78ce",
-      "title": "Horizon 1000: Advancing AI for primary healthcare",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/horizon-1000",
-      "published_date": "2026-01-20T21:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.",
-      "author": "",
-      "content": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.95,
-        "overall_score": 0.9125000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-03T05:19:24.078313+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-03T05:19:24.078316+00:00"
+        "timestamp": "2026-02-03T08:43:41.391567+00:00"
       },
       "article_type": "article"
     },
@@ -203,7 +141,7 @@
         "novelty_score": 0.8,
         "impact_score": 0.98,
         "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.99
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -231,40 +169,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-03T05:19:24.077498+00:00"
+        "consensus_timestamp": "2026-02-03T08:43:41.389637+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-03T05:19:24.077501+00:00"
+        "timestamp": "2026-02-03T08:43:41.389640+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "9e02c3d69e48dbcdfd238e90d9499b1a",
-      "title": "Build agents to learn from experiences using Amazon Bedrock AgentCore episodic memory",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-agents-to-learn-from-experiences-using-amazon-bedrock-agentcore-episodic-memory/",
-      "published_date": "2026-01-21T19:45:04+00:00",
-      "category": "Industry",
-      "description": "In this post, we walk you through the complete architecture to structure and store episodes, discuss the reflection module, and share compelling benchmarks that demonstrate significant improvements in agent task success rates.",
-      "author": "Jiarong Jiang",
-      "content": "In this post, we walk you through the complete architecture to structure and store episodes, discuss the reflection module, and share compelling benchmarks that demonstrate significant improvements in agent task success rates.",
+      "article_id": "600568d0ebc27bb3ff3e6fce2ae5c29f",
+      "title": "NIH-funded study clearly ties risk of dementia to severe CTE",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-study-clearly-ties-risk-dementia-severe-cte",
+      "published_date": "2026-02-03T08:39:52.633991+00:00",
+      "category": "Government",
+      "description": "Study provides clearest evidence to date to link severe CTE to dementia risk.",
+      "author": "",
+      "content": "Study provides clearest evidence to date to link severe CTE to dementia risk.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -296,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-03T05:19:24.079157+00:00"
+        "consensus_timestamp": "2026-02-03T08:43:41.388467+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +245,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-03T05:19:24.079160+00:00"
+        "timestamp": "2026-02-03T08:43:41.388472+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3ce0660cc2636b877f6d07f79ddf4799",
+      "title": "Researchers achieve the first minimally invasive coronary artery bypass",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/researchers-achieve-first-minimally-invasive-coronary-artery-bypass",
+      "published_date": "2026-02-03T08:39:52.634288+00:00",
+      "category": "Government",
+      "description": "For high-risk patients, the method could offer a safer alternative to open-heart surgery.",
+      "author": "",
+      "content": "For high-risk patients, the method could offer a safer alternative to open-heart surgery.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-03T08:43:41.388640+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-03T08:43:41.388644+00:00"
       },
       "article_type": "article"
     }
