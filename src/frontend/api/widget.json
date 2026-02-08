@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-07T20:33:57.751336+00:00",
+  "updated": "2026-02-08T02:44:15.740040+00:00",
   "top_stories": [
     {
       "article_id": "d2ae02b5879fd8b252ed42dcf9269f4b",
@@ -48,7 +48,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-07T20:33:57.713713+00:00"
+        "consensus_timestamp": "2026-02-08T02:44:15.709543+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,9 +59,71 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-07T20:33:57.713715+00:00"
+        "timestamp": "2026-02-08T02:44:15.709545+00:00"
       },
       "article_type": "headline"
+    },
+    {
+      "article_id": "32bc09782b6fc5103b96782f4639c0db",
+      "title": "Mercedes-Benz Unveils New S-Class Built on NVIDIA DRIVE AV, Which Enables an L4-Ready Architecture",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/mercedes-benz-l4-s-class-drive-av-platform/",
+      "published_date": "2026-01-29T18:00:31+00:00",
+      "category": "Industry",
+      "description": "Mercedes-Benz is marking 140 years of automotive innovation with a new S-Class built for the AI era, bringing together automotive safety and NVIDIA’s advanced autonomous driving platform to enable a level 4-ready architecture designed for trust. The new S-Class with MB.OS, which will be equipped with the NVIDIA DRIVE Hyperion architecture and full-stack NVIDIA DRIVE Read Article",
+      "author": "Jessica Soares",
+      "content": "Mercedes-Benz is marking 140 years of automotive innovation with a new S-Class built for the AI era, bringing together automotive safety and NVIDIA’s advanced autonomous driving platform to enable a level 4-ready architecture designed for trust. The new S-Class with MB.OS, which will be equipped with the NVIDIA DRIVE Hyperion architecture and full-stack NVIDIA DRIVE Read Article",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-08T02:44:15.709046+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-08T02:44:15.709049+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "424e3134d4c5d30d6531c8620773f036",
@@ -110,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-07T20:33:57.715573+00:00"
+        "consensus_timestamp": "2026-02-08T02:44:15.711157+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,27 +183,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-07T20:33:57.715576+00:00"
+        "timestamp": "2026-02-08T02:44:15.711160+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f8a052ae815d19811b5a2c70a2fbd208",
-      "title": "Nemotron Labs: How AI Agents Are Turning Documents Into Real-Time Business Intelligence",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/ai-agents-intelligent-document-processing/",
-      "published_date": "2026-02-04T16:00:36+00:00",
-      "category": "Industry",
-      "description": "Businesses today face the challenge of uncovering valuable insights buried within a wide variety of documents — including reports, presentations, PDFs, web pages and spreadsheets.",
-      "author": "Moon Chung",
-      "content": "Businesses today face the challenge of uncovering valuable insights buried within a wide variety of documents — including reports, presentations, PDFs, web pages and spreadsheets.",
+      "article_id": "3ce0660cc2636b877f6d07f79ddf4799",
+      "title": "Researchers achieve the first minimally invasive coronary artery bypass",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/researchers-achieve-first-minimally-invasive-coronary-artery-bypass",
+      "published_date": "2026-02-08T02:40:43.981732+00:00",
+      "category": "Government",
+      "description": "For high-risk patients, the method could offer a safer alternative to open-heart surgery.",
+      "author": "",
+      "content": "For high-risk patients, the method could offer a safer alternative to open-heart surgery.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.98
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -172,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-07T20:33:57.713104+00:00"
+        "consensus_timestamp": "2026-02-08T02:44:15.706345+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,7 +245,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-07T20:33:57.713107+00:00"
+        "timestamp": "2026-02-08T02:44:15.706349+00:00"
       },
       "article_type": "article"
     },
@@ -231,72 +293,10 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-07T20:33:57.714601+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-07T20:33:57.714604+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "74b09a7d46b3e4eb9f501f3f2e27f1aa",
-      "title": "Researchers identify new blood markers that may detect early pancreatic cancer",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/researchers-identify-new-blood-markers-may-detect-early-pancreatic-cancer",
-      "published_date": "2026-02-07T20:30:29.947687+00:00",
-      "category": "Government",
-      "description": "NIH-funded, four-marker panel could one day help catch one of deadliest cancers at more treatable stages.",
-      "author": "",
-      "content": "NIH-funded, four-marker panel could one day help catch one of deadliest cancers at more treatable stages.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-07T20:33:57.709810+00:00"
+        "consensus_timestamp": "2026-02-08T02:44:15.710346+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-07T20:33:57.709815+00:00"
+        "timestamp": "2026-02-08T02:44:15.710348+00:00"
       },
       "article_type": "article"
     }
