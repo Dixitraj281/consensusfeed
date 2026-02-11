@@ -78,22 +78,6 @@ Design principle: **Maximum intelligence with minimum infrastructure**.
 
 ---
 
-## Repository Structure
-
-ConsensusFeed/
-├── README.md
-├── LICENSE
-├── .gitignore
-├── .env.example
-├── src/
-│   ├── backend/
-│   ├── frontend/
-│   └── shared/
-├── .github/workflows/
-└── scripts/
-
----
-
 ## Multi-Agent Consensus Pipeline
 
 1. Bulk intelligence stage filters ~1000 articles to ~300  
