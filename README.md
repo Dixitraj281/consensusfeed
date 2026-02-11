@@ -93,7 +93,7 @@ This design minimizes hallucinations and reduces single-model bias.
 - ~1000 articles processed per run  
 - ~25 final curated articles  
 - ~44 minutes per pipeline execution  
-- ~$50–60 per month total cost  
+- ~$0 per month total cost  
 - ~20× cheaper than traditional cloud architectures  
 
 Static APIs ensure user traffic does not increase backend costs.
