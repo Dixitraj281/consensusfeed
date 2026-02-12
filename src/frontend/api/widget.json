@@ -1,23 +1,23 @@
 {
-  "updated": "2026-02-12T09:01:08.143731+00:00",
+  "updated": "2026-02-12T13:27:07.406653+00:00",
   "top_stories": [
     {
-      "article_id": "30190d493108c2086b86a29885f7d00f",
-      "title": "How AI changes the math for startups, according to a Microsoft VP",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/",
-      "published_date": "2026-02-11T17:51:37+00:00",
-      "category": "Industry",
-      "description": "Amanda Silver is a corporate vice president at Microsoft’s CoreAI division, where she works on tools for deploying apps and agentic systems within enterprises.",
-      "author": "Russell Brandom",
-      "content": "Amanda Silver is a corporate vice president at Microsoft’s CoreAI division, where she works on tools for deploying apps and agentic systems within enterprises.",
+      "article_id": "8762c6c6c74433ae3bd4876b9ec8f998",
+      "title": "NIH Announces Major Policy Shift to End Use of Human Fetal Tissue in NIH-Supported Research",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-announces-major-policy-shift-end-use-human-fetal-tissue-nih-supported-research",
+      "published_date": "2026-02-12T13:23:20.905281+00:00",
+      "category": "Government",
+      "description": "Agency to focus on next-generation, validated research models.",
+      "author": "",
+      "content": "Agency to focus on next-generation, validated research models.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -45,158 +45,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-12T09:01:08.101899+00:00"
+        "consensus_timestamp": "2026-02-12T13:27:07.356851+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-12T09:01:08.101902+00:00"
+        "timestamp": "2026-02-12T13:27:07.356856+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "aa06f5bfd8e7680d1b4a47e717f157da",
-      "title": "Advancing GPU Programming with the CUDA Tile IR Backend for OpenAI Triton",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/advancing-gpu-programming-with-the-cuda-tile-ir-backend-for-openai-triton/",
-      "published_date": "2026-01-30T20:01:47+00:00",
+      "article_id": "10fb961143dd8c3f2361954366b16c83",
+      "title": "Mastering Amazon Bedrock throttling and service availability: A comprehensive guide",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/mastering-amazon-bedrock-throttling-and-service-availability-a-comprehensive-guide/",
+      "published_date": "2026-02-11T15:52:54+00:00",
       "category": "Industry",
-      "description": "NVIDIA CUDA Tile is a GPU-based programming model that targets portability for NVIDIA Tensor Cores, unlocking peak GPU performance. One of the great things...",
-      "author": "Jie Xin",
-      "content": "NVIDIA CUDA Tile is a GPU-based programming model that targets portability for NVIDIA Tensor Cores, unlocking peak GPU performance. One of the great things...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9035,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-12T09:01:08.102684+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-12T09:01:08.102688+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "1e28659688cb0fb5b4e8e79ce8a5934d",
-      "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
-      "source": "google_research_blog",
-      "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/",
-      "published_date": "2026-02-10T18:30:00+00:00",
-      "category": "Industry",
-      "description": "Human-Computer Interaction and Visualization",
-      "author": "",
-      "content": "Human-Computer Interaction and Visualization",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9035,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-12T09:01:08.102869+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-12T09:01:08.102872+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "f503d34ac664fcd20ebfa8e7abe5d9eb",
-      "title": "Inside OpenAI’s in-house data agent",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/inside-our-in-house-data-agent",
-      "published_date": "2026-01-29T10:00:00+00:00",
-      "category": "Industry",
-      "description": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
-      "author": "",
-      "content": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
+      "description": "This post shows you how to implement robust error handling strategies that can help improve application reliability and user experience when using Amazon Bedrock. We'll dive deep into strategies for optimizing performances for the application with these errors. Whether this is for a fairly new application or matured AI application, in this post you will be able to find the practical guidelines to operate with on these errors.",
+      "author": "Farzin Bagheri",
+      "content": "This post shows you how to implement robust error handling strategies that can help improve application reliability and user experience when using Amazon Bedrock. We'll dive deep into strategies for optimizing performances for the application with these errors. Whether this is for a fairly new application or matured AI application, in this post you will be able to find the practical guidelines to operate with on these errors.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -231,34 +107,96 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-12T09:01:08.100027+00:00"
+        "consensus_timestamp": "2026-02-12T13:27:07.358564+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-12T09:01:08.100030+00:00"
+        "timestamp": "2026-02-12T13:27:07.358567+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "ad0a68e5ac11f4e7339e1f88c84adb25",
-      "title": "End to surprise phone and broadband bill hikes to help with cost of living",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/end-to-surprise-phone-and-broadband-bill-hikes-to-help-with-cost-of-living",
-      "published_date": "2026-02-11T15:18:00+00:00",
-      "category": "Government",
-      "description": "Major telecoms providers sign new charter to end unexpected mid-contract price rises and make social tariffs easier to access, helping millions manage living costs.",
-      "author": "",
-      "content": "Major telecoms providers sign new charter to end unexpected mid-contract price rises and make social tariffs easier to access, helping millions manage living costs.",
+      "article_id": "1c2e39c320ddbebd53c36287b905b2db",
+      "title": "GeForce NOW Brings GeForce RTX Gaming to Linux PCs",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux/",
+      "published_date": "2026-01-29T14:00:49+00:00",
+      "category": "Industry",
+      "description": "Get ready to game — the native GeForce NOW app for Linux PCs is now available in beta, letting Linux desktops tap directly into GeForce RTX performance from the cloud. Alongside the expansion comes ten new games, including The Bard’s Tale IV: Director’s Cut and The Bard’s Tale Trilogy for a leveled-up gaming weekend. And Read Article",
+      "author": "GeForce NOW Community",
+      "content": "Get ready to game — the native GeForce NOW app for Linux PCs is now available in beta, letting Linux desktops tap directly into GeForce RTX performance from the cloud. Alongside the expansion comes ten new games, including The Bard’s Tale IV: Director’s Cut and The Bard’s Tale Trilogy for a leveled-up gaming weekend. And Read Article",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-12T13:27:07.359559+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-12T13:27:07.359562+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "d4440e93bd9d66325af0d06ad49b7d64",
+      "title": "How to Build a Matryoshka-Optimized Sentence Embedding Model for Ultra-Fast Retrieval with 64-Dimension Truncation",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/02/11/how-to-build-a-matryoshka-optimized-sentence-embedding-model-for-ultra-fast-retrieval-with-64-dimension-truncation/",
+      "published_date": "2026-02-12T04:10:17+00:00",
+      "category": "Industry",
+      "description": "In this tutorial, we fine-tune a Sentence-Transformers embedding model using Matryoshka Representation Learning so that the earliest dimensions of the vector carry the most useful semantic signal. We train with MatryoshkaLoss on triplet data and then validate the key promise of MRL by benchmarking retrieval quality after truncating embeddings to 64, 128, and 256 dimensions. […] The post How to Build a Matryoshka-Optimized Sentence Embedding Model for Ultra-Fast Retrieval with 64-Dimension...",
+      "author": "Asif Razzaq",
+      "content": "In this tutorial, we fine-tune a Sentence-Transformers embedding model using Matryoshka Representation Learning so that the earliest dimensions of the vector carry the most useful semantic signal. We train with MatryoshkaLoss on triplet data and then validate the key promise of MRL by benchmarking retrieval quality after truncating embeddings to 64, 128, and 256 dimensions. […] The post How to Build a Matryoshka-Optimized Sentence Embedding Model for Ultra-Fast Retrieval with 64-Dimension...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -293,21 +231,83 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-12T09:01:08.098771+00:00"
+        "consensus_timestamp": "2026-02-12T13:27:07.361970+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-12T09:01:08.098774+00:00"
+        "timestamp": "2026-02-12T13:27:07.361972+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "f4407d0bd8ebde4ce91e529c5b4accde",
+      "title": "Build with Kimi K2.5 Multimodal VLM Using NVIDIA GPU-Accelerated Endpoints",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/build-with-kimi-k2-5-multimodal-vlm-using-nvidia-gpu-accelerated-endpoints/",
+      "published_date": "2026-02-04T19:46:33+00:00",
+      "category": "Industry",
+      "description": "Kimi K2.5 is the newest open vision language model (VLM) from the Kimi family of models. Kimi K2.5 is a general-purpose multimodal model that excels in current...",
+      "author": "Anu Srivastava",
+      "content": "Kimi K2.5 is the newest open vision language model (VLM) from the Kimi family of models. Kimi K2.5 is a general-purpose multimodal model that excels in current...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.9,
+        "overall_score": 0.8875000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-12T13:27:07.360770+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-12T13:27:07.360773+00:00"
       },
       "article_type": "article"
     }
