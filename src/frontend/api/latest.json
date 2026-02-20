@@ -1,146 +1,22 @@
 {
-  "generated_at": "2026-02-20T16:54:21.705131+00:00",
+  "generated_at": "2026-02-20T20:44:29.371617+00:00",
   "articles": [
     {
-      "article_id": "41c08762213c71495fc6cff6b8f540a7",
-      "title": "OpenAI reportedly finalizing $100B deal at more than $850B valuation",
+      "article_id": "e9007553aff744e3448b498dc230b9f7",
+      "title": "Why these startup CEOs don’t think AI will replace human roles",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/",
-      "published_date": "2026-02-19T15:35:58+00:00",
+      "url": "https://techcrunch.com/2026/02/19/web-summit-qatar-read-ai-lucidya-notetakers-customer-support/",
+      "published_date": "2026-02-19T20:47:22+00:00",
       "category": "Industry",
-      "description": "OpenAI is reportedly getting close to closing a $100 billion deal, with backers including Amazon, Nvidia, SoftBank, and Microsoft. The deal would value the ChatGPT-maker at $850 billion.",
-      "author": "Rebecca Bellan",
-      "content": "OpenAI is reportedly getting close to closing a $100 billion deal, with backers including Amazon, Nvidia, SoftBank, and Microsoft. The deal would value the ChatGPT-maker at $850 billion.",
+      "description": "The CEOs of Read AI and Lucidya told TechCrunch at Web Summit Qatar that they see AI tools replacing tasks, rather than workers.",
+      "author": "Ivan Mehta",
+      "content": "The CEOs of Read AI and Lucidya told TechCrunch at Web Summit Qatar that they see AI tools replacing tasks, rather than workers.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.9435,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T16:54:21.652798+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-20T16:54:21.652801+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "14e3c5cd40da4519a428ef72636b1823",
-      "title": "Structured outputs on Amazon Bedrock: Schema-compliant AI responses",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-on-amazon-bedrock-schema-compliant-ai-responses/",
-      "published_date": "2026-02-06T20:12:14+00:00",
-      "category": "Industry",
-      "description": "Today, we're announcing structured outputs on Amazon Bedrock—a capability that fundamentally transforms how you can obtain validated JSON responses from foundation models through constrained decoding for schema compliance. In this post, we explore the challenges of traditional JSON generation and how structured outputs solves them. We cover the two core mechanisms—JSON Schema output format and strict tool use—along with implementation details, best practices, and practical code examples.",
-      "author": "Jeffrey Zeng",
-      "content": "Today, we're announcing structured outputs on Amazon Bedrock—a capability that fundamentally transforms how you can obtain validated JSON responses from foundation models through constrained decoding for schema compliance. In this post, we explore the challenges of traditional JSON generation and how structured outputs solves them. We cover the two core mechanisms—JSON Schema output format and strict tool use—along with implementation details, best practices, and practical code examples.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.9285000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T16:54:21.651809+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-20T16:54:21.651812+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c3d6ea3b762c91c9c90f403935493234",
-      "title": "Introducing GPT-5.3-Codex-Spark",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
-      "published_date": "2026-02-12T10:00:00+00:00",
-      "category": "Industry",
-      "description": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
-      "author": "",
-      "content": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.85,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
+        "impact_score": 0.9,
+        "overall_score": 0.86,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -172,7 +48,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T16:54:21.650675+00:00"
+        "consensus_timestamp": "2026-02-20T20:44:29.331475+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,20 +59,206 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-20T16:54:21.650677+00:00"
+        "timestamp": "2026-02-20T20:44:29.331477+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "ad2a1ac69b63be75fcd5b41a3f4c179c",
+      "title": "Claude's Role in Capturing Nicolás Maduro",
+      "source": "nanonets_blog",
+      "url": "https://nanonets.com/blog/anthropic-pentagon-ai-control-problem/",
+      "published_date": "2026-02-18T15:41:14+00:00",
+      "category": "Industry",
+      "description": "The Pentagon used Claude during the Venezuela raid. Anthropic: the company that built it had to ask what their software actually did. Intercepted comms? Satellite imagery? Intelligence synthesis? Nobody outside the classified network knows. Here's what the evidence suggests.",
+      "author": "Vinit Mehta",
+      "content": "The Pentagon used Claude during the Venezuela raid. Anthropic: the company that built it had to ask what their software actually did. Intercepted comms? Satellite imagery? Intelligence synthesis? Nobody outside the classified network knows. Here's what the evidence suggests.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.9225000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-20T20:44:29.333076+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-20T20:44:29.333078+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "ad0a68e5ac11f4e7339e1f88c84adb25",
-      "title": "End to surprise phone and broadband bill hikes to help with cost of living",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/end-to-surprise-phone-and-broadband-bill-hikes-to-help-with-cost-of-living",
-      "published_date": "2026-02-11T15:18:00+00:00",
+      "article_id": "0aabc5028e19fe515ac3be7354de737a",
+      "title": "NVIDIA Nemotron 3 Nano 30B MoE model is now available in Amazon SageMaker JumpStart",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-30b-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "published_date": "2026-02-11T19:38:47+00:00",
+      "category": "Industry",
+      "description": "Today we’re excited to announce that the NVIDIA Nemotron 3 Nano 30B model with 3B active parameters is now generally available in the Amazon SageMaker JumpStart model catalog. You can accelerate innovation and deliver tangible business value with Nemotron 3 Nano on Amazon Web Services (AWS) without having to manage model deployment complexities. You can power your generative AI applications with Nemotron capabilities using the managed deployment capabilities offered by SageMaker JumpStart.",
+      "author": "Dan Ferguson",
+      "content": "Today we’re excited to announce that the NVIDIA Nemotron 3 Nano 30B model with 3B active parameters is now generally available in the Amazon SageMaker JumpStart model catalog. You can accelerate innovation and deliver tangible business value with Nemotron 3 Nano on Amazon Web Services (AWS) without having to manage model deployment complexities. You can power your generative AI applications with Nemotron capabilities using the managed deployment capabilities offered by SageMaker JumpStart.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.925,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-20T20:44:29.330362+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-20T20:44:29.330365+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "1db540e2ed4b455097fabe2ca111932f",
+      "title": "A fresh energy supply may shield nerves from diabetic or chemo-induced neuropathy",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/fresh-energy-supply-may-shield-nerves-diabetic-or-chemo-induced-neuropathy",
+      "published_date": "2026-02-20T20:40:44.533460+00:00",
       "category": "Government",
-      "description": "Major telecoms providers sign new charter to end unexpected mid-contract price rises and make social tariffs easier to access, helping millions manage living costs.",
+      "description": "Researchers demonstrate that transferring healthy mitochondria from support glial cells to nerve cells could reduce nerve pain and degeneration.",
       "author": "",
-      "content": "Major telecoms providers sign new charter to end unexpected mid-contract price rises and make social tariffs easier to access, helping millions manage living costs.",
+      "content": "Researchers demonstrate that transferring healthy mitochondria from support glial cells to nerve cells could reduce nerve pain and degeneration.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-20T20:44:29.328518+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-20T20:44:29.328521+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "58e741ca29251d5dd57c35a33d207b21",
+      "title": "CyberFOX Welcomes Joe Panettieri as Strategic Advisor",
+      "source": "ai_techpark",
+      "url": "https://ai-techpark.com/cyberfox-welcomes-joe-panettieri-as-strategic-advisor/",
+      "published_date": "2026-02-20T17:45:00+00:00",
+      "category": "Industry",
+      "description": "Renowned MSP market analyst and digital media entrepreneur brings two decades of channel partner expertise to accelerate partner success CyberFOX, a global cybersecurity software provider, today announced that Joe Panettieri has joined the company as Strategic Advisor. Panettieri has spent more than 20 years tracking channel partner ecosystems and building... The post CyberFOX Welcomes Joe Panettieri as Strategic Advisor first appeared on AI-Tech Park.",
+      "author": "GlobeNewswire",
+      "content": "Renowned MSP market analyst and digital media entrepreneur brings two decades of channel partner expertise to accelerate partner success CyberFOX, a global cybersecurity software provider, today announced that Joe Panettieri has joined the company as Strategic Advisor. Panettieri has spent more than 20 years tracking channel partner ecosystems and building... The post CyberFOX Welcomes Joe Panettieri as Strategic Advisor first appeared on AI-Tech Park.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -234,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T16:54:21.650331+00:00"
+        "consensus_timestamp": "2026-02-20T20:44:29.332786+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,274 +307,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-20T16:54:21.650334+00:00"
+        "timestamp": "2026-02-20T20:44:29.332788+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "a95e1d5a92973686284f3ade454197dc",
-      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
-      "published_date": "2026-02-19T16:06:14+00:00",
+      "article_id": "9682e5f4003bd472e1a9404966feccda",
+      "title": "New Relic transforms productivity with generative AI on AWS",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/new-relic-transforms-productivity-with-generative-ai-on-aws/",
+      "published_date": "2026-02-09T16:45:16+00:00",
       "category": "Industry",
-      "description": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
-      "author": "",
-      "content": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T16:54:21.653764+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-20T16:54:21.653767+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "600568d0ebc27bb3ff3e6fce2ae5c29f",
-      "title": "NIH-funded study clearly ties risk of dementia to severe CTE",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-study-clearly-ties-risk-dementia-severe-cte",
-      "published_date": "2026-02-20T16:50:42.608711+00:00",
-      "category": "Government",
-      "description": "Study provides clearest evidence to date to link severe CTE to dementia risk.",
-      "author": "",
-      "content": "Study provides clearest evidence to date to link severe CTE to dementia risk.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T16:54:21.648904+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-20T16:54:21.648907+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "37982d5c3b4cb518a496b8a89306c369",
-      "title": "Accredited official statistics: Economic Estimates: Digital Sector Annual (2010 to 2024) and Regional (2010 to 2022) Gross Value Added",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/statistics/economic-estimates-digital-sector-annual-2010-to-2024-and-regional-2010-to-2022-gross-value-added",
-      "published_date": "2026-02-12T09:30:03+00:00",
-      "category": "Government",
-      "description": "Accredited Official Statistics estimating the contribution of the Digital Sector to the UK economy and each UK International Territorial Level 1 (ITL1) region, measured by Gross Value Added (GVA).",
-      "author": "",
-      "content": "Accredited Official Statistics estimating the contribution of the Digital Sector to the UK economy and each UK International Territorial Level 1 (ITL1) region, measured by Gross Value Added (GVA).",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T16:54:21.650194+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-20T16:54:21.650197+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "83eba5ec8249a5f8c3d78272eda8a560",
-      "title": "Skyhawk Security Appoints Jason Schaaf as Chief Revenue Officer",
-      "source": "ai_techpark",
-      "url": "https://ai-techpark.com/skyhawk-security-appoints-jason-schaaf-as-chief-revenue-officer/",
-      "published_date": "2026-02-20T15:30:00+00:00",
-      "category": "Industry",
-      "description": "Cybersecurity sales veteran who scaled CyberX through Microsoft acquisition, drove growth at ActiveFence, joins Skyhawk to lead global go-to-market strategy Skyhawk Security, the leader in Purple Team-Powered Cloud Security, today announced the appointment of Jason Schaaf as Chief Revenue Officer. Schaaf will lead Skyhawk’s global go-to-market organization—including sales, marketing, and... The post Skyhawk Security Appoints Jason Schaaf as Chief Revenue Officer first appeared on AI-Tech Park.",
-      "author": "GlobeNewswire",
-      "content": "Cybersecurity sales veteran who scaled CyberX through Microsoft acquisition, drove growth at ActiveFence, joins Skyhawk to lead global go-to-market strategy Skyhawk Security, the leader in Purple Team-Powered Cloud Security, today announced the appointment of Jason Schaaf as Chief Revenue Officer. Schaaf will lead Skyhawk’s global go-to-market organization—including sales, marketing, and... The post Skyhawk Security Appoints Jason Schaaf as Chief Revenue Officer first appeared on AI-Tech Park.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T16:54:21.654189+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-20T16:54:21.654191+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "0e180b39bf3c6992cd7ec35e4697584f",
-      "title": "British research expertise to deliver faster cancer diagnosis and cleaner energy",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/british-research-expertise-to-deliver-faster-cancer-diagnosis-and-cleaner-energy",
-      "published_date": "2026-02-19T00:01:00+00:00",
-      "category": "Government",
-      "description": "Major new backing for medical imaging centres across the UK alongside tidal energy testing expansion in Orkney and cutting-edge materials.",
-      "author": "",
-      "content": "Major new backing for medical imaging centres across the UK alongside tidal energy testing expansion in Orkney and cutting-edge materials.",
+      "description": "Working with the Generative AI Innovation Center, New Relic NOVA (New Relic Omnipresence Virtual Assistant) evolved from a knowledge assistant into a comprehensive productivity engine. We explore the technical architecture, development journey, and key lessons learned in building an enterprise-grade AI solution that delivers measurable productivity gains at scale.",
+      "author": "Yicheng Shen, Sarathy Varadarajan",
+      "content": "Working with the Generative AI Innovation Center, New Relic NOVA (New Relic Omnipresence Virtual Assistant) evolved from a knowledge assistant into a comprehensive productivity engine. We explore the technical architecture, development journey, and key lessons learned in building an enterprise-grade AI solution that delivers measurable productivity gains at scale.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
         "impact_score": 0.95,
-        "overall_score": 0.8875,
+        "overall_score": 0.875,
         "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
@@ -541,34 +355,158 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T16:54:21.649734+00:00"
+        "consensus_timestamp": "2026-02-20T20:44:29.330606+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-20T16:54:21.649737+00:00"
+        "timestamp": "2026-02-20T20:44:29.330608+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "0aabc5028e19fe515ac3be7354de737a",
-      "title": "NVIDIA Nemotron 3 Nano 30B MoE model is now available in Amazon SageMaker JumpStart",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-30b-is-now-available-in-amazon-sagemaker-jumpstart/",
-      "published_date": "2026-02-11T19:38:47+00:00",
+      "article_id": "319254e9542edcc98b8134449c5dabca",
+      "title": "NIH scientists develop \"digital twin\" of eye cells to understand and treat age-related macular degeneration",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-scientists-develop-digital-twin-eye-cells-understand-treat-age-related-macular-degeneration",
+      "published_date": "2026-02-20T20:40:44.533108+00:00",
+      "category": "Government",
+      "description": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
+      "author": "",
+      "content": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-20T20:44:29.328297+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-20T20:44:29.328300+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "74b09a7d46b3e4eb9f501f3f2e27f1aa",
+      "title": "Researchers identify new blood markers that may detect early pancreatic cancer",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/researchers-identify-new-blood-markers-may-detect-early-pancreatic-cancer",
+      "published_date": "2026-02-20T20:40:44.533228+00:00",
+      "category": "Government",
+      "description": "NIH-funded, four-marker panel could one day help catch one of deadliest cancers at more treatable stages.",
+      "author": "",
+      "content": "NIH-funded, four-marker panel could one day help catch one of deadliest cancers at more treatable stages.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-20T20:44:29.328386+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-20T20:44:29.328391+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c3d6ea3b762c91c9c90f403935493234",
+      "title": "Introducing GPT-5.3-Codex-Spark",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+      "published_date": "2026-02-12T10:00:00+00:00",
       "category": "Industry",
-      "description": "Today we’re excited to announce that the NVIDIA Nemotron 3 Nano 30B model with 3B active parameters is now generally available in the Amazon SageMaker JumpStart model catalog. You can accelerate innovation and deliver tangible business value with Nemotron 3 Nano on Amazon Web Services (AWS) without having to manage model deployment complexities. You can power your generative AI applications with Nemotron capabilities using the managed deployment capabilities offered by SageMaker JumpStart.",
-      "author": "Dan Ferguson",
-      "content": "Today we’re excited to announce that the NVIDIA Nemotron 3 Nano 30B model with 3B active parameters is now generally available in the Amazon SageMaker JumpStart model catalog. You can accelerate innovation and deliver tangible business value with Nemotron 3 Nano on Amazon Web Services (AWS) without having to manage model deployment complexities. You can power your generative AI applications with Nemotron capabilities using the managed deployment capabilities offered by SageMaker JumpStart.",
+      "description": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
+      "author": "",
+      "content": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
@@ -602,22 +540,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T16:54:21.651344+00:00"
+        "consensus_timestamp": "2026-02-20T20:44:29.329655+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-20T16:54:21.651348+00:00"
+        "timestamp": "2026-02-20T20:44:29.329657+00:00"
       },
       "article_type": "article"
     },
@@ -634,9 +572,9 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
-        "novelty_score": 0.75,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.865,
+        "overall_score": 0.8775000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -664,41 +602,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T16:54:21.653388+00:00"
+        "consensus_timestamp": "2026-02-20T20:44:29.332006+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-20T16:54:21.653391+00:00"
+        "timestamp": "2026-02-20T20:44:29.332009+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "7ab3da8a15cb68845753cc1661e14889",
-      "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
-      "published_date": "2026-02-09T16:12:06+00:00",
-      "category": "Industry",
-      "description": "Research papers point to the growing impact of Deep Think across fields",
+      "article_id": "2842b522306ff530920150f32529954f",
+      "title": "Tech firms will have to take down abusive images within 48 hours under new law to protect women and girls",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/tech-firms-will-have-to-take-down-abusive-images-within-48-hours-under-new-law-to-protect-women-and-girls",
+      "published_date": "2026-02-19T00:01:02+00:00",
+      "category": "Government",
+      "description": "New law requires tech platforms to take down non-consensual intimate images within 48 hours or face fines.",
       "author": "",
-      "content": "Research papers point to the growing impact of Deep Think across fields",
+      "content": "New law requires tech platforms to take down non-consensual intimate images within 48 hours or face fines.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "novelty_score": 0.75,
         "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "overall_score": 0.875,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -727,34 +665,158 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T16:54:21.653962+00:00"
+        "consensus_timestamp": "2026-02-20T20:44:29.328801+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-20T16:54:21.653965+00:00"
+        "timestamp": "2026-02-20T20:44:29.328804+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3ce0660cc2636b877f6d07f79ddf4799",
-      "title": "Researchers achieve the first minimally invasive coronary artery bypass",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/researchers-achieve-first-minimally-invasive-coronary-artery-bypass",
-      "published_date": "2026-02-20T16:50:42.609153+00:00",
-      "category": "Government",
-      "description": "For high-risk patients, the method could offer a safer alternative to open-heart surgery.",
+      "article_id": "daa84be915c45e74ba90f2512d0e80a6",
+      "title": "Advancing independent research on AI alignment",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
+      "published_date": "2026-02-19T10:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
       "author": "",
-      "content": "For high-risk patients, the method could offer a safer alternative to open-heart surgery.",
+      "content": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.87,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-20T20:44:29.329420+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-20T20:44:29.329423+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "7a48bb06efc21cb04f327c1f525c580f",
+      "title": "Evaluating AI agents: Real-world lessons from building agentic systems at Amazon",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-real-world-lessons-from-building-agentic-systems-at-amazon/",
+      "published_date": "2026-02-18T19:21:28+00:00",
+      "category": "Industry",
+      "description": "In this post, we present a comprehensive evaluation framework for Amazon agentic AI systems that addresses the complexity of agentic AI applications at Amazon through two core components: a generic evaluation workflow that standardizes assessment procedures across diverse agent implementations, and an agent evaluation library that provides systematic measurements and metrics in Amazon Bedrock AgentCore Evaluations, along with Amazon use case-specific evaluation approaches and metrics.",
+      "author": "Yunfei Bai",
+      "content": "In this post, we present a comprehensive evaluation framework for Amazon agentic AI systems that addresses the complexity of agentic AI applications at Amazon through two core components: a generic evaluation workflow that standardizes assessment procedures across diverse agent implementations, and an agent evaluation library that provides systematic measurements and metrics in Amazon Bedrock AgentCore Evaluations, along with Amazon use case-specific evaluation approaches and metrics.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-20T20:44:29.330199+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-20T20:44:29.330201+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "6c0ee4e9f1cd11dfb287a754ed83863a",
+      "title": "Accelerating discovery in India through AI-powered science and education",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+      "published_date": "2026-02-17T13:42:20+00:00",
+      "category": "Industry",
+      "description": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
+      "author": "",
+      "content": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.8,
@@ -789,96 +851,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T16:54:21.649090+00:00"
+        "consensus_timestamp": "2026-02-20T20:44:29.332404+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-20T16:54:21.649093+00:00"
+        "timestamp": "2026-02-20T20:44:29.332407+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "123a3f66a6fca00e7f28cb9d407d2826",
-      "title": "Scale LLM fine-tuning with Hugging Face and Amazon SageMaker AI",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/scale-llm-fine-tuning-with-hugging-face-and-amazon-sagemaker-ai/",
-      "published_date": "2026-02-09T16:48:46+00:00",
-      "category": "Industry",
-      "description": "In this post, we show how this integrated approach transforms enterprise LLM fine-tuning from a complex, resource-intensive challenge into a streamlined, scalable solution for achieving better model performance in domain-specific applications.",
-      "author": "Florent Gbelidji",
-      "content": "In this post, we show how this integrated approach transforms enterprise LLM fine-tuning from a complex, resource-intensive challenge into a streamlined, scalable solution for achieving better model performance in domain-specific applications.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T16:54:21.651631+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-20T16:54:21.651633+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "60bd17b35038b5916bc738af610bc57b",
-      "title": "Announcing the &quot;AI Agent Standards Initiative&quot; for Interoperable and Secure Innovation",
-      "source": "nist_ai_news",
-      "url": "https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure",
-      "published_date": "2026-02-17T12:00:00+00:00",
+      "article_id": "f3b37ad946a4bbcc220824f26a526165",
+      "title": "Minister Lloyd speech at techUK Future Telecoms Conference 2026",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/speeches/minister-lloyd-speech-at-techuk-future-telecoms-conference-2026",
+      "published_date": "2026-02-13T09:46:00+00:00",
       "category": "Government",
-      "description": "The Initiative will ensure that the next generation of AI is widely adopted with confidence, can function securely on behalf of its users, and can interoperate smoothly across the digital ecosystem.",
-      "author": "Peter Cihon",
-      "content": "The Initiative will ensure that the next generation of AI is widely adopted with confidence, can function securely on behalf of its users, and can interoperate smoothly across the digital ecosystem.",
+      "description": "Liz Lloyd, Minister for the Digital Economy, spoke to techUK Future Telecoms Conference 2026 on 10 February 2026.",
+      "author": "",
+      "content": "Liz Lloyd, Minister for the Digital Economy, spoke to techUK Future Telecoms Conference 2026 on 10 February 2026.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
@@ -916,7 +916,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T16:54:21.648348+00:00"
+        "consensus_timestamp": "2026-02-20T20:44:29.329102+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-20T16:54:21.648359+00:00"
+        "timestamp": "2026-02-20T20:44:29.329105+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 152.2868263721466,
+    "processing_time": 156.2250578403473,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 119,
+      "total_processed": 123,
       "candidates": {
-        "headlines": 16,
-        "articles": 103,
+        "headlines": 14,
+        "articles": 109,
         "research_papers": 0
       },
       "selected": {
