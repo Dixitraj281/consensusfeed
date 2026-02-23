@@ -1,23 +1,23 @@
 {
-  "updated": "2026-02-23T13:24:17.844415+00:00",
+  "updated": "2026-02-23T17:10:32.810905+00:00",
   "top_stories": [
     {
-      "article_id": "32e94688be44b55a58ce8f5da5b0b65c",
-      "title": "Sam Altman would like to remind you that humans use a lot of energy, too",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
-      "published_date": "2026-02-21T21:38:01+00:00",
+      "article_id": "2c8e838d2708d87fcba606ef540bb841",
+      "title": "OpenAI announces Frontier Alliance Partners",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/frontier-alliance-partners",
+      "published_date": "2026-02-23T05:30:00+00:00",
       "category": "Industry",
-      "description": "\"It also takes a lot of energy to train a human.\"",
-      "author": "Anthony Ha",
-      "content": "\"It also takes a lot of energy to train a human.\"",
+      "description": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+      "author": "",
+      "content": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.8799999999999999,
-        "confidence_mean": 0.98
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -45,40 +45,102 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-23T13:24:17.804305+00:00"
+        "consensus_timestamp": "2026-02-23T17:10:32.760625+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-23T13:24:17.804309+00:00"
+        "timestamp": "2026-02-23T17:10:32.760628+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "835c8a67e4066a8be339ced3dd8a0fd6",
-      "title": "India Fuels Its AI Mission With NVIDIA",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/india-ai-mission-infrastructure-models/",
-      "published_date": "2026-02-18T00:30:49+00:00",
+      "article_id": "99038ebdea191c74c6e475ed28cee9ca",
+      "title": "Agentic cloud operations: A new way to run the cloud",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/",
+      "published_date": "2026-02-11T22:00:00+00:00",
       "category": "Industry",
-      "description": "From AI infrastructure leaders to frontier model developers, India is teaming with NVIDIA to drive AI transformation across the nation.",
-      "author": "Jay Puri",
-      "content": "From AI infrastructure leaders to frontier model developers, India is teaming with NVIDIA to drive AI transformation across the nation.",
+      "description": "While today’s cloud delivers extraordinary flexibility, the rapid growth of modern applications and AI workloads has introduced levels of scale and complexity that traditional operations were not designed for. The post Agentic cloud operations: A new way to run the cloud appeared first on Microsoft Azure Blog.",
+      "author": "Pang Ngernsupaluck",
+      "content": "While today’s cloud delivers extraordinary flexibility, the rapid growth of modern applications and AI workloads has introduced levels of scale and complexity that traditional operations were not designed for. The post Agentic cloud operations: A new way to run the cloud appeared first on Microsoft Azure Blog.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.99,
-        "overall_score": 0.9079999999999999,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-23T17:10:32.761237+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-23T17:10:32.761240+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "7a48bb06efc21cb04f327c1f525c580f",
+      "title": "Evaluating AI agents: Real-world lessons from building agentic systems at Amazon",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-real-world-lessons-from-building-agentic-systems-at-amazon/",
+      "published_date": "2026-02-18T19:21:28+00:00",
+      "category": "Industry",
+      "description": "In this post, we present a comprehensive evaluation framework for Amazon agentic AI systems that addresses the complexity of agentic AI applications at Amazon through two core components: a generic evaluation workflow that standardizes assessment procedures across diverse agent implementations, and an agent evaluation library that provides systematic measurements and metrics in Amazon Bedrock AgentCore Evaluations, along with Amazon use case-specific evaluation approaches and metrics.",
+      "author": "Yunfei Bai",
+      "content": "In this post, we present a comprehensive evaluation framework for Amazon agentic AI systems that addresses the complexity of agentic AI applications at Amazon through two core components: a generic evaluation workflow that standardizes assessment procedures across diverse agent implementations, and an agent evaluation library that provides systematic measurements and metrics in Amazon Bedrock AgentCore Evaluations, along with Amazon use case-specific evaluation approaches and metrics.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -110,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-23T13:24:17.803886+00:00"
+        "consensus_timestamp": "2026-02-23T17:10:32.761674+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,7 +183,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-23T13:24:17.803889+00:00"
+        "timestamp": "2026-02-23T17:10:32.761676+00:00"
       },
       "article_type": "article"
     },
@@ -130,7 +192,7 @@
       "title": "NIH scientists develop \"digital twin\" of eye cells to understand and treat age-related macular degeneration",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/nih-scientists-develop-digital-twin-eye-cells-understand-treat-age-related-macular-degeneration",
-      "published_date": "2026-02-23T13:19:55.936030+00:00",
+      "published_date": "2026-02-23T17:06:22.637539+00:00",
       "category": "Government",
       "description": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
       "author": "",
@@ -172,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-23T13:24:17.800838+00:00"
+        "consensus_timestamp": "2026-02-23T17:10:32.759444+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,20 +245,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-23T13:24:17.800842+00:00"
+        "timestamp": "2026-02-23T17:10:32.759448+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "d586750d1ed6902fec9939c025a15f5b",
-      "title": "Build AI-Ready Knowledge Systems Using 5 Essential Multimodal RAG Capabilities",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/build-ai-ready-knowledge-systems-using-5-essential-multimodal-rag-capabilities/",
-      "published_date": "2026-02-17T18:00:00+00:00",
-      "category": "Industry",
-      "description": "Enterprise data is inherently complex: real-world documents are multimodal, spanning text, tables, charts and graphs, images, diagrams, scanned pages, forms,...",
-      "author": "Shruthii Sathyanarayanan",
-      "content": "Enterprise data is inherently complex: real-world documents are multimodal, spanning text, tables, charts and graphs, images, diagrams, scanned pages, forms,...",
+      "article_id": "0e180b39bf3c6992cd7ec35e4697584f",
+      "title": "British research expertise to deliver faster cancer diagnosis and cleaner energy",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/british-research-expertise-to-deliver-faster-cancer-diagnosis-and-cleaner-energy",
+      "published_date": "2026-02-19T00:01:00+00:00",
+      "category": "Government",
+      "description": "Major new backing for medical imaging centres across the UK alongside tidal energy testing expansion in Orkney and cutting-edge materials.",
+      "author": "",
+      "content": "Major new backing for medical imaging centres across the UK alongside tidal energy testing expansion in Orkney and cutting-edge materials.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -231,72 +293,10 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-23T13:24:17.805259+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-23T13:24:17.805261+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "5edddbcf9dcf021188f18262210b7dc8",
-      "title": "Research: International use of digital identities and credentials: stakeholder survey responses",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/international-use-of-digital-identities-and-credentials-stakeholder-survey-responses",
-      "published_date": "2026-02-23T10:30:01+00:00",
-      "category": "Government",
-      "description": "Results of an online survey inviting views on cross-border use of digital identities and credentials, and the government’s role in realising opportunities or removing barriers.",
-      "author": "",
-      "content": "Results of an online survey inviting views on cross-border use of digital identities and credentials, and the government’s role in realising opportunities or removing barriers.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-23T13:24:17.801298+00:00"
+        "consensus_timestamp": "2026-02-23T17:10:32.760029+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-23T13:24:17.801302+00:00"
+        "timestamp": "2026-02-23T17:10:32.760033+00:00"
       },
       "article_type": "article"
     }
