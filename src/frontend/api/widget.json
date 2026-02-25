@@ -1,22 +1,22 @@
 {
-  "updated": "2026-02-24T20:47:28.391967+00:00",
+  "updated": "2026-02-25T02:46:36.502840+00:00",
   "top_stories": [
     {
-      "article_id": "784f643244eb3e154644192729ead8a6",
-      "title": "Nimble raises $47M to give AI agents access to real-time web data",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/02/24/nimble-way-raises-47m-to-give-ai-agents-better-cleaner-data/",
-      "published_date": "2026-02-24T13:00:00+00:00",
+      "article_id": "9cc7d1267837eb4ce9170dba8c9822ad",
+      "title": "VectifyAI Launches Mafin 2.5 and PageIndex: Achieving 98.7% Financial RAG Accuracy with a New Open-Source Vectorless Tree Indexing.",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/02/22/vectifyai-launches-mafin-2-5-and-pageindex-achieving-98-7-financial-rag-accuracy-with-a-new-open-source-vectorless-tree-indexing/",
+      "published_date": "2026-02-23T04:00:59+00:00",
       "category": "Industry",
-      "description": "Nimble uses AI agents to search the web, verify and validate the results, and then clean and structure the information into neat tables that can then be queried like a database.",
-      "author": "Ram Iyer",
-      "content": "Nimble uses AI agents to search the web, verify and validate the results, and then clean and structure the information into neat tables that can then be queried like a database.",
+      "description": "Building a Retrieval-Augmented Generation (RAG) pipeline is easy; building one that doesn’t hallucinate during a 10-K audit is nearly impossible. For devs in the financial sector, the ‘standard’ vector-based RAG approach—chunking text and hoping for the best—often results in a ‘text soup’ that loses the vital structural context of tables and balance sheets. VectifyAI is […] The post VectifyAI Launches Mafin 2.5 and PageIndex: Achieving 98.7% Financial RAG Accuracy with a New Open-Source...",
+      "author": "Michal Sutter",
+      "content": "Building a Retrieval-Augmented Generation (RAG) pipeline is easy; building one that doesn’t hallucinate during a 10-K audit is nearly impossible. For devs in the financial sector, the ‘standard’ vector-based RAG approach—chunking text and hoping for the best—often results in a ‘text soup’ that loses the vital structural context of tables and balance sheets. VectifyAI is […] The post VectifyAI Launches Mafin 2.5 and PageIndex: Achieving 98.7% Financial RAG Accuracy with a New Open-Source...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.85,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9025000000000001,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-24T20:47:28.340683+00:00"
+        "consensus_timestamp": "2026-02-25T02:46:36.455411+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,20 +59,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-24T20:47:28.340686+00:00"
+        "timestamp": "2026-02-25T02:46:36.455414+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "454d29ccae58fd5eb1d6a6609cba3647",
-      "title": "AI meets HR: Transforming talent acquisition with Amazon Bedrock",
+      "article_id": "7a48bb06efc21cb04f327c1f525c580f",
+      "title": "Evaluating AI agents: Real-world lessons from building agentic systems at Amazon",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/ai-meets-hr-transforming-talent-acquisition-with-amazon-bedrock/",
-      "published_date": "2026-02-12T20:18:58+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-real-world-lessons-from-building-agentic-systems-at-amazon/",
+      "published_date": "2026-02-18T19:21:28+00:00",
       "category": "Industry",
-      "description": "In this post, we show how to create an AI-powered recruitment system using Amazon Bedrock, Amazon Bedrock Knowledge Bases, AWS Lambda, and other AWS services to enhance job description creation, candidate communication, and interview preparation while maintaining human oversight.",
-      "author": "Dola Adesanya",
-      "content": "In this post, we show how to create an AI-powered recruitment system using Amazon Bedrock, Amazon Bedrock Knowledge Bases, AWS Lambda, and other AWS services to enhance job description creation, candidate communication, and interview preparation while maintaining human oversight.",
+      "description": "In this post, we present a comprehensive evaluation framework for Amazon agentic AI systems that addresses the complexity of agentic AI applications at Amazon through two core components: a generic evaluation workflow that standardizes assessment procedures across diverse agent implementations, and an agent evaluation library that provides systematic measurements and metrics in Amazon Bedrock AgentCore Evaluations, along with Amazon use case-specific evaluation approaches and metrics.",
+      "author": "Yunfei Bai",
+      "content": "In this post, we present a comprehensive evaluation framework for Amazon agentic AI systems that addresses the complexity of agentic AI applications at Amazon through two core components: a generic evaluation workflow that standardizes assessment procedures across diverse agent implementations, and an agent evaluation library that provides systematic measurements and metrics in Amazon Bedrock AgentCore Evaluations, along with Amazon use case-specific evaluation approaches and metrics.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-25T02:46:36.452088+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-25T02:46:36.452091+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "67e27488084d8c54ad20aad1dd237bee",
+      "title": "NVIDIA DGX Spark Powers Big Projects in Higher Education",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/dgx-spark-higher-education/",
+      "published_date": "2026-02-12T15:00:23+00:00",
+      "category": "Industry",
+      "description": "At leading institutions across the globe, the NVIDIA DGX Spark desktop supercomputer is bringing data‑center‑class AI to lab benches, faculty offices and students’ systems. There’s even a DGX Spark hard at work in the South Pole, at the IceCube Neutrino Observatory run by the University of Wisconsin-Madison. The compact supercomputer’s petaflop‑class performance enables local deployment Read Article",
+      "author": "Max Starubinskiy",
+      "content": "At leading institutions across the globe, the NVIDIA DGX Spark desktop supercomputer is bringing data‑center‑class AI to lab benches, faculty offices and students’ systems. There’s even a DGX Spark hard at work in the South Pole, at the IceCube Neutrino Observatory run by the University of Wisconsin-Madison. The compact supercomputer’s petaflop‑class performance enables local deployment Read Article",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -110,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-24T20:47:28.339723+00:00"
+        "consensus_timestamp": "2026-02-25T02:46:36.452813+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,150 +183,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-24T20:47:28.339725+00:00"
+        "timestamp": "2026-02-25T02:46:36.452817+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "d1bc23fbc7717b57dc7b37e737a76aa6",
-      "title": "Why a 12-year-old forecasting paper has stood the test of time",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/why-a-12-year-old-forecasting-paper-has-stood-the-test-of-time",
-      "published_date": "2026-02-17T14:00:00+00:00",
+      "article_id": "5633b8d43a0307ce871fb45c9660600a",
+      "title": "Accelerating Data Processing with NVIDIA Multi-Instance GPU and NUMA Node Localization",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/accelerating-data-processing-with-nvidia-multi-instance-gpu-and-numa-node-localization/",
+      "published_date": "2026-02-19T17:30:00+00:00",
       "category": "Industry",
-      "description": "Amazon Scholar Aravind Srinivasan coauthored a 2014 paper about forecasting civil unrest in Latin America, which won a test-of-time award at KDD 2025.",
-      "author": "Larry Hardesty",
-      "content": "Amazon Scholar Aravind Srinivasan coauthored a 2014 paper about forecasting civil unrest in Latin America, which won a test-of-time award at KDD 2025.",
+      "description": "NVIDIA flagship data center GPUs in the NVIDIA Ampere, NVIDIA Hopper, and NVIDIA Blackwell families all feature non-uniform memory access (NUMA) behaviors, but...",
+      "author": "Mukul Joshi",
+      "content": "NVIDIA flagship data center GPUs in the NVIDIA Ampere, NVIDIA Hopper, and NVIDIA Blackwell families all feature non-uniform memory access (NUMA) behaviors, but...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-24T20:47:28.341850+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-24T20:47:28.341855+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "03eae08ba286d110d26095d3b11c7f73",
-      "title": "Beyond Simple API Requests: How OpenAI’s WebSocket Mode Changes the Game for Low Latency Voice Powered AI Experiences",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/02/23/beyond-simple-api-requests-how-openais-websocket-mode-changes-the-game-for-low-latency-voice-powered-ai-experiences/",
-      "published_date": "2026-02-23T23:35:40+00:00",
-      "category": "Industry",
-      "description": "In the world of Generative AI, latency is the ultimate killer of immersion. Until recently, building a voice-enabled AI agent felt like assembling a Rube Goldberg machine: you’d pipe audio to a Speech-to-Text (STT) model, send the transcript to a Large Language Model (LLM), and finally shuttle text to a Text-to-Speech (TTS) engine. Each hop […] The post Beyond Simple API Requests: How OpenAI’s WebSocket Mode Changes the Game for Low Latency Voice Powered AI Experiences appeared first on...",
-      "author": "Michal Sutter",
-      "content": "In the world of Generative AI, latency is the ultimate killer of immersion. Until recently, building a voice-enabled AI agent felt like assembling a Rube Goldberg machine: you’d pipe audio to a Speech-to-Text (STT) model, send the transcript to a Large Language Model (LLM), and finally shuttle text to a Text-to-Speech (TTS) engine. Each hop […] The post Beyond Simple API Requests: How OpenAI’s WebSocket Mode Changes the Game for Low Latency Voice Powered AI Experiences appeared first on...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.99,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-24T20:47:28.343331+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.794,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-24T20:47:28.343334+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "a616b1e40ff40960c74c672a76dd3833",
-      "title": "Agentic AI with multi-model framework using Hugging Face smolagents on AWS",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-ai-with-multi-model-framework-using-hugging-face-smolagents-on-aws/",
-      "published_date": "2026-02-23T15:47:06+00:00",
-      "category": "Industry",
-      "description": "Hugging Face smolagents is an open source Python library designed to make it straightforward to build and run agents using a few lines of code. We will show you how to build an agentic AI solution by integrating Hugging Face smolagents with Amazon Web Services (AWS) managed services. You'll learn how to deploy a healthcare AI agent that demonstrates multi-model deployment options, vector-enhanced knowledge retrieval, and clinical decision support capabilities.",
-      "author": "Sanhita Sarkar",
-      "content": "Hugging Face smolagents is an open source Python library designed to make it straightforward to build and run agents using a few lines of code. We will show you how to build an agentic AI solution by integrating Hugging Face smolagents with Amazon Web Services (AWS) managed services. You'll learn how to deploy a healthcare AI agent that demonstrates multi-model deployment options, vector-enhanced knowledge retrieval, and clinical decision support capabilities.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -296,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-24T20:47:28.339318+00:00"
+        "consensus_timestamp": "2026-02-25T02:46:36.453891+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +245,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-24T20:47:28.339321+00:00"
+        "timestamp": "2026-02-25T02:46:36.453894+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "6ae8edcb16a5070971b735ad112eace7",
+      "title": "OpenAI and Microsoft join UK’s international coalition to safeguard AI development",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/openai-and-microsoft-join-uks-international-coalition-to-safeguard-ai-development",
+      "published_date": "2026-02-19T18:00:01+00:00",
+      "category": "Government",
+      "description": "OpenAI and Microsoft pledge funding to AI Security Institute’s Alignment Project: an international effort on AI systems that are safe, secure and under control.",
+      "author": "",
+      "content": "OpenAI and Microsoft pledge funding to AI Security Institute’s Alignment Project: an international effort on AI systems that are safe, secure and under control.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.89,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-25T02:46:36.449934+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-25T02:46:36.449937+00:00"
       },
       "article_type": "article"
     }
