@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-25T05:29:44.526819+00:00",
+  "updated": "2026-02-25T09:02:35.652828+00:00",
   "top_stories": [
     {
       "article_id": "12a158b4cce4d6a2720738a3c86dbdc1",
@@ -44,24 +44,86 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.85,
+        "score": 0.9,
+        "confidence": 0.92,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-25T05:29:44.473960+00:00"
+        "consensus_timestamp": "2026-02-25T09:02:35.607113+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.71,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.752,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-25T05:29:44.473963+00:00"
+        "timestamp": "2026-02-25T09:02:35.607116+00:00"
       },
       "article_type": "headline"
+    },
+    {
+      "article_id": "6ae8edcb16a5070971b735ad112eace7",
+      "title": "OpenAI and Microsoft join UK’s international coalition to safeguard AI development",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/openai-and-microsoft-join-uks-international-coalition-to-safeguard-ai-development",
+      "published_date": "2026-02-19T18:00:01+00:00",
+      "category": "Government",
+      "description": "OpenAI and Microsoft pledge funding to AI Security Institute’s Alignment Project: an international effort on AI systems that are safe, secure and under control.",
+      "author": "",
+      "content": "OpenAI and Microsoft pledge funding to AI Security Institute’s Alignment Project: an international effort on AI systems that are safe, secure and under control.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.925,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-25T09:02:35.603248+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-25T09:02:35.603251+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "7a48bb06efc21cb04f327c1f525c580f",
@@ -107,165 +169,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-25T05:29:44.472499+00:00"
+        "consensus_timestamp": "2026-02-25T09:02:35.605501+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-25T05:29:44.472501+00:00"
+        "timestamp": "2026-02-25T09:02:35.605503+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "71bc18edba905a5501f28f39b55c3236",
-      "title": "Introducing Amazon Bedrock global cross-Region inference for Anthropic’s Claude models in the Middle East Regions (UAE and Bahrain)",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-global-cross-region-inference-for-anthropics-claude-models-in-the-middle-east-regions/",
-      "published_date": "2026-02-24T15:33:51+00:00",
-      "category": "Industry",
-      "description": "We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5 through Amazon Bedrock global cross-Region inference for customers operating in the Middle East. In this post, we guide you through the capabilities of each Anthropic Claude model variant, the key advantages of global cross-Region inference including improved resilience, real-world use cases you can implement, and a code example to help you start...",
-      "author": "Hossam Basudan",
-      "content": "We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5 through Amazon Bedrock global cross-Region inference for customers operating in the Middle East. In this post, we guide you through the capabilities of each Anthropic Claude model variant, the key advantages of global cross-Region inference including improved resilience, real-world use cases you can implement, and a code example to help you start...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-25T05:29:44.471995+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-25T05:29:44.471998+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8ef878a22275f7f8b551593b9851d9c1",
-      "title": "Amazon SageMaker AI in 2025, a year in review part 1: Flexible Training Plans and improvements to price performance for inference workloads",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-1-flexible-training-plans-and-improvements-to-price-performance-for-inference-workloads/",
-      "published_date": "2026-02-20T20:26:47+00:00",
-      "category": "Industry",
-      "description": "In 2025, Amazon SageMaker AI saw dramatic improvements to core infrastructure offerings along four dimensions: capacity, price performance, observability, and usability. In this series of posts, we discuss these various improvements and their benefits. In Part 1, we discuss capacity improvements with the launch of Flexible Training Plans. We also describe improvements to price performance for inference workloads. In Part 2, we discuss enhancements made to observability, model customization, and...",
-      "author": "Dan Ferguson",
-      "content": "In 2025, Amazon SageMaker AI saw dramatic improvements to core infrastructure offerings along four dimensions: capacity, price performance, observability, and usability. In this series of posts, we discuss these various improvements and their benefits. In Part 1, we discuss capacity improvements with the launch of Flexible Training Plans. We also describe improvements to price performance for inference workloads. In Part 2, we discuss enhancements made to observability, model customization, and...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-25T05:29:44.472224+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-25T05:29:44.472226+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "319254e9542edcc98b8134449c5dabca",
-      "title": "NIH scientists develop \"digital twin\" of eye cells to understand and treat age-related macular degeneration",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-scientists-develop-digital-twin-eye-cells-understand-treat-age-related-macular-degeneration",
-      "published_date": "2026-02-25T05:25:49.371655+00:00",
+      "article_id": "5f6d9aadede4777e93c25a87e44c62ae",
+      "title": "Research: AI Adoption Research",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/ai-adoption-research",
+      "published_date": "2026-02-13T14:49:56+00:00",
       "category": "Government",
-      "description": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
+      "description": "How UK businesses are adopting AI, what barriers they face, and what impacts AI is having across sectors.",
       "author": "",
-      "content": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
+      "content": "How UK businesses are adopting AI, what barriers they face, and what impacts AI is having across sectors.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -296,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-25T05:29:44.469811+00:00"
+        "consensus_timestamp": "2026-02-25T09:02:35.603617+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +245,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-25T05:29:44.469815+00:00"
+        "timestamp": "2026-02-25T09:02:35.603620+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "9ba9b481b9fc121debdb3f6b69de3513",
+      "title": "NVIDIA Brings AI-Powered Cybersecurity to World’s Critical Infrastructure",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/ai-cybersecurity-operational-technology-industrial-control-systems/",
+      "published_date": "2026-02-23T16:00:57+00:00",
+      "category": "Industry",
+      "description": "As technologies and systems become more digitalized and connected across the world, operational technology (OT) environments and industrial control systems (ICS) — from energy and manufacturing to transportation and utilities — are increasingly depending on enterprise networks and the cloud. This expands OT and ICS capabilities — but also their exposure to cyber threats. Unlike Read Article",
+      "author": "Itay Ozery",
+      "content": "As technologies and systems become more digitalized and connected across the world, operational technology (OT) environments and industrial control systems (ICS) — from energy and manufacturing to transportation and utilities — are increasingly depending on enterprise networks and the cloud. This expands OT and ICS capabilities — but also their exposure to cyber threats. Unlike Read Article",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-25T09:02:35.605772+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-25T09:02:35.605774+00:00"
       },
       "article_type": "article"
     }
