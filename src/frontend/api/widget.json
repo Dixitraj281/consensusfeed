@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T08:55:52.552175+00:00",
+  "updated": "2026-02-27T13:16:30.885675+00:00",
   "top_stories": [
     {
       "article_id": "f9bb4ab06858b0e16255d7017e2425d1",
@@ -11,130 +11,6 @@
       "description": "Figma is integrating OpenAI's coding assistant Codex a week after it announced a similar integration with Anthropic's Claude Code.",
       "author": "Ivan Mehta",
       "content": "Figma is integrating OpenAI's coding assistant Codex a week after it announced a similar integration with Anthropic's Claude Code.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-27T08:55:52.508131+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-27T08:55:52.508133+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "0bb2416678d1ad199aa608cdadaabe42",
-      "title": "How NVIDIA Extreme Hardware-Software Co-Design Delivered a Large Inference Boost for Sarvam AI’s Sovereign Models",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-nvidia-extreme-hardware-software-co-design-delivered-a-large-inference-boost-for-sarvam-ais-sovereign-models/",
-      "published_date": "2026-02-18T16:00:00+00:00",
-      "category": "Industry",
-      "description": "As global AI adoption accelerates, developers face a growing challenge: delivering large language model (LLM) performance that meets real-world latency and cost...",
-      "author": "Utkarsh Uppal",
-      "content": "As global AI adoption accelerates, developers face a growing challenge: delivering large language model (LLM) performance that meets real-world latency and cost...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-27T08:55:52.508829+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-27T08:55:52.508832+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "b45ef8e3e765dfb391412adfd0a8008d",
-      "title": "Build AI workflows on Amazon EKS with Union.ai and Flyte",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-ai-workflows-on-amazon-eks-with-union-ai-and-flyte/",
-      "published_date": "2026-02-19T16:28:21+00:00",
-      "category": "Industry",
-      "description": "In this post, we explain how you can use the Flyte Python SDK to orchestrate and scale AI/ML workflows. We explore how the Union.ai 2.0 system enables deployment of Flyte on Amazon Elastic Kubernetes Service (Amazon EKS), integrating seamlessly with AWS services like Amazon Simple Storage Service (Amazon S3), Amazon Aurora, AWS Identity and Access Management (IAM), and Amazon CloudWatch. We explore the solution through an AI workflow example, using the new Amazon S3 Vectors service.",
-      "author": "ND Ngoka",
-      "content": "In this post, we explain how you can use the Flyte Python SDK to orchestrate and scale AI/ML workflows. We explore how the Union.ai 2.0 system enables deployment of Flyte on Amazon Elastic Kubernetes Service (Amazon EKS), integrating seamlessly with AWS services like Amazon Simple Storage Service (Amazon S3), Amazon Aurora, AWS Identity and Access Management (IAM), and Amazon CloudWatch. We explore the solution through an AI workflow example, using the new Amazon S3 Vectors service.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -168,41 +44,103 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-27T08:55:52.507499+00:00"
+        "consensus_timestamp": "2026-02-27T13:16:30.841389+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-27T08:55:52.507501+00:00"
+        "timestamp": "2026-02-27T13:16:30.841392+00:00"
       },
-      "article_type": "article"
+      "article_type": "headline"
     },
     {
-      "article_id": "bc2253166f0e56c3e96570e999127121",
-      "title": "Domino Introduces Fastest, Safest Path to Scale Enterprise Agentic AI Systems",
-      "source": "ai_techpark",
-      "url": "https://ai-techpark.com/domino-introduces-fastest-safest-path-to-scale-enterprise-agentic-ai-systems/",
-      "published_date": "2026-02-27T08:00:00+00:00",
+      "article_id": "6c0ee4e9f1cd11dfb287a754ed83863a",
+      "title": "Accelerating discovery in India through AI-powered science and education",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+      "published_date": "2026-02-17T13:42:20+00:00",
       "category": "Industry",
-      "description": "New platform capabilities unite experimentation, evaluation, deployment and monitoring in one governed workflow to rapidly move agentic AI applications to production with confidence Domino Data Lab, provider of the leading enterprise AI platform trusted by the largest AI-driven companies, today announced a major new platform update creating the first fully... The post Domino Introduces Fastest, Safest Path to Scale Enterprise Agentic AI Systems first appeared on AI-Tech Park.",
-      "author": "PR Newswire",
-      "content": "New platform capabilities unite experimentation, evaluation, deployment and monitoring in one governed workflow to rapidly move agentic AI applications to production with confidence Domino Data Lab, provider of the leading enterprise AI platform trusted by the largest AI-driven companies, today announced a major new platform update creating the first fully... The post Domino Introduces Fastest, Safest Path to Scale Enterprise Agentic AI Systems first appeared on AI-Tech Park.",
+      "description": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
+      "author": "",
+      "content": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-27T13:16:30.842306+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-27T13:16:30.842309+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "9684f5cff900e970245a409a0386ff27",
+      "title": "Cognitive speed training over weeks may delay the diagnosis of dementia over decades",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/cognitive-speed-training-over-weeks-may-delay-diagnosis-dementia-over-decades",
+      "published_date": "2026-02-27T13:12:35.821391+00:00",
+      "category": "Government",
+      "description": "NIH-funded effort finds positive outcomes with strategies that engaged mostly unconscious, rather than conscious, thinking.",
+      "author": "",
+      "content": "NIH-funded effort finds positive outcomes with strategies that engaged mostly unconscious, rather than conscious, thinking.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.89,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -231,40 +169,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-27T08:55:52.509311+00:00"
+        "consensus_timestamp": "2026-02-27T13:16:30.838019+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-27T08:55:52.509313+00:00"
+        "timestamp": "2026-02-27T13:16:30.838024+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "0eb29040bf0fbe2615ddfd8e710536e0",
-      "title": "How to prompt Seedream 5.0",
-      "source": "replicate_blog",
-      "url": "https://replicate.com/blog/how-to-prompt-seedream-5",
-      "published_date": "2026-02-24T00:00:00+00:00",
+      "article_id": "532324d295b5dd4e465aa3b542566554",
+      "title": "5 ways Google Cloud partners are driving the next phase of enterprise AI",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/02/23/google-cloud-partners-drive-enterprise-outcomes-googlecloudpartneraiseries/",
+      "published_date": "2026-02-23T19:40:07+00:00",
       "category": "Industry",
-      "description": "Seedream 5.0 brings multi-step reasoning, example-based editing, and deep domain knowledge to image generation. Here's what you should know.",
-      "author": "",
-      "content": "Seedream 5.0 brings multi-step reasoning, example-based editing, and deep domain knowledge to image generation. Here's what you should know.",
+      "description": "After years of scattered pilots, companies are adopting more disciplined approaches to artificial intelligence, guided by enterprise demands for proof, performance and productivity. At the forefront of this shift, Google Cloud partners are embedding agentic systems and modular platforms into core business operations — without sacrificing oversight. In practice, these partners are advancing AI innovation […] The post 5 ways Google Cloud partners are driving the next phase of enterprise AI...",
+      "author": "Ryan Stevens",
+      "content": "After years of scattered pilots, companies are adopting more disciplined approaches to artificial intelligence, guided by enterprise demands for proof, performance and productivity. At the forefront of this shift, Google Cloud partners are embedding agentic systems and modular platforms into core business operations — without sacrificing oversight. In practice, these partners are advancing AI innovation […] The post 5 ways Google Cloud partners are driving the next phase of enterprise AI...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -296,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-27T08:55:52.508524+00:00"
+        "consensus_timestamp": "2026-02-27T13:16:30.843581+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +245,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-27T08:55:52.508527+00:00"
+        "timestamp": "2026-02-27T13:16:30.843584+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8ef878a22275f7f8b551593b9851d9c1",
+      "title": "Amazon SageMaker AI in 2025, a year in review part 1: Flexible Training Plans and improvements to price performance for inference workloads",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-1-flexible-training-plans-and-improvements-to-price-performance-for-inference-workloads/",
+      "published_date": "2026-02-20T20:26:47+00:00",
+      "category": "Industry",
+      "description": "In 2025, Amazon SageMaker AI saw dramatic improvements to core infrastructure offerings along four dimensions: capacity, price performance, observability, and usability. In this series of posts, we discuss these various improvements and their benefits. In Part 1, we discuss capacity improvements with the launch of Flexible Training Plans. We also describe improvements to price performance for inference workloads. In Part 2, we discuss enhancements made to observability, model customization, and...",
+      "author": "Dan Ferguson",
+      "content": "In 2025, Amazon SageMaker AI saw dramatic improvements to core infrastructure offerings along four dimensions: capacity, price performance, observability, and usability. In this series of posts, we discuss these various improvements and their benefits. In Part 1, we discuss capacity improvements with the launch of Flexible Training Plans. We also describe improvements to price performance for inference workloads. In Part 2, we discuss enhancements made to observability, model customization, and...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8624999999999998,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-27T13:16:30.840462+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-27T13:16:30.840465+00:00"
       },
       "article_type": "article"
     }
