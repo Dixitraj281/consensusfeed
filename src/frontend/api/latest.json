@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-02-27T05:21:53.791677+00:00",
+  "generated_at": "2026-02-27T08:55:52.549336+00:00",
   "articles": [
     {
-      "article_id": "07aca699cb846c0b87841054c5315c31",
-      "title": "Bumble adds AI-powered photo feedback and profile guidance tools",
+      "article_id": "f9bb4ab06858b0e16255d7017e2425d1",
+      "title": "Figma partners with OpenAI to bake in support for Codex",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/02/26/bumble-adds-ai-powered-photo-feedback-and-profile-guidance-tools/",
-      "published_date": "2026-02-26T16:38:59+00:00",
+      "url": "https://techcrunch.com/2026/02/26/figma-partners-with-openai-to-bake-in-support-for-codex/",
+      "published_date": "2026-02-26T14:00:00+00:00",
       "category": "Industry",
-      "description": "Bumble and other popular dating apps, like Match Group's Tinder and Hinge, have all embraced AI-powered features.",
-      "author": "Amanda Silberling",
-      "content": "Bumble and other popular dating apps, like Match Group's Tinder and Hinge, have all embraced AI-powered features.",
+      "description": "Figma is integrating OpenAI's coding assistant Codex a week after it announced a similar integration with Anthropic's Claude Code.",
+      "author": "Ivan Mehta",
+      "content": "Figma is integrating OpenAI's coding assistant Codex a week after it announced a similar integration with Anthropic's Claude Code.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.8,
-        "overall_score": 0.88,
-        "confidence_mean": 0.9
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -45,40 +45,102 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-27T05:21:53.749737+00:00"
+        "consensus_timestamp": "2026-02-27T08:55:52.508131+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-27T05:21:53.749740+00:00"
+        "timestamp": "2026-02-27T08:55:52.508133+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "8d1b442e2797598b44ffd042947fce82",
-      "title": "How Sonrai uses Amazon SageMaker AI to accelerate precision medicine trials",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-sonrai-uses-amazon-sagemaker-ai-to-accelerate-precision-medicine-trials/",
-      "published_date": "2026-02-23T17:31:45+00:00",
+      "article_id": "0bb2416678d1ad199aa608cdadaabe42",
+      "title": "How NVIDIA Extreme Hardware-Software Co-Design Delivered a Large Inference Boost for Sarvam AI’s Sovereign Models",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/how-nvidia-extreme-hardware-software-co-design-delivered-a-large-inference-boost-for-sarvam-ais-sovereign-models/",
+      "published_date": "2026-02-18T16:00:00+00:00",
       "category": "Industry",
-      "description": "In this post, we explore how Sonrai, a life sciences AI company, partnered with AWS to build a robust MLOps framework using Amazon SageMaker AI that addresses these challenges while maintaining the traceability and reproducibility required in regulated environments.",
-      "author": "Matthew Lee",
-      "content": "In this post, we explore how Sonrai, a life sciences AI company, partnered with AWS to build a robust MLOps framework using Amazon SageMaker AI that addresses these challenges while maintaining the traceability and reproducibility required in regulated environments.",
+      "description": "As global AI adoption accelerates, developers face a growing challenge: delivering large language model (LLM) performance that meets real-world latency and cost...",
+      "author": "Utkarsh Uppal",
+      "content": "As global AI adoption accelerates, developers face a growing challenge: delivering large language model (LLM) performance that meets real-world latency and cost...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.85,
+        "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-27T08:55:52.508829+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-27T08:55:52.508832+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b45ef8e3e765dfb391412adfd0a8008d",
+      "title": "Build AI workflows on Amazon EKS with Union.ai and Flyte",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-ai-workflows-on-amazon-eks-with-union-ai-and-flyte/",
+      "published_date": "2026-02-19T16:28:21+00:00",
+      "category": "Industry",
+      "description": "In this post, we explain how you can use the Flyte Python SDK to orchestrate and scale AI/ML workflows. We explore how the Union.ai 2.0 system enables deployment of Flyte on Amazon Elastic Kubernetes Service (Amazon EKS), integrating seamlessly with AWS services like Amazon Simple Storage Service (Amazon S3), Amazon Aurora, AWS Identity and Access Management (IAM), and Amazon CloudWatch. We explore the solution through an AI workflow example, using the new Amazon S3 Vectors service.",
+      "author": "ND Ngoka",
+      "content": "In this post, we explain how you can use the Flyte Python SDK to orchestrate and scale AI/ML workflows. We explore how the Union.ai 2.0 system enables deployment of Flyte on Amazon Elastic Kubernetes Service (Amazon EKS), integrating seamlessly with AWS services like Amazon Simple Storage Service (Amazon S3), Amazon Aurora, AWS Identity and Access Management (IAM), and Amazon CloudWatch. We explore the solution through an AI workflow example, using the new Amazon S3 Vectors service.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
         "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
@@ -107,40 +169,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-27T05:21:53.748707+00:00"
+        "consensus_timestamp": "2026-02-27T08:55:52.507499+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-27T05:21:53.748711+00:00"
+        "timestamp": "2026-02-27T08:55:52.507501+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "d586750d1ed6902fec9939c025a15f5b",
-      "title": "Build AI-Ready Knowledge Systems Using 5 Essential Multimodal RAG Capabilities",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/build-ai-ready-knowledge-systems-using-5-essential-multimodal-rag-capabilities/",
-      "published_date": "2026-02-17T18:00:00+00:00",
+      "article_id": "bc2253166f0e56c3e96570e999127121",
+      "title": "Domino Introduces Fastest, Safest Path to Scale Enterprise Agentic AI Systems",
+      "source": "ai_techpark",
+      "url": "https://ai-techpark.com/domino-introduces-fastest-safest-path-to-scale-enterprise-agentic-ai-systems/",
+      "published_date": "2026-02-27T08:00:00+00:00",
       "category": "Industry",
-      "description": "Enterprise data is inherently complex: real-world documents are multimodal, spanning text, tables, charts and graphs, images, diagrams, scanned pages, forms,...",
-      "author": "Shruthii Sathyanarayanan",
-      "content": "Enterprise data is inherently complex: real-world documents are multimodal, spanning text, tables, charts and graphs, images, diagrams, scanned pages, forms,...",
+      "description": "New platform capabilities unite experimentation, evaluation, deployment and monitoring in one governed workflow to rapidly move agentic AI applications to production with confidence Domino Data Lab, provider of the leading enterprise AI platform trusted by the largest AI-driven companies, today announced a major new platform update creating the first fully... The post Domino Introduces Fastest, Safest Path to Scale Enterprise Agentic AI Systems first appeared on AI-Tech Park.",
+      "author": "PR Newswire",
+      "content": "New platform capabilities unite experimentation, evaluation, deployment and monitoring in one governed workflow to rapidly move agentic AI applications to production with confidence Domino Data Lab, provider of the leading enterprise AI platform trusted by the largest AI-driven companies, today announced a major new platform update creating the first fully... The post Domino Introduces Fastest, Safest Path to Scale Enterprise Agentic AI Systems first appeared on AI-Tech Park.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.85,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9025000000000001,
+        "overall_score": 0.89,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -172,7 +234,7 @@
         "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-27T05:21:53.750719+00:00"
+        "consensus_timestamp": "2026-02-27T08:55:52.509311+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,20 +245,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-27T05:21:53.750723+00:00"
+        "timestamp": "2026-02-27T08:55:52.509313+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "9684f5cff900e970245a409a0386ff27",
-      "title": "Cognitive speed training over weeks may delay the diagnosis of dementia over decades",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/cognitive-speed-training-over-weeks-may-delay-diagnosis-dementia-over-decades",
-      "published_date": "2026-02-27T05:18:02.320929+00:00",
-      "category": "Government",
-      "description": "NIH-funded effort finds positive outcomes with strategies that engaged mostly unconscious, rather than conscious, thinking.",
+      "article_id": "0eb29040bf0fbe2615ddfd8e710536e0",
+      "title": "How to prompt Seedream 5.0",
+      "source": "replicate_blog",
+      "url": "https://replicate.com/blog/how-to-prompt-seedream-5",
+      "published_date": "2026-02-24T00:00:00+00:00",
+      "category": "Industry",
+      "description": "Seedream 5.0 brings multi-step reasoning, example-based editing, and deep domain knowledge to image generation. Here's what you should know.",
       "author": "",
-      "content": "NIH-funded effort finds positive outcomes with strategies that engaged mostly unconscious, rather than conscious, thinking.",
+      "content": "Seedream 5.0 brings multi-step reasoning, example-based editing, and deep domain knowledge to image generation. Here's what you should know.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-27T08:55:52.508524+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-27T08:55:52.508527+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "6ae8edcb16a5070971b735ad112eace7",
+      "title": "OpenAI and Microsoft join UK’s international coalition to safeguard AI development",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/openai-and-microsoft-join-uks-international-coalition-to-safeguard-ai-development",
+      "published_date": "2026-02-19T18:00:01+00:00",
+      "category": "Government",
+      "description": "OpenAI and Microsoft pledge funding to AI Security Institute’s Alignment Project: an international effort on AI systems that are safe, secure and under control.",
+      "author": "",
+      "content": "OpenAI and Microsoft pledge funding to AI Security Institute’s Alignment Project: an international effort on AI systems that are safe, secure and under control.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -234,7 +358,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-27T05:21:53.746427+00:00"
+        "consensus_timestamp": "2026-02-27T08:55:52.505722+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,88 +369,274 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-27T05:21:53.746431+00:00"
+        "timestamp": "2026-02-27T08:55:52.505724+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "cbb5bb03e3845e251b2fddada3530472",
-      "title": "Large model inference container – latest capabilities and performance enhancements",
+      "article_id": "bae8840fb7e2951e00118cece5d969c7",
+      "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/pacific-northwest-national-laboratory",
+      "published_date": "2026-02-26T10:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
+      "author": "",
+      "content": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-27T08:55:52.506049+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-27T08:55:52.506052+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3bfe2c045ead2f2686c3c52572169075",
+      "title": "Disrupting malicious uses of AI | February 2026",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/disrupting-malicious-ai-uses",
+      "published_date": "2026-02-25T00:00:00+00:00",
+      "category": "Industry",
+      "description": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
+      "author": "",
+      "content": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-27T08:55:52.506132+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-27T08:55:52.506135+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "2c8e838d2708d87fcba606ef540bb841",
+      "title": "OpenAI announces Frontier Alliance Partners",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/frontier-alliance-partners",
+      "published_date": "2026-02-23T05:30:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+      "author": "",
+      "content": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-27T08:55:52.506251+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-27T08:55:52.506253+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "71bc18edba905a5501f28f39b55c3236",
+      "title": "Introducing Amazon Bedrock global cross-Region inference for Anthropic’s Claude models in the Middle East Regions (UAE and Bahrain)",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/",
-      "published_date": "2026-02-26T17:45:59+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-global-cross-region-inference-for-anthropics-claude-models-in-the-middle-east-regions/",
+      "published_date": "2026-02-24T15:33:51+00:00",
       "category": "Industry",
-      "description": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.",
-      "author": "Dmitry Soldatkin",
-      "content": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-27T05:21:53.748259+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-27T05:21:53.748262+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "835c8a67e4066a8be339ced3dd8a0fd6",
-      "title": "India Fuels Its AI Mission With NVIDIA",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/india-ai-mission-infrastructure-models/",
-      "published_date": "2026-02-18T00:30:49+00:00",
-      "category": "Industry",
-      "description": "From AI infrastructure leaders to frontier model developers, India is teaming with NVIDIA to drive AI transformation across the nation.",
-      "author": "Jay Puri",
-      "content": "From AI infrastructure leaders to frontier model developers, India is teaming with NVIDIA to drive AI transformation across the nation.",
+      "description": "We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5 through Amazon Bedrock global cross-Region inference for customers operating in the Middle East. In this post, we guide you through the capabilities of each Anthropic Claude model variant, the key advantages of global cross-Region inference including improved resilience, real-world use cases you can implement, and a code example to help you start...",
+      "author": "Hossam Basudan",
+      "content": "We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5 through Amazon Bedrock global cross-Region inference for customers operating in the Middle East. In this post, we guide you through the capabilities of each Anthropic Claude model variant, the key advantages of global cross-Region inference including improved resilience, real-world use cases you can implement, and a code example to help you start...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.95,
         "overall_score": 0.8875,
+        "confidence_mean": 0.99
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-27T08:55:52.507142+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-27T08:55:52.507145+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "931753665f6b157e886f00627333182d",
+      "title": "Polkadot (DOT) Price Prediction: 2025, 2026, 2030",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/money/polkadot-price-prediction",
+      "published_date": "2026-02-26T15:16:03+00:00",
+      "category": "Industry",
+      "description": "The post Polkadot (DOT) Price Prediction: 2025, 2026, 2030 by James Wells appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Polkadot (DOT) could reach $4.40 by 2030. Feeling confident about this DOT price prediction? You can trade Polkadot on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Polkadot (DOT) is a …...",
+      "author": "James Wells",
+      "content": "The post Polkadot (DOT) Price Prediction: 2025, 2026, 2030 by James Wells appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Polkadot (DOT) could reach $4.40 by 2030. Feeling confident about this DOT price prediction? You can trade Polkadot on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Polkadot (DOT) is a …...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.7,
+        "overall_score": 0.8475,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -354,22 +664,84 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.9,
+        "score": 0.75,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-27T05:21:53.749336+00:00"
+        "consensus_timestamp": "2026-02-27T08:55:52.509691+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.6499999999999999,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-27T05:21:53.749339+00:00"
+        "timestamp": "2026-02-27T08:55:52.509694+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "5a73668ea51a8ceffd2333257ffa54ff",
+      "title": "Concentric AI and Sektor Join Forces to Secure AI and Data Across ANZ",
+      "source": "ai_techpark",
+      "url": "https://ai-techpark.com/concentric-ai-and-sektor-join-forces-to-secure-ai-and-data-across-anz/",
+      "published_date": "2026-02-27T08:17:49+00:00",
+      "category": "Industry",
+      "description": "Sektor Selects Concentric AI as Its Preferred AI and Data Security Governance Partner to Help Organizations Across the Region Reduce Risk, Strengthen Compliance, and Enable Safe AI Adoption Concentric AI today announced a key milestone in its expansion into Australia and New Zealand through a new distribution agreement with Sektor,... The post Concentric AI and Sektor Join Forces to Secure AI and Data Across ANZ first appeared on AI-Tech Park.",
+      "author": "Concentric AI",
+      "content": "Sektor Selects Concentric AI as Its Preferred AI and Data Security Governance Partner to Help Organizations Across the Region Reduce Risk, Strengthen Compliance, and Enable Safe AI Adoption Concentric AI today announced a key milestone in its expansion into Australia and New Zealand through a new distribution agreement with Sektor,... The post Concentric AI and Sektor Join Forces to Secure AI and Data Across ANZ first appeared on AI-Tech Park.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8624999999999998,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.99,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-27T08:55:52.509152+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.794,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-27T08:55:52.509154+00:00"
       },
       "article_type": "article"
     },
@@ -417,258 +789,10 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-27T05:21:53.747881+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-27T05:21:53.747885+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8556725f4cc7c1a6fc6e1623cb7ad75f",
-      "title": "Beyond rate limits: scaling access to Codex and Sora",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/beyond-rate-limits",
-      "published_date": "2026-02-13T09:00:00+00:00",
-      "category": "Industry",
-      "description": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
-      "author": "",
-      "content": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-27T05:21:53.748034+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-27T05:21:53.748038+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "b95b574fbb16cf0cefc0670761c8d36b",
-      "title": "Global cross-Region inference for latest Anthropic Claude Opus, Sonnet and Haiku models on Amazon Bedrock in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/global-cross-region-inference-for-latest-anthropic-claude-opus-sonnet-and-haiku-models-on-amazon-bedrock-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
-      "published_date": "2026-02-24T15:38:22+00:00",
-      "category": "Industry",
-      "description": "In this post, we are exciting to announce availability of Global CRIS for customers in Thailand, Malaysia, Singapore, Indonesia, and Taiwan and give a walkthrough of technical implementation steps, and cover quota management best practices to maximize the value of your AI Inference deployments. We also provide guidance on best practices for production deployments.",
-      "author": "Traci Lim",
-      "content": "In this post, we are exciting to announce availability of Global CRIS for customers in Thailand, Malaysia, Singapore, Indonesia, and Taiwan and give a walkthrough of technical implementation steps, and cover quota management best practices to maximize the value of your AI Inference deployments. We also provide guidance on best practices for production deployments.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-27T05:21:53.748572+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-27T05:21:53.748575+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "a616b1e40ff40960c74c672a76dd3833",
-      "title": "Agentic AI with multi-model framework using Hugging Face smolagents on AWS",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-ai-with-multi-model-framework-using-hugging-face-smolagents-on-aws/",
-      "published_date": "2026-02-23T15:47:06+00:00",
-      "category": "Industry",
-      "description": "Hugging Face smolagents is an open source Python library designed to make it straightforward to build and run agents using a few lines of code. We will show you how to build an agentic AI solution by integrating Hugging Face smolagents with Amazon Web Services (AWS) managed services. You'll learn how to deploy a healthcare AI agent that demonstrates multi-model deployment options, vector-enhanced knowledge retrieval, and clinical decision support capabilities.",
-      "author": "Sanhita Sarkar",
-      "content": "Hugging Face smolagents is an open source Python library designed to make it straightforward to build and run agents using a few lines of code. We will show you how to build an agentic AI solution by integrating Hugging Face smolagents with Amazon Web Services (AWS) managed services. You'll learn how to deploy a healthcare AI agent that demonstrates multi-model deployment options, vector-enhanced knowledge retrieval, and clinical decision support capabilities.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-27T05:21:53.748796+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-27T05:21:53.748799+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "ea4e3acdf21bdb7e83288f05cab68551",
-      "title": "Topping the GPU MODE Kernel Leaderboard with NVIDIA cuda.compute",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/topping-the-gpu-mode-kernel-leaderboard-with-nvidia-cuda-compute/",
-      "published_date": "2026-02-18T17:00:00+00:00",
-      "category": "Industry",
-      "description": "Python dominates machine learning for its ergonomics, but writing truly fast GPU code has historically meant dropping into C++ to write custom kernels and to...",
-      "author": "Daniel Rodriguez",
-      "content": "Python dominates machine learning for its ergonomics, but writing truly fast GPU code has historically meant dropping into C++ to write custom kernels and to...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-27T05:21:53.750629+00:00"
+        "consensus_timestamp": "2026-02-27T08:55:52.506471+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,20 +803,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-27T05:21:53.750632+00:00"
+        "timestamp": "2026-02-27T08:55:52.506473+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f0271801a4a961c33ae07e34dc197a46",
-      "title": "Build an intelligent photo search using Amazon Rekognition, Amazon Neptune, and Amazon Bedrock",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-photo-search-using-amazon-rekognition-amazon-neptune-and-amazon-bedrock/",
-      "published_date": "2026-02-24T18:22:26+00:00",
+      "article_id": "dbfbd4426f1198ea4f9d414b12c2d86f",
+      "title": "Azure reliability, resiliency, and recoverability: Build continuity by design",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/",
+      "published_date": "2026-02-17T16:00:00+00:00",
       "category": "Industry",
-      "description": "In this post, we show you how to build a comprehensive photo search system using the AWS Cloud Development Kit (AWS CDK) that integrates Amazon Rekognition for face and object detection, Amazon Neptune for relationship mapping, and Amazon Bedrock for AI-powered captioning.",
-      "author": "Kara Yang",
-      "content": "In this post, we show you how to build a comprehensive photo search system using the AWS Cloud Development Kit (AWS CDK) that integrates Amazon Rekognition for face and object detection, Amazon Neptune for relationship mapping, and Amazon Bedrock for AI-powered captioning.",
+      "description": "Modern cloud systems are expected to deliver more than uptime. Customers expect consistent performance, the ability to withstand disruption, and confidence that recovery is predictable and intentional. The post Azure reliability, resiliency, and recoverability: Build continuity by design appeared first on Microsoft Azure Blog.",
+      "author": "Mark Russinovich and Molina Sharma",
+      "content": "Modern cloud systems are expected to deliver more than uptime. Customers expect consistent performance, the ability to withstand disruption, and confidence that recovery is predictable and intentional. The post Azure reliability, resiliency, and recoverability: Build continuity by design appeared first on Microsoft Azure Blog.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -727,41 +851,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-27T05:21:53.748439+00:00"
+        "consensus_timestamp": "2026-02-27T08:55:52.506751+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-27T05:21:53.748441+00:00"
+        "timestamp": "2026-02-27T08:55:52.506753+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "bae8840fb7e2951e00118cece5d969c7",
-      "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/pacific-northwest-national-laboratory",
-      "published_date": "2026-02-26T10:00:00+00:00",
+      "article_id": "5633b8d43a0307ce871fb45c9660600a",
+      "title": "Accelerating Data Processing with NVIDIA Multi-Instance GPU and NUMA Node Localization",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/accelerating-data-processing-with-nvidia-multi-instance-gpu-and-numa-node-localization/",
+      "published_date": "2026-02-19T17:30:00+00:00",
       "category": "Industry",
-      "description": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
-      "author": "",
-      "content": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
+      "description": "NVIDIA flagship data center GPUs in the NVIDIA Ampere, NVIDIA Hopper, and NVIDIA Blackwell families all feature non-uniform memory access (NUMA) behaviors, but...",
+      "author": "Mukul Joshi",
+      "content": "NVIDIA flagship data center GPUs in the NVIDIA Ampere, NVIDIA Hopper, and NVIDIA Blackwell families all feature non-uniform memory access (NUMA) behaviors, but...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -792,7 +916,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-27T05:21:53.747419+00:00"
+        "consensus_timestamp": "2026-02-27T08:55:52.508682+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,131 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-27T05:21:53.747422+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "dbfbd4426f1198ea4f9d414b12c2d86f",
-      "title": "Azure reliability, resiliency, and recoverability: Build continuity by design",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/",
-      "published_date": "2026-02-17T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Modern cloud systems are expected to deliver more than uptime. Customers expect consistent performance, the ability to withstand disruption, and confidence that recovery is predictable and intentional. The post Azure reliability, resiliency, and recoverability: Build continuity by design appeared first on Microsoft Azure Blog.",
-      "author": "Mark Russinovich and Molina Sharma",
-      "content": "Modern cloud systems are expected to deliver more than uptime. Customers expect consistent performance, the ability to withstand disruption, and confidence that recovery is predictable and intentional. The post Azure reliability, resiliency, and recoverability: Build continuity by design appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-27T05:21:53.748124+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-27T05:21:53.748127+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c57e7c208e9e052bfea44dda9a446b2a",
-      "title": "UK to champion how AI can supercharge growth, unlock new jobs and improve public services at AI Impact Summit in India",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/uk-to-champion-how-ai-can-supercharge-growth-unlock-new-jobs-and-improve-public-services-at-ai-impact-summit-in-india",
-      "published_date": "2026-02-16T00:01:00+00:00",
-      "category": "Government",
-      "description": "UK and international partners to redouble efforts for AI to transform public services, create jobs and drive renewal for people worldwide at AI Impact Summit.",
-      "author": "",
-      "content": "UK and international partners to redouble efforts for AI to transform public services, create jobs and drive renewal for people worldwide at AI Impact Summit.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-27T05:21:53.747282+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-27T05:21:53.747285+00:00"
+        "timestamp": "2026-02-27T08:55:52.508684+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 165.8429319858551,
+    "processing_time": 165.16311168670654,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 119,
+      "total_processed": 120,
       "candidates": {
-        "headlines": 16,
-        "articles": 103,
+        "headlines": 14,
+        "articles": 106,
         "research_papers": 0
       },
       "selected": {
