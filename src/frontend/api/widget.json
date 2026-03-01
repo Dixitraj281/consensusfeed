@@ -1,22 +1,22 @@
 {
-  "updated": "2026-02-28T20:37:10.642381+00:00",
+  "updated": "2026-03-01T02:55:15.854064+00:00",
   "top_stories": [
     {
-      "article_id": "a1142d2b72360818289857801c80cac3",
-      "title": "ChatGPT reaches 900M weekly active users",
+      "article_id": "b1c307f90e3b274d7fc7547339fe69ee",
+      "title": "The billion-dollar infrastructure deals powering the AI boom",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
-      "published_date": "2026-02-27T18:25:51+00:00",
+      "url": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
+      "published_date": "2026-02-28T20:41:55+00:00",
       "category": "Industry",
-      "description": "OpenAI shared the new numbers as part of its announcement that it has raised $110 billion in private funding.",
-      "author": "Aisha Malik",
-      "content": "OpenAI shared the new numbers as part of its announcement that it has raised $110 billion in private funding.",
+      "description": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+      "author": "Russell Brandom",
+      "content": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8775000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -44,24 +44,86 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.85,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T20:37:10.603090+00:00"
+        "consensus_timestamp": "2026-03-01T02:55:15.812523+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-28T20:37:10.603092+00:00"
+        "timestamp": "2026-03-01T02:55:15.812526+00:00"
       },
       "article_type": "headline"
+    },
+    {
+      "article_id": "73d606a793af1537e21e635d3f3f89aa",
+      "title": "Accelerating AI model production at Hexagon with Amazon SageMaker HyperPod",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-model-production-at-hexagon-with-amazon-sagemaker-hyperpod/",
+      "published_date": "2026-02-23T17:29:11+00:00",
+      "category": "Industry",
+      "description": "In this blog post, we demonstrate how Hexagon collaborated with Amazon Web Services to scale their AI model production by pretraining state-of-the-art segmentation models, using the model training infrastructure of Amazon SageMaker HyperPod.",
+      "author": "Johannes Maunz, Tobias Bösch Borgards, Bartlomiej Gralewicz",
+      "content": "In this blog post, we demonstrate how Hexagon collaborated with Amazon Web Services to scale their AI model production by pretraining state-of-the-art segmentation models, using the model training infrastructure of Amazon SageMaker HyperPod.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.9225000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-01T02:55:15.811596+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-01T02:55:15.811599+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "00899403796dda9b39f08c003e42cb9b",
@@ -76,71 +138,9 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.9,
         "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T20:37:10.602550+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-28T20:37:10.602552+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "0a550f20424b0486ab185279d5ce92bd",
-      "title": "AI in Medical Coding: What It Can and Can’t Do Today",
-      "source": "nanonets_blog",
-      "url": "https://nanonets.com/blog/ai-in-medical-coding-what-it-can-and-cant-do-today/",
-      "published_date": "2026-02-27T10:15:01+00:00",
-      "category": "Industry",
-      "description": "Medical coding AI is moving from pilot to production. It speeds chart review, improves consistency, and flags documentation gaps early. But value depends on governance, measured rollout, explainability, and human oversight to protect compliance and revenue integrity.",
-      "author": "Deepesh Agarwal",
-      "content": "Medical coding AI is moving from pilot to production. It speeds chart review, improves consistency, and flags documentation gaps early. But value depends on governance, measured rollout, explainability, and human oversight to protect compliance and revenue integrity.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8875000000000001,
+        "overall_score": 0.925,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -172,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T20:37:10.605037+00:00"
+        "consensus_timestamp": "2026-03-01T02:55:15.811983+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,7 +183,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-28T20:37:10.605040+00:00"
+        "timestamp": "2026-03-01T02:55:15.811986+00:00"
       },
       "article_type": "article"
     },
@@ -192,7 +192,7 @@
       "title": "Cognitive speed training over weeks may delay the diagnosis of dementia over decades",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/cognitive-speed-training-over-weeks-may-delay-diagnosis-dementia-over-decades",
-      "published_date": "2026-02-28T20:33:24.555797+00:00",
+      "published_date": "2026-03-01T02:51:27.773989+00:00",
       "category": "Government",
       "description": "NIH-funded effort finds positive outcomes with strategies that engaged mostly unconscious, rather than conscious, thinking.",
       "author": "",
@@ -234,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T20:37:10.599526+00:00"
+        "consensus_timestamp": "2026-03-01T02:55:15.809233+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,27 +245,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-28T20:37:10.599530+00:00"
+        "timestamp": "2026-03-01T02:55:15.809237+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "5edddbcf9dcf021188f18262210b7dc8",
-      "title": "Research: International use of digital identities and credentials: stakeholder survey responses",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/international-use-of-digital-identities-and-credentials-stakeholder-survey-responses",
-      "published_date": "2026-02-23T10:30:01+00:00",
-      "category": "Government",
-      "description": "Results of an online survey inviting views on cross-border use of digital identities and credentials, and the government’s role in realising opportunities or removing barriers.",
-      "author": "",
-      "content": "Results of an online survey inviting views on cross-border use of digital identities and credentials, and the government’s role in realising opportunities or removing barriers.",
+      "article_id": "cbb5bb03e3845e251b2fddada3530472",
+      "title": "Large model inference container – latest capabilities and performance enhancements",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/",
+      "published_date": "2026-02-26T17:45:59+00:00",
+      "category": "Industry",
+      "description": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.",
+      "author": "Dmitry Soldatkin",
+      "content": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.875,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -296,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T20:37:10.600105+00:00"
+        "consensus_timestamp": "2026-03-01T02:55:15.811189+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-28T20:37:10.600108+00:00"
+        "timestamp": "2026-03-01T02:55:15.811192+00:00"
       },
       "article_type": "article"
     }
