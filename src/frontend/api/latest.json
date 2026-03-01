@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T02:55:15.851243+00:00",
+  "generated_at": "2026-03-01T05:23:49.586236+00:00",
   "articles": [
     {
       "article_id": "b1c307f90e3b274d7fc7547339fe69ee",
@@ -15,8 +15,8 @@
         "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -45,154 +45,30 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-01T02:55:15.812523+00:00"
+        "consensus_timestamp": "2026-03-01T05:23:49.544082+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-01T02:55:15.812526+00:00"
+        "timestamp": "2026-03-01T05:23:49.544085+00:00"
       },
       "article_type": "headline"
-    },
-    {
-      "article_id": "73d606a793af1537e21e635d3f3f89aa",
-      "title": "Accelerating AI model production at Hexagon with Amazon SageMaker HyperPod",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-model-production-at-hexagon-with-amazon-sagemaker-hyperpod/",
-      "published_date": "2026-02-23T17:29:11+00:00",
-      "category": "Industry",
-      "description": "In this blog post, we demonstrate how Hexagon collaborated with Amazon Web Services to scale their AI model production by pretraining state-of-the-art segmentation models, using the model training infrastructure of Amazon SageMaker HyperPod.",
-      "author": "Johannes Maunz, Tobias Bösch Borgards, Bartlomiej Gralewicz",
-      "content": "In this blog post, we demonstrate how Hexagon collaborated with Amazon Web Services to scale their AI model production by pretraining state-of-the-art segmentation models, using the model training infrastructure of Amazon SageMaker HyperPod.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.9225000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-01T02:55:15.811596+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-01T02:55:15.811599+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "00899403796dda9b39f08c003e42cb9b",
-      "title": "Now Live: The World’s Most Powerful AI Factory for Pharmaceutical Discovery and Development",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/lilly-ai-factory-live/",
-      "published_date": "2026-02-26T19:00:58+00:00",
-      "category": "Industry",
-      "description": "Lilly this week launched the most powerful AI factory wholly owned and operated by a pharmaceutical company to help its teams make meaningful medical advancements faster, more accurately and at unprecedented scale. Dubbed LillyPod, it’s the world’s first NVIDIA DGX SuperPOD with DGX B300 systems.",
-      "author": "Rory Kelleher",
-      "content": "Lilly this week launched the most powerful AI factory wholly owned and operated by a pharmaceutical company to help its teams make meaningful medical advancements faster, more accurately and at unprecedented scale. Dubbed LillyPod, it’s the world’s first NVIDIA DGX SuperPOD with DGX B300 systems.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.925,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-01T02:55:15.811983+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-01T02:55:15.811986+00:00"
-      },
-      "article_type": "article"
     },
     {
       "article_id": "9684f5cff900e970245a409a0386ff27",
       "title": "Cognitive speed training over weeks may delay the diagnosis of dementia over decades",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/cognitive-speed-training-over-weeks-may-delay-diagnosis-dementia-over-decades",
-      "published_date": "2026-03-01T02:51:27.773989+00:00",
+      "published_date": "2026-03-01T05:20:10.609095+00:00",
       "category": "Government",
       "description": "NIH-funded effort finds positive outcomes with strategies that engaged mostly unconscious, rather than conscious, thinking.",
       "author": "",
@@ -234,7 +110,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-01T02:55:15.809233+00:00"
+        "consensus_timestamp": "2026-03-01T05:23:49.540304+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,27 +121,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-01T02:55:15.809237+00:00"
+        "timestamp": "2026-03-01T05:23:49.540308+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "cbb5bb03e3845e251b2fddada3530472",
-      "title": "Large model inference container – latest capabilities and performance enhancements",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/",
-      "published_date": "2026-02-26T17:45:59+00:00",
+      "article_id": "21121f063e2442908481db6ac75db4d3",
+      "title": "Introducing EVMbench",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/introducing-evmbench",
+      "published_date": "2026-02-18T00:00:00+00:00",
       "category": "Industry",
-      "description": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.",
-      "author": "Dmitry Soldatkin",
-      "content": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.",
+      "description": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
+      "author": "",
+      "content": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.875,
-        "confidence_mean": 0.95
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -293,21 +169,145 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-01T02:55:15.811189+00:00"
+        "consensus_timestamp": "2026-03-01T05:23:49.542439+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-01T02:55:15.811192+00:00"
+        "timestamp": "2026-03-01T05:23:49.542442+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "6ae8edcb16a5070971b735ad112eace7",
+      "title": "OpenAI and Microsoft join UK’s international coalition to safeguard AI development",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/openai-and-microsoft-join-uks-international-coalition-to-safeguard-ai-development",
+      "published_date": "2026-02-19T18:00:01+00:00",
+      "category": "Government",
+      "description": "OpenAI and Microsoft pledge funding to AI Security Institute’s Alignment Project: an international effort on AI systems that are safe, secure and under control.",
+      "author": "",
+      "content": "OpenAI and Microsoft pledge funding to AI Security Institute’s Alignment Project: an international effort on AI systems that are safe, secure and under control.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-01T05:23:49.541324+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-01T05:23:49.541327+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "2c8e838d2708d87fcba606ef540bb841",
+      "title": "OpenAI announces Frontier Alliance Partners",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/frontier-alliance-partners",
+      "published_date": "2026-02-23T05:30:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+      "author": "",
+      "content": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-01T05:23:49.542252+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-01T05:23:49.542255+00:00"
       },
       "article_type": "article"
     },
@@ -325,194 +325,8 @@
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-01T02:55:15.811413+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-01T02:55:15.811417+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "9ba9b481b9fc121debdb3f6b69de3513",
-      "title": "NVIDIA Brings AI-Powered Cybersecurity to World’s Critical Infrastructure",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/ai-cybersecurity-operational-technology-industrial-control-systems/",
-      "published_date": "2026-02-23T16:00:57+00:00",
-      "category": "Industry",
-      "description": "As technologies and systems become more digitalized and connected across the world, operational technology (OT) environments and industrial control systems (ICS) — from energy and manufacturing to transportation and utilities — are increasingly depending on enterprise networks and the cloud. This expands OT and ICS capabilities — but also their exposure to cyber threats. Unlike Read Article",
-      "author": "Itay Ozery",
-      "content": "As technologies and systems become more digitalized and connected across the world, operational technology (OT) environments and industrial control systems (ICS) — from energy and manufacturing to transportation and utilities — are increasingly depending on enterprise networks and the cloud. This expands OT and ICS capabilities — but also their exposure to cyber threats. Unlike Read Article",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
         "impact_score": 0.9,
         "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-01T02:55:15.812122+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-01T02:55:15.812124+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "a001bff96c34be42c4978a97a67a1398",
-      "title": "India’s Global Systems Integrators Build Next Wave of Enterprise Agents With NVIDIA AI, Transforming Back Office and Customer Support",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/india-enterprise-ai-agents/",
-      "published_date": "2026-02-18T00:30:41+00:00",
-      "category": "Industry",
-      "description": "Agentic AI is reshaping India’s tech industry, delivering leaps in services worldwide. Tapping into NVIDIA AI Enterprise software and NVIDIA Nemotron models, India’s technology leaders are accelerating productivity and efficiency across industries — from call centers to telecommunications and healthcare. Infosys, Persistent, Tech Mahindra and Wipro are leading the way for business transformation, improving back-office Read Article",
-      "author": "John Fanelli",
-      "content": "Agentic AI is reshaping India’s tech industry, delivering leaps in services worldwide. Tapping into NVIDIA AI Enterprise software and NVIDIA Nemotron models, India’s technology leaders are accelerating productivity and efficiency across industries — from call centers to telecommunications and healthcare. Infosys, Persistent, Tech Mahindra and Wipro are leading the way for business transformation, improving back-office Read Article",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-01T02:55:15.812302+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-01T02:55:15.812305+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "1e982c01a8883dc19b169ef93915c413",
-      "title": "Momentum Cyber Hosts AIxCYBER on $119B Security Bet",
-      "source": "ai_techpark",
-      "url": "https://ai-techpark.com/momentum-cyber-hosts-aixcyber-on-119b-security-bet/",
-      "published_date": "2026-02-27T17:15:00+00:00",
-      "category": "Industry",
-      "description": "Top cybersecurity CEOs and investors reveal why agentic AI, enterprise architectural strain, and record capital deployment are converging to create the highest-stakes moment in cybersecurity history Momentum Cyber, the premier cybersecurity-focused investment bank, today announced AIxCYBER, to be held on March 12, 2026, in Austin. Moderated by Momentum Cyber Founder and CEO... The post Momentum Cyber Hosts AIxCYBER on $119B Security Bet first appeared on AI-Tech Park.",
-      "author": "GlobeNewswire",
-      "content": "Top cybersecurity CEOs and investors reveal why agentic AI, enterprise architectural strain, and record capital deployment are converging to create the highest-stakes moment in cybersecurity history Momentum Cyber, the premier cybersecurity-focused investment bank, today announced AIxCYBER, to be held on March 12, 2026, in Austin. Moderated by Momentum Cyber Founder and CEO... The post Momentum Cyber Hosts AIxCYBER on $119B Security Bet first appeared on AI-Tech Park.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.98,
-        "overall_score": 0.881,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -541,41 +355,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-01T02:55:15.814454+00:00"
+        "consensus_timestamp": "2026-03-01T05:23:49.542898+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-01T02:55:15.814457+00:00"
+        "timestamp": "2026-03-01T05:23:49.542901+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "b45ef8e3e765dfb391412adfd0a8008d",
-      "title": "Build AI workflows on Amazon EKS with Union.ai and Flyte",
+      "article_id": "8d1b442e2797598b44ffd042947fce82",
+      "title": "How Sonrai uses Amazon SageMaker AI to accelerate precision medicine trials",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-ai-workflows-on-amazon-eks-with-union-ai-and-flyte/",
-      "published_date": "2026-02-19T16:28:21+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-sonrai-uses-amazon-sagemaker-ai-to-accelerate-precision-medicine-trials/",
+      "published_date": "2026-02-23T17:31:45+00:00",
       "category": "Industry",
-      "description": "In this post, we explain how you can use the Flyte Python SDK to orchestrate and scale AI/ML workflows. We explore how the Union.ai 2.0 system enables deployment of Flyte on Amazon Elastic Kubernetes Service (Amazon EKS), integrating seamlessly with AWS services like Amazon Simple Storage Service (Amazon S3), Amazon Aurora, AWS Identity and Access Management (IAM), and Amazon CloudWatch. We explore the solution through an AI workflow example, using the new Amazon S3 Vectors service.",
-      "author": "ND Ngoka",
-      "content": "In this post, we explain how you can use the Flyte Python SDK to orchestrate and scale AI/ML workflows. We explore how the Union.ai 2.0 system enables deployment of Flyte on Amazon Elastic Kubernetes Service (Amazon EKS), integrating seamlessly with AWS services like Amazon Simple Storage Service (Amazon S3), Amazon Aurora, AWS Identity and Access Management (IAM), and Amazon CloudWatch. We explore the solution through an AI workflow example, using the new Amazon S3 Vectors service.",
+      "description": "In this post, we explore how Sonrai, a life sciences AI company, partnered with AWS to build a robust MLOps framework using Amazon SageMaker AI that addresses these challenges while maintaining the traceability and reproducibility required in regulated environments.",
+      "author": "Matthew Lee",
+      "content": "In this post, we explore how Sonrai, a life sciences AI company, partnered with AWS to build a robust MLOps framework using Amazon SageMaker AI that addresses these challenges while maintaining the traceability and reproducibility required in regulated environments.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -606,7 +420,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-01T02:55:15.811822+00:00"
+        "consensus_timestamp": "2026-03-01T05:23:49.543075+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -617,7 +431,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-01T02:55:15.811825+00:00"
+        "timestamp": "2026-03-01T05:23:49.543078+00:00"
       },
       "article_type": "article"
     },
@@ -632,11 +446,11 @@
       "author": "",
       "content": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
+        "overall_score": 0.8775000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -664,42 +478,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
+        "score": 0.95,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-01T02:55:15.813987+00:00"
+        "consensus_timestamp": "2026-03-01T05:23:49.545570+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
+        "weighted_score": 0.77,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-01T02:55:15.813990+00:00"
+        "timestamp": "2026-03-01T05:23:49.545573+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "7f2333e0751deb4f22f38192a3118863",
-      "title": "Turning proteins into PROSE",
-      "source": "darpa_ai_research",
-      "url": "https://www.darpa.mil/news/2026/protein-sequencing-launches",
-      "published_date": "2026-02-18T16:19:10+00:00",
-      "category": "Government",
-      "description": "The PROtein SEquencing (PROSE) program launches to build microsystems that directly read and decipher complex proteins.",
-      "author": "outreach@darpa.mil",
-      "content": "The PROtein SEquencing (PROSE) program launches to build microsystems that directly read and decipher complex proteins.",
+      "article_id": "00899403796dda9b39f08c003e42cb9b",
+      "title": "Now Live: The World’s Most Powerful AI Factory for Pharmaceutical Discovery and Development",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/lilly-ai-factory-live/",
+      "published_date": "2026-02-26T19:00:58+00:00",
+      "category": "Industry",
+      "description": "Lilly this week launched the most powerful AI factory wholly owned and operated by a pharmaceutical company to help its teams make meaningful medical advancements faster, more accurately and at unprecedented scale. Dubbed LillyPod, it’s the world’s first NVIDIA DGX SuperPOD with DGX B300 systems.",
+      "author": "Rory Kelleher",
+      "content": "Lilly this week launched the most powerful AI factory wholly owned and operated by a pharmaceutical company to help its teams make meaningful medical advancements faster, more accurately and at unprecedented scale. Dubbed LillyPod, it’s the world’s first NVIDIA DGX SuperPOD with DGX B300 systems.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -730,7 +544,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-01T02:55:15.809535+00:00"
+        "consensus_timestamp": "2026-03-01T05:23:49.543531+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -741,20 +555,144 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-01T02:55:15.809539+00:00"
+        "timestamp": "2026-03-01T05:23:49.543534+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "74b09a7d46b3e4eb9f501f3f2e27f1aa",
-      "title": "Researchers identify new blood markers that may detect early pancreatic cancer",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/researchers-identify-new-blood-markers-may-detect-early-pancreatic-cancer",
-      "published_date": "2026-03-01T02:51:27.774246+00:00",
-      "category": "Government",
-      "description": "NIH-funded, four-marker panel could one day help catch one of deadliest cancers at more treatable stages.",
-      "author": "",
-      "content": "NIH-funded, four-marker panel could one day help catch one of deadliest cancers at more treatable stages.",
+      "article_id": "d87009b6f3c830d53d51073c3d5b8106",
+      "title": "Building intelligent event agents using Amazon Bedrock AgentCore and Amazon Bedrock Knowledge Bases",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-event-agents-using-amazon-bedrock-agentcore-and-amazon-bedrock-knowledge-bases/",
+      "published_date": "2026-02-25T19:51:08+00:00",
+      "category": "Industry",
+      "description": "This post demonstrates how to quickly deploy a production-ready event assistant using the components of Amazon Bedrock AgentCore. We'll build an intelligent companion that remembers attendee preferences and builds personalized experiences over time, while Amazon Bedrock AgentCore handles the heavy lifting of production deployment: Amazon Bedrock AgentCore Memory for maintaining both conversation context and long-term preferences without custom storage solutions, Amazon Bedrock AgentCore...",
+      "author": "Dani Mitchell",
+      "content": "This post demonstrates how to quickly deploy a production-ready event assistant using the components of Amazon Bedrock AgentCore. We'll build an intelligent companion that remembers attendee preferences and builds personalized experiences over time, while Amazon Bedrock AgentCore handles the heavy lifting of production deployment: Amazon Bedrock AgentCore Memory for maintaining both conversation context and long-term preferences without custom storage solutions, Amazon Bedrock AgentCore...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-01T05:23:49.542763+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-01T05:23:49.542766+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8ef878a22275f7f8b551593b9851d9c1",
+      "title": "Amazon SageMaker AI in 2025, a year in review part 1: Flexible Training Plans and improvements to price performance for inference workloads",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-1-flexible-training-plans-and-improvements-to-price-performance-for-inference-workloads/",
+      "published_date": "2026-02-20T20:26:47+00:00",
+      "category": "Industry",
+      "description": "In 2025, Amazon SageMaker AI saw dramatic improvements to core infrastructure offerings along four dimensions: capacity, price performance, observability, and usability. In this series of posts, we discuss these various improvements and their benefits. In Part 1, we discuss capacity improvements with the launch of Flexible Training Plans. We also describe improvements to price performance for inference workloads. In Part 2, we discuss enhancements made to observability, model customization, and...",
+      "author": "Dan Ferguson",
+      "content": "In 2025, Amazon SageMaker AI saw dramatic improvements to core infrastructure offerings along four dimensions: capacity, price performance, observability, and usability. In this series of posts, we discuss these various improvements and their benefits. In Part 1, we discuss capacity improvements with the launch of Flexible Training Plans. We also describe improvements to price performance for inference workloads. In Part 2, we discuss enhancements made to observability, model customization, and...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-01T05:23:49.543255+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-01T05:23:49.543258+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "cbb5bb03e3845e251b2fddada3530472",
+      "title": "Large model inference container – latest capabilities and performance enhancements",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/",
+      "published_date": "2026-02-26T17:45:59+00:00",
+      "category": "Industry",
+      "description": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.",
+      "author": "Dmitry Soldatkin",
+      "content": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
@@ -789,40 +727,102 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.8,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-01T02:55:15.809334+00:00"
+        "consensus_timestamp": "2026-03-01T05:23:49.542719+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-01T02:55:15.809339+00:00"
+        "timestamp": "2026-03-01T05:23:49.542721+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "76388bf6362e173113b30e6b45402ac6",
-      "title": "Recraft V4: image generation with design taste",
-      "source": "replicate_blog",
-      "url": "https://replicate.com/blog/recraft-v4",
-      "published_date": "2026-02-18T00:00:00+00:00",
+      "article_id": "0a550f20424b0486ab185279d5ce92bd",
+      "title": "AI in Medical Coding: What It Can and Can’t Do Today",
+      "source": "nanonets_blog",
+      "url": "https://nanonets.com/blog/ai-in-medical-coding-what-it-can-and-cant-do-today/",
+      "published_date": "2026-02-27T10:15:01+00:00",
       "category": "Industry",
-      "description": "Recraft V4 generates art-directed images — and actual editable SVGs — with strong composition, accurate text rendering, and what the Recraft team calls \"design taste.\" Four models are available on Replicate now.",
+      "description": "Medical coding AI is moving from pilot to production. It speeds chart review, improves consistency, and flags documentation gaps early. But value depends on governance, measured rollout, explainability, and human oversight to protect compliance and revenue integrity.",
+      "author": "Deepesh Agarwal",
+      "content": "Medical coding AI is moving from pilot to production. It speeds chart review, improves consistency, and flags documentation gaps early. But value depends on governance, measured rollout, explainability, and human oversight to protect compliance and revenue integrity.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.9,
+        "impact_score": 0.8,
+        "overall_score": 0.8550000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-01T05:23:49.546308+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-01T05:23:49.546311+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "977b72bf9fe21de8131d5d4a0cd4d9c4",
+      "title": "Study measuring changes in protein structure establishes new class of Alzheimer’s biomarkers",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/study-measuring-changes-protein-structure-establishes-new-class-alzheimers-biomarkers",
+      "published_date": "2026-03-01T05:20:10.608828+00:00",
+      "category": "Government",
+      "description": "NIH-funded insights into Alzheimer’s biology could help with early diagnosis, future clinical trials",
       "author": "",
-      "content": "Recraft V4 generates art-directed images — and actual editable SVGs — with strong composition, accurate text rendering, and what the Recraft team calls \"design taste.\" Four models are available on Replicate now.",
+      "content": "NIH-funded insights into Alzheimer’s biology could help with early diagnosis, future clinical trials",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
+        "impact_score": 0.8,
+        "overall_score": 0.8250000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -850,22 +850,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.8,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-01T02:55:15.813392+00:00"
+        "consensus_timestamp": "2026-03-01T05:23:49.540104+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-01T02:55:15.813394+00:00"
+        "timestamp": "2026-03-01T05:23:49.540109+00:00"
       },
       "article_type": "article"
     },
@@ -882,9 +882,9 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.7,
         "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
+        "overall_score": 0.82,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -912,22 +912,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.6,
-        "confidence": 0.4,
-        "recommendation": "REJECT",
+        "score": 0.8,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-01T02:55:15.814578+00:00"
+        "consensus_timestamp": "2026-03-01T05:23:49.546264+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.56,
-        "combined_confidence": 0.44,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-01T02:55:15.814581+00:00"
+        "timestamp": "2026-03-01T05:23:49.546267+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 154.67941999435425,
+    "processing_time": 157.46904683113098,
     "components": [
       "collection",
       "bulk_scoring",
@@ -955,8 +955,8 @@
     "classification_metadata": {
       "total_processed": 122,
       "candidates": {
-        "headlines": 12,
-        "articles": 110,
+        "headlines": 14,
+        "articles": 108,
         "research_papers": 0
       },
       "selected": {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-01T02:55:15.854064+00:00",
+  "updated": "2026-03-01T05:23:49.589206+00:00",
   "top_stories": [
     {
       "article_id": "b1c307f90e3b274d7fc7547339fe69ee",
@@ -15,8 +15,8 @@
         "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -45,154 +45,30 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-01T02:55:15.812523+00:00"
+        "consensus_timestamp": "2026-03-01T05:23:49.544082+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-01T02:55:15.812526+00:00"
+        "timestamp": "2026-03-01T05:23:49.544085+00:00"
       },
       "article_type": "headline"
-    },
-    {
-      "article_id": "73d606a793af1537e21e635d3f3f89aa",
-      "title": "Accelerating AI model production at Hexagon with Amazon SageMaker HyperPod",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-model-production-at-hexagon-with-amazon-sagemaker-hyperpod/",
-      "published_date": "2026-02-23T17:29:11+00:00",
-      "category": "Industry",
-      "description": "In this blog post, we demonstrate how Hexagon collaborated with Amazon Web Services to scale their AI model production by pretraining state-of-the-art segmentation models, using the model training infrastructure of Amazon SageMaker HyperPod.",
-      "author": "Johannes Maunz, Tobias Bösch Borgards, Bartlomiej Gralewicz",
-      "content": "In this blog post, we demonstrate how Hexagon collaborated with Amazon Web Services to scale their AI model production by pretraining state-of-the-art segmentation models, using the model training infrastructure of Amazon SageMaker HyperPod.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.9225000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-01T02:55:15.811596+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-01T02:55:15.811599+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "00899403796dda9b39f08c003e42cb9b",
-      "title": "Now Live: The World’s Most Powerful AI Factory for Pharmaceutical Discovery and Development",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/lilly-ai-factory-live/",
-      "published_date": "2026-02-26T19:00:58+00:00",
-      "category": "Industry",
-      "description": "Lilly this week launched the most powerful AI factory wholly owned and operated by a pharmaceutical company to help its teams make meaningful medical advancements faster, more accurately and at unprecedented scale. Dubbed LillyPod, it’s the world’s first NVIDIA DGX SuperPOD with DGX B300 systems.",
-      "author": "Rory Kelleher",
-      "content": "Lilly this week launched the most powerful AI factory wholly owned and operated by a pharmaceutical company to help its teams make meaningful medical advancements faster, more accurately and at unprecedented scale. Dubbed LillyPod, it’s the world’s first NVIDIA DGX SuperPOD with DGX B300 systems.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.925,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-01T02:55:15.811983+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-01T02:55:15.811986+00:00"
-      },
-      "article_type": "article"
     },
     {
       "article_id": "9684f5cff900e970245a409a0386ff27",
       "title": "Cognitive speed training over weeks may delay the diagnosis of dementia over decades",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/cognitive-speed-training-over-weeks-may-delay-diagnosis-dementia-over-decades",
-      "published_date": "2026-03-01T02:51:27.773989+00:00",
+      "published_date": "2026-03-01T05:20:10.609095+00:00",
       "category": "Government",
       "description": "NIH-funded effort finds positive outcomes with strategies that engaged mostly unconscious, rather than conscious, thinking.",
       "author": "",
@@ -234,7 +110,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-01T02:55:15.809233+00:00"
+        "consensus_timestamp": "2026-03-01T05:23:49.540304+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,27 +121,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-01T02:55:15.809237+00:00"
+        "timestamp": "2026-03-01T05:23:49.540308+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "cbb5bb03e3845e251b2fddada3530472",
-      "title": "Large model inference container – latest capabilities and performance enhancements",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/",
-      "published_date": "2026-02-26T17:45:59+00:00",
+      "article_id": "21121f063e2442908481db6ac75db4d3",
+      "title": "Introducing EVMbench",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/introducing-evmbench",
+      "published_date": "2026-02-18T00:00:00+00:00",
       "category": "Industry",
-      "description": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.",
-      "author": "Dmitry Soldatkin",
-      "content": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.",
+      "description": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
+      "author": "",
+      "content": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.875,
-        "confidence_mean": 0.95
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -293,21 +169,145 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-01T02:55:15.811189+00:00"
+        "consensus_timestamp": "2026-03-01T05:23:49.542439+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-01T02:55:15.811192+00:00"
+        "timestamp": "2026-03-01T05:23:49.542442+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "6ae8edcb16a5070971b735ad112eace7",
+      "title": "OpenAI and Microsoft join UK’s international coalition to safeguard AI development",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/openai-and-microsoft-join-uks-international-coalition-to-safeguard-ai-development",
+      "published_date": "2026-02-19T18:00:01+00:00",
+      "category": "Government",
+      "description": "OpenAI and Microsoft pledge funding to AI Security Institute’s Alignment Project: an international effort on AI systems that are safe, secure and under control.",
+      "author": "",
+      "content": "OpenAI and Microsoft pledge funding to AI Security Institute’s Alignment Project: an international effort on AI systems that are safe, secure and under control.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-01T05:23:49.541324+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-01T05:23:49.541327+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "2c8e838d2708d87fcba606ef540bb841",
+      "title": "OpenAI announces Frontier Alliance Partners",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/frontier-alliance-partners",
+      "published_date": "2026-02-23T05:30:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+      "author": "",
+      "content": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-01T05:23:49.542252+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-01T05:23:49.542255+00:00"
       },
       "article_type": "article"
     }
