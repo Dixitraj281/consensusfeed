@@ -1,16 +1,16 @@
 {
-  "updated": "2026-03-03T08:56:43.340661+00:00",
+  "updated": "2026-03-03T13:15:59.483459+00:00",
   "top_stories": [
     {
-      "article_id": "97e11b5be5895a91261f3eacd87c0686",
-      "title": "OpenAI reveals more details about its agreement with the Pentagon",
+      "article_id": "e9f8034267546396ae96742a6f4769ca",
+      "title": "Anthropic’s Claude reports widespread outage",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
-      "published_date": "2026-03-01T16:30:10+00:00",
+      "url": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
+      "published_date": "2026-03-02T13:31:49+00:00",
       "category": "Industry",
-      "description": "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”",
-      "author": "Anthony Ha",
-      "content": "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”",
+      "description": "Anthropic's AI chatbot Claude experienced widespread service disruptions on Monday morning, with thousands of users reporting issues accessing the bot.",
+      "author": "Ram Iyer",
+      "content": "Anthropic's AI chatbot Claude experienced widespread service disruptions on Monday morning, with thousands of users reporting issues accessing the bot.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -45,164 +45,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T08:56:43.297399+00:00"
+        "consensus_timestamp": "2026-03-03T13:15:59.442317+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T08:56:43.297402+00:00"
+        "timestamp": "2026-03-03T13:15:59.442320+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "71bc18edba905a5501f28f39b55c3236",
-      "title": "Introducing Amazon Bedrock global cross-Region inference for Anthropic’s Claude models in the Middle East Regions (UAE and Bahrain)",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-global-cross-region-inference-for-anthropics-claude-models-in-the-middle-east-regions/",
-      "published_date": "2026-02-24T15:33:51+00:00",
+      "article_id": "d586750d1ed6902fec9939c025a15f5b",
+      "title": "Build AI-Ready Knowledge Systems Using 5 Essential Multimodal RAG Capabilities",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/build-ai-ready-knowledge-systems-using-5-essential-multimodal-rag-capabilities/",
+      "published_date": "2026-02-17T18:00:00+00:00",
       "category": "Industry",
-      "description": "We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5 through Amazon Bedrock global cross-Region inference for customers operating in the Middle East. In this post, we guide you through the capabilities of each Anthropic Claude model variant, the key advantages of global cross-Region inference including improved resilience, real-world use cases you can implement, and a code example to help you start...",
-      "author": "Hossam Basudan",
-      "content": "We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5 through Amazon Bedrock global cross-Region inference for customers operating in the Middle East. In this post, we guide you through the capabilities of each Anthropic Claude model variant, the key advantages of global cross-Region inference including improved resilience, real-world use cases you can implement, and a code example to help you start...",
+      "description": "Enterprise data is inherently complex: real-world documents are multimodal, spanning text, tables, charts and graphs, images, diagrams, scanned pages, forms,...",
+      "author": "Shruthii Sathyanarayanan",
+      "content": "Enterprise data is inherently complex: real-world documents are multimodal, spanning text, tables, charts and graphs, images, diagrams, scanned pages, forms,...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T08:56:43.295489+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-03T08:56:43.295492+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "dfb95cecd4832bec4930fca52f63764c",
-      "title": "The trap Anthropic built for itself",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
-      "published_date": "2026-03-01T00:08:58+00:00",
-      "category": "Industry",
-      "description": "Anthropic, OpenAI, Google DeepMind, and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
-      "author": "Connie Loizos",
-      "content": "Anthropic, OpenAI, Google DeepMind, and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.99
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T08:56:43.297535+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-03T08:56:43.297538+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "a1daa0f0d44cf832d2d7d77f348fa563",
-      "title": "ROCkN enables GPS-free operations",
-      "source": "darpa_ai_research",
-      "url": "https://www.darpa.mil/news/2026/rockn-enables-gps-free-operations",
-      "published_date": "2026-02-25T20:28:02+00:00",
-      "category": "Government",
-      "description": "The Robust Optical Clock Network (ROCkN) program enables precision timekeeping, even in contested and/or GPS-denied environments.",
-      "author": "outreach@darpa.mil",
-      "content": "The Robust Optical Clock Network (ROCkN) program enables precision timekeeping, even in contested and/or GPS-denied environments.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.85,
         "impact_score": 0.9,
-        "overall_score": 0.9,
+        "overall_score": 0.9025000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -231,34 +107,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T08:56:43.293336+00:00"
+        "consensus_timestamp": "2026-03-03T13:15:59.443633+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T08:56:43.293339+00:00"
+        "timestamp": "2026-03-03T13:15:59.443637+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "13795601290fe379dc0306d3dfd60872",
-      "title": "NIH-supported trial reduces HIV incidence by 70% in rural populations",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-supported-trial-reduces-hiv-incidence-70-rural-populations",
-      "published_date": "2026-03-03T08:52:33.745508+00:00",
-      "category": "Government",
-      "description": "Study&nbsp;used technology to extend reach of existing infrastructure, linking people to care.",
-      "author": "",
-      "content": "Study&nbsp;used technology to extend reach of existing infrastructure, linking people to care.",
+      "article_id": "5c4c79c5861a7b5d29d15ed9e5d446af",
+      "title": "Building Telco Reasoning Models for Autonomous Networks with NVIDIA NeMo",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/building-telco-reasoning-models-for-autonomous-networks-with-nvidia-nemo/",
+      "published_date": "2026-03-01T07:00:00+00:00",
+      "category": "Industry",
+      "description": "Autonomous networks are quickly becoming one of the top priorities in telecommunications. According to the latest NVIDIA State of AI in Telecommunications...",
+      "author": "Aiden Chang",
+      "content": "Autonomous networks are quickly becoming one of the top priorities in telecommunications. According to the latest NVIDIA State of AI in Telecommunications...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -293,21 +169,145 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T08:56:43.292853+00:00"
+        "consensus_timestamp": "2026-03-03T13:15:59.443119+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T08:56:43.292857+00:00"
+        "timestamp": "2026-03-03T13:15:59.443121+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "7b0ff72ea6cc67f98e67dc6f96c56e9f",
+      "title": "Maximizing GPU Utilization with NVIDIA Run:ai and NVIDIA NIM",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/maximizing-gpu-utilization-with-nvidia-runai-and-nvidia-nim/",
+      "published_date": "2026-02-27T17:00:00+00:00",
+      "category": "Industry",
+      "description": "Organizations deploying LLMs are challenged by inference workloads with different resource requirements. A small embedding model might use only a few gigabytes...",
+      "author": "Shwetha Krishnamurthy",
+      "content": "Organizations deploying LLMs are challenged by inference workloads with different resource requirements. A small embedding model might use only a few gigabytes...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-03T13:15:59.443271+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-03T13:15:59.443274+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "5f796e42936bfe60bc105ce87602efb1",
+      "title": "Why we no longer evaluate SWE-bench Verified",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+      "published_date": "2026-02-23T11:00:00+00:00",
+      "category": "Industry",
+      "description": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+      "author": "",
+      "content": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-03T13:15:59.439849+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-03T13:15:59.439852+00:00"
       },
       "article_type": "article"
     }
