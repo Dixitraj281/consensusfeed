@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-03T20:44:48.244016+00:00",
+  "updated": "2026-03-04T02:38:13.566565+00:00",
   "top_stories": [
     {
       "article_id": "e9f8034267546396ae96742a6f4769ca",
@@ -45,34 +45,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.8,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T20:44:48.203287+00:00"
+        "consensus_timestamp": "2026-03-04T02:38:13.529520+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T20:44:48.203290+00:00"
+        "timestamp": "2026-03-04T02:38:13.529524+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "daa84be915c45e74ba90f2512d0e80a6",
-      "title": "Advancing independent research on AI alignment",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
-      "published_date": "2026-02-19T10:00:00+00:00",
+      "article_id": "a1f83e4d1ee06d1a8f46c8fc8959630e",
+      "title": "cuTile.jl Brings NVIDIA CUDA Tile-Based Programming to Julia",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/cutile-jl-brings-nvidia-cuda-tile-based-programming-to-julia/",
+      "published_date": "2026-03-03T19:48:16+00:00",
       "category": "Industry",
-      "description": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
-      "author": "",
-      "content": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
+      "description": "NVIDIA CUDA Tile is one of the most significant additions to NVIDIA CUDA programming and unlocks automatic access to tensor cores and other specialized...",
+      "author": "Tim Besard",
+      "content": "NVIDIA CUDA Tile is one of the most significant additions to NVIDIA CUDA programming and unlocks automatic access to tensor cores and other specialized...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -107,10 +107,72 @@
           }
         },
         "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-04T02:38:13.530038+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-04T02:38:13.530041+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ed48e80f117c6a2b1c37caae4e287fe0",
+      "title": "Efficiently serve dozens of fine-tuned models with vLLM on Amazon SageMaker AI and Amazon Bedrock",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/efficiently-serve-dozens-of-fine-tuned-models-with-vllm-on-amazon-sagemaker-ai-and-amazon-bedrock/",
+      "published_date": "2026-02-25T20:56:13+00:00",
+      "category": "Industry",
+      "description": "In this post, we explain how we implemented multi-LoRA inference for Mixture of Experts (MoE) models in vLLM, describe the kernel-level optimizations we performed, and show you how you can benefit from this work. We use GPT-OSS 20B as our primary example throughout this post.",
+      "author": "Danielle Robinson",
+      "content": "In this post, we explain how we implemented multi-LoRA inference for Mixture of Experts (MoE) models in vLLM, describe the kernel-level optimizations we performed, and show you how you can benefit from this work. We use GPT-OSS 20B as our primary example throughout this post.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.89,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T20:44:48.201391+00:00"
+        "consensus_timestamp": "2026-03-04T02:38:13.528141+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,89 +183,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T20:44:48.201393+00:00"
+        "timestamp": "2026-03-04T02:38:13.528145+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "bde2a903f9d62d8a9b3d9c0c622c9d4a",
-      "title": "Stop Paying for AI You Don't Use: The Case for Fine-Tuned Models",
-      "source": "nanonets_blog",
-      "url": "https://nanonets.com/blog/fine-tuned-models-vs-frontier-cost/",
-      "published_date": "2026-03-02T17:19:30+00:00",
+      "article_id": "8c7381395f5408f94a5aa9e42a1a492f",
+      "title": "Intelligence isn&#8217;t about parameter count. It&#8217;s about time.",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/intelligence-isnt-about-parameter-count-its-about-time",
+      "published_date": "2026-02-25T13:59:12+00:00",
       "category": "Industry",
-      "description": "Processing 10,000 documents daily through GPT or Claude costs $50K annually. Fine-tuned models: $5K. Same accuracy. Faster latency. Data never leaves your control. But most teams don't realize this is now viable. Here's when frontier models make sense and when you're overpaying.",
-      "author": "Vinit Mehta",
-      "content": "Processing 10,000 documents daily through GPT or Claude costs $50K annually. Fine-tuned models: $5K. Same accuracy. Faster latency. Data never leaves your control. But most teams don't realize this is now viable. Here's when frontier models make sense and when you're overpaying.",
+      "description": "As AI models grow larger, they become less insightful, not more. To ensure that they continue to learn, we need to reduce their inference time.",
+      "author": "Stefano Soatto",
+      "content": "As AI models grow larger, they become less insightful, not more. To ensure that they continue to learn, we need to reduce their inference time.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8875000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T20:44:48.205286+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-03T20:44:48.205289+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8ea2f292ea1eabfd3170495e8e4470fb",
-      "title": "Government cuts cyber-attack fix times by 84% and launches new profession to protect public services",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/government-cuts-cyber-attack-fix-times-by-84-and-launches-new-profession-to-protect-public-services",
-      "published_date": "2026-02-26T09:56:00+00:00",
-      "category": "Government",
-      "description": "The government has launched a new vulnerability monitoring service (VMS) to reduce cyber risks and speed up fixes, and a new Cyber Profession to build long-term resilience across public services.",
-      "author": "",
-      "content": "The government has launched a new vulnerability monitoring service (VMS) to reduce cyber risks and speed up fixes, and a new Cyber Profession to build long-term resilience across public services.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
+        "overall_score": 0.89,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -230,41 +230,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.99,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T20:44:48.200701+00:00"
+        "consensus_timestamp": "2026-03-04T02:38:13.530778+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.794,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T20:44:48.200704+00:00"
+        "timestamp": "2026-03-04T02:38:13.530781+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "0e19be9a06c3756118055610404200de",
-      "title": "Alibaba just released Qwen 3.5 Small models: a family of 0.8B to 9B parameters built for on-device applications",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/03/02/alibaba-just-released-qwen-3-5-small-models-a-family-of-0-8b-to-9b-parameters-built-for-on-device-applications/",
-      "published_date": "2026-03-03T02:21:07+00:00",
-      "category": "Industry",
-      "description": "Alibaba’s Qwen team has released the Qwen3.5 Small Model Series, a collection of Large Language Models (LLMs) ranging from 0.8B to 9B parameters. While the industry trend has historically favored increasing parameter counts to achieve ‘frontier’ performance, this release focuses on ‘More Intelligence, Less Compute.‘ These models represent a shift toward deploying capable AI on […] The post Alibaba just released Qwen 3.5 Small models: a family of 0.8B to 9B parameters built for on-device...",
-      "author": "Asif Razzaq",
-      "content": "Alibaba’s Qwen team has released the Qwen3.5 Small Model Series, a collection of Large Language Models (LLMs) ranging from 0.8B to 9B parameters. While the industry trend has historically favored increasing parameter counts to achieve ‘frontier’ performance, this release focuses on ‘More Intelligence, Less Compute.‘ These models represent a shift toward deploying capable AI on […] The post Alibaba just released Qwen 3.5 Small models: a family of 0.8B to 9B parameters built for on-device...",
+      "article_id": "319254e9542edcc98b8134449c5dabca",
+      "title": "NIH scientists develop \"digital twin\" of eye cells to understand and treat age-related macular degeneration",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-scientists-develop-digital-twin-eye-cells-understand-treat-age-related-macular-degeneration",
+      "published_date": "2026-03-04T02:34:26.260947+00:00",
+      "category": "Government",
+      "description": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
+      "author": "",
+      "content": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -293,21 +293,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T20:44:48.205464+00:00"
+        "consensus_timestamp": "2026-03-04T02:38:13.525562+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T20:44:48.205467+00:00"
+        "timestamp": "2026-03-04T02:38:13.525566+00:00"
       },
       "article_type": "article"
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T20:44:48.240980+00:00",
+  "generated_at": "2026-03-04T02:38:13.563778+00:00",
   "articles": [
     {
       "article_id": "e9f8034267546396ae96742a6f4769ca",
@@ -45,34 +45,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.8,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T20:44:48.203287+00:00"
+        "consensus_timestamp": "2026-03-04T02:38:13.529520+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T20:44:48.203290+00:00"
+        "timestamp": "2026-03-04T02:38:13.529524+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "daa84be915c45e74ba90f2512d0e80a6",
-      "title": "Advancing independent research on AI alignment",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
-      "published_date": "2026-02-19T10:00:00+00:00",
+      "article_id": "a1f83e4d1ee06d1a8f46c8fc8959630e",
+      "title": "cuTile.jl Brings NVIDIA CUDA Tile-Based Programming to Julia",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/cutile-jl-brings-nvidia-cuda-tile-based-programming-to-julia/",
+      "published_date": "2026-03-03T19:48:16+00:00",
       "category": "Industry",
-      "description": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
-      "author": "",
-      "content": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
+      "description": "NVIDIA CUDA Tile is one of the most significant additions to NVIDIA CUDA programming and unlocks automatic access to tensor cores and other specialized...",
+      "author": "Tim Besard",
+      "content": "NVIDIA CUDA Tile is one of the most significant additions to NVIDIA CUDA programming and unlocks automatic access to tensor cores and other specialized...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -107,41 +107,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T20:44:48.201391+00:00"
+        "consensus_timestamp": "2026-03-04T02:38:13.530038+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T20:44:48.201393+00:00"
+        "timestamp": "2026-03-04T02:38:13.530041+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "bde2a903f9d62d8a9b3d9c0c622c9d4a",
-      "title": "Stop Paying for AI You Don't Use: The Case for Fine-Tuned Models",
-      "source": "nanonets_blog",
-      "url": "https://nanonets.com/blog/fine-tuned-models-vs-frontier-cost/",
-      "published_date": "2026-03-02T17:19:30+00:00",
+      "article_id": "ed48e80f117c6a2b1c37caae4e287fe0",
+      "title": "Efficiently serve dozens of fine-tuned models with vLLM on Amazon SageMaker AI and Amazon Bedrock",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/efficiently-serve-dozens-of-fine-tuned-models-with-vllm-on-amazon-sagemaker-ai-and-amazon-bedrock/",
+      "published_date": "2026-02-25T20:56:13+00:00",
       "category": "Industry",
-      "description": "Processing 10,000 documents daily through GPT or Claude costs $50K annually. Fine-tuned models: $5K. Same accuracy. Faster latency. Data never leaves your control. But most teams don't realize this is now viable. Here's when frontier models make sense and when you're overpaying.",
-      "author": "Vinit Mehta",
-      "content": "Processing 10,000 documents daily through GPT or Claude costs $50K annually. Fine-tuned models: $5K. Same accuracy. Faster latency. Data never leaves your control. But most teams don't realize this is now viable. Here's when frontier models make sense and when you're overpaying.",
+      "description": "In this post, we explain how we implemented multi-LoRA inference for Mixture of Experts (MoE) models in vLLM, describe the kernel-level optimizations we performed, and show you how you can benefit from this work. We use GPT-OSS 20B as our primary example throughout this post.",
+      "author": "Danielle Robinson",
+      "content": "In this post, we explain how we implemented multi-LoRA inference for Mixture of Experts (MoE) models in vLLM, describe the kernel-level optimizations we performed, and show you how you can benefit from this work. We use GPT-OSS 20B as our primary example throughout this post.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8875000000000001,
-        "confidence_mean": 0.95
+        "overall_score": 0.89,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -169,21 +169,145 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T20:44:48.205286+00:00"
+        "consensus_timestamp": "2026-03-04T02:38:13.528141+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T20:44:48.205289+00:00"
+        "timestamp": "2026-03-04T02:38:13.528145+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8c7381395f5408f94a5aa9e42a1a492f",
+      "title": "Intelligence isn&#8217;t about parameter count. It&#8217;s about time.",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/intelligence-isnt-about-parameter-count-its-about-time",
+      "published_date": "2026-02-25T13:59:12+00:00",
+      "category": "Industry",
+      "description": "As AI models grow larger, they become less insightful, not more. To ensure that they continue to learn, we need to reduce their inference time.",
+      "author": "Stefano Soatto",
+      "content": "As AI models grow larger, they become less insightful, not more. To ensure that they continue to learn, we need to reduce their inference time.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.89,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.99,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-04T02:38:13.530778+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.794,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-04T02:38:13.530781+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "319254e9542edcc98b8134449c5dabca",
+      "title": "NIH scientists develop \"digital twin\" of eye cells to understand and treat age-related macular degeneration",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-scientists-develop-digital-twin-eye-cells-understand-treat-age-related-macular-degeneration",
+      "published_date": "2026-03-04T02:34:26.260947+00:00",
+      "category": "Government",
+      "description": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
+      "author": "",
+      "content": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-04T02:38:13.525562+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-04T02:38:13.525566+00:00"
       },
       "article_type": "article"
     },
@@ -230,41 +354,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T20:44:48.200701+00:00"
+        "consensus_timestamp": "2026-03-04T02:38:13.526659+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T20:44:48.200704+00:00"
+        "timestamp": "2026-03-04T02:38:13.526662+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "0e19be9a06c3756118055610404200de",
-      "title": "Alibaba just released Qwen 3.5 Small models: a family of 0.8B to 9B parameters built for on-device applications",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/03/02/alibaba-just-released-qwen-3-5-small-models-a-family-of-0-8b-to-9b-parameters-built-for-on-device-applications/",
-      "published_date": "2026-03-03T02:21:07+00:00",
+      "article_id": "9bd144b262dbab40f77ea79d3917f180",
+      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+      "published_date": "2026-02-27T05:30:00+00:00",
       "category": "Industry",
-      "description": "Alibaba’s Qwen team has released the Qwen3.5 Small Model Series, a collection of Large Language Models (LLMs) ranging from 0.8B to 9B parameters. While the industry trend has historically favored increasing parameter counts to achieve ‘frontier’ performance, this release focuses on ‘More Intelligence, Less Compute.‘ These models represent a shift toward deploying capable AI on […] The post Alibaba just released Qwen 3.5 Small models: a family of 0.8B to 9B parameters built for on-device...",
-      "author": "Asif Razzaq",
-      "content": "Alibaba’s Qwen team has released the Qwen3.5 Small Model Series, a collection of Large Language Models (LLMs) ranging from 0.8B to 9B parameters. While the industry trend has historically favored increasing parameter counts to achieve ‘frontier’ performance, this release focuses on ‘More Intelligence, Less Compute.‘ These models represent a shift toward deploying capable AI on […] The post Alibaba just released Qwen 3.5 Small models: a family of 0.8B to 9B parameters built for on-device...",
+      "description": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+      "author": "",
+      "content": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.8875,
+        "overall_score": 0.8725,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -292,22 +416,146 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T20:44:48.205464+00:00"
+        "consensus_timestamp": "2026-03-04T02:38:13.527073+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T20:44:48.205467+00:00"
+        "timestamp": "2026-03-04T02:38:13.527076+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "36d06554584ea33753e9f4c589057440",
+      "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/figma-partnership",
+      "published_date": "2026-02-26T06:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
+      "author": "",
+      "content": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-04T02:38:13.527213+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-04T02:38:13.527216+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a3674f970d1970cc321f0c1519a37838",
+      "title": "Instant access incremental snapshots: Restore without waiting",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/",
+      "published_date": "2026-03-02T17:00:00+00:00",
+      "category": "Industry",
+      "description": "Today, we’re excited to introduce instant access support for incremental snapshots of Premium SSD v2 (Pv2) and Ultra Disk, delivering an industry-leading snapshot experience where creation, disk restore, and production-ready performance all happen instantly. The post Instant access incremental snapshots: Restore without waiting appeared first on Microsoft Azure Blog.",
+      "author": "Aung Oo",
+      "content": "Today, we’re excited to introduce instant access support for incremental snapshots of Premium SSD v2 (Pv2) and Ultra Disk, delivering an industry-leading snapshot experience where creation, disk restore, and production-ready performance all happen instantly. The post Instant access incremental snapshots: Restore without waiting appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-04T02:38:13.527545+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-04T02:38:13.527548+00:00"
       },
       "article_type": "article"
     },
@@ -354,42 +602,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
+        "score": 0.85,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T20:44:48.201722+00:00"
+        "consensus_timestamp": "2026-03-04T02:38:13.527785+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.71,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T20:44:48.201725+00:00"
+        "timestamp": "2026-03-04T02:38:13.527788+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "ed48e80f117c6a2b1c37caae4e287fe0",
-      "title": "Efficiently serve dozens of fine-tuned models with vLLM on Amazon SageMaker AI and Amazon Bedrock",
+      "article_id": "e903b9e7bcb5d6d86dedc6b03898d080",
+      "title": "Build safe generative AI applications like a Pro: Best Practices with Amazon Bedrock Guardrails",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/efficiently-serve-dozens-of-fine-tuned-models-with-vllm-on-amazon-sagemaker-ai-and-amazon-bedrock/",
-      "published_date": "2026-02-25T20:56:13+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-safe-generative-ai-applications-like-a-pro-best-practices-with-amazon-bedrock-guardrails/",
+      "published_date": "2026-03-02T18:48:25+00:00",
       "category": "Industry",
-      "description": "In this post, we explain how we implemented multi-LoRA inference for Mixture of Experts (MoE) models in vLLM, describe the kernel-level optimizations we performed, and show you how you can benefit from this work. We use GPT-OSS 20B as our primary example throughout this post.",
-      "author": "Danielle Robinson",
-      "content": "In this post, we explain how we implemented multi-LoRA inference for Mixture of Experts (MoE) models in vLLM, describe the kernel-level optimizations we performed, and show you how you can benefit from this work. We use GPT-OSS 20B as our primary example throughout this post.",
+      "description": "In this post, we will show you how to configure Amazon Bedrock Guardrails for efficient performance, implement best practices to protect your applications, and monitor your deployment effectively to maintain the right balance between safety and user experience.",
+      "author": "Daniel Khain",
+      "content": "In this post, we will show you how to configure Amazon Bedrock Guardrails for efficient performance, implement best practices to protect your applications, and monitor your deployment effectively to maintain the right balance between safety and user experience.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.95,
         "overall_score": 0.8725,
-        "confidence_mean": 0.9
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -420,7 +668,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T20:44:48.202035+00:00"
+        "consensus_timestamp": "2026-03-04T02:38:13.527945+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -431,82 +679,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T20:44:48.202038+00:00"
+        "timestamp": "2026-03-04T02:38:13.527948+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "d3aeaefce9d96a07bbd60921c4e168f8",
-      "title": "Generate structured output from LLMs with Dottxt Outlines in AWS",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/generate-structured-output-from-llms-with-dottxt-outlines-in-aws/",
-      "published_date": "2026-02-24T15:42:34+00:00",
-      "category": "Industry",
-      "description": "This post explores the implementation of Dottxt’s Outlines framework as a practical approach to implementing structured outputs using AWS Marketplace in Amazon SageMaker.",
-      "author": "Clement Perrot",
-      "content": "This post explores the implementation of Dottxt’s Outlines framework as a practical approach to implementing structured outputs using AWS Marketplace in Amazon SageMaker.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T20:44:48.202214+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-03T20:44:48.202217+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "835c8a67e4066a8be339ced3dd8a0fd6",
-      "title": "India Fuels Its AI Mission With NVIDIA",
+      "article_id": "082233df7de87bb268e3d628cd0f0c9d",
+      "title": "NVIDIA and Partners Show That Software-Defined AI-RAN Is the Next Wireless Generation",
       "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/india-ai-mission-infrastructure-models/",
-      "published_date": "2026-02-18T00:30:49+00:00",
+      "url": "https://blogs.nvidia.com/blog/software-defined-ai-ran/",
+      "published_date": "2026-03-01T07:00:03+00:00",
       "category": "Industry",
-      "description": "From AI infrastructure leaders to frontier model developers, India is teaming with NVIDIA to drive AI transformation across the nation.",
-      "author": "Jay Puri",
-      "content": "From AI infrastructure leaders to frontier model developers, India is teaming with NVIDIA to drive AI transformation across the nation.",
+      "description": "AI-RAN is moving from lab to field, showing that a software-defined approach is the only viable way to build future AI-native wireless networks. Ahead of Mobile World Congress (MWC), running March 2-5 in Barcelona, NVIDIA and Nokia announced new AI-RAN collaborations with top telecom operators across Europe, Asia and North America, powered by NVIDIA AI-RAN Read Article",
+      "author": "Kanika Atri",
+      "content": "AI-RAN is moving from lab to field, showing that a software-defined approach is the only viable way to build future AI-native wireless networks. Ahead of Mobile World Congress (MWC), running March 2-5 in Barcelona, NVIDIA and Nokia announced new AI-RAN collaborations with top telecom operators across Europe, Asia and North America, powered by NVIDIA AI-RAN Read Article",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -541,41 +727,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T20:44:48.202813+00:00"
+        "consensus_timestamp": "2026-03-04T02:38:13.528746+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T20:44:48.202816+00:00"
+        "timestamp": "2026-03-04T02:38:13.528749+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "319254e9542edcc98b8134449c5dabca",
-      "title": "NIH scientists develop \"digital twin\" of eye cells to understand and treat age-related macular degeneration",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-scientists-develop-digital-twin-eye-cells-understand-treat-age-related-macular-degeneration",
-      "published_date": "2026-03-03T20:40:37.980899+00:00",
-      "category": "Government",
-      "description": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
-      "author": "",
-      "content": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
+      "article_id": "97aa988e8502a83ef3d89fc894b23051",
+      "title": "How to Build an Explainable AI Analysis Pipeline Using SHAP-IQ to Understand Feature Importance, Interaction Effects, and Model Decision Breakdown",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/03/01/how-to-build-an-explainable-ai-analysis-pipeline-using-shap-iq-to-understand-feature-importance-interaction-effects-and-model-decision-breakdown/",
+      "published_date": "2026-03-02T06:13:50+00:00",
+      "category": "Industry",
+      "description": "In this tutorial, we build an advanced explainable AI analysis pipeline using SHAP-IQ to understand both feature importance and interaction effects directly inside our Python environment. We load a real-world dataset, train a high-performance Random Forest model, and then apply the SHAP-IQ interaction index to compute precise, theoretically grounded explanations of model predictions. We extract […] The post How to Build an Explainable AI Analysis Pipeline Using SHAP-IQ to Understand Feature...",
+      "author": "Michal Sutter",
+      "content": "In this tutorial, we build an advanced explainable AI analysis pipeline using SHAP-IQ to understand both feature importance and interaction effects directly inside our Python environment. We load a real-world dataset, train a high-performance Random Forest model, and then apply the SHAP-IQ interaction index to compute precise, theoretically grounded explanations of model predictions. We extract […] The post How to Build an Explainable AI Analysis Pipeline Using SHAP-IQ to Understand Feature...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.87,
-        "confidence_mean": 0.9
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -602,22 +788,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
+        "score": 0.92,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T20:44:48.199888+00:00"
+        "consensus_timestamp": "2026-03-04T02:38:13.531698+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.752,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T20:44:48.199892+00:00"
+        "timestamp": "2026-03-04T02:38:13.531700+00:00"
       },
       "article_type": "article"
     },
@@ -665,227 +851,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.8,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T20:44:48.203418+00:00"
+        "consensus_timestamp": "2026-03-04T02:38:13.529660+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T20:44:48.203421+00:00"
+        "timestamp": "2026-03-04T02:38:13.529663+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "9e4000c0196bc4f22de91488d70e8b37",
-      "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
-      "published_date": "2026-02-28T16:17:36+00:00",
-      "category": "Industry",
-      "description": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
-      "author": "Anthony Ha",
-      "content": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.7,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T20:44:48.203682+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.62,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-03T20:44:48.203685+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "977b72bf9fe21de8131d5d4a0cd4d9c4",
-      "title": "Study measuring changes in protein structure establishes new class of Alzheimer’s biomarkers",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/study-measuring-changes-protein-structure-establishes-new-class-alzheimers-biomarkers",
-      "published_date": "2026-03-03T20:40:37.980539+00:00",
-      "category": "Government",
-      "description": "NIH-funded insights into Alzheimer’s biology could help with early diagnosis, future clinical trials.",
-      "author": "",
-      "content": "NIH-funded insights into Alzheimer’s biology could help with early diagnosis, future clinical trials.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T20:44:48.199629+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-03T20:44:48.199641+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8e79bde42842997b53044415f7970c20",
-      "title": "NIH Proposes Embryonic Stem Cell Research Shift to Put Patients First",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-proposes-embryonic-stem-cell-research-shift-put-patients-first",
-      "published_date": "2026-03-03T20:40:37.981191+00:00",
-      "category": "Government",
-      "description": "Agency seeks public comment on the robustness of emerging biotechnologies to reduce or potentially replace remaining research reliance on human embryonic stem cells.",
-      "author": "",
-      "content": "Agency seeks public comment on the robustness of emerging biotechnologies to reduce or potentially replace remaining research reliance on human embryonic stem cells.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T20:44:48.200042+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-03T20:44:48.200048+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "71bc18edba905a5501f28f39b55c3236",
-      "title": "Introducing Amazon Bedrock global cross-Region inference for Anthropic’s Claude models in the Middle East Regions (UAE and Bahrain)",
+      "article_id": "73d606a793af1537e21e635d3f3f89aa",
+      "title": "Accelerating AI model production at Hexagon with Amazon SageMaker HyperPod",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-global-cross-region-inference-for-anthropics-claude-models-in-the-middle-east-regions/",
-      "published_date": "2026-02-24T15:33:51+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-model-production-at-hexagon-with-amazon-sagemaker-hyperpod/",
+      "published_date": "2026-02-23T17:29:11+00:00",
       "category": "Industry",
-      "description": "We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5 through Amazon Bedrock global cross-Region inference for customers operating in the Middle East. In this post, we guide you through the capabilities of each Anthropic Claude model variant, the key advantages of global cross-Region inference including improved resilience, real-world use cases you can implement, and a code example to help you start...",
-      "author": "Hossam Basudan",
-      "content": "We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5 through Amazon Bedrock global cross-Region inference for customers operating in the Middle East. In this post, we guide you through the capabilities of each Anthropic Claude model variant, the key advantages of global cross-Region inference including improved resilience, real-world use cases you can implement, and a code example to help you start...",
+      "description": "In this blog post, we demonstrate how Hexagon collaborated with Amazon Web Services to scale their AI model production by pretraining state-of-the-art segmentation models, using the model training infrastructure of Amazon SageMaker HyperPod.",
+      "author": "Johannes Maunz, Tobias Bösch Borgards, Bartlomiej Gralewicz",
+      "content": "In this blog post, we demonstrate how Hexagon collaborated with Amazon Web Services to scale their AI model production by pretraining state-of-the-art segmentation models, using the model training infrastructure of Amazon SageMaker HyperPod.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.85,
-        "overall_score": 0.8275,
-        "confidence_mean": 0.95
+        "novelty_score": 0.75,
+        "impact_score": 0.9,
+        "overall_score": 0.8500000000000001,
+        "confidence_mean": 0.85
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -912,22 +912,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.8,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T20:44:48.202306+00:00"
+        "consensus_timestamp": "2026-03-04T02:38:13.528605+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T20:44:48.202308+00:00"
+        "timestamp": "2026-03-04T02:38:13.528608+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 173.5962085723877,
+    "processing_time": 162.6736354827881,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 129,
+      "total_processed": 124,
       "candidates": {
-        "headlines": 11,
-        "articles": 118,
+        "headlines": 10,
+        "articles": 114,
         "research_papers": 0
       },
       "selected": {
