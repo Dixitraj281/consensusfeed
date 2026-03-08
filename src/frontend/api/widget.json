@@ -1,23 +1,23 @@
 {
-  "updated": "2026-03-07T20:37:01.866484+00:00",
+  "updated": "2026-03-08T02:45:08.506945+00:00",
   "top_stories": [
     {
-      "article_id": "c676ed230899007ca242cf2689bfd56d",
-      "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
-      "published_date": "2026-03-06T19:50:10+00:00",
+      "article_id": "b2849072c1f690e76eadf4c143ec79b1",
+      "title": "Microsoft Releases Phi-4-Reasoning-Vision-15B: A Compact Multimodal Model for Math, Science, and GUI Understanding",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/03/06/microsoft-releases-phi-4-reasoning-vision-15b-a-compact-multimodal-model-for-math-science-and-gui-understanding/",
+      "published_date": "2026-03-06T23:53:26+00:00",
       "category": "Industry",
-      "description": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
-      "author": "Julie Bort, Rebecca Bellan",
-      "content": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
+      "description": "Microsoft has released Phi-4-reasoning-vision-15B, a 15 billion parameter open-weight multimodal reasoning model designed for image and text tasks that require both perception and selective reasoning. It is a compact model built to balance reasoning quality, compute efficiency, and training-data requirements, with particular strength in scientific and mathematical reasoning and understanding user interfaces. What the model […] The post Microsoft Releases Phi-4-Reasoning-Vision-15B: A Compact...",
+      "author": "Asif Razzaq",
+      "content": "Microsoft has released Phi-4-reasoning-vision-15B, a 15 billion parameter open-weight multimodal reasoning model designed for image and text tasks that require both perception and selective reasoning. It is a compact model built to balance reasoning quality, compute efficiency, and training-data requirements, with particular strength in scientific and mathematical reasoning and understanding user interfaces. What the model […] The post Microsoft Releases Phi-4-Reasoning-Vision-15B: A Compact...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
-        "confidence_mean": 0.9
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8875000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,24 +44,86 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.9,
+        "score": 0.95,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-07T20:37:01.785325+00:00"
+        "consensus_timestamp": "2026-03-08T02:45:08.473293+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-08T02:45:08.473296+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "efcbee47b60c3967c280ec1b8ee13704",
+      "title": "Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected",
+      "source": "azure_ai_blog",
+      "url": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
+      "published_date": "2026-02-24T10:20:00+00:00",
+      "category": "Industry",
+      "description": "Microsoft Sovereign Cloud's expansion of capabilities includes Azure Local disconnected operations, Microsoft 365 Local disconnected, and Microsoft Foundry addition of large model and modern infrastructure capabilities. The post Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected appeared first on Microsoft Azure Blog.",
+      "author": "Douglas Phillips",
+      "content": "Microsoft Sovereign Cloud's expansion of capabilities includes Azure Local disconnected operations, Microsoft 365 Local disconnected, and Microsoft Foundry addition of large model and modern infrastructure capabilities. The post Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-08T02:45:08.469827+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-07T20:37:01.785328+00:00"
+        "timestamp": "2026-03-08T02:45:08.469830+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
       "article_id": "64f182b99ba76b1cacd0fc777651f230",
@@ -74,11 +136,11 @@
       "author": "Dr. Asa Kalavade",
       "content": "Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and help those specs flow into any AI-powered coding assistant for the forward engineering. A successful modernization requires both reverse engineering and forward engineering. Learn more about COBOL in this post.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.9099999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -107,96 +169,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-07T20:37:01.784835+00:00"
+        "consensus_timestamp": "2026-03-08T02:45:08.470370+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-07T20:37:01.784838+00:00"
+        "timestamp": "2026-03-08T02:45:08.470373+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3c24c3a2a1660745dc4857a6701202a0",
-      "title": "Using NVFP4 Low-Precision Model Training for Higher Throughput Without Losing Accuracy",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/using-nvfp4-low-precision-model-training-for-higher-throughput-without-losing-accuracy/",
-      "published_date": "2026-02-23T18:00:00+00:00",
+      "article_id": "9ba9b481b9fc121debdb3f6b69de3513",
+      "title": "NVIDIA Brings AI-Powered Cybersecurity to World’s Critical Infrastructure",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/ai-cybersecurity-operational-technology-industrial-control-systems/",
+      "published_date": "2026-02-23T16:00:57+00:00",
       "category": "Industry",
-      "description": "As the sizes of AI models and datasets continue to increase, relying only on higher-precision BF16 training is no longer sufficient. Key challenges such as...",
-      "author": "Aditya Vavre",
-      "content": "As the sizes of AI models and datasets continue to increase, relying only on higher-precision BF16 training is no longer sufficient. Key challenges such as...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-07T20:37:01.787235+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-07T20:37:01.787238+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "7b27fa2b4d9db40e1b1260549fd15395",
-      "title": "AI Arms Race Has Real Numbers: Pentagon vs China 2026",
-      "source": "nanonets_blog",
-      "url": "https://nanonets.com/blog/ai-warfare-operation-epic-fury-2026/",
-      "published_date": "2026-03-06T09:40:24+00:00",
-      "category": "Industry",
-      "description": "AI targeting systems executed 900 strikes in 12 hours, a pace that previously took weeks. Maven, Palantir, and frontier models are operational in active conflict. The Pentagon just banned Anthropic and switched to OpenAI while strikes continue. The arms race has numbers now.",
-      "author": "Vinit Mehta",
-      "content": "AI targeting systems executed 900 strikes in 12 hours, a pace that previously took weeks. Maven, Palantir, and frontier models are operational in active conflict. The Pentagon just banned Anthropic and switched to OpenAI while strikes continue. The arms race has numbers now.",
+      "description": "As technologies and systems become more digitalized and connected across the world, operational technology (OT) environments and industrial control systems (ICS) — from energy and manufacturing to transportation and utilities — are increasingly depending on enterprise networks and the cloud. This expands OT and ICS capabilities — but also their exposure to cyber threats. Unlike […]",
+      "author": "Itay Ozery",
+      "content": "As technologies and systems become more digitalized and connected across the world, operational technology (OT) environments and industrial control systems (ICS) — from energy and manufacturing to transportation and utilities — are increasingly depending on enterprise networks and the cloud. This expands OT and ICS capabilities — but also their exposure to cyber threats. Unlike […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -230,42 +230,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
+        "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-07T20:37:01.788116+00:00"
+        "consensus_timestamp": "2026-03-08T02:45:08.471052+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
+        "weighted_score": 0.74,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-07T20:37:01.788118+00:00"
+        "timestamp": "2026-03-08T02:45:08.471055+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "d542bb3b99a3e350c5d8618d0700003b",
-      "title": "From Radiology to Drug Discovery, Survey Reveals AI Is Delivering Clear Return on Investment in Healthcare",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/ai-in-healthcare-survey-2026/",
-      "published_date": "2026-02-24T14:00:34+00:00",
+      "article_id": "acd51b719809aa3ce9226bc7ea3b46ae",
+      "title": "Codex Security: now in research preview",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/codex-security-now-in-research-preview",
+      "published_date": "2026-03-06T10:00:00+00:00",
       "category": "Industry",
-      "description": "AI is accelerating every aspect of healthcare — from radiology and drug discovery to medical device manufacturing and new treatment methods enabled by digital twins of the human body. NVIDIA’s second annual “State of AI in Healthcare and Life Sciences” survey report reveals how the industry is moving from AI experimentation to execution, reaping return […]",
-      "author": "Kathy Benemann",
-      "content": "AI is accelerating every aspect of healthcare — from radiology and drug discovery to medical device manufacturing and new treatment methods enabled by digital twins of the human body. NVIDIA’s second annual “State of AI in Healthcare and Life Sciences” survey report reveals how the industry is moving from AI experimentation to execution, reaping return […]",
+      "description": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+      "author": "",
+      "content": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.99,
-        "overall_score": 0.8955,
-        "confidence_mean": 0.95
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -293,21 +293,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-07T20:37:01.785207+00:00"
+        "consensus_timestamp": "2026-03-08T02:45:08.468923+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-07T20:37:01.785209+00:00"
+        "timestamp": "2026-03-08T02:45:08.468926+00:00"
       },
       "article_type": "article"
     }
