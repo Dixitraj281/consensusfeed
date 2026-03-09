@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-09T08:58:40.438148+00:00",
+  "updated": "2026-03-09T13:22:10.461795+00:00",
   "top_stories": [
     {
       "article_id": "83560fd2af13d4d330b4fb52e79bd321",
@@ -13,10 +13,10 @@
       "content": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.8,
+        "quality_score": 0.85,
         "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8250000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-09T08:58:40.405689+00:00"
+        "consensus_timestamp": "2026-03-09T13:22:10.423415+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,20 +59,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-09T08:58:40.405693+00:00"
+        "timestamp": "2026-03-09T13:22:10.423419+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "c9f502a97e13908437178c75e5e4e927",
-      "title": "Google Launches TensorFlow 2.21 And LiteRT: Faster GPU Performance, New NPU Acceleration, And Seamless PyTorch Edge Deployment Upgrades",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/03/06/google-launches-tensorflow-2-21-and-litert-faster-gpu-performance-new-npu-acceleration-and-seamless-pytorch-edge-deployment-upgrades/",
-      "published_date": "2026-03-07T04:32:53+00:00",
+      "article_id": "9bd144b262dbab40f77ea79d3917f180",
+      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+      "published_date": "2026-02-27T05:30:00+00:00",
       "category": "Industry",
-      "description": "Google has officially released TensorFlow 2.21. The most significant update in this release is the graduation of LiteRT from its preview stage to a fully production-ready stack. Moving forward, LiteRT serves as the universal on-device inference framework, officially replacing TensorFlow Lite (TFLite). This update streamlines the deployment of machine learning models to mobile and edge […] The post Google Launches TensorFlow 2.21 And LiteRT: Faster GPU Performance, New NPU Acceleration, And...",
-      "author": "Michal Sutter",
-      "content": "Google has officially released TensorFlow 2.21. The most significant update in this release is the graduation of LiteRT from its preview stage to a fully production-ready stack. Moving forward, LiteRT serves as the universal on-device inference framework, officially replacing TensorFlow Lite (TFLite). This update streamlines the deployment of machine learning models to mobile and edge […] The post Google Launches TensorFlow 2.21 And LiteRT: Faster GPU Performance, New NPU Acceleration, And...",
+      "description": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+      "author": "",
+      "content": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-09T13:22:10.421821+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-09T13:22:10.421824+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "64f182b99ba76b1cacd0fc777651f230",
+      "title": "Learnings from COBOL modernization in the real world",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/",
+      "published_date": "2026-02-26T18:16:43+00:00",
+      "category": "Industry",
+      "description": "Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and help those specs flow into any AI-powered coding assistant for the forward engineering. A successful modernization requires both reverse engineering and forward engineering. Learn more about COBOL in this post.",
+      "author": "Dr. Asa Kalavade",
+      "content": "Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and help those specs flow into any AI-powered coding assistant for the forward engineering. A successful modernization requires both reverse engineering and forward engineering. Learn more about COBOL in this post.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -110,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-09T08:58:40.407907+00:00"
+        "consensus_timestamp": "2026-03-09T13:22:10.422611+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,26 +183,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-09T08:58:40.407910+00:00"
+        "timestamp": "2026-03-09T13:22:10.422613+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "efcbee47b60c3967c280ec1b8ee13704",
-      "title": "Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected",
-      "source": "azure_ai_blog",
-      "url": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
-      "published_date": "2026-02-24T10:20:00+00:00",
+      "article_id": "dd82d99a0f90f0ce350c756fad340aea",
+      "title": "Ensuring AI use in education leads to opportunity",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/ai-education-opportunity",
+      "published_date": "2026-03-05T09:00:00+00:00",
       "category": "Industry",
-      "description": "Microsoft Sovereign Cloud's expansion of capabilities includes Azure Local disconnected operations, Microsoft 365 Local disconnected, and Microsoft Foundry addition of large model and modern infrastructure capabilities. The post Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected appeared first on Microsoft Azure Blog.",
-      "author": "Douglas Phillips",
-      "content": "Microsoft Sovereign Cloud's expansion of capabilities includes Azure Local disconnected operations, Microsoft 365 Local disconnected, and Microsoft Foundry addition of large model and modern infrastructure capabilities. The post Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected appeared first on Microsoft Azure Blog.",
+      "description": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+      "author": "",
+      "content": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -169,41 +231,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-09T08:58:40.404382+00:00"
+        "consensus_timestamp": "2026-03-09T13:22:10.421451+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-09T08:58:40.404385+00:00"
+        "timestamp": "2026-03-09T13:22:10.421453+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "64df574180627c92c985da26f3115640",
-      "title": "OpenAI and Amazon announce strategic partnership",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/amazon-partnership",
-      "published_date": "2026-02-27T05:30:00+00:00",
+      "article_id": "d542bb3b99a3e350c5d8618d0700003b",
+      "title": "From Radiology to Drug Discovery, Survey Reveals AI Is Delivering Clear Return on Investment in Healthcare",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/ai-in-healthcare-survey-2026/",
+      "published_date": "2026-02-24T14:00:34+00:00",
       "category": "Industry",
-      "description": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
-      "author": "",
-      "content": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+      "description": "AI is accelerating every aspect of healthcare — from radiology and drug discovery to medical device manufacturing and new treatment methods enabled by digital twins of the human body. NVIDIA’s second annual “State of AI in Healthcare and Life Sciences” survey report reveals how the industry is moving from AI experimentation to execution, reaping return […]",
+      "author": "Kathy Benemann",
+      "content": "AI is accelerating every aspect of healthcare — from radiology and drug discovery to medical device manufacturing and new treatment methods enabled by digital twins of the human body. NVIDIA’s second annual “State of AI in Healthcare and Life Sciences” survey report reveals how the industry is moving from AI experimentation to execution, reaping return […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.9
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -231,83 +293,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-09T08:58:40.404066+00:00"
+        "consensus_timestamp": "2026-03-09T13:22:10.423076+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-09T08:58:40.404071+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "6234ac64783f4cbd61aa8bb9745cbf9d",
-      "title": "DataDome, Botify Partner on Agentic Commerce Control",
-      "source": "ai_techpark",
-      "url": "https://ai-techpark.com/datadome-botify-partner-on-agentic-commerce-control/",
-      "published_date": "2026-03-06T17:08:33+00:00",
-      "category": "Industry",
-      "description": "New partnership helps businesses securely seize the agentic commerce opportunity DataDome, the leader in bot and agent trust management, and Botify, the leading all-in-one platform for AI search solutions, today announced they are partnering to help businesses prepare for, and succeed in, agentic commerce by addressing the entire digital journey, from... The post DataDome, Botify Partner on Agentic Commerce Control first appeared on AI-Tech Park.",
-      "author": "Business Wire",
-      "content": "New partnership helps businesses securely seize the agentic commerce opportunity DataDome, the leader in bot and agent trust management, and Botify, the leading all-in-one platform for AI search solutions, today announced they are partnering to help businesses prepare for, and succeed in, agentic commerce by addressing the entire digital journey, from... The post DataDome, Botify Partner on Agentic Commerce Control first appeared on AI-Tech Park.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-09T08:58:40.407150+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-09T08:58:40.407155+00:00"
+        "timestamp": "2026-03-09T13:22:10.423079+00:00"
       },
       "article_type": "article"
     }
