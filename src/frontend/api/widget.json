@@ -1,23 +1,23 @@
 {
-  "updated": "2026-03-12T13:20:14.139383+00:00",
+  "updated": "2026-03-12T17:08:37.983033+00:00",
   "top_stories": [
     {
-      "article_id": "d587ba5f83e711069275c114f637b39b",
-      "title": "AgentMail raises $6M to build an email service for AI agents",
+      "article_id": "82e599d46103cedfe5bd39da13f61faf",
+      "title": "Amazon expands a program that lets customers shop from other retailers’ sites",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
-      "published_date": "2026-03-10T16:00:00+00:00",
+      "url": "https://techcrunch.com/2026/03/11/amazon-expands-a-program-that-lets-customers-shop-from-other-retailers-sites/",
+      "published_date": "2026-03-11T14:48:30+00:00",
       "category": "Industry",
-      "description": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
-      "author": "Ram Iyer",
-      "content": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
+      "description": "The changes allow more merchants to participate in Amazon's Shop Direct program, which sends Amazon customers to other retailers' websites.",
+      "author": "Sarah Perez",
+      "content": "The changes allow more merchants to participate in Amazon's Shop Direct program, which sends Amazon customers to other retailers' websites.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.95
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-12T13:20:14.092223+00:00"
+        "consensus_timestamp": "2026-03-12T17:08:37.934041+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,27 +59,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-12T13:20:14.092226+00:00"
+        "timestamp": "2026-03-12T17:08:37.934043+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "be74fd0cbd25dc6a17123178d40916b6",
-      "title": "From games to biology and beyond: 10 years of AlphaGo’s impact",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/10-years-of-alphago/",
-      "published_date": "2026-03-09T13:52:36+00:00",
+      "article_id": "3a52fcdc4eaef1bf404eef152caa53ad",
+      "title": "Validate Kubernetes for GPU Infrastructure with Layered, Reproducible Recipes",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/validate-kubernetes-for-gpu-infrastructure-with-layered-reproducible-recipes/",
+      "published_date": "2026-03-12T16:30:00+00:00",
       "category": "Industry",
-      "description": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
-      "author": "",
-      "content": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
+      "description": "Every AI cluster running on Kubernetes requires a full software stack that works together, from low-level driver and kernel settings to high-level operator and...",
+      "author": "Mark Chmarny",
+      "content": "Every AI cluster running on Kubernetes requires a full software stack that works together, from low-level driver and kernel settings to high-level operator and...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.9,
-        "impact_score": 0.99,
-        "overall_score": 0.933,
-        "confidence_mean": 0.98
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -106,41 +106,103 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-12T13:20:14.093271+00:00"
+        "consensus_timestamp": "2026-03-12T17:08:37.934242+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-12T13:20:14.093273+00:00"
+        "timestamp": "2026-03-12T17:08:37.934244+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "cbb5bb03e3845e251b2fddada3530472",
-      "title": "Large model inference container – latest capabilities and performance enhancements",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/",
-      "published_date": "2026-02-26T17:45:59+00:00",
+      "article_id": "668f222a0e9a3c7142fc6f4746db2b36",
+      "title": "Designing AI agents that know when to step back",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/designing-ai-agents-that-know-when-to-step-back",
+      "published_date": "2026-03-11T16:00:00+00:00",
       "category": "Industry",
-      "description": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.",
-      "author": "Dmitry Soldatkin",
-      "content": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.",
+      "description": "As AI agents become more autonomous, the key challenge isn't what they can do; it's how to design the human side of the equation.",
+      "author": "James Pierce",
+      "content": "As AI agents become more autonomous, the key challenge isn't what they can do; it's how to design the human side of the equation.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.95,
-        "overall_score": 0.9125000000000001,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-12T17:08:37.935348+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-12T17:08:37.935351+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "5e2cb1b2d28a48377dcaacfe9bceece3",
+      "title": "Cutting-edge timing technology to protect vital services",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/cutting-edge-timing-technology-to-protect-vital-services",
+      "published_date": "2026-03-07T00:01:04+00:00",
+      "category": "Government",
+      "description": "New terrestrial timing signal will ease reliance on satellite systems for digital infrastructure, like mobile phone networks and online banking.",
+      "author": "",
+      "content": "New terrestrial timing signal will ease reliance on satellite systems for digital infrastructure, like mobile phone networks and online banking.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -172,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-12T13:20:14.090912+00:00"
+        "consensus_timestamp": "2026-03-12T17:08:37.930705+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,27 +245,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-12T13:20:14.090915+00:00"
+        "timestamp": "2026-03-12T17:08:37.930707+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "1d682bbe84ce10c3228008e444b48a2e",
-      "title": "How AI is changing the nature of mathematical research",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/how-ai-is-changing-the-nature-of-mathematical-research",
-      "published_date": "2026-03-09T17:55:47+00:00",
+      "article_id": "3dc286f713a4fbe10bcd673e18b55179",
+      "title": "Protecting cities with AI-driven flash flood forecasting",
+      "source": "google_research_blog",
+      "url": "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/",
+      "published_date": "2026-03-12T13:03:15+00:00",
       "category": "Industry",
-      "description": "What machine learning theorists learned using AI agents to generate proofs — and what comes next.",
-      "author": "Michael Kearns",
-      "content": "What machine learning theorists learned using AI agents to generate proofs — and what comes next.",
+      "description": "Climate & Sustainability",
+      "author": "",
+      "content": "Climate & Sustainability",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.9
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -234,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-12T13:20:14.093484+00:00"
+        "consensus_timestamp": "2026-03-12T17:08:37.935067+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,69 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-12T13:20:14.093486+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "cb6edd161d0719d3eed3aed8f32ebcc4",
-      "title": "Operationalizing Agentic AI Part 1: A Stakeholder’s Guide",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/",
-      "published_date": "2026-03-11T20:52:23+00:00",
-      "category": "Industry",
-      "description": "The AWS Generative AI Innovation Center has helped 1,000+ customers move AI into production, delivering millions in documented productivity gains. In this post, we share guidance for leaders across the C-suite: CTOs, CISOs, CDOs, and Chief Data Science/AI officers, as well as business owners and compliance leads.",
-      "author": "Nav Bhasin",
-      "content": "The AWS Generative AI Innovation Center has helped 1,000+ customers move AI into production, delivering millions in documented productivity gains. In this post, we share guidance for leaders across the C-suite: CTOs, CISOs, CDOs, and Chief Data Science/AI officers, as well as business owners and compliance leads.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.875,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-12T13:20:14.090114+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-12T13:20:14.090117+00:00"
+        "timestamp": "2026-03-12T17:08:37.935069+00:00"
       },
       "article_type": "article"
     }
