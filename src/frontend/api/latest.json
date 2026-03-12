@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-03-12T08:57:54.999497+00:00",
+  "generated_at": "2026-03-12T13:20:14.136499+00:00",
   "articles": [
     {
-      "article_id": "0366a65102313b125d6a40f018647950",
-      "title": "Government launches consultation on making public services quicker, easier and more secure to access with digital ID",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/government-launches-consultation-on-making-public-services-quicker-easier-and-more-secure-to-access-with-digital-id",
-      "published_date": "2026-03-10T13:17:12+00:00",
-      "category": "Government",
-      "description": "The Government has launched a consultation asking the public to share their views on how digital ID is used to make public services quicker, easier and more secure to access.",
-      "author": "",
-      "content": "The Government has launched a consultation asking the public to share their views on how digital ID is used to make public services quicker, easier and more secure to access.",
+      "article_id": "d587ba5f83e711069275c114f637b39b",
+      "title": "AgentMail raises $6M to build an email service for AI agents",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
+      "published_date": "2026-03-10T16:00:00+00:00",
+      "category": "Industry",
+      "description": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
+      "author": "Ram Iyer",
+      "content": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
+        "overall_score": 0.9,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,41 +44,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
+        "score": 0.85,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-12T08:57:54.953203+00:00"
+        "consensus_timestamp": "2026-03-12T13:20:14.092223+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.71,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-12T08:57:54.953206+00:00"
+        "timestamp": "2026-03-12T13:20:14.092226+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "5d5678df3d2c4ebdca676ce905cec509",
-      "title": "Introducing Nemotron 3 Super: An Open Hybrid Mamba-Transformer MoE for Agentic Reasoning",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/",
-      "published_date": "2026-03-11T16:00:00+00:00",
+      "article_id": "be74fd0cbd25dc6a17123178d40916b6",
+      "title": "From games to biology and beyond: 10 years of AlphaGo’s impact",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/10-years-of-alphago/",
+      "published_date": "2026-03-09T13:52:36+00:00",
       "category": "Industry",
-      "description": "Agentic AI systems need models with the specialized depth to solve dense technical problems autonomously. They must excel at reasoning, coding, and long-context...",
-      "author": "Chris Alexiuk",
-      "content": "Agentic AI systems need models with the specialized depth to solve dense technical problems autonomously. They must excel at reasoning, coding, and long-context...",
+      "description": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
+      "author": "",
+      "content": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.95,
+        "quality_score": 0.9,
         "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.9375,
+        "impact_score": 0.99,
+        "overall_score": 0.933,
         "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
@@ -106,228 +106,104 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-12T08:57:54.957815+00:00"
+        "consensus_timestamp": "2026-03-12T13:20:14.093271+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-12T13:20:14.093273+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "cbb5bb03e3845e251b2fddada3530472",
+      "title": "Large model inference container – latest capabilities and performance enhancements",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/",
+      "published_date": "2026-02-26T17:45:59+00:00",
+      "category": "Industry",
+      "description": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.",
+      "author": "Dmitry Soldatkin",
+      "content": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.95,
+        "overall_score": 0.9125000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-12T13:20:14.090912+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-12T08:57:54.957818+00:00"
+        "timestamp": "2026-03-12T13:20:14.090915+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f9520c82f5586c4313ee881c999af95d",
-      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
-      "published_date": "2026-02-26T16:01:50+00:00",
+      "article_id": "1d682bbe84ce10c3228008e444b48a2e",
+      "title": "How AI is changing the nature of mathematical research",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/how-ai-is-changing-the-nature-of-mathematical-research",
+      "published_date": "2026-03-09T17:55:47+00:00",
       "category": "Industry",
-      "description": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
-      "author": "",
-      "content": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
+      "description": "What machine learning theorists learned using AI agents to generate proofs — and what comes next.",
+      "author": "Michael Kearns",
+      "content": "What machine learning theorists learned using AI agents to generate proofs — and what comes next.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-12T08:57:54.958590+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-12T08:57:54.958593+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e32ecf7ffdeb14a613669aef75abea51",
-      "title": "Introducing GPT-5.4 in Microsoft Foundry",
-      "source": "azure_ai_blog",
-      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
-      "published_date": "2026-03-05T23:03:01+00:00",
-      "category": "Industry",
-      "description": "Today, we’re announcing OpenAI’s GPT‑5.4 to be generally available soon in Microsoft Foundry: a model designed to help organizations move from planning work to reliably completing it in production environments. The post Introducing GPT-5.4 in Microsoft Foundry appeared first on Microsoft Azure Blog.",
-      "author": "Naomi Moneypenny",
-      "content": "Today, we’re announcing OpenAI’s GPT‑5.4 to be generally available soon in Microsoft Foundry: a model designed to help organizations move from planning work to reliably completing it in production environments. The post Introducing GPT-5.4 in Microsoft Foundry appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-12T08:57:54.955186+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-12T08:57:54.955189+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "867c9b6e46047381ef399e7eb223f1ad",
-      "title": "WAXAL: A large-scale open resource for African language speech technology",
-      "source": "google_research_blog",
-      "url": "https://research.google/blog/waxal-a-large-scale-open-resource-for-african-language-speech-technology/",
-      "published_date": "2026-03-06T20:06:00+00:00",
-      "category": "Industry",
-      "description": "Natural Language Processing",
-      "author": "",
-      "content": "Natural Language Processing",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.98,
-        "overall_score": 0.881,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-12T08:57:54.958367+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-12T08:57:54.958369+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "cb9ce6a458a34f96d6065089ca12fdbc",
-      "title": "New NVIDIA Nemotron 3 Super Delivers 5x Higher Throughput for Agentic AI",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/nemotron-3-super-agentic-ai/",
-      "published_date": "2026-03-11T16:00:21+00:00",
-      "category": "Industry",
-      "description": "Launched today, NVIDIA Nemotron 3 Super is a 120‑billion‑parameter open model with 12 billion active parameters designed to run complex agentic AI systems at scale. Available now, the model combines advanced reasoning capabilities to efficiently complete tasks with high accuracy for autonomous agents. AI-Native Companies: Perplexity offers its users access to Nemotron 3 Super for […]",
-      "author": "Kari Briski",
-      "content": "Launched today, NVIDIA Nemotron 3 Super is a 120‑billion‑parameter open model with 12 billion active parameters designed to run complex agentic AI systems at scale. Available now, the model combines advanced reasoning capabilities to efficiently complete tasks with high accuracy for autonomous agents. AI-Native Companies: Perplexity offers its users access to Nemotron 3 Super for […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
-        "confidence_mean": 0.95
+        "overall_score": 0.89,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -355,40 +231,102 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.8,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-12T08:57:54.956220+00:00"
+        "consensus_timestamp": "2026-03-12T13:20:14.093484+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-12T08:57:54.956223+00:00"
+        "timestamp": "2026-03-12T13:20:14.093486+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "aae13fbeda3aace19b6d8a289f4710c5",
-      "title": "Science Secretary calls on research funders to back women with better maternity leave and flexible working support",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/science-secretary-calls-on-research-funders-to-back-women-with-better-maternity-leave-and-flexible-working-support",
-      "published_date": "2026-03-11T12:06:25+00:00",
-      "category": "Government",
-      "description": "Research funders urged to back a voluntary charter including commitments to paid maternity leave for PhD students and more help to return to work and flexible working.",
-      "author": "",
-      "content": "Research funders urged to back a voluntary charter including commitments to paid maternity leave for PhD students and more help to return to work and flexible working.",
+      "article_id": "cb6edd161d0719d3eed3aed8f32ebcc4",
+      "title": "Operationalizing Agentic AI Part 1: A Stakeholder’s Guide",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/",
+      "published_date": "2026-03-11T20:52:23+00:00",
+      "category": "Industry",
+      "description": "The AWS Generative AI Innovation Center has helped 1,000+ customers move AI into production, delivering millions in documented productivity gains. In this post, we share guidance for leaders across the C-suite: CTOs, CISOs, CDOs, and Chief Data Science/AI officers, as well as business owners and compliance leads.",
+      "author": "Nav Bhasin",
+      "content": "The AWS Generative AI Innovation Center has helped 1,000+ customers move AI into production, delivering millions in documented productivity gains. In this post, we share guidance for leaders across the C-suite: CTOs, CISOs, CDOs, and Chief Data Science/AI officers, as well as business owners and compliance leads.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.875,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-12T13:20:14.090114+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-12T13:20:14.090117+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "67c6ec88b86a7bee2a77b72a4ae3c96a",
+      "title": "Research: Evaluation of the NI Cyber AI Hub programme",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/evaluation-of-the-ni-cyber-ai-hub-programme",
+      "published_date": "2026-03-11T10:32:26+00:00",
+      "category": "Government",
+      "description": "An evaluation setting out progress on the Cyber-AI Hub Programme being delivered in Northern Ireland by Queen’s University Belfast.",
+      "author": "",
+      "content": "An evaluation setting out progress on the Cyber-AI Hub Programme being delivered in Northern Ireland by Queen’s University Belfast.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.85,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.8
       },
       "combined_deep_intelligence": {
@@ -416,35 +354,97 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.8,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-12T08:57:54.953061+00:00"
+        "consensus_timestamp": "2026-03-12T13:20:14.088514+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-12T08:57:54.953064+00:00"
+        "timestamp": "2026-03-12T13:20:14.088517+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "13795601290fe379dc0306d3dfd60872",
-      "title": "NIH-supported trial reduces HIV incidence by 70% in rural populations",
+      "article_id": "9986cb58893fb0963e86545e0d0fe34b",
+      "title": "Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/",
+      "published_date": "2026-03-11T07:00:00+00:00",
+      "category": "Industry",
+      "description": "We’re announcing the public preview of Fireworks AI on Microsoft Foundry, bringing high‑performance open model inference into Azure. This integration reflects Microsoft Foundry’s broader direction: providing a single place where developers can not only run open models efficiently but also customize and operationalize them as part of a complete enterprise‑ready AI lifecycle. The post Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to...",
+      "author": "Yina Arenas",
+      "content": "We’re announcing the public preview of Fireworks AI on Microsoft Foundry, bringing high‑performance open model inference into Azure. This integration reflects Microsoft Foundry’s broader direction: providing a single place where developers can not only run open models efficiently but also customize and operationalize them as part of a complete enterprise‑ready AI lifecycle. The post Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.875,
+        "confidence_mean": 0.85
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-12T13:20:14.089841+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-12T13:20:14.089844+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "319254e9542edcc98b8134449c5dabca",
+      "title": "NIH scientists develop \"digital twin\" of eye cells to understand and treat age-related macular degeneration",
       "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-supported-trial-reduces-hiv-incidence-70-rural-populations",
-      "published_date": "2026-03-12T08:53:54.820420+00:00",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-scientists-develop-digital-twin-eye-cells-understand-treat-age-related-macular-degeneration",
+      "published_date": "2026-03-12T13:15:52.447937+00:00",
       "category": "Government",
-      "description": "Study&nbsp;used technology to extend reach of existing infrastructure, linking people to care.",
+      "description": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
       "author": "",
-      "content": "Study&nbsp;used technology to extend reach of existing infrastructure, linking people to care.",
+      "content": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -482,7 +482,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-12T08:57:54.952487+00:00"
+        "consensus_timestamp": "2026-03-12T13:20:14.087950+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -493,20 +493,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-12T08:57:54.952491+00:00"
+        "timestamp": "2026-03-12T13:20:14.087954+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3b45f9e243b3a01e80b527ec0e666db0",
-      "title": "Access Anthropic Claude models in India on Amazon Bedrock with Global cross-Region inference",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/access-anthropic-claude-models-in-india-on-amazon-bedrock-with-global-cross-region-inference/",
-      "published_date": "2026-03-09T20:44:13+00:00",
+      "article_id": "867c9b6e46047381ef399e7eb223f1ad",
+      "title": "WAXAL: A large-scale open resource for African language speech technology",
+      "source": "google_research_blog",
+      "url": "https://research.google/blog/waxal-a-large-scale-open-resource-for-african-language-speech-technology/",
+      "published_date": "2026-03-06T20:06:00+00:00",
       "category": "Industry",
-      "description": "In this post, you will discover how to use Amazon Bedrock's Global cross-Region Inference for Claude models in India. We will guide you through the capabilities of each Claude model variant and how to get started with a code example to help you start building generative AI applications immediately.",
-      "author": "Pavan Kumar Rao Navule",
-      "content": "In this post, you will discover how to use Amazon Bedrock's Global cross-Region Inference for Claude models in India. We will guide you through the capabilities of each Claude model variant and how to get started with a code example to help you start building generative AI applications immediately.",
+      "description": "Natural Language Processing",
+      "author": "",
+      "content": "Natural Language Processing",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -541,103 +541,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-12T08:57:54.955505+00:00"
+        "consensus_timestamp": "2026-03-12T13:20:14.093181+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-12T08:57:54.955508+00:00"
+        "timestamp": "2026-03-12T13:20:14.093184+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "e903b9e7bcb5d6d86dedc6b03898d080",
-      "title": "Build safe generative AI applications like a Pro: Best Practices with Amazon Bedrock Guardrails",
+      "article_id": "022bd95744a32d3021161649d85c269c",
+      "title": "Build a serverless conversational AI agent using Claude with LangGraph and managed MLflow on Amazon SageMaker AI",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-safe-generative-ai-applications-like-a-pro-best-practices-with-amazon-bedrock-guardrails/",
-      "published_date": "2026-03-02T18:48:25+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-conversational-ai-agent-using-claude-with-langgraph-and-managed-mlflow-on-amazon-sagemaker-ai/",
+      "published_date": "2026-03-02T18:51:43+00:00",
       "category": "Industry",
-      "description": "In this post, we will show you how to configure Amazon Bedrock Guardrails for efficient performance, implement best practices to protect your applications, and monitor your deployment effectively to maintain the right balance between safety and user experience.",
-      "author": "Daniel Khain",
-      "content": "In this post, we will show you how to configure Amazon Bedrock Guardrails for efficient performance, implement best practices to protect your applications, and monitor your deployment effectively to maintain the right balance between safety and user experience.",
+      "description": "This post explores how to build an intelligent conversational agent using Amazon Bedrock, LangGraph, and managed MLflow on Amazon SageMaker AI.",
+      "author": "Sri Potluri",
+      "content": "This post explores how to build an intelligent conversational agent using Amazon Bedrock, LangGraph, and managed MLflow on Amazon SageMaker AI.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-12T08:57:54.956034+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-12T08:57:54.956037+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "687643cd7533f3ea4c6be656769307fc",
-      "title": "We ran 16 AI Models on 9,000+ Real Documents. Here's What We Found.",
-      "source": "nanonets_blog",
-      "url": "https://nanonets.com/blog/idp-leaderboard-1-5/",
-      "published_date": "2026-03-11T15:00:24+00:00",
-      "category": "Industry",
-      "description": "We benchmarked GPT-5.4, Gemini 3.1 Pro, Claude Opus, Sonnet, and 12 others on 3 Open OCR Benchmarks",
-      "author": "Shrish Dwivedi",
-      "content": "We benchmarked GPT-5.4, Gemini 3.1 Pro, Claude Opus, Sonnet, and 12 others on 3 Open OCR Benchmarks",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.8,
-        "overall_score": 0.83,
-        "confidence_mean": 0.9
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -668,7 +606,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-12T08:57:54.958885+00:00"
+        "consensus_timestamp": "2026-03-12T13:20:14.090732+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,26 +617,150 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-12T08:57:54.958887+00:00"
+        "timestamp": "2026-03-12T13:20:14.090734+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "9818dca9620f9df3f3f1b71b5c551e0d",
-      "title": "Introducing GPT-5.4",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/introducing-gpt-5-4",
-      "published_date": "2026-03-05T10:00:00+00:00",
+      "article_id": "ecdfd1bba94cddaa7d25ebda0e8621b5",
+      "title": "Unlock powerful call center analytics with Amazon Nova foundation models",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/unlock-powerful-call-center-analytics-with-amazon-nova-foundation-models/",
+      "published_date": "2026-03-04T21:16:59+00:00",
       "category": "Industry",
-      "description": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
-      "author": "",
-      "content": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+      "description": "In this post, we discuss how Amazon Nova demonstrates capabilities in conversational analytics, call classification, and other use cases often relevant to contact center solutions. We examine these capabilities for both single-call and multi-call analytics use cases.",
+      "author": "Francisco Calderon Rodriguez",
+      "content": "In this post, we discuss how Amazon Nova demonstrates capabilities in conversational analytics, call classification, and other use cases often relevant to contact center solutions. We examine these capabilities for both single-call and multi-call analytics use cases.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.75,
-        "impact_score": 0.9,
-        "overall_score": 0.8500000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-12T13:20:14.090460+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-12T13:20:14.090463+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a46fa209dab2c72ab2b7fa1aff9fcc6e",
+      "title": "How Lendi revamped the refinance journey for its customers using agentic AI in 16 weeks using Amazon Bedrock",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-lendi-revamped-the-refinance-journey-for-its-customers-using-agentic-ai-in-12-weeks-using-amazon-bedrock/",
+      "published_date": "2026-03-03T16:18:30+00:00",
+      "category": "Industry",
+      "description": "This post details how Lendi Group built their AI-powered Home Loan Guardian using Amazon Bedrock, the challenges they faced, the architecture they implemented, and the significant business outcomes they’ve achieved. Their journey offers valuable insights for organizations that want to use generative AI to transform customer experiences while maintaining the human touch that builds trust and loyalty.",
+      "author": "Deepak Dalakoti",
+      "content": "This post details how Lendi Group built their AI-powered Home Loan Guardian using Amazon Bedrock, the challenges they faced, the architecture they implemented, and the significant business outcomes they’ve achieved. Their journey offers valuable insights for organizations that want to use generative AI to transform customer experiences while maintaining the human touch that builds trust and loyalty.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-12T13:20:14.090598+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-12T13:20:14.090601+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "64f182b99ba76b1cacd0fc777651f230",
+      "title": "Learnings from COBOL modernization in the real world",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/",
+      "published_date": "2026-02-26T18:16:43+00:00",
+      "category": "Industry",
+      "description": "Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and help those specs flow into any AI-powered coding assistant for the forward engineering. A successful modernization requires both reverse engineering and forward engineering. Learn more about COBOL in this post.",
+      "author": "Dr. Asa Kalavade",
+      "content": "Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and help those specs flow into any AI-powered coding assistant for the forward engineering. A successful modernization requires both reverse engineering and forward engineering. Learn more about COBOL in this post.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.85,
+        "overall_score": 0.86,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -730,7 +792,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-12T08:57:54.954798+00:00"
+        "consensus_timestamp": "2026-03-12T13:20:14.090822+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -741,20 +803,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-12T08:57:54.954801+00:00"
+        "timestamp": "2026-03-12T13:20:14.090825+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "681bc14f17dc799e2d86d368eca0770c",
-      "title": "Building a scalable virtual try-on solution using Amazon Nova on AWS: part 1",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-scalable-virtual-try-on-solution-using-amazon-nova-on-aws-part-1/",
-      "published_date": "2026-03-03T16:23:30+00:00",
+      "article_id": "e8b52d192582857a88da9dce77533636",
+      "title": "K1 Invests in Spin.AI, a Leader in AI-Powered Cloud Security, Data Protection",
+      "source": "ai_techpark",
+      "url": "https://ai-techpark.com/k1-invests-in-spin-ai-a-leader-in-ai-powered-cloud-security-data-protection/",
+      "published_date": "2026-03-12T12:00:00+00:00",
       "category": "Industry",
-      "description": "In this post, we explore the virtual try-on capability now available in Amazon Nova Canvas, including sample code to get started quickly and tips to help get the best outputs.",
-      "author": "Amandine Annoye",
-      "content": "In this post, we explore the virtual try-on capability now available in Amazon Nova Canvas, including sample code to get started quickly and tips to help get the best outputs.",
+      "description": "Trusted by 1,500+ organizations worldwide, Spin.AI delivers AI-driven threat detection and automated response across Google Workspace, Microsoft 365, Salesforce, and Slack K1 Investment Management, LLC (“K1”), one of the largest investors in small-cap AI-powered software, today officially announced its investment in Spin.AI, a security and data protection platform purpose-built to... The post K1 Invests in Spin.AI, a Leader in AI-Powered Cloud Security, Data Protection first appeared on AI-Tech...",
+      "author": "PR Newswire",
+      "content": "Trusted by 1,500+ organizations worldwide, Spin.AI delivers AI-driven threat detection and automated response across Google Workspace, Microsoft 365, Salesforce, and Slack K1 Investment Management, LLC (“K1”), one of the largest investors in small-cap AI-powered software, today officially announced its investment in Spin.AI, a security and data protection platform purpose-built to... The post K1 Invests in Spin.AI, a Leader in AI-Powered Cloud Security, Data Protection first appeared on AI-Tech...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.85,
+        "overall_score": 0.8525000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-12T13:20:14.093616+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-12T13:20:14.093619+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "13795601290fe379dc0306d3dfd60872",
+      "title": "NIH-supported trial reduces HIV incidence by 70% in rural populations",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-supported-trial-reduces-hiv-incidence-70-rural-populations",
+      "published_date": "2026-03-12T13:15:52.447709+00:00",
+      "category": "Government",
+      "description": "Study&nbsp;used technology to extend reach of existing infrastructure, linking people to care.",
+      "author": "",
+      "content": "Study&nbsp;used technology to extend reach of existing infrastructure, linking people to care.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -792,7 +916,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-12T08:57:54.955798+00:00"
+        "consensus_timestamp": "2026-03-12T13:20:14.087779+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,131 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-12T08:57:54.955801+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d5332c48fe3d7418c32c9e78fcd91656",
-      "title": "Reliable AI Coding for Unreal Engine: Improving Accuracy and Reducing Token Costs",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/reliable-ai-coding-for-unreal-engine-improving-accuracy-and-reducing-token-costs/",
-      "published_date": "2026-03-10T15:30:00+00:00",
-      "category": "Industry",
-      "description": "Agentic code assistants are moving into daily game development as studios build larger worlds, ship more DLCs, and support distributed teams. These assistants...",
-      "author": "Paul Logan",
-      "content": "Agentic code assistants are moving into daily game development as studios build larger worlds, ship more DLCs, and support distributed teams. These assistants...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.85,
-        "overall_score": 0.8375,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.88,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-12T08:57:54.957910+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.728,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-12T08:57:54.957913+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8be235be94f673bd8a94d5c17e81e4ae",
-      "title": "Understanding AI and learning outcomes",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
-      "published_date": "2026-03-04T00:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
-      "author": "",
-      "content": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-12T08:57:54.955089+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-12T08:57:54.955092+00:00"
+        "timestamp": "2026-03-12T13:20:14.087783+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 169.04331302642822,
+    "processing_time": 171.69974374771118,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 128,
+      "total_processed": 131,
       "candidates": {
-        "headlines": 15,
-        "articles": 113,
+        "headlines": 12,
+        "articles": 119,
         "research_papers": 0
       },
       "selected": {
