@@ -1,23 +1,23 @@
 {
-  "updated": "2026-03-16T03:00:28.501263+00:00",
+  "updated": "2026-03-16T05:56:21.426454+00:00",
   "top_stories": [
     {
-      "article_id": "9c8b38b6560542b780121703859ebe4b",
-      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "article_id": "66fbe945c1649ec662cdbf929a8f44ac",
+      "title": "Meta reportedly considering layoffs that could affect 20% of the company",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
-      "published_date": "2026-03-14T13:00:00+00:00",
+      "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+      "published_date": "2026-03-14T16:28:42+00:00",
       "category": "Industry",
-      "description": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
-      "author": "Lauren Forristal",
-      "content": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
+      "description": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
+      "author": "Anthony Ha",
+      "content": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8375,
-        "confidence_mean": 0.9
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,103 +44,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.8,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T03:00:28.462698+00:00"
+        "consensus_timestamp": "2026-03-16T05:56:21.392841+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-16T03:00:28.462701+00:00"
+        "timestamp": "2026-03-16T05:56:21.392844+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "6b6a7ee7fa8577ba543e9e5d138f3e5b",
-      "title": "From model to agent: Equipping the Responses API with a computer environment",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/equip-responses-api-computer-environment",
-      "published_date": "2026-03-11T11:00:00+00:00",
+      "article_id": "cb6edd161d0719d3eed3aed8f32ebcc4",
+      "title": "Operationalizing Agentic AI Part 1: A Stakeholder’s Guide",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/",
+      "published_date": "2026-03-11T20:52:23+00:00",
       "category": "Industry",
-      "description": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
-      "author": "",
-      "content": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.98,
-        "novelty_score": 0.9,
-        "impact_score": 0.99,
-        "overall_score": 0.9530000000000001,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 1.0,
-        "confidence": 1.0,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T03:00:28.459851+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.8,
-        "combined_confidence": 0.8,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-16T03:00:28.459854+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "0e4904aad4285cf829abb9ab15cde873",
-      "title": "NVIDIA RTX Innovations Are Powering the Next Era of Game Development",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-rtx-innovations-are-powering-the-next-era-of-game-development/",
-      "published_date": "2026-03-10T15:30:00+00:00",
-      "category": "Industry",
-      "description": "NVIDIA RTX ray tracing and AI-powered neural rendering technologies are redefining how games are made, enabling a new standard for visuals and performance. At...",
-      "author": "Ike Nnoli",
-      "content": "NVIDIA RTX ray tracing and AI-powered neural rendering technologies are redefining how games are made, enabling a new standard for visuals and performance. At...",
+      "description": "The AWS Generative AI Innovation Center has helped 1,000+ customers move AI into production, delivering millions in documented productivity gains. In this post, we share guidance for leaders across the C-suite: CTOs, CISOs, CDOs, and Chief Data Science/AI officers, as well as business owners and compliance leads.",
+      "author": "Nav Bhasin",
+      "content": "The AWS Generative AI Innovation Center has helped 1,000+ customers move AI into production, delivering millions in documented productivity gains. In this post, we share guidance for leaders across the C-suite: CTOs, CISOs, CDOs, and Chief Data Science/AI officers, as well as business owners and compliance leads.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.99,
-        "overall_score": 0.9205000000000001,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
         "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
@@ -172,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T03:00:28.463447+00:00"
+        "consensus_timestamp": "2026-03-16T05:56:21.391550+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,26 +121,88 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-16T03:00:28.463450+00:00"
+        "timestamp": "2026-03-16T05:56:21.391553+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "fd143c54c5562e10fbcff2a729e43a37",
-      "title": "Designing AI agents to resist prompt injection",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
-      "published_date": "2026-03-11T11:30:00+00:00",
+      "article_id": "cb9ce6a458a34f96d6065089ca12fdbc",
+      "title": "New NVIDIA Nemotron 3 Super Delivers 5x Higher Throughput for Agentic AI",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/nemotron-3-super-agentic-ai/",
+      "published_date": "2026-03-11T16:00:21+00:00",
       "category": "Industry",
-      "description": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
-      "author": "",
-      "content": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+      "description": "Launched today, NVIDIA Nemotron 3 Super is a 120‑billion‑parameter open model with 12 billion active parameters designed to run complex agentic AI systems at scale. Available now, the model combines advanced reasoning capabilities to efficiently complete tasks with high accuracy for autonomous agents. AI-Native Companies: Perplexity offers its users access to Nemotron 3 Super for […]",
+      "author": "Kari Briski",
+      "content": "Launched today, NVIDIA Nemotron 3 Super is a 120‑billion‑parameter open model with 12 billion active parameters designed to run complex agentic AI systems at scale. Available now, the model combines advanced reasoning capabilities to efficiently complete tasks with high accuracy for autonomous agents. AI-Native Companies: Perplexity offers its users access to Nemotron 3 Super for […]",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9035,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-16T05:56:21.392252+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-16T05:56:21.392255+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "dd82d99a0f90f0ce350c756fad340aea",
+      "title": "Ensuring AI use in education leads to opportunity",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/ai-education-opportunity",
+      "published_date": "2026-03-05T09:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+      "author": "",
+      "content": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.89,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -234,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T03:00:28.459761+00:00"
+        "consensus_timestamp": "2026-03-16T05:56:21.390854+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,27 +245,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-16T03:00:28.459764+00:00"
+        "timestamp": "2026-03-16T05:56:21.390857+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "e0cf923b64f9ab3e590bc53133ca01ab",
-      "title": "OpenAI to acquire Promptfoo",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/openai-to-acquire-promptfoo",
-      "published_date": "2026-03-09T10:00:00+00:00",
+      "article_id": "9488c3306b5c5fe9f3c9289b6a7507ac",
+      "title": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/",
+      "published_date": "2026-03-13T14:00:00+00:00",
       "category": "Industry",
-      "description": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
-      "author": "",
-      "content": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "description": "Peacock is betting on new AI-powered video experiences, vertical clips, and mobile games to help its growth.",
+      "author": "Lauren Forristal",
+      "content": "Peacock is betting on new AI-powered video experiences, vertical clips, and mobile games to help its growth.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9035,
-        "confidence_mean": 0.95
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -296,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T03:00:28.459992+00:00"
+        "consensus_timestamp": "2026-03-16T05:56:21.393289+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-16T03:00:28.459995+00:00"
+        "timestamp": "2026-03-16T05:56:21.393292+00:00"
       },
       "article_type": "article"
     }
