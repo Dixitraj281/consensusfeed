@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-18T17:15:59.194800+00:00",
+  "updated": "2026-03-18T20:54:00.873404+00:00",
   "top_stories": [
     {
       "article_id": "7dbc8730a4ff5e371caf214b1774c5ea",
@@ -14,9 +14,9 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.99,
-        "overall_score": 0.933,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -44,104 +44,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-18T17:15:59.148342+00:00"
+        "consensus_timestamp": "2026-03-18T20:54:00.825899+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-18T17:15:59.148345+00:00"
+        "timestamp": "2026-03-18T20:54:00.825903+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "ecdfd1bba94cddaa7d25ebda0e8621b5",
-      "title": "Unlock powerful call center analytics with Amazon Nova foundation models",
+      "article_id": "1f36bab142a2c203d36a77b78d47dd94",
+      "title": "Multimodal embeddings at scale: AI data lake for media and entertainment workloads",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/unlock-powerful-call-center-analytics-with-amazon-nova-foundation-models/",
-      "published_date": "2026-03-04T21:16:59+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/multimodal-embeddings-at-scale-ai-data-lake-for-media-and-entertainment-workloads/",
+      "published_date": "2026-03-12T15:59:35+00:00",
       "category": "Industry",
-      "description": "In this post, we discuss how Amazon Nova demonstrates capabilities in conversational analytics, call classification, and other use cases often relevant to contact center solutions. We examine these capabilities for both single-call and multi-call analytics use cases.",
-      "author": "Francisco Calderon Rodriguez",
-      "content": "In this post, we discuss how Amazon Nova demonstrates capabilities in conversational analytics, call classification, and other use cases often relevant to contact center solutions. We examine these capabilities for both single-call and multi-call analytics use cases.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8975,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-18T17:15:59.147424+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-18T17:15:59.147427+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "cb6edd161d0719d3eed3aed8f32ebcc4",
-      "title": "Operationalizing Agentic AI Part 1: A Stakeholder’s Guide",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/",
-      "published_date": "2026-03-11T20:52:23+00:00",
-      "category": "Industry",
-      "description": "The AWS Generative AI Innovation Center has helped 1,000+ customers move AI into production, delivering millions in documented productivity gains. In this post, we share guidance for leaders across the C-suite: CTOs, CISOs, CDOs, and Chief Data Science/AI officers, as well as business owners and compliance leads.",
-      "author": "Nav Bhasin",
-      "content": "The AWS Generative AI Innovation Center has helped 1,000+ customers move AI into production, delivering millions in documented productivity gains. In this post, we share guidance for leaders across the C-suite: CTOs, CISOs, CDOs, and Chief Data Science/AI officers, as well as business owners and compliance leads.",
+      "description": "This post shows you how to build a scalable multimodal video search system that enables natural language search across large video datasets using Amazon Nova models and Amazon OpenSearch Service. You will learn how to move beyond manual tagging and keyword-based searches to enable semantic search that captures the full richness of video content.",
+      "author": "Hammad Ausaf",
+      "content": "This post shows you how to build a scalable multimodal video search system that enables natural language search across large video datasets using Amazon Nova models and Amazon OpenSearch Service. You will learn how to move beyond manual tagging and keyword-based searches to enable semantic search that captures the full richness of video content.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
+        "quality_score": 0.95,
+        "novelty_score": 0.9,
+        "impact_score": 0.99,
+        "overall_score": 0.9455,
+        "confidence_mean": 0.99
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -172,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-18T17:15:59.147128+00:00"
+        "consensus_timestamp": "2026-03-18T20:54:00.824347+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,20 +121,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-18T17:15:59.147130+00:00"
+        "timestamp": "2026-03-18T20:54:00.824349+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "7300dd8d5613978fef2f442a3d16a251",
-      "title": "ABB Robotics Taps NVIDIA Omniverse to Deliver Industrial‑Grade Physical AI at Scale",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/abb-robotics-omniverse/",
-      "published_date": "2026-03-09T15:00:34+00:00",
+      "article_id": "e32ecf7ffdeb14a613669aef75abea51",
+      "title": "Introducing GPT-5.4 in Microsoft Foundry",
+      "source": "azure_ai_blog",
+      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
+      "published_date": "2026-03-05T23:03:01+00:00",
       "category": "Industry",
-      "description": "ABB Robotics and NVIDIA today announced a breakthrough partnership that brings industrial‑grade physical AI to the factory floor. By integrating NVIDIA Omniverse libraries directly into its RobotStudio programming and simulation suite, ABB Robotics will now deliver physically accurate simulation capabilities in its platform, dramatically cutting engineering time, reducing deployment costs by up to 40% and […]",
-      "author": "Scott Martin",
-      "content": "ABB Robotics and NVIDIA today announced a breakthrough partnership that brings industrial‑grade physical AI to the factory floor. By integrating NVIDIA Omniverse libraries directly into its RobotStudio programming and simulation suite, ABB Robotics will now deliver physically accurate simulation capabilities in its platform, dramatically cutting engineering time, reducing deployment costs by up to 40% and […]",
+      "description": "Today, we’re announcing OpenAI’s GPT‑5.4 to be generally available soon in Microsoft Foundry: a model designed to help organizations move from planning work to reliably completing it in production environments. The post Introducing GPT-5.4 in Microsoft Foundry appeared first on Microsoft Azure Blog.",
+      "author": "Naomi Moneypenny",
+      "content": "Today, we’re announcing OpenAI’s GPT‑5.4 to be generally available soon in Microsoft Foundry: a model designed to help organizations move from planning work to reliably completing it in production environments. The post Introducing GPT-5.4 in Microsoft Foundry appeared first on Microsoft Azure Blog.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -234,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-18T17:15:59.148005+00:00"
+        "consensus_timestamp": "2026-03-18T20:54:00.822924+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,27 +183,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-18T17:15:59.148007+00:00"
+        "timestamp": "2026-03-18T20:54:00.822927+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "4debe2c54861821b5ff86fe1c9247b45",
-      "title": "Accenture, Databricks Accelerate Enterprise AI Adoption at Scale",
-      "source": "ai_techpark",
-      "url": "https://ai-techpark.com/accenture-databricks-accelerate-enterprise-ai-adoption-at-scale/",
-      "published_date": "2026-03-18T10:30:00+00:00",
-      "category": "Industry",
-      "description": "Accenture (NYSE: ACN) and Databricks, the Data and AI company, are helping global organizations unlock the full potential of their enterprise data and scale adoption of AI applications and agents. As part of a strategic expansion of their partnership, the companies are launching the Accenture Databricks Business Group, with a focus on... The post Accenture, Databricks Accelerate Enterprise AI Adoption at Scale first appeared on AI-Tech Park.",
-      "author": "Business Wire",
-      "content": "Accenture (NYSE: ACN) and Databricks, the Data and AI company, are helping global organizations unlock the full potential of their enterprise data and scale adoption of AI applications and agents. As part of a strategic expansion of their partnership, the companies are launching the Accenture Databricks Business Group, with a focus on... The post Accenture, Databricks Accelerate Enterprise AI Adoption at Scale first appeared on AI-Tech Park.",
+      "article_id": "93e604cd4c75d928592762f540a8da51",
+      "title": "UK will win AI race as Chancellor sets out economic ‘big choices’",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/uk-will-win-ai-race-as-chancellor-sets-out-economic-big-choices",
+      "published_date": "2026-03-17T11:06:57+00:00",
+      "category": "Government",
+      "description": "UK will win the AI adoption race as Chancellor sets out her economic growth ‘big choices’",
+      "author": "",
+      "content": "UK will win the AI adoption race as Chancellor sets out her economic growth ‘big choices’",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.95
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -292,22 +230,84 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
-        "confidence": 0.98,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-18T17:15:59.150302+00:00"
+        "consensus_timestamp": "2026-03-18T20:54:00.821532+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-18T20:54:00.821537+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "40b2143a1843ffd8c7851d7fe9352f20",
+      "title": "Why Codex Security Doesn’t Include a SAST Report",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+      "published_date": "2026-03-16T00:00:00+00:00",
+      "category": "Industry",
+      "description": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+      "author": "",
+      "content": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-18T20:54:00.822137+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
         "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-18T17:15:59.150304+00:00"
+        "timestamp": "2026-03-18T20:54:00.822140+00:00"
       },
       "article_type": "article"
     }
