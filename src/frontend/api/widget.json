@@ -1,22 +1,146 @@
 {
-  "updated": "2026-03-19T05:30:39.842919+00:00",
+  "updated": "2026-03-19T08:58:09.456413+00:00",
   "top_stories": [
     {
-      "article_id": "7dbc8730a4ff5e371caf214b1774c5ea",
-      "title": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’",
+      "article_id": "5eb61f399fcca06462d636375a2bd5d8",
+      "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
-      "published_date": "2026-03-18T13:40:43+00:00",
+      "url": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
+      "published_date": "2026-03-18T17:54:31+00:00",
       "category": "Industry",
-      "description": "The Defense Department said concerns that Anthropic might \"attempt to disable its technology\" during \"warfighting operations\" validate its decision to label the AI firm a supply-chain risk.",
-      "author": "Rebecca Bellan",
-      "content": "The Defense Department said concerns that Anthropic might \"attempt to disable its technology\" during \"warfighting operations\" validate its decision to label the AI firm a supply-chain risk.",
+      "description": "Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers.",
+      "author": "Sarah Perez",
+      "content": "Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.8250000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-19T08:58:09.405060+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-19T08:58:09.405063+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "44a1e64e4f2fb375daa98afa2c906e9d",
+      "title": "The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
+      "published_date": "2026-03-06T17:00:00+00:00",
+      "category": "Industry",
+      "description": "Customers are on the hunt for smarter models, more capable agents, and market-ready solutions to operationalize AI workflows. The post The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry appeared first on Microsoft Azure Blog.",
+      "author": "Don Scott",
+      "content": "Customers are on the hunt for smarter models, more capable agents, and market-ready solutions to operationalize AI workflows. The post The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.92,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-19T08:58:09.403005+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.752,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-19T08:58:09.403009+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "47f683d27aad0ab7c0d56f47410df576",
+      "title": "Introducing NVIDIA BlueField-4-Powered CMX Context Memory Storage Platform for the Next Frontier of AI",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/introducing-nvidia-bluefield-4-powered-inference-context-memory-storage-platform-for-the-next-frontier-of-ai/",
+      "published_date": "2026-03-16T20:30:00+00:00",
+      "category": "Industry",
+      "description": "AI‑native organizations increasingly face scaling challenges as agentic AI workflows drive context windows to millions of tokens and models scale toward...",
+      "author": "Moshe Anschel",
+      "content": "AI‑native organizations increasingly face scaling challenges as agentic AI workflows drive context windows to millions of tokens and models scale toward...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.99,
-        "overall_score": 0.9205000000000001,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -45,41 +169,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.8,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-19T05:30:39.790529+00:00"
+        "consensus_timestamp": "2026-03-19T08:58:09.405929+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-19T05:30:39.790533+00:00"
+        "timestamp": "2026-03-19T08:58:09.405932+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "b16720fe4863ca2142c855d9d8841537",
-      "title": "AI Agent Hacks McKinsey: 5 Situations When You Should Not Deploy Agents",
-      "source": "nanonets_blog",
-      "url": "https://nanonets.com/blog/ai-agent-hacks-mckinsey/",
-      "published_date": "2026-03-14T12:04:36+00:00",
+      "article_id": "3a52fcdc4eaef1bf404eef152caa53ad",
+      "title": "Validate Kubernetes for GPU Infrastructure with Layered, Reproducible Recipes",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/validate-kubernetes-for-gpu-infrastructure-with-layered-reproducible-recipes/",
+      "published_date": "2026-03-12T16:30:00+00:00",
       "category": "Industry",
-      "description": "McKinsey hacked in 2 hours. 5 situations where AI agents will fail. Production permissions, regulated data, legacy systems—check before deploy.",
-      "author": "Vinit Mehta",
-      "content": "McKinsey hacked in 2 hours. 5 situations where AI agents will fail. Production permissions, regulated data, legacy systems—check before deploy.",
+      "description": "Every AI cluster running on Kubernetes requires a full software stack that works together, from low-level driver and kernel settings to high-level operator and...",
+      "author": "Mark Chmarny",
+      "content": "Every AI cluster running on Kubernetes requires a full software stack that works together, from low-level driver and kernel settings to high-level operator and...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8975,
-        "confidence_mean": 0.9
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +234,7 @@
         "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-19T05:30:39.793052+00:00"
+        "consensus_timestamp": "2026-03-19T08:58:09.406400+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,150 +245,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-19T05:30:39.793055+00:00"
+        "timestamp": "2026-03-19T08:58:09.406402+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "7f6261b49b89d264a882fa8fe622a9a9",
-      "title": "UK’s \"Quantum leap\"  to help beat disease, deliver high-paid jobs, and strengthen national security, as first country in the world to roll out Quantum computers at scale",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/uks-quantum-leap-tohelp-beat-diseasedeliver-high-paid-jobs-and-strengthen-national-security-as-first-country-in-the-world-to-roll-out-quantum",
-      "published_date": "2026-03-17T00:01:04+00:00",
-      "category": "Government",
-      "description": "UK unveils new package of measures to become the first country in the world to roll out Quantum computers at scale.",
+      "article_id": "867c9b6e46047381ef399e7eb223f1ad",
+      "title": "WAXAL: A large-scale open resource for African language speech technology",
+      "source": "google_research_blog",
+      "url": "https://research.google/blog/waxal-a-large-scale-open-resource-for-african-language-speech-technology/",
+      "published_date": "2026-03-06T20:06:00+00:00",
+      "category": "Industry",
+      "description": "Natural Language Processing",
       "author": "",
-      "content": "UK unveils new package of measures to become the first country in the world to roll out Quantum computers at scale.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-19T05:30:39.786809+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-19T05:30:39.786813+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "a51df73ad2821e3d2258e2fe3f05cb75",
-      "title": "Using Simulation to Build Robotic Systems for Hospital Automation",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/using-simulation-to-build-robotic-systems-for-hospital-automation/",
-      "published_date": "2026-03-16T22:00:00+00:00",
-      "category": "Industry",
-      "description": "Healthcare faces a structural demand–capacity crisis: a projected global shortfall of ~10 million clinicians by 2030, billions of diagnostic exams annually...",
-      "author": "Mingxin Zheng",
-      "content": "Healthcare faces a structural demand–capacity crisis: a projected global shortfall of ~10 million clinicians by 2030, billions of diagnostic exams annually...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-19T05:30:39.791070+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-19T05:30:39.791074+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e242e948ae93b9c69aa62c5681192c55",
-      "title": "NVIDIA GTC 2026: Live Updates on What’s Next in AI",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
-      "published_date": "2026-03-16T15:00:08+00:00",
-      "category": "Industry",
-      "description": "Rolling coverage from San Jose, including NVIDIA CEO Jensen Huang’s keynote, news highlights, live demos and on‑the‑ground color through March 19.",
-      "author": "NVIDIA Writers",
-      "content": "Rolling coverage from San Jose, including NVIDIA CEO Jensen Huang’s keynote, news highlights, live demos and on‑the‑ground color through March 19.",
+      "content": "Natural Language Processing",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.99,
-        "overall_score": 0.8955,
+        "impact_score": 0.9,
+        "overall_score": 0.89,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -296,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-19T05:30:39.789453+00:00"
+        "consensus_timestamp": "2026-03-19T08:58:09.406791+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-19T05:30:39.789456+00:00"
+        "timestamp": "2026-03-19T08:58:09.406793+00:00"
       },
       "article_type": "article"
     }
