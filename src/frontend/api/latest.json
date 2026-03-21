@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T08:45:25.299630+00:00",
+  "generated_at": "2026-03-21T13:06:43.775958+00:00",
   "articles": [
     {
       "article_id": "2213ce69a192de21e4f543e7121ccb0e",
@@ -17,7 +17,7 @@
         "novelty_score": 0.7,
         "impact_score": 0.9,
         "overall_score": 0.8250000000000001,
-        "confidence_mean": 0.85
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -45,21 +45,21 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.8,
+        "confidence": 0.75,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-21T08:45:25.266821+00:00"
+        "consensus_timestamp": "2026-03-21T13:06:43.740276+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.6499999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-21T08:45:25.266823+00:00"
+        "timestamp": "2026-03-21T13:06:43.740279+00:00"
       },
       "article_type": "headline"
     },
@@ -73,6 +73,68 @@
       "description": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
       "author": "",
       "content": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.931,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-21T13:06:43.738281+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-21T13:06:43.738284+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "cec6b17d9df39354deac57b2293bca77",
+      "title": "How Bark.com and AWS collaborated to build a scalable video generation solution",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-bark-com-and-aws-collaborated-to-build-a-scalable-video-generation-solution/",
+      "published_date": "2026-03-18T15:24:13+00:00",
+      "category": "Industry",
+      "description": "Working with the AWS Generative AI Innovation Center, Bark developed an AI-powered content generation solution that demonstrated a substantial reduction in production time in experimental trials while improving content quality scores. In this post, we walk you through the technical architecture we built, the key design decisions that contributed to success, and the measurable results achieved, giving you a blueprint for implementing similar solutions.",
+      "author": "Zainab Afolabi",
+      "content": "Working with the AWS Generative AI Innovation Center, Bark developed an AI-powered content generation solution that demonstrated a substantial reduction in production time in experimental trials while improving content quality scores. In this post, we walk you through the technical architecture we built, the key design decisions that contributed to success, and the measurable results achieved, giving you a blueprint for implementing similar solutions.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -106,22 +168,84 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
+        "score": 0.95,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-21T08:45:25.265310+00:00"
+        "consensus_timestamp": "2026-03-21T13:06:43.738743+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.77,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-21T08:45:25.265312+00:00"
+        "timestamp": "2026-03-21T13:06:43.738746+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a217964cb0fa4bf8da01c021ef473825",
+      "title": "Zimperium Report: Banking Malware Targets 1,200+ Apps",
+      "source": "ai_techpark",
+      "url": "https://ai-techpark.com/zimperium-report-banking-malware-targets-1200-apps/",
+      "published_date": "2026-03-20T13:30:00+00:00",
+      "category": "Industry",
+      "description": "zLabs analysis identifies 34 active malware families targeting 1,243 financial apps across 90 countries, revealing how attackers hijack legitimate mobile banking apps to commit fraud Zimperium, the world leader in AI-empowered mobile security, today released its 2026 Banking Heist Report. The finding is unambiguous: mobile banking apps have become the primary battleground for... The post Zimperium Report: Banking Malware Targets 1,200+ Apps first appeared on AI-Tech Park.",
+      "author": "PR Newswire",
+      "content": "zLabs analysis identifies 34 active malware families targeting 1,243 financial apps across 90 countries, revealing how attackers hijack legitimate mobile banking apps to commit fraud Zimperium, the world leader in AI-empowered mobile security, today released its 2026 Banking Heist Report. The finding is unambiguous: mobile banking apps have become the primary battleground for... The post Zimperium Report: Banking Malware Targets 1,200+ Apps first appeared on AI-Tech Park.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.9,
+        "overall_score": 0.9025000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-21T13:06:43.742795+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-21T13:06:43.742798+00:00"
       },
       "article_type": "article"
     },
@@ -168,35 +292,97 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.95,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-21T08:45:25.264562+00:00"
+        "consensus_timestamp": "2026-03-21T13:06:43.737525+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-21T13:06:43.737528+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "cc991451141b0ff2a99d20945c5158a2",
+      "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+      "published_date": "2026-03-18T20:01:19+00:00",
+      "category": "Industry",
+      "description": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
+      "author": "Rebecca Szkutak",
+      "content": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-21T13:06:43.740947+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-21T08:45:25.264565+00:00"
+        "timestamp": "2026-03-21T13:06:43.740950+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "545a1beacf8a4aa7a4b02a305a68c27e",
-      "title": "Kick off Nova customization experiments using Nova Forge SDK",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/kick-off-nova-customization-experiments-using-nova-forge-sdk/",
-      "published_date": "2026-03-18T16:16:24+00:00",
+      "article_id": "1d682bbe84ce10c3228008e444b48a2e",
+      "title": "How AI is changing the nature of mathematical research",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/how-ai-is-changing-the-nature-of-mathematical-research",
+      "published_date": "2026-03-09T17:55:47+00:00",
       "category": "Industry",
-      "description": "In this post, we walk you through the process of using the Nova Forge SDK to train an Amazon Nova model using Amazon SageMaker AI Training Jobs.",
-      "author": "Mahima Chaudhary",
-      "content": "In this post, we walk you through the process of using the Nova Forge SDK to train an Amazon Nova model using Amazon SageMaker AI Training Jobs.",
+      "description": "What machine learning theorists learned using AI agents to generate proofs — and what comes next.",
+      "author": "Michael Kearns",
+      "content": "What machine learning theorists learned using AI agents to generate proofs — and what comes next.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -231,10 +417,72 @@
           }
         },
         "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-21T13:06:43.742523+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-21T13:06:43.742526+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "319254e9542edcc98b8134449c5dabca",
+      "title": "NIH scientists develop \"digital twin\" of eye cells to understand and treat age-related macular degeneration",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-scientists-develop-digital-twin-eye-cells-understand-treat-age-related-macular-degeneration",
+      "published_date": "2026-03-21T13:02:56.614179+00:00",
+      "category": "Government",
+      "description": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
+      "author": "",
+      "content": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-21T08:45:25.265498+00:00"
+        "consensus_timestamp": "2026-03-21T13:06:43.737009+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,26 +493,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-21T08:45:25.265501+00:00"
+        "timestamp": "2026-03-21T13:06:43.737013+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "cec6b17d9df39354deac57b2293bca77",
-      "title": "How Bark.com and AWS collaborated to build a scalable video generation solution",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-bark-com-and-aws-collaborated-to-build-a-scalable-video-generation-solution/",
-      "published_date": "2026-03-18T15:24:13+00:00",
-      "category": "Industry",
-      "description": "Working with the AWS Generative AI Innovation Center, Bark developed an AI-powered content generation solution that demonstrated a substantial reduction in production time in experimental trials while improving content quality scores. In this post, we walk you through the technical architecture we built, the key design decisions that contributed to success, and the measurable results achieved, giving you a blueprint for implementing similar solutions.",
-      "author": "Zainab Afolabi",
-      "content": "Working with the AWS Generative AI Innovation Center, Bark developed an AI-powered content generation solution that demonstrated a substantial reduction in production time in experimental trials while improving content quality scores. In this post, we walk you through the technical architecture we built, the key design decisions that contributed to success, and the measurable results achieved, giving you a blueprint for implementing similar solutions.",
+      "article_id": "f51ed39fbabb63b6751bcce52eeacaae",
+      "title": "Policy paper: Report and impact assessment on Copyright and Artificial Intelligence",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence",
+      "published_date": "2026-03-18T11:03:34+00:00",
+      "category": "Government",
+      "description": "A report and impact assessment on the use of copyright works in the development of artificial intelligence (AI) systems.",
+      "author": "",
+      "content": "A report and impact assessment on the use of copyright works in the development of artificial intelligence (AI) systems.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -296,7 +544,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-21T08:45:25.265650+00:00"
+        "consensus_timestamp": "2026-03-21T13:06:43.737433+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +555,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-21T08:45:25.265652+00:00"
+        "timestamp": "2026-03-21T13:06:43.737436+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "1b037610c4ff24ea621f54c8bbd43b9b",
+      "title": "AWS and NVIDIA deepen strategic collaboration to accelerate AI from pilot to production",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-deepen-strategic-collaboration-to-accelerate-ai-from-pilot-to-production/",
+      "published_date": "2026-03-16T20:51:16+00:00",
+      "category": "Industry",
+      "description": "Today at NVIDIA GTC 2026, AWS and NVIDIA announced an expanded collaboration with new technology integrations to support growing AI compute demand and help you build and run AI solutions that are production-ready.",
+      "author": "David Brown",
+      "content": "Today at NVIDIA GTC 2026, AWS and NVIDIA announced an expanded collaboration with new technology integrations to support growing AI compute demand and help you build and run AI solutions that are production-ready.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-21T13:06:43.738884+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-21T13:06:43.738887+00:00"
       },
       "article_type": "article"
     },
@@ -358,7 +668,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-21T08:45:25.267205+00:00"
+        "consensus_timestamp": "2026-03-21T13:06:43.740764+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,7 +679,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-21T08:45:25.267207+00:00"
+        "timestamp": "2026-03-21T13:06:43.740766+00:00"
       },
       "article_type": "article"
     },
@@ -417,41 +727,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-21T08:45:25.266307+00:00"
+        "consensus_timestamp": "2026-03-21T13:06:43.739615+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-21T08:45:25.266310+00:00"
+        "timestamp": "2026-03-21T13:06:43.739618+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "8238f1851f5c604f1cedd7c54c89e461",
-      "title": "AI Is a 5-Layer Cake",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/ai-5-layer-cake/",
-      "published_date": "2026-03-10T10:00:03+00:00",
+      "article_id": "c049949dede09f84020eff97e630424e",
+      "title": "Testing LLMs on superconductivity research questions",
+      "source": "google_research_blog",
+      "url": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/",
+      "published_date": "2026-03-16T17:31:00+00:00",
       "category": "Industry",
-      "description": "AI is one of the most powerful forces shaping the world today. It is not a clever app or a single model; it is essential infrastructure, like electricity and the internet.",
-      "author": "Jensen Huang",
-      "content": "AI is one of the most powerful forces shaping the world today. It is not a clever app or a single model; it is essential infrastructure, like electricity and the internet.",
+      "description": "Education Innovation",
+      "author": "",
+      "content": "Education Innovation",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
+        "novelty_score": 0.75,
+        "impact_score": 0.98,
+        "overall_score": 0.881,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -482,7 +792,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-21T08:45:25.266632+00:00"
+        "consensus_timestamp": "2026-03-21T13:06:43.742053+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -493,20 +803,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-21T08:45:25.266635+00:00"
+        "timestamp": "2026-03-21T13:06:43.742056+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3dc286f713a4fbe10bcd673e18b55179",
-      "title": "Protecting cities with AI-driven flash flood forecasting",
-      "source": "google_research_blog",
-      "url": "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/",
-      "published_date": "2026-03-12T13:03:15+00:00",
+      "article_id": "1b0ffe51e6bfc7c18a2f362dea6fbac2",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/wayfair",
+      "published_date": "2026-03-11T11:00:00+00:00",
       "category": "Industry",
-      "description": "Climate & Sustainability",
+      "description": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
       "author": "",
-      "content": "Climate & Sustainability",
+      "content": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -541,72 +851,10 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-21T08:45:25.268277+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-21T08:45:25.268280+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "7d4d694a6c94d7c6331ac14297c89a62",
-      "title": "Notice: AI for Science Strategy: UK universities' joint statement",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/ai-for-science-strategy-uk-universities-joint-statement",
-      "published_date": "2026-03-20T10:42:17+00:00",
-      "category": "Government",
-      "description": "UK universities support on shared objectives and lessons learned on AI for science.",
-      "author": "",
-      "content": "UK universities support on shared objectives and lessons learned on AI for science.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.87,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-21T08:45:25.264292+00:00"
+        "consensus_timestamp": "2026-03-21T13:06:43.738141+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -617,7 +865,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-21T08:45:25.264294+00:00"
+        "timestamp": "2026-03-21T13:06:43.738145+00:00"
       },
       "article_type": "article"
     },
@@ -635,195 +883,9 @@
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-21T08:45:25.266120+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-21T08:45:25.266123+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "2c67e7c9490299b0a794e09b22e5b357",
-      "title": "Boost Security Announced the Launch of Developer Endpoint Security",
-      "source": "ai_techpark",
-      "url": "https://ai-techpark.com/boost-security-announced-the-launch-of-developer-endpoint-security/",
-      "published_date": "2026-03-20T14:00:00+00:00",
-      "category": "Industry",
-      "description": "New platform protects developer machines, coding agents, and AI-generated code before it reaches the repository Boost Security today announced Boost Security Developer Endpoint Security, a new platform designed to secure the rapidly expanding attack surface created by AI-powered software development. The platform gives security teams visibility and control over developer machines, coding... The post Boost Security Announced the Launch of Developer Endpoint Security first appeared on AI-Tech...",
-      "author": "PR Newswire",
-      "content": "New platform protects developer machines, coding agents, and AI-generated code before it reaches the repository Boost Security today announced Boost Security Developer Endpoint Security, a new platform designed to secure the rapidly expanding attack surface created by AI-powered software development. The platform gives security teams visibility and control over developer machines, coding... The post Boost Security Announced the Launch of Developer Endpoint Security first appeared on AI-Tech...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-21T08:45:25.268764+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-21T08:45:25.268766+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "51acb3fe718ae945d7ea390669e2bdc7",
-      "title": "Scale Synthetic Data and Physical AI Reasoning with NVIDIA Cosmos World Foundation Models",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/scale-synthetic-data-and-physical-ai-reasoning-with-nvidia-cosmos-world-foundation-models/",
-      "published_date": "2026-03-13T16:00:47+00:00",
-      "category": "Industry",
-      "description": "The next generation of AI-driven robots like humanoids and autonomous vehicles depends on high-fidelity, physics-aware training data. Without diverse and...",
-      "author": "Pranjali Joshi",
-      "content": "The next generation of AI-driven robots like humanoids and autonomous vehicles depends on high-fidelity, physics-aware training data. Without diverse and...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
         "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-21T08:45:25.267877+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-21T08:45:25.267879+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "cc991451141b0ff2a99d20945c5158a2",
-      "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
-      "published_date": "2026-03-18T20:01:19+00:00",
-      "category": "Industry",
-      "description": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
-      "author": "Rebecca Szkutak",
-      "content": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -854,7 +916,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-21T08:45:25.267356+00:00"
+        "consensus_timestamp": "2026-03-21T13:06:43.739381+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -865,69 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-21T08:45:25.267358+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8fcf4e00d62b876e06af3aa65fba5c7c",
-      "title": "Measuring progress toward AGI: A cognitive framework",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
-      "published_date": "2026-03-17T16:03:47+00:00",
-      "category": "Industry",
-      "description": "We’re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
-      "author": "",
-      "content": "We’re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-21T08:45:25.268352+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-21T08:45:25.268354+00:00"
+        "timestamp": "2026-03-21T13:06:43.739387+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 163.80447053909302,
+    "processing_time": 163.0013747215271,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 132,
+      "total_processed": 129,
       "candidates": {
-        "headlines": 10,
-        "articles": 122,
+        "headlines": 9,
+        "articles": 120,
         "research_papers": 0
       },
       "selected": {
