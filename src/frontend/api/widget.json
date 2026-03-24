@@ -1,22 +1,22 @@
 {
-  "updated": "2026-03-23T20:48:05.595219+00:00",
+  "updated": "2026-03-24T02:44:07.766652+00:00",
   "top_stories": [
     {
-      "article_id": "76fb59ab86c30efe2a3737e1d7b37341",
-      "title": "Delve accused of misleading customers with ‘fake compliance’",
+      "article_id": "eb92e458831f74ff1007baa556e1b7dd",
+      "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
-      "published_date": "2026-03-22T14:43:51+00:00",
+      "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+      "published_date": "2026-03-22T12:00:00+00:00",
       "category": "Industry",
-      "description": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
-      "author": "Anthony Ha",
-      "content": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+      "description": "Shortly after Amazon announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
+      "author": "Julie Bort",
+      "content": "Shortly after Amazon announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -44,35 +44,97 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
+        "score": 0.85,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-23T20:48:05.560831+00:00"
+        "consensus_timestamp": "2026-03-24T02:44:07.733331+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.71,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-23T20:48:05.560834+00:00"
+        "timestamp": "2026-03-24T02:44:07.733335+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "c9058e0f4fa013dcab289059612d44bb",
-      "title": "Building the AI Grid with NVIDIA: Orchestrating Intelligence Everywhere",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/building-the-ai-grid-with-nvidia-orchestrating-intelligence-everywhere/",
-      "published_date": "2026-03-17T17:13:20+00:00",
+      "article_id": "cf913097bfa3f0e869b687f0b4484971",
+      "title": "Introducing Disaggregated Inference on AWS powered by llm-d",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-disaggregated-inference-on-aws-powered-by-llm-d/",
+      "published_date": "2026-03-16T16:55:53+00:00",
       "category": "Industry",
-      "description": "AI-native services are exposing a new bottleneck in AI infrastructure: As millions of users, agents, and devices demand access to intelligence, the challenge is...",
-      "author": "Sree Sankar",
-      "content": "AI-native services are exposing a new bottleneck in AI infrastructure: As millions of users, agents, and devices demand access to intelligence, the challenge is...",
+      "description": "In this blog post, we introduce the concepts behind next-generation inference capabilities, including disaggregated serving, intelligent request scheduling, and expert parallelism. We discuss their benefits and walk through how you can implement them on Amazon SageMaker HyperPod EKS to achieve significant improvements in inference performance, resource utilization, and operational efficiency.",
+      "author": "Vivek Gangasani",
+      "content": "In this blog post, we introduce the concepts behind next-generation inference capabilities, including disaggregated serving, intelligent request scheduling, and expert parallelism. We discuss their benefits and walk through how you can implement them on Amazon SageMaker HyperPod EKS to achieve significant improvements in inference performance, resource utilization, and operational efficiency.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.931,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-24T02:44:07.731881+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-24T02:44:07.731884+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "1a60d969638c2968c612163d6bfba28c",
+      "title": "As Open Models Spark AI Boom, NVIDIA Jetson Brings It to Life at the Edge",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/jetson-generative-ai-edge-oss/",
+      "published_date": "2026-03-10T16:43:40+00:00",
+      "category": "Industry",
+      "description": "The Cat 306 CR mini-excavator weighs just under eight tons and fits inside a standard shipping container. It’s the machine a contractor rents when the job site is tight: a utility trench near a foundation, a basement dig in a dense neighborhood. The cab is roughly the size of a phone booth. The operator sits […]",
+      "author": "Chen Su",
+      "content": "The Cat 306 CR mini-excavator weighs just under eight tons and fits inside a standard shipping container. It’s the machine a contractor rents when the job site is tight: a utility trench near a foundation, a basement dig in a dense neighborhood. The cab is roughly the size of a phone booth. The operator sits […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -106,11 +168,73 @@
             "enhancement_suggestions": []
           }
         },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-24T02:44:07.732588+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-24T02:44:07.732590+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "adcad89e883763da305385bebae04ce7",
+      "title": "NVIDIA IGX Thor Powers Industrial, Medical, and Robotics Edge AI Applications",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-igx-thor-powers-industrial-medical-and-robotics-edge-ai-applications/",
+      "published_date": "2026-03-23T20:24:17+00:00",
+      "category": "Industry",
+      "description": "Industrial and medical systems are rapidly increasing the use of high-performance AI to improve worker productivity, human-machine interaction, and downtime...",
+      "author": "Suhas Hariharapura Sheshadri",
+      "content": "Industrial and medical systems are rapidly increasing the use of high-performance AI to improve worker productivity, human-machine interaction, and downtime...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.875,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
         "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-23T20:48:05.561424+00:00"
+        "consensus_timestamp": "2026-03-24T02:44:07.733657+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,26 +245,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-23T20:48:05.561427+00:00"
+        "timestamp": "2026-03-24T02:44:07.733660+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "bd812bd708f88af7a38f65f0c6d53c95",
-      "title": "Verily Secures $300 Mn Investment to Advance its Precision Health AI Strategy",
-      "source": "ai_techpark",
-      "url": "https://ai-techpark.com/verily-secures-300-mn-investment-to-advance-its-precision-health-ai-strategy/",
-      "published_date": "2026-03-23T11:00:00+00:00",
+      "article_id": "51acb3fe718ae945d7ea390669e2bdc7",
+      "title": "Scale Synthetic Data and Physical AI Reasoning with NVIDIA Cosmos World Foundation Models",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/scale-synthetic-data-and-physical-ai-reasoning-with-nvidia-cosmos-world-foundation-models/",
+      "published_date": "2026-03-13T16:00:47+00:00",
       "category": "Industry",
-      "description": "Funding round led by Series X Capital, with additional backing from Alphabet, UCHealth, and the University of Colorado Anschutz Verily today announced a $300 million investment round led by Series X Capital, with participation from Alphabet, UCHealth, the University of Colorado Anschutz and other investors, to advance the next phase... The post Verily Secures $300 Mn Investment to Advance its Precision Health AI Strategy first appeared on AI-Tech Park.",
-      "author": "Business Wire",
-      "content": "Funding round led by Series X Capital, with additional backing from Alphabet, UCHealth, and the University of Colorado Anschutz Verily today announced a $300 million investment round led by Series X Capital, with participation from Alphabet, UCHealth, the University of Colorado Anschutz and other investors, to advance the next phase... The post Verily Secures $300 Mn Investment to Advance its Precision Health AI Strategy first appeared on AI-Tech Park.",
+      "description": "The next generation of AI-driven robots like humanoids and autonomous vehicles depends on high-fidelity, physics-aware training data. Without diverse and...",
+      "author": "Pranjali Joshi",
+      "content": "The next generation of AI-driven robots like humanoids and autonomous vehicles depends on high-fidelity, physics-aware training data. Without diverse and...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -168,146 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-23T20:48:05.562861+00:00"
+        "consensus_timestamp": "2026-03-24T02:44:07.734389+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-23T20:48:05.562864+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c9f147d5d47751157c4dadb3dee0a881",
-      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/japan-teen-safety-blueprint",
-      "published_date": "2026-03-17T10:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-      "author": "",
-      "content": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-23T20:48:05.558393+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-23T20:48:05.558395+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "2cedd016ff52dd73e6b79069aa714005",
-      "title": "How to Design a Production-Ready AI Agent That Automates Google Colab Workflows Using Colab-MCP, MCP Tools, FastMCP, and Kernel Execution",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/03/23/how-to-design-a-production-ready-ai-agent-that-automates-google-colab-workflows-using-colab-mcp-mcp-tools-fastmcp-and-kernel-execution/",
-      "published_date": "2026-03-23T18:33:06+00:00",
-      "category": "Industry",
-      "description": "In this tutorial, we build an advanced, hands-on tutorial around Google’s newly released colab-mcp, an open-source MCP (Model Context Protocol) server that lets any AI agent programmatically control Google Colab notebooks and runtimes. Across five self-contained snippets, we go from first principles to production-ready patterns. We start by constructing a minimal MCP tool registry from […] The post How to Design a Production-Ready AI Agent That Automates Google Colab Workflows Using Colab-MCP,...",
-      "author": "Asif Razzaq",
-      "content": "In this tutorial, we build an advanced, hands-on tutorial around Google’s newly released colab-mcp, an open-source MCP (Model Context Protocol) server that lets any AI agent programmatically control Google Colab notebooks and runtimes. Across five self-contained snippets, we go from first principles to production-ready patterns. We start by constructing a minimal MCP tool registry from […] The post How to Design a Production-Ready AI Agent That Automates Google Colab Workflows Using Colab-MCP,...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-23T20:48:05.563356+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-23T20:48:05.563359+00:00"
+        "timestamp": "2026-03-24T02:44:07.734392+00:00"
       },
       "article_type": "article"
     }
