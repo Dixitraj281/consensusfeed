@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-27T05:50:44.098190+00:00",
+  "updated": "2026-03-27T09:06:27.593213+00:00",
   "top_stories": [
     {
       "article_id": "9579e9cf11a6e11c5a245aa509dae0ee",
@@ -13,10 +13,72 @@
       "content": "In the landscape of enterprise AI, the bridge between unstructured audio and actionable text has often been a bottleneck of proprietary APIs and complex cascaded pipelines. Today, Cohere—a company traditionally known for its text-generation and embedding models—has officially stepped into the Automatic Speech Recognition (ASR) market with the release of their latest model ‘Cohere Transcribe‘. […] The post Cohere AI Releases Cohere Transcribe: A SOTA Automatic Speech Recognition (ASR) Model...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-27T09:06:27.556275+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-27T09:06:27.556278+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "bd8600b8eaadb858ae0dfc6e15412d3c",
+      "title": "Introducing V-RAG: revolutionizing AI-powered video production with Retrieval Augmented Generation",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-v-rag-revolutionizing-ai-powered-video-production-with-retrieval-augmented-generation/",
+      "published_date": "2026-03-19T16:45:42+00:00",
+      "category": "Industry",
+      "description": "This post introduces Video Retrieval-Augmented Generation (V-RAG), an approach to help improve video content creation. By combining retrieval augmented generation with advanced video AI models, V-RAG offers an efficient, and reliable solution for generating AI videos.",
+      "author": "Nick Biso",
+      "content": "This post introduces Video Retrieval-Augmented Generation (V-RAG), an approach to help improve video content creation. By combining retrieval augmented generation with advanced video AI models, V-RAG offers an efficient, and reliable solution for generating AI videos.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -45,23 +107,23 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-27T05:50:44.058989+00:00"
+        "consensus_timestamp": "2026-03-27T09:06:27.552294+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-27T05:50:44.058992+00:00"
+        "timestamp": "2026-03-27T09:06:27.552297+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
       "article_id": "43e975c2b72cf16ab571db8e199256e2",
@@ -110,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-27T05:50:44.058295+00:00"
+        "consensus_timestamp": "2026-03-27T09:06:27.554907+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,20 +183,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-27T05:50:44.058298+00:00"
+        "timestamp": "2026-03-27T09:06:27.554910+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "977b72bf9fe21de8131d5d4a0cd4d9c4",
-      "title": "Study measuring changes in protein structure establishes new class of Alzheimer’s biomarkers",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/study-measuring-changes-protein-structure-establishes-new-class-alzheimers-biomarkers",
-      "published_date": "2026-03-27T05:45:30.966146+00:00",
-      "category": "Government",
-      "description": "NIH-funded insights into Alzheimer’s biology could help with early diagnosis, future clinical trials.",
-      "author": "",
-      "content": "NIH-funded insights into Alzheimer’s biology could help with early diagnosis, future clinical trials.",
+      "article_id": "36378afa2950ff91e7169aa188428ab2",
+      "title": "NVIDIA AI Introduces PivotRL: A New AI Framework Achieving High Agentic Accuracy With 4x Fewer Rollout Turns Efficiently",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/03/25/nvidia-ai-introduces-pivotrl-a-new-ai-framework-achieving-high-agentic-accuracy-with-4x-fewer-rollout-turns-efficiently/",
+      "published_date": "2026-03-25T08:39:23+00:00",
+      "category": "Industry",
+      "description": "Post-training Large Language Models (LLMs) for long-horizon agentic tasks—such as software engineering, web browsing, and complex tool use—presents a persistent trade-off between computational efficiency and model generalization. While Supervised Fine-Tuning (SFT) is computationally inexpensive, it frequently suffers from out-of-domain (OOD) performance degradation and struggles to generalize beyond its training distribution. Conversely, end-to-end reinforcement learning (E2E […] The post...",
+      "author": "Asif Razzaq",
+      "content": "Post-training Large Language Models (LLMs) for long-horizon agentic tasks—such as software engineering, web browsing, and complex tool use—presents a persistent trade-off between computational efficiency and model generalization. While Supervised Fine-Tuning (SFT) is computationally inexpensive, it frequently suffers from out-of-domain (OOD) performance degradation and struggles to generalize beyond its training distribution. Conversely, end-to-end reinforcement learning (E2E […] The post...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-27T09:06:27.556417+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-27T09:06:27.556420+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "d4aed4717b9f8847ac189dae28b235de",
+      "title": "From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/",
+      "published_date": "2026-03-16T17:00:00+00:00",
+      "category": "Industry",
+      "description": "Our mission is to make PostgreSQL the most performant, scalable, and enterprise-ready open database platform available. With Azure Database for PostgreSQL and the newly introduced Azure HorizonDB, we’re delivering on that vision. The post From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation appeared first on Microsoft Azure Blog.",
+      "author": "Affan Dar",
+      "content": "Our mission is to make PostgreSQL the most performant, scalable, and enterprise-ready open database platform available. With Azure Database for PostgreSQL and the newly introduced Azure HorizonDB, we’re delivering on that vision. The post From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation appeared first on Microsoft Azure Blog.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -172,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-27T05:50:44.053659+00:00"
+        "consensus_timestamp": "2026-03-27T09:06:27.551644+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,131 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-27T05:50:44.053662+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "40b2143a1843ffd8c7851d7fe9352f20",
-      "title": "Why Codex Security Doesn’t Include a SAST Report",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
-      "published_date": "2026-03-16T00:00:00+00:00",
-      "category": "Industry",
-      "description": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
-      "author": "",
-      "content": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-27T05:50:44.054859+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-27T05:50:44.054861+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "04e96017048104dd25cbeae088fac9db",
-      "title": "Claude for Finance Teams: Investment Banking, DCF Models, Reconciliation & Variance Analysis",
-      "source": "nanonets_blog",
-      "url": "https://nanonets.com/blog/claude-for-finance-teams-investment-banking-dcf-reconciliation/",
-      "published_date": "2026-03-23T15:09:01+00:00",
-      "category": "Industry",
-      "description": "A practical guide to using Claude for investment banking materials, comparable company analysis, DCF models, month-end reconciliation, and variance commentary, with screenshots, setup steps, and honest caveats.",
-      "author": "Vinit Mehta",
-      "content": "A practical guide to using Claude for investment banking materials, comparable company analysis, DCF models, month-end reconciliation, and variance commentary, with screenshots, setup steps, and honest caveats.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-27T05:50:44.058770+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-27T05:50:44.058773+00:00"
+        "timestamp": "2026-03-27T09:06:27.551647+00:00"
       },
       "article_type": "article"
     }
