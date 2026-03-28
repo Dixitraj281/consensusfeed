@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T16:46:25.879826+00:00",
+  "generated_at": "2026-03-28T20:43:40.726916+00:00",
   "articles": [
     {
       "article_id": "f0d7d6e47cc312ab24a8d2ff3841c6bd",
@@ -13,10 +13,10 @@
       "content": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "impact_score": 0.9,
+        "overall_score": 0.8775000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-28T16:46:25.847691+00:00"
+        "consensus_timestamp": "2026-03-28T20:43:40.693557+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,9 +59,133 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-28T16:46:25.847694+00:00"
+        "timestamp": "2026-03-28T20:43:40.693559+00:00"
       },
       "article_type": "headline"
+    },
+    {
+      "article_id": "8e11f973197b7a7027d983fb58d2a2d4",
+      "title": "Researchers develop AI tool to predict patients at risk of intimate partner violence",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/researchers-develop-ai-tool-predict-patients-risk-intimate-partner-violence",
+      "published_date": "2026-03-28T20:39:14.207567+00:00",
+      "category": "Government",
+      "description": "NIH-funded, automated&nbsp;clinical decision support&nbsp;could&nbsp;facilitate&nbsp;timely&nbsp;interventions for&nbsp;at-risk&nbsp;patients&nbsp;years&nbsp;before they might otherwise seek help.",
+      "author": "",
+      "content": "NIH-funded, automated&nbsp;clinical decision support&nbsp;could&nbsp;facilitate&nbsp;timely&nbsp;interventions for&nbsp;at-risk&nbsp;patients&nbsp;years&nbsp;before they might otherwise seek help.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-28T20:43:40.689925+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-28T20:43:40.689929+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "d4aed4717b9f8847ac189dae28b235de",
+      "title": "From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/",
+      "published_date": "2026-03-16T17:00:00+00:00",
+      "category": "Industry",
+      "description": "Our mission is to make PostgreSQL the most performant, scalable, and enterprise-ready open database platform available. With Azure Database for PostgreSQL and the newly introduced Azure HorizonDB, we’re delivering on that vision. The post From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation appeared first on Microsoft Azure Blog.",
+      "author": "Affan Dar",
+      "content": "Our mission is to make PostgreSQL the most performant, scalable, and enterprise-ready open database platform available. With Azure Database for PostgreSQL and the newly introduced Azure HorizonDB, we’re delivering on that vision. The post From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-28T20:43:40.691991+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-28T20:43:40.691993+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "e872097f78a7c36cceb95a6a4a9af2ee",
@@ -110,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-28T16:46:25.845431+00:00"
+        "consensus_timestamp": "2026-03-28T20:43:40.691216+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,7 +245,131 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-28T16:46:25.845434+00:00"
+        "timestamp": "2026-03-28T20:43:40.691219+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "de76cd9a123325249fd1961ab9d6a201",
+      "title": "Tay Cities Region backed by up to £20 million from UK government to grow its thriving creative tech sector",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/tay-cities-region-backed-by-up-to-20-million-from-uk-government-to-grow-its-thriving-creative-tech-sector",
+      "published_date": "2026-03-25T10:22:21+00:00",
+      "category": "Government",
+      "description": "Investment will back local talent advancing creative technologies like computer games and virtual reality to drive new products and grow the economy.",
+      "author": "",
+      "content": "Investment will back local talent advancing creative technologies like computer games and virtual reality to drive new products and grow the economy.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.85,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-28T20:43:40.690562+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-28T20:43:40.690565+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "053e31df6398c870187d61a1c5ce6011",
+      "title": "Update on the OpenAI Foundation",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "published_date": "2026-03-24T09:00:00+00:00",
+      "category": "Industry",
+      "description": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+      "author": "",
+      "content": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-28T20:43:40.691450+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-28T20:43:40.691453+00:00"
       },
       "article_type": "article"
     },
@@ -139,8 +387,8 @@
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "impact_score": 0.7,
+        "overall_score": 0.8350000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -168,103 +416,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.8,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-28T16:46:25.847043+00:00"
+        "consensus_timestamp": "2026-03-28T20:43:40.692921+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-28T16:46:25.847046+00:00"
+        "timestamp": "2026-03-28T20:43:40.692924+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "053e31df6398c870187d61a1c5ce6011",
-      "title": "Update on the OpenAI Foundation",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/update-on-the-openai-foundation",
-      "published_date": "2026-03-24T09:00:00+00:00",
+      "article_id": "dd7f05f3466fe17abe0e93277d495687",
+      "title": "From Simulation to Production: How to Build Robots With AI",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/build-robots-with-ai/",
+      "published_date": "2026-03-18T13:00:13+00:00",
       "category": "Industry",
-      "description": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
-      "author": "",
-      "content": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+      "description": "The latest open models and frameworks from NVIDIA bring together simulation, robot learning and embedded compute to accelerate cloud-to-robot workflows.",
+      "author": "Katie Washabaugh",
+      "content": "The latest open models and frameworks from NVIDIA bring together simulation, robot learning and embedded compute to accelerate cloud-to-robot workflows.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "novelty_score": 0.75,
         "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-28T16:46:25.845652+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-28T16:46:25.845654+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "a373906e945dcd1a404994b3c12cc044",
-      "title": "Automated CT scan analysis could fast-track clinical assessments",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/automated-ct-scan-analysis-could-fast-track-clinical-assessments",
-      "published_date": "2026-03-28T16:42:03.614723+00:00",
-      "category": "Government",
-      "description": "NIH-funded research suggests AI-powered tool could streamline diagnoses and unveil early markers for chronic disease.",
-      "author": "",
-      "content": "NIH-funded research suggests AI-powered tool could streamline diagnoses and unveil early markers for chronic disease.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.87,
+        "overall_score": 0.8600000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -296,7 +482,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-28T16:46:25.844370+00:00"
+        "consensus_timestamp": "2026-03-28T20:43:40.693197+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,27 +493,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-28T16:46:25.844374+00:00"
+        "timestamp": "2026-03-28T20:43:40.693200+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f18e7145f0d0ae53bcc4aef4e47472e8",
-      "title": "Research: Deepfake detection technology",
+      "article_id": "499c93b75e63b6f4022d34544be6c69f",
+      "title": "Research: Data landscape review report 2024 to 2025",
       "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/deepfake-detection-technology",
+      "url": "https://www.gov.uk/government/publications/data-landscape-review-report-2024-to-2025",
       "published_date": "2026-03-26T09:30:08+00:00",
       "category": "Government",
-      "description": "Analysis of the current state of demand and supply in the UK deepfake detection market​ and existing barriers and key drivers that can shape the future of the sector​.",
+      "description": "This report focuses specifically on data access and sharing challenges related to online harms and the online safety tech sector, including the technologies and initiatives used to address them.",
       "author": "",
-      "content": "Analysis of the current state of demand and supply in the UK deepfake detection market​ and existing barriers and key drivers that can shape the future of the sector​.",
+      "content": "This report focuses specifically on data access and sharing challenges related to online harms and the online safety tech sector, including the technologies and initiatives used to address them.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.6,
         "impact_score": 0.9,
-        "overall_score": 0.87,
-        "confidence_mean": 0.9
+        "overall_score": 0.8250000000000001,
+        "confidence_mean": 0.8
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -354,159 +540,35 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.9,
+        "score": 0.8,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-28T16:46:25.844665+00:00"
+        "consensus_timestamp": "2026-03-28T20:43:40.690423+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-28T16:46:25.844668+00:00"
+        "timestamp": "2026-03-28T20:43:40.690426+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3292c64a4e05ab4f2a75c4aeece98674",
-      "title": "NVIDIA Vera Rubin POD: Seven Chips, Five Rack-Scale Systems, One AI Supercomputer",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-pod-seven-chips-five-rack-scale-systems-one-ai-supercomputer/",
-      "published_date": "2026-03-16T16:05:58+00:00",
-      "category": "Industry",
-      "description": "Artificial intelligence is token-driven. Every prompt, reasoning step, and agent interaction generates tokens. Over the past year, token consumption has grown...",
-      "author": "Rohil Bhargava",
-      "content": "Artificial intelligence is token-driven. Every prompt, reasoning step, and agent interaction generates tokens. Over the past year, token consumption has grown...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.85
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-28T16:46:25.849255+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-28T16:46:25.849257+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "214e79c915b16fc7ad61b0ec8f2cefef",
-      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
-      "published_date": "2026-03-26T15:23:35+00:00",
-      "category": "Industry",
-      "description": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
-      "author": "",
-      "content": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.85
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-28T16:46:25.849439+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-28T16:46:25.849441+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "bd33d7676a9eb7aac1ed831e6e2c24df",
-      "title": "How agentic AI helps heal the systems we can&#8217;t replace",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/how-agentic-ai-helps-heal-the-systems-we-cant-replace",
-      "published_date": "2026-03-16T13:00:00+00:00",
-      "category": "Industry",
-      "description": "By learning the idiosyncrasies of accumulated layers of legacy systems, AI agents can preserve institutional knowledge and provide a unified interface to a range of services.",
-      "author": "Staff writer",
-      "content": "By learning the idiosyncrasies of accumulated layers of legacy systems, AI agents can preserve institutional knowledge and provide a unified interface to a range of services.",
+      "article_id": "8ad82c402d6ee1df021e32276dbb462c",
+      "title": "DARPA-developed autonomous helicopter technology transitions to U.S. Army",
+      "source": "darpa_ai_research",
+      "url": "https://www.darpa.mil/news/2026/uh-60mx-black-hawk-army",
+      "published_date": "2026-03-19T18:42:40+00:00",
+      "category": "Government",
+      "description": "An experimental, fly-by-wire H-60Mx Black Hawk, equipped with DARPA-funded autonomy, has been delivered to the U.S. Army for testing.",
+      "author": "outreach@darpa.mil",
+      "content": "An experimental, fly-by-wire H-60Mx Black Hawk, equipped with DARPA-funded autonomy, has been delivered to the U.S. Army for testing.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
@@ -540,41 +602,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.8,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-28T16:46:25.849650+00:00"
+        "consensus_timestamp": "2026-03-28T20:43:40.690233+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-28T16:46:25.849653+00:00"
+        "timestamp": "2026-03-28T20:43:40.690237+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "8a51cb1fa229a18e926f4d7900cd1fb6",
-      "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
-      "published_date": "2026-03-25T21:44:13+00:00",
+      "article_id": "7e86e6fac3df601cf757ba0add1e4e6f",
+      "title": "Maximize AI Infrastructure Throughput by Consolidating Underutilized GPU Workloads",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/maximize-ai-infrastructure-throughput-by-consolidating-underutilized-gpu-workloads/",
+      "published_date": "2026-03-25T16:35:43+00:00",
       "category": "Industry",
-      "description": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
-      "author": "Rebecca Bellan",
-      "content": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
+      "description": "In production Kubernetes environments, the difference between model requirements and GPU size creates inefficiencies. Lightweight automatic speech recognition...",
+      "author": "Sagar Desai",
+      "content": "In production Kubernetes environments, the difference between model requirements and GPU size creates inefficiencies. Lightweight automatic speech recognition...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.8,
+        "relevance_score": 0.8,
+        "quality_score": 0.85,
+        "novelty_score": 0.9,
         "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
+        "overall_score": 0.8674999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -606,7 +668,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-28T16:46:25.848397+00:00"
+        "consensus_timestamp": "2026-03-28T20:43:40.694351+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -617,69 +679,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-28T16:46:25.848399+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "5df1f80ccf7552c99c284c1e8e906d8e",
-      "title": "NIST Submits Annual Report to Congress Summarizing FY 2025 Progress on National Construction Safety Team Investigations",
-      "source": "nist_ai_news",
-      "url": "https://www.nist.gov/news-events/news/2026/03/nist-submits-annual-report-congress-summarizing-fy-2025-progress-national",
-      "published_date": "2026-03-19T12:00:00+00:00",
-      "category": "Government",
-      "description": "The report includes an overview of work completed on the Champlain Towers South investigation.",
-      "author": "Sarah Henderson",
-      "content": "The report includes an overview of work completed on the Champlain Towers South investigation.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.82,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-28T16:46:25.844064+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-28T16:46:25.844077+00:00"
+        "timestamp": "2026-03-28T20:43:40.694354+00:00"
       },
       "article_type": "article"
     },
@@ -730,7 +730,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-28T16:46:25.845519+00:00"
+        "consensus_timestamp": "2026-03-28T20:43:40.691309+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -741,7 +741,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-28T16:46:25.845522+00:00"
+        "timestamp": "2026-03-28T20:43:40.691311+00:00"
       },
       "article_type": "article"
     },
@@ -789,34 +789,34 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-28T16:46:25.846638+00:00"
+        "consensus_timestamp": "2026-03-28T20:43:40.692501+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-28T16:46:25.846641+00:00"
+        "timestamp": "2026-03-28T20:43:40.692504+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "d82e30c1bd6616282058a54023994d9f",
-      "title": "Enhanced metrics for Amazon SageMaker AI endpoints: deeper visibility for better performance",
+      "article_id": "bd8600b8eaadb858ae0dfc6e15412d3c",
+      "title": "Introducing V-RAG: revolutionizing AI-powered video production with Retrieval Augmented Generation",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/enhanced-metrics-for-amazon-sagemaker-ai-endpoints-deeper-visibility-for-better-performance/",
-      "published_date": "2026-03-19T14:32:11+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-v-rag-revolutionizing-ai-powered-video-production-with-retrieval-augmented-generation/",
+      "published_date": "2026-03-19T16:45:42+00:00",
       "category": "Industry",
-      "description": "SageMaker AI endpoints now support enhanced metrics with configurable publishing frequency. This launch provides the granular visibility needed to monitor, troubleshoot, and improve your production endpoints.",
-      "author": "Dan Ferguson",
-      "content": "SageMaker AI endpoints now support enhanced metrics with configurable publishing frequency. This launch provides the granular visibility needed to monitor, troubleshoot, and improve your production endpoints.",
+      "description": "This post introduces Video Retrieval-Augmented Generation (V-RAG), an approach to help improve video content creation. By combining retrieval augmented generation with advanced video AI models, V-RAG offers an efficient, and reliable solution for generating AI videos.",
+      "author": "Nick Biso",
+      "content": "This post introduces Video Retrieval-Augmented Generation (V-RAG), an approach to help improve video content creation. By combining retrieval augmented generation with advanced video AI models, V-RAG offers an efficient, and reliable solution for generating AI videos.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.8,
@@ -850,35 +850,35 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.9,
+        "score": 0.85,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-28T16:46:25.846875+00:00"
+        "consensus_timestamp": "2026-03-28T20:43:40.692682+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-28T16:46:25.846878+00:00"
+        "timestamp": "2026-03-28T20:43:40.692685+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "1cf293147a8326e51350ee116fef0fa0",
-      "title": "NVIDIA DSX Air Boosts Time to Token With Accelerated Simulation for AI Factories",
+      "article_id": "ebed6eed1aa74470f5892367aa27e3d7",
+      "title": "How Autonomous AI Agents Become Secure by Design With NVIDIA OpenShell",
       "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/dsx-air-simulation-ai-factories/",
-      "published_date": "2026-03-16T20:00:48+00:00",
+      "url": "https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/",
+      "published_date": "2026-03-23T15:00:03+00:00",
       "category": "Industry",
-      "description": "Setting up AI factories in simulation — decreasing deployment time from months to days — is accelerating the next industrial revolution. Nowhere was that more apparent than at GTC 2026, in San Jose, where NVIDIA founder and CEO Jensen Huang introduced NVIDIA DSX Air. Part of NVIDIA DSX Sim in the DSX platform, NVIDIA’s blueprint […]",
-      "author": "Scott Martin",
-      "content": "Setting up AI factories in simulation — decreasing deployment time from months to days — is accelerating the next industrial revolution. Nowhere was that more apparent than at GTC 2026, in San Jose, where NVIDIA founder and CEO Jensen Huang introduced NVIDIA DSX Air. Part of NVIDIA DSX Sim in the DSX platform, NVIDIA’s blueprint […]",
+      "description": "Autonomous agents mark a new inflection point in AI. Systems are no longer limited to generating responses or reasoning through tasks. They can take action: Agents can read files, use tools, write and run code, and execute workflows across enterprise systems, all while expanding their own capabilities. Application-layer risk grows exponentially when agents continuously improve […]",
+      "author": "Ali Golshan",
+      "content": "Autonomous agents mark a new inflection point in AI. Systems are no longer limited to generating responses or reasoning through tasks. They can take action: Agents can read files, use tools, write and run code, and execute workflows across enterprise systems, all while expanding their own capabilities. Application-layer risk grows exponentially when agents continuously improve […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.8,
@@ -916,7 +916,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-28T16:46:25.847602+00:00"
+        "consensus_timestamp": "2026-03-28T20:43:40.693059+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-28T16:46:25.847605+00:00"
+        "timestamp": "2026-03-28T20:43:40.693062+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 195.4937446117401,
+    "processing_time": 193.22962880134583,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 115,
+      "total_processed": 120,
       "candidates": {
         "headlines": 8,
-        "articles": 107,
+        "articles": 112,
         "research_papers": 0
       },
       "selected": {

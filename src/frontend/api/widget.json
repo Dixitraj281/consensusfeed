@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T16:46:25.882536+00:00",
+  "updated": "2026-03-28T20:43:40.729682+00:00",
   "top_stories": [
     {
       "article_id": "f0d7d6e47cc312ab24a8d2ff3841c6bd",
@@ -13,10 +13,10 @@
       "content": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "impact_score": 0.9,
+        "overall_score": 0.8775000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-28T16:46:25.847691+00:00"
+        "consensus_timestamp": "2026-03-28T20:43:40.693557+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,9 +59,133 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-28T16:46:25.847694+00:00"
+        "timestamp": "2026-03-28T20:43:40.693559+00:00"
       },
       "article_type": "headline"
+    },
+    {
+      "article_id": "8e11f973197b7a7027d983fb58d2a2d4",
+      "title": "Researchers develop AI tool to predict patients at risk of intimate partner violence",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/researchers-develop-ai-tool-predict-patients-risk-intimate-partner-violence",
+      "published_date": "2026-03-28T20:39:14.207567+00:00",
+      "category": "Government",
+      "description": "NIH-funded, automated&nbsp;clinical decision support&nbsp;could&nbsp;facilitate&nbsp;timely&nbsp;interventions for&nbsp;at-risk&nbsp;patients&nbsp;years&nbsp;before they might otherwise seek help.",
+      "author": "",
+      "content": "NIH-funded, automated&nbsp;clinical decision support&nbsp;could&nbsp;facilitate&nbsp;timely&nbsp;interventions for&nbsp;at-risk&nbsp;patients&nbsp;years&nbsp;before they might otherwise seek help.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-28T20:43:40.689925+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-28T20:43:40.689929+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "d4aed4717b9f8847ac189dae28b235de",
+      "title": "From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/",
+      "published_date": "2026-03-16T17:00:00+00:00",
+      "category": "Industry",
+      "description": "Our mission is to make PostgreSQL the most performant, scalable, and enterprise-ready open database platform available. With Azure Database for PostgreSQL and the newly introduced Azure HorizonDB, we’re delivering on that vision. The post From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation appeared first on Microsoft Azure Blog.",
+      "author": "Affan Dar",
+      "content": "Our mission is to make PostgreSQL the most performant, scalable, and enterprise-ready open database platform available. With Azure Database for PostgreSQL and the newly introduced Azure HorizonDB, we’re delivering on that vision. The post From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-28T20:43:40.691991+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-28T20:43:40.691993+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "e872097f78a7c36cceb95a6a4a9af2ee",
@@ -110,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-28T16:46:25.845431+00:00"
+        "consensus_timestamp": "2026-03-28T20:43:40.691216+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,150 +245,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-28T16:46:25.845434+00:00"
+        "timestamp": "2026-03-28T20:43:40.691219+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "62ee331e5660467ef24788dcfe357f72",
-      "title": "Introducing Nova Forge SDK, a seamless way to customize Nova models for enterprise AI",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-nova-forge-sdk-a-seamless-way-to-customize-nova-models-for-enterprise-ai/",
-      "published_date": "2026-03-18T16:06:21+00:00",
-      "category": "Industry",
-      "description": "Today, we are launching Nova Forge SDK that makes LLM customization accessible, empowering teams to harness the full potential of language models without the challenges of dependency management, image selection, and recipe configuration and eventually lowering the barrier of entry.",
-      "author": "Mahima Chaudhary",
-      "content": "Today, we are launching Nova Forge SDK that makes LLM customization accessible, empowering teams to harness the full potential of language models without the challenges of dependency management, image selection, and recipe configuration and eventually lowering the barrier of entry.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-28T16:46:25.847043+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-28T16:46:25.847046+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "053e31df6398c870187d61a1c5ce6011",
-      "title": "Update on the OpenAI Foundation",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/update-on-the-openai-foundation",
-      "published_date": "2026-03-24T09:00:00+00:00",
-      "category": "Industry",
-      "description": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
-      "author": "",
-      "content": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-28T16:46:25.845652+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-28T16:46:25.845654+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "a373906e945dcd1a404994b3c12cc044",
-      "title": "Automated CT scan analysis could fast-track clinical assessments",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/automated-ct-scan-analysis-could-fast-track-clinical-assessments",
-      "published_date": "2026-03-28T16:42:03.614723+00:00",
+      "article_id": "de76cd9a123325249fd1961ab9d6a201",
+      "title": "Tay Cities Region backed by up to £20 million from UK government to grow its thriving creative tech sector",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/tay-cities-region-backed-by-up-to-20-million-from-uk-government-to-grow-its-thriving-creative-tech-sector",
+      "published_date": "2026-03-25T10:22:21+00:00",
       "category": "Government",
-      "description": "NIH-funded research suggests AI-powered tool could streamline diagnoses and unveil early markers for chronic disease.",
+      "description": "Investment will back local talent advancing creative technologies like computer games and virtual reality to drive new products and grow the economy.",
       "author": "",
-      "content": "NIH-funded research suggests AI-powered tool could streamline diagnoses and unveil early markers for chronic disease.",
+      "content": "Investment will back local talent advancing creative technologies like computer games and virtual reality to drive new products and grow the economy.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.7,
         "impact_score": 0.9,
-        "overall_score": 0.87,
+        "overall_score": 0.85,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -292,22 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
+        "score": 0.8,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-28T16:46:25.844370+00:00"
+        "consensus_timestamp": "2026-03-28T20:43:40.690562+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.6799999999999999,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-28T16:46:25.844374+00:00"
+        "timestamp": "2026-03-28T20:43:40.690565+00:00"
       },
       "article_type": "article"
     }
