@@ -1,23 +1,23 @@
 {
-  "updated": "2026-03-29T13:13:36.850661+00:00",
+  "updated": "2026-03-29T16:47:13.472067+00:00",
   "top_stories": [
     {
-      "article_id": "edca0ae3439ed8d97a96b19f0510a2f8",
-      "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
+      "article_id": "caf2c3f68d3002e8501b2158e2a14fee",
+      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
-      "published_date": "2026-03-27T19:11:28+00:00",
+      "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "published_date": "2026-03-28T20:45:54+00:00",
       "category": "Industry",
-      "description": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
-      "author": "Kate Park",
-      "content": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
+      "description": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+      "author": "Anthony Ha",
+      "content": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
-        "confidence_mean": 0.9
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,22 +44,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.8,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-29T13:13:36.818057+00:00"
+        "consensus_timestamp": "2026-03-29T16:47:13.439678+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.6799999999999999,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-29T13:13:36.818060+00:00"
+        "timestamp": "2026-03-29T16:47:13.439681+00:00"
       },
       "article_type": "headline"
     },
@@ -110,7 +110,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-29T13:13:36.816861+00:00"
+        "consensus_timestamp": "2026-03-29T16:47:13.438571+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,7 +121,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-29T13:13:36.816863+00:00"
+        "timestamp": "2026-03-29T16:47:13.438574+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e5ebb70f75b04e7d065559acfddfd7d9",
+      "title": "Building NVIDIA Nemotron 3 Agents for Reasoning, Multimodal RAG, Voice, and Safety",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/building-nvidia-nemotron-3-agents-for-reasoning-multimodal-rag-voice-and-safety/",
+      "published_date": "2026-03-24T16:00:00+00:00",
+      "category": "Industry",
+      "description": "Agentic AI is an ecosystem where specialized models work together to handle planning, reasoning, retrieval, and safety guardrailing. As these systems scale,...",
+      "author": "Chintan Patel",
+      "content": "Agentic AI is an ecosystem where specialized models work together to handle planning, reasoning, retrieval, and safety guardrailing. As these systems scale,...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-29T16:47:13.440694+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-29T16:47:13.440697+00:00"
       },
       "article_type": "article"
     },
@@ -138,9 +200,9 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.7,
+        "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.875,
+        "overall_score": 0.8999999999999999,
         "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
@@ -172,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-29T13:13:36.816550+00:00"
+        "consensus_timestamp": "2026-03-29T16:47:13.438253+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,82 +245,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-29T13:13:36.816554+00:00"
+        "timestamp": "2026-03-29T16:47:13.438256+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3292c64a4e05ab4f2a75c4aeece98674",
-      "title": "NVIDIA Vera Rubin POD: Seven Chips, Five Rack-Scale Systems, One AI Supercomputer",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-pod-seven-chips-five-rack-scale-systems-one-ai-supercomputer/",
-      "published_date": "2026-03-16T16:05:58+00:00",
-      "category": "Industry",
-      "description": "Artificial intelligence is token-driven. Every prompt, reasoning step, and agent interaction generates tokens. Over the past year, token consumption has grown...",
-      "author": "Rohil Bhargava",
-      "content": "Artificial intelligence is token-driven. Every prompt, reasoning step, and agent interaction generates tokens. Over the past year, token consumption has grown...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.92,
-        "confidence": 0.96,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-29T13:13:36.819359+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.776,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-29T13:13:36.819362+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e872097f78a7c36cceb95a6a4a9af2ee",
-      "title": "STADLER reshapes knowledge work at a 230-year-old company",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/stadler",
-      "published_date": "2026-03-27T22:00:00+00:00",
-      "category": "Industry",
-      "description": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+      "article_id": "8e11f973197b7a7027d983fb58d2a2d4",
+      "title": "Researchers develop AI tool to predict patients at risk of intimate partner violence",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/researchers-develop-ai-tool-predict-patients-risk-intimate-partner-violence",
+      "published_date": "2026-03-29T16:42:44.950954+00:00",
+      "category": "Government",
+      "description": "NIH-funded, automated&nbsp;clinical decision support&nbsp;could&nbsp;facilitate&nbsp;timely&nbsp;interventions for&nbsp;at-risk&nbsp;patients&nbsp;years&nbsp;before they might otherwise seek help.",
       "author": "",
-      "content": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+      "content": "NIH-funded, automated&nbsp;clinical decision support&nbsp;could&nbsp;facilitate&nbsp;timely&nbsp;interventions for&nbsp;at-risk&nbsp;patients&nbsp;years&nbsp;before they might otherwise seek help.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -296,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-29T13:13:36.815673+00:00"
+        "consensus_timestamp": "2026-03-29T16:47:13.436260+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-29T13:13:36.815676+00:00"
+        "timestamp": "2026-03-29T16:47:13.436264+00:00"
       },
       "article_type": "article"
     }
