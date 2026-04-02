@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-04-02T02:55:04.155371+00:00",
+  "generated_at": "2026-04-02T05:49:50.185919+00:00",
   "articles": [
     {
-      "article_id": "2a5f7f6abd9b8ac8b7880fb3544bccd0",
-      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
-      "published_date": "2026-04-01T22:12:13+00:00",
+      "article_id": "42a3985ec76fbe095cefbb0b5ff1d617",
+      "title": "AWS launches frontier agents for security testing and cloud operations",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/aws-launches-frontier-agents-for-security-testing-and-cloud-operations/",
+      "published_date": "2026-03-31T16:25:32+00:00",
       "category": "Industry",
-      "description": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
-      "author": "Tim Fernholz",
-      "content": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+      "description": "I'm excited to announce that AWS Security Agent on-demand penetration testing and AWS DevOps Agent are now generally available, representing a new class of AI capabilities we announced at re:Invent called frontier agents. These autonomous systems work independently to achieve goals, scale massively to tackle concurrent tasks, and run persistently for hours or days without constant human oversight. Together, these agents are changing the way we secure and operate software. In preview, customers...",
+      "author": "Swami Sivasubramanian",
+      "content": "I'm excited to announce that AWS Security Agent on-demand penetration testing and AWS DevOps Agent are now generally available, representing a new class of AI capabilities we announced at re:Invent called frontier agents. These autonomous systems work independently to achieve goals, scale massively to tackle concurrent tasks, and run persistently for hours or days without constant human oversight. Together, these agents are changing the way we secure and operate software. In preview, customers...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.85,
         "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "overall_score": 0.9185000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T02:55:04.116675+00:00"
+        "consensus_timestamp": "2026-04-02T05:49:50.147182+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,9 +59,133 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-02T02:55:04.116678+00:00"
+        "timestamp": "2026-04-02T05:49:50.147184+00:00"
       },
       "article_type": "headline"
+    },
+    {
+      "article_id": "ad4e09436cd559f71bb840da1328b495",
+      "title": "AI swarms are coming:  Here’s why it matters",
+      "source": "ai_accelerator_institute",
+      "url": "https://www.aiacceleratorinstitute.com/ai-swarms-are-coming-heres-why-it-matters/",
+      "published_date": "2026-03-27T09:59:06+00:00",
+      "category": "Industry",
+      "description": "If the last wave of AI felt like hiring a very smart intern, this one feels more like managing an entire organization that never sleeps (and occasionally argues with itself).",
+      "author": "Andrew Lovell",
+      "content": "If the last wave of AI felt like hiring a very smart intern, this one feels more like managing an entire organization that never sleeps (and occasionally argues with itself).",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.95,
+        "overall_score": 0.9125000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-02T05:49:50.150861+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-02T05:49:50.150863+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "70b837d658254f71009a883e9b759ec9",
+      "title": "Formally verified AES-XTS: The first AES algorithm to join s2n-bignum",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/formally-verified-aes-xts-the-first-aes-algorithm-to-join-s2n-bignum",
+      "published_date": "2026-03-20T16:38:44+00:00",
+      "category": "Industry",
+      "description": "Simplifying and clarifying the assembly code for core operations enabled automated optimization and verification.",
+      "author": "Yan Peng",
+      "content": "Simplifying and clarifying the assembly code for core operations enabled automated optimization and verification.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-02T05:49:50.150016+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-02T05:49:50.150020+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "b0c9836051cf59bb228c235d00321cb5",
@@ -110,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T02:55:04.116071+00:00"
+        "consensus_timestamp": "2026-04-02T05:49:50.147651+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,7 +245,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-02T02:55:04.116074+00:00"
+        "timestamp": "2026-04-02T05:49:50.147654+00:00"
       },
       "article_type": "article"
     },
@@ -172,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T02:55:04.114272+00:00"
+        "consensus_timestamp": "2026-04-02T05:49:50.146530+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,7 +307,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-02T02:55:04.114275+00:00"
+        "timestamp": "2026-04-02T05:49:50.146533+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "13795601290fe379dc0306d3dfd60872",
+      "title": "NIH-supported trial reduces HIV incidence by 70% in rural populations",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-supported-trial-reduces-hiv-incidence-70-rural-populations",
+      "published_date": "2026-04-02T05:44:36.824770+00:00",
+      "category": "Government",
+      "description": "Study&nbsp;used technology to extend reach of existing infrastructure, linking people to care.",
+      "author": "",
+      "content": "Study&nbsp;used technology to extend reach of existing infrastructure, linking people to care.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-02T05:49:50.145533+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-02T05:49:50.145537+00:00"
       },
       "article_type": "article"
     },
@@ -234,7 +420,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T02:55:04.114116+00:00"
+        "consensus_timestamp": "2026-04-02T05:49:50.146355+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,26 +431,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-02T02:55:04.114118+00:00"
+        "timestamp": "2026-04-02T05:49:50.146357+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "04e96017048104dd25cbeae088fac9db",
-      "title": "Claude for Finance Teams: Investment Banking, DCF Models, Reconciliation & Variance Analysis",
-      "source": "nanonets_blog",
-      "url": "https://nanonets.com/blog/claude-for-finance-teams-investment-banking-dcf-reconciliation/",
-      "published_date": "2026-03-23T15:09:01+00:00",
+      "article_id": "ebb67399a7b2a131d78bca56a93d53ce",
+      "title": "NVIDIA Extreme Co-Design Delivers New MLPerf Inference Records",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-extreme-co-design-delivers-new-mlperf-inference-records/",
+      "published_date": "2026-04-01T15:00:48+00:00",
       "category": "Industry",
-      "description": "A practical guide to using Claude for investment banking materials, comparable company analysis, DCF models, month-end reconciliation, and variance commentary, with screenshots, setup steps, and honest caveats.",
-      "author": "Vinit Mehta",
-      "content": "A practical guide to using Claude for investment banking materials, comparable company analysis, DCF models, month-end reconciliation, and variance commentary, with screenshots, setup steps, and honest caveats.",
+      "description": "Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...",
+      "author": "Ashraf Eassa",
+      "content": "Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -293,21 +479,83 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T02:55:04.118642+00:00"
+        "consensus_timestamp": "2026-04-02T05:49:50.149250+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-02T05:49:50.149252+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "7e86e6fac3df601cf757ba0add1e4e6f",
+      "title": "Maximize AI Infrastructure Throughput by Consolidating Underutilized GPU Workloads",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/maximize-ai-infrastructure-throughput-by-consolidating-underutilized-gpu-workloads/",
+      "published_date": "2026-03-25T16:35:43+00:00",
+      "category": "Industry",
+      "description": "In production Kubernetes environments, the difference between model requirements and GPU size creates inefficiencies. Lightweight automatic speech recognition...",
+      "author": "Sagar Desai",
+      "content": "In production Kubernetes environments, the difference between model requirements and GPU size creates inefficiencies. Lightweight automatic speech recognition...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-02T05:49:50.149454+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-02T02:55:04.118645+00:00"
+        "timestamp": "2026-04-02T05:49:50.149457+00:00"
       },
       "article_type": "article"
     },
@@ -327,68 +575,6 @@
         "novelty_score": 0.8,
         "impact_score": 0.95,
         "overall_score": 0.8875,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.92,
-        "confidence": 0.96,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T02:55:04.118031+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.776,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-02T02:55:04.118034+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "252d4b02eaaf5dde19e6270aa0b3f94f",
-      "title": "Microsoft AI Releases Harrier-OSS-v1: A New Family of Multilingual Embedding Models Hitting SOTA on Multilingual MTEB v2",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/03/30/microsoft-ai-releases-harrier-oss-v1-a-new-family-of-multilingual-embedding-models-hitting-sota-on-multilingual-mteb-v2/",
-      "published_date": "2026-03-30T22:22:49+00:00",
-      "category": "Industry",
-      "description": "Microsoft has announced the release of Harrier-OSS-v1, a family of three multilingual text embedding models designed to provide high-quality semantic representations across a wide range of languages. The release includes three distinct scales: a 270M parameter model, a 0.6B model, and a 27B model. The Harrier-OSS-v1 models achieved state-of-the-art (SOTA) results on the Multilingual MTEB […] The post Microsoft AI Releases Harrier-OSS-v1: A New Family of Multilingual Embedding Models Hitting...",
-      "author": "Asif Razzaq",
-      "content": "Microsoft has announced the release of Harrier-OSS-v1, a family of three multilingual text embedding models designed to provide high-quality semantic representations across a wide range of languages. The release includes three distinct scales: a 270M parameter model, a 0.6B model, and a 27B model. The Harrier-OSS-v1 models achieved state-of-the-art (SOTA) results on the Multilingual MTEB […] The post Microsoft AI Releases Harrier-OSS-v1: A New Family of Multilingual Embedding Models Hitting...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -416,41 +602,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.98,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T02:55:04.119067+00:00"
+        "consensus_timestamp": "2026-04-02T05:49:50.149646+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-02T02:55:04.119070+00:00"
+        "timestamp": "2026-04-02T05:49:50.149649+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "9b09113ca8e2f005bfbd4b87cb9f97fd",
-      "title": "Improving quality and robustness in LLM-based text-to-speech systems",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/improving-quality-and-robustness-in-llm-based-text-to-speech-systems",
-      "published_date": "2026-04-01T18:13:19+00:00",
+      "article_id": "b29026c121af96e1d1e871a6a5722ed2",
+      "title": "NVIDIA GTC 2026:  The AI stack gets real",
+      "source": "ai_accelerator_institute",
+      "url": "https://www.aiacceleratorinstitute.com/nvidia-gtc-2026-the-ai-stack-gets-real/",
+      "published_date": "2026-03-19T10:02:02+00:00",
       "category": "Industry",
-      "description": "Low-rank adaptation, data augmentation, and chain-of-thought reasoning are among the techniques enabling accent-free polyglot outputs, improved expressiveness, and reliable synthesis.",
-      "author": "Ammar Abbas",
-      "content": "Low-rank adaptation, data augmentation, and chain-of-thought reasoning are among the techniques enabling accent-free polyglot outputs, improved expressiveness, and reliable synthesis.",
+      "description": "At NVIDIA’s GTC 2026, CEO Jensen Huang laid out a sweeping vision for AI’s next era.",
+      "author": "Andrew Lovell",
+      "content": "At NVIDIA’s GTC 2026, CEO Jensen Huang laid out a sweeping vision for AI’s next era.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "overall_score": 0.8875,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -482,7 +668,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T02:55:04.118369+00:00"
+        "consensus_timestamp": "2026-04-02T05:49:50.151092+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -493,27 +679,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-02T02:55:04.118371+00:00"
+        "timestamp": "2026-04-02T05:49:50.151094+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "b29026c121af96e1d1e871a6a5722ed2",
-      "title": "NVIDIA GTC 2026:  The AI stack gets real",
+      "article_id": "793403eff941a8b8b615545bdebd2571",
+      "title": "5 lessons we can learn from  Sora: Hype vs reality",
       "source": "ai_accelerator_institute",
-      "url": "https://www.aiacceleratorinstitute.com/nvidia-gtc-2026-the-ai-stack-gets-real/",
-      "published_date": "2026-03-19T10:02:02+00:00",
+      "url": "https://www.aiacceleratorinstitute.com/5-lessons-we-can-learn-from-sora-hype-vs-reality/",
+      "published_date": "2026-04-01T11:09:26+00:00",
       "category": "Industry",
-      "description": "At NVIDIA’s GTC 2026, CEO Jensen Huang laid out a sweeping vision for AI’s next era.",
+      "description": "After ChatGPT’s breakthrough, the race to define the next frontier of generative AI accelerated. One of the most talked-about innovations was OpenAI’s Sora, a text-to-video AI model that promised to transform digital content creation.",
       "author": "Andrew Lovell",
-      "content": "At NVIDIA’s GTC 2026, CEO Jensen Huang laid out a sweeping vision for AI’s next era.",
+      "content": "After ChatGPT’s breakthrough, the race to define the next frontier of generative AI accelerated. One of the most talked-about innovations was OpenAI’s Sora, a text-to-video AI model that promised to transform digital content creation.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.95,
         "overall_score": 0.8725,
-        "confidence_mean": 0.95
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -540,22 +726,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T02:55:04.119598+00:00"
+        "consensus_timestamp": "2026-04-02T05:49:50.150770+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-02T02:55:04.119601+00:00"
+        "timestamp": "2026-04-02T05:49:50.150773+00:00"
       },
       "article_type": "article"
     },
@@ -570,12 +756,12 @@
       "author": "Valentin Marenich",
       "content": "Here’s how consulting leader Valentin Marenich and his team built a hybrid AI system that combines machine learning, generative AI, and human oversight to deliver real-world results in a highly regulated environment.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.95
+        "overall_score": 0.87,
+        "confidence_mean": 0.85
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -602,22 +788,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
+        "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T02:55:04.119320+00:00"
+        "consensus_timestamp": "2026-04-02T05:49:50.150817+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
+        "weighted_score": 0.74,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-02T02:55:04.119324+00:00"
+        "timestamp": "2026-04-02T05:49:50.150820+00:00"
       },
       "article_type": "article"
     },
@@ -637,6 +823,68 @@
         "novelty_score": 0.8,
         "impact_score": 0.9,
         "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-02T05:49:50.150952+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-02T05:49:50.150955+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "252d4b02eaaf5dde19e6270aa0b3f94f",
+      "title": "Microsoft AI Releases Harrier-OSS-v1: A New Family of Multilingual Embedding Models Hitting SOTA on Multilingual MTEB v2",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/03/30/microsoft-ai-releases-harrier-oss-v1-a-new-family-of-multilingual-embedding-models-hitting-sota-on-multilingual-mteb-v2/",
+      "published_date": "2026-03-30T22:22:49+00:00",
+      "category": "Industry",
+      "description": "Microsoft has announced the release of Harrier-OSS-v1, a family of three multilingual text embedding models designed to provide high-quality semantic representations across a wide range of languages. The release includes three distinct scales: a 270M parameter model, a 0.6B model, and a 27B model. The Harrier-OSS-v1 models achieved state-of-the-art (SOTA) results on the Multilingual MTEB […] The post Microsoft AI Releases Harrier-OSS-v1: A New Family of Multilingual Embedding Models Hitting...",
+      "author": "Asif Razzaq",
+      "content": "Microsoft has announced the release of Harrier-OSS-v1, a family of three multilingual text embedding models designed to provide high-quality semantic representations across a wide range of languages. The release includes three distinct scales: a 270M parameter model, a 0.6B model, and a 27B model. The Harrier-OSS-v1 models achieved state-of-the-art (SOTA) results on the Multilingual MTEB […] The post Microsoft AI Releases Harrier-OSS-v1: A New Family of Multilingual Embedding Models Hitting...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -664,270 +912,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T02:55:04.119458+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-02T02:55:04.119461+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "444fe775bd2b69ddd57e0bc9a1e6aa6a",
-      "title": "Deploy voice agents with Pipecat and Amazon Bedrock AgentCore Runtime – Part 1",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-voice-agents-with-pipecat-and-amazon-bedrock-agentcore-runtime-part-1/",
-      "published_date": "2026-03-25T18:52:59+00:00",
-      "category": "Industry",
-      "description": "In this series of posts, you will learn how streaming architectures help address these challenges using Pipecat voice agents on Amazon Bedrock AgentCore Runtime. In Part 1, you will learn how to deploy Pipecat voice agents on AgentCore Runtime using different network transport approaches including WebSockets, WebRTC and telephony integration, with practical deployment guidance and code samples.",
-      "author": "Daniel Wirjo",
-      "content": "In this series of posts, you will learn how streaming architectures help address these challenges using Pipecat voice agents on Amazon Bedrock AgentCore Runtime. In Part 1, you will learn how to deploy Pipecat voice agents on AgentCore Runtime using different network transport approaches including WebSockets, WebRTC and telephony integration, with practical deployment guidance and code samples.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
+        "score": 0.85,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T02:55:04.116115+00:00"
+        "consensus_timestamp": "2026-04-02T05:49:50.150594+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.71,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-02T02:55:04.116118+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "499c93b75e63b6f4022d34544be6c69f",
-      "title": "Research: Data landscape review report 2024 to 2025",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/data-landscape-review-report-2024-to-2025",
-      "published_date": "2026-03-26T09:30:08+00:00",
-      "category": "Government",
-      "description": "This report focuses specifically on data access and sharing challenges related to online harms and the online safety tech sector, including the technologies and initiatives used to address them.",
-      "author": "",
-      "content": "This report focuses specifically on data access and sharing challenges related to online harms and the online safety tech sector, including the technologies and initiatives used to address them.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T02:55:04.113785+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-02T02:55:04.113790+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "de76cd9a123325249fd1961ab9d6a201",
-      "title": "Tay Cities Region backed by up to £20 million from UK government to grow its thriving creative tech sector",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/tay-cities-region-backed-by-up-to-20-million-from-uk-government-to-grow-its-thriving-creative-tech-sector",
-      "published_date": "2026-03-25T10:22:21+00:00",
-      "category": "Government",
-      "description": "Investment will back local talent advancing creative technologies like computer games and virtual reality to drive new products and grow the economy.",
-      "author": "",
-      "content": "Investment will back local talent advancing creative technologies like computer games and virtual reality to drive new products and grow the economy.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T02:55:04.113976+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-02T02:55:04.113979+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "ebb67399a7b2a131d78bca56a93d53ce",
-      "title": "NVIDIA Extreme Co-Design Delivers New MLPerf Inference Records",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-extreme-co-design-delivers-new-mlperf-inference-records/",
-      "published_date": "2026-04-01T15:00:48+00:00",
-      "category": "Industry",
-      "description": "Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...",
-      "author": "Ashraf Eassa",
-      "content": "Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.8,
-        "overall_score": 0.8250000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T02:55:04.117625+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-02T02:55:04.117628+00:00"
+        "timestamp": "2026-04-02T05:49:50.150597+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 245.74374651908875,
+    "processing_time": 246.41426920890808,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,9 +953,9 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 124,
+      "total_processed": 122,
       "candidates": {
-        "headlines": 12,
+        "headlines": 10,
         "articles": 112,
         "research_papers": 0
       },

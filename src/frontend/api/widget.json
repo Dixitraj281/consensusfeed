@@ -1,22 +1,22 @@
 {
-  "updated": "2026-04-02T02:55:04.158153+00:00",
+  "updated": "2026-04-02T05:49:50.188762+00:00",
   "top_stories": [
     {
-      "article_id": "2a5f7f6abd9b8ac8b7880fb3544bccd0",
-      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
-      "published_date": "2026-04-01T22:12:13+00:00",
+      "article_id": "42a3985ec76fbe095cefbb0b5ff1d617",
+      "title": "AWS launches frontier agents for security testing and cloud operations",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/aws-launches-frontier-agents-for-security-testing-and-cloud-operations/",
+      "published_date": "2026-03-31T16:25:32+00:00",
       "category": "Industry",
-      "description": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
-      "author": "Tim Fernholz",
-      "content": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+      "description": "I'm excited to announce that AWS Security Agent on-demand penetration testing and AWS DevOps Agent are now generally available, representing a new class of AI capabilities we announced at re:Invent called frontier agents. These autonomous systems work independently to achieve goals, scale massively to tackle concurrent tasks, and run persistently for hours or days without constant human oversight. Together, these agents are changing the way we secure and operate software. In preview, customers...",
+      "author": "Swami Sivasubramanian",
+      "content": "I'm excited to announce that AWS Security Agent on-demand penetration testing and AWS DevOps Agent are now generally available, representing a new class of AI capabilities we announced at re:Invent called frontier agents. These autonomous systems work independently to achieve goals, scale massively to tackle concurrent tasks, and run persistently for hours or days without constant human oversight. Together, these agents are changing the way we secure and operate software. In preview, customers...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.85,
         "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "overall_score": 0.9185000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T02:55:04.116675+00:00"
+        "consensus_timestamp": "2026-04-02T05:49:50.147182+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,9 +59,133 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-02T02:55:04.116678+00:00"
+        "timestamp": "2026-04-02T05:49:50.147184+00:00"
       },
       "article_type": "headline"
+    },
+    {
+      "article_id": "ad4e09436cd559f71bb840da1328b495",
+      "title": "AI swarms are coming:  Here’s why it matters",
+      "source": "ai_accelerator_institute",
+      "url": "https://www.aiacceleratorinstitute.com/ai-swarms-are-coming-heres-why-it-matters/",
+      "published_date": "2026-03-27T09:59:06+00:00",
+      "category": "Industry",
+      "description": "If the last wave of AI felt like hiring a very smart intern, this one feels more like managing an entire organization that never sleeps (and occasionally argues with itself).",
+      "author": "Andrew Lovell",
+      "content": "If the last wave of AI felt like hiring a very smart intern, this one feels more like managing an entire organization that never sleeps (and occasionally argues with itself).",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.95,
+        "overall_score": 0.9125000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-02T05:49:50.150861+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-02T05:49:50.150863+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "70b837d658254f71009a883e9b759ec9",
+      "title": "Formally verified AES-XTS: The first AES algorithm to join s2n-bignum",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/formally-verified-aes-xts-the-first-aes-algorithm-to-join-s2n-bignum",
+      "published_date": "2026-03-20T16:38:44+00:00",
+      "category": "Industry",
+      "description": "Simplifying and clarifying the assembly code for core operations enabled automated optimization and verification.",
+      "author": "Yan Peng",
+      "content": "Simplifying and clarifying the assembly code for core operations enabled automated optimization and verification.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-02T05:49:50.150016+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-02T05:49:50.150020+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "b0c9836051cf59bb228c235d00321cb5",
@@ -110,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T02:55:04.116071+00:00"
+        "consensus_timestamp": "2026-04-02T05:49:50.147651+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,7 +245,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-02T02:55:04.116074+00:00"
+        "timestamp": "2026-04-02T05:49:50.147654+00:00"
       },
       "article_type": "article"
     },
@@ -172,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T02:55:04.114272+00:00"
+        "consensus_timestamp": "2026-04-02T05:49:50.146530+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,131 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-02T02:55:04.114275+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "2bb7f2f43588ccb5d24d9ec19b918320",
-      "title": "Transparency data: DSIT: ministerial overseas travel and meetings, October to December 2025",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/dsit-ministerial-overseas-travel-and-meetings-october-to-december-2025",
-      "published_date": "2026-03-24T16:00:15+00:00",
-      "category": "Government",
-      "description": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
-      "author": "",
-      "content": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T02:55:04.114116+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-02T02:55:04.114118+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "04e96017048104dd25cbeae088fac9db",
-      "title": "Claude for Finance Teams: Investment Banking, DCF Models, Reconciliation & Variance Analysis",
-      "source": "nanonets_blog",
-      "url": "https://nanonets.com/blog/claude-for-finance-teams-investment-banking-dcf-reconciliation/",
-      "published_date": "2026-03-23T15:09:01+00:00",
-      "category": "Industry",
-      "description": "A practical guide to using Claude for investment banking materials, comparable company analysis, DCF models, month-end reconciliation, and variance commentary, with screenshots, setup steps, and honest caveats.",
-      "author": "Vinit Mehta",
-      "content": "A practical guide to using Claude for investment banking materials, comparable company analysis, DCF models, month-end reconciliation, and variance commentary, with screenshots, setup steps, and honest caveats.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T02:55:04.118642+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-02T02:55:04.118645+00:00"
+        "timestamp": "2026-04-02T05:49:50.146533+00:00"
       },
       "article_type": "article"
     }
