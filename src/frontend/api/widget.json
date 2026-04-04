@@ -1,22 +1,22 @@
 {
-  "updated": "2026-04-04T05:29:11.834050+00:00",
+  "updated": "2026-04-04T08:56:22.503666+00:00",
   "top_stories": [
     {
-      "article_id": "1d98798664a494e8158488c3707bc6cf",
-      "title": "Anthropic ramps up its political activities with a new PAC",
+      "article_id": "b8eea36d888fa7bcdbc67ffa384139bd",
+      "title": "Microsoft takes on AI rivals with three new foundational models",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
-      "published_date": "2026-04-03T20:22:18+00:00",
+      "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+      "published_date": "2026-04-02T16:48:16+00:00",
       "category": "Industry",
-      "description": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
-      "author": "Lucas Ropek",
-      "content": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
+      "description": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+      "author": "Rebecca Szkutak",
+      "content": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
+        "relevance_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "impact_score": 0.9,
+        "overall_score": 0.86,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -45,23 +45,85 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T05:29:11.797048+00:00"
+        "consensus_timestamp": "2026-04-04T08:56:22.466145+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T05:29:11.797051+00:00"
+        "timestamp": "2026-04-04T08:56:22.466149+00:00"
       },
       "article_type": "headline"
+    },
+    {
+      "article_id": "b0c9836051cf59bb228c235d00321cb5",
+      "title": "Introducing Amazon Polly Bidirectional Streaming: Real-time speech synthesis for conversational AI",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-polly-bidirectional-streaming-real-time-speech-synthesis-for-conversational-ai/",
+      "published_date": "2026-03-26T17:10:20+00:00",
+      "category": "Industry",
+      "description": "Today, we’re excited to announce the new Bidirectional Streaming API for Amazon Polly, enabling streamlined real-time text-to-speech (TTS) synthesis where you can start sending text and receiving audio simultaneously. This new API is built for conversational AI applications that generate text or audio incrementally, like responses from large language models (LLMs), where users must begin synthesizing audio before the full text is available.",
+      "author": "Praveen Gadi",
+      "content": "Today, we’re excited to announce the new Bidirectional Streaming API for Amazon Polly, enabling streamlined real-time text-to-speech (TTS) synthesis where you can start sending text and receiving audio simultaneously. This new API is built for conversational AI applications that generate text or audio incrementally, like responses from large language models (LLMs), where users must begin synthesizing audio before the full text is available.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.925,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-04T08:56:22.465296+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-04T08:56:22.465299+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "7ba0ffb86d8ae8530cf4bb5cd7059f70",
@@ -110,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T05:29:11.795170+00:00"
+        "consensus_timestamp": "2026-04-04T08:56:22.463815+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,88 +183,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T05:29:11.795173+00:00"
+        "timestamp": "2026-04-04T08:56:22.463818+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "b0c9836051cf59bb228c235d00321cb5",
-      "title": "Introducing Amazon Polly Bidirectional Streaming: Real-time speech synthesis for conversational AI",
+      "article_id": "73db1099cf5b77322ff5c140ce0e38af",
+      "title": "Rocket Close transforms mortgage document processing with Amazon Bedrock and Amazon Textract",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-polly-bidirectional-streaming-real-time-speech-synthesis-for-conversational-ai/",
-      "published_date": "2026-03-26T17:10:20+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/rocket-close-transforms-mortgage-document-processing-with-amazon-bedrock-and-amazon-textract/",
+      "published_date": "2026-04-02T12:59:31+00:00",
       "category": "Industry",
-      "description": "Today, we’re excited to announce the new Bidirectional Streaming API for Amazon Polly, enabling streamlined real-time text-to-speech (TTS) synthesis where you can start sending text and receiving audio simultaneously. This new API is built for conversational AI applications that generate text or audio incrementally, like responses from large language models (LLMs), where users must begin synthesizing audio before the full text is available.",
-      "author": "Praveen Gadi",
-      "content": "Today, we’re excited to announce the new Bidirectional Streaming API for Amazon Polly, enabling streamlined real-time text-to-speech (TTS) synthesis where you can start sending text and receiving audio simultaneously. This new API is built for conversational AI applications that generate text or audio incrementally, like responses from large language models (LLMs), where users must begin synthesizing audio before the full text is available.",
+      "description": "Through a strategic partnership with the AWS Generative AI Innovation Center (GenAIIC), Rocket Close developed an intelligent document processing solution that has significantly reduced processing time, making the process 15 times faster. The solution, which uses Amazon Textract for OCR processing and Amazon Bedrock for foundation models (FMs), achieves a strong 90% overall accuracy in document segmentation, classification, and field extraction.",
+      "author": "Jeremy Little, Chris Day",
+      "content": "Through a strategic partnership with the AWS Generative AI Innovation Center (GenAIIC), Rocket Close developed an intelligent document processing solution that has significantly reduced processing time, making the process 15 times faster. The solution, which uses Amazon Textract for OCR processing and Amazon Bedrock for foundation models (FMs), achieves a strong 90% overall accuracy in document segmentation, classification, and field extraction.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T05:29:11.796466+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-04T05:29:11.796469+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "30ed8667207daec1f4736aa4cb05287a",
-      "title": "The Future of AI Is Open and Proprietary",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/ai-future-open-and-proprietary/",
-      "published_date": "2026-03-25T19:00:04+00:00",
-      "category": "Industry",
-      "description": "AI is the defining technology of our time, quickly becoming core business infrastructure. It’s fueled by a diverse ecosystem of models: large and small, open and proprietary, generalist and specialist. This variety is essential for a future where every application will be powered by AI, every country will build it and every company will use […]",
-      "author": "Kari Briski",
-      "content": "AI is the defining technology of our time, quickly becoming core business infrastructure. It’s fueled by a diverse ecosystem of models: large and small, open and proprietary, generalist and specialist. This variety is essential for a future where every application will be powered by AI, every country will build it and every company will use […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -231,41 +231,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T05:29:11.796695+00:00"
+        "consensus_timestamp": "2026-04-04T08:56:22.464480+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T05:29:11.796697+00:00"
+        "timestamp": "2026-04-04T08:56:22.464483+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "640a43bff3a4324a85f0b43192f2c071",
-      "title": "Stream High-Fidelity Spatial Computing Content to Any Device with NVIDIA CloudXR 6.0",
+      "article_id": "ebb67399a7b2a131d78bca56a93d53ce",
+      "title": "NVIDIA Platform Delivers Lowest Token Cost Enabled by Extreme Co-Design",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/stream-high-fidelity-spatial-computing-content-to-any-device-with-nvidia-cloudxr-6-0/",
-      "published_date": "2026-03-31T18:14:50+00:00",
+      "url": "https://developer.nvidia.com/blog/nvidia-platform-delivers-lowest-token-cost-enabled-by-extreme-co-design/",
+      "published_date": "2026-04-01T15:00:48+00:00",
       "category": "Industry",
-      "description": "Spatial computing is moving from visualization to active collaboration, adding increasingly more GPU demands on XR hardware to render photorealistic,...",
-      "author": "Max Bickley",
-      "content": "Spatial computing is moving from visualization to active collaboration, adding increasingly more GPU demands on XR hardware to render photorealistic,...",
+      "description": "Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...",
+      "author": "Ashraf Eassa",
+      "content": "Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -292,22 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T05:29:11.797970+00:00"
+        "consensus_timestamp": "2026-04-04T08:56:22.466801+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T05:29:11.797972+00:00"
+        "timestamp": "2026-04-04T08:56:22.466806+00:00"
       },
       "article_type": "article"
     }

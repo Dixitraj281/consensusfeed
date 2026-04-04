@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-04-04T05:29:11.831250+00:00",
+  "generated_at": "2026-04-04T08:56:22.500828+00:00",
   "articles": [
     {
-      "article_id": "1d98798664a494e8158488c3707bc6cf",
-      "title": "Anthropic ramps up its political activities with a new PAC",
+      "article_id": "b8eea36d888fa7bcdbc67ffa384139bd",
+      "title": "Microsoft takes on AI rivals with three new foundational models",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
-      "published_date": "2026-04-03T20:22:18+00:00",
+      "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+      "published_date": "2026-04-02T16:48:16+00:00",
       "category": "Industry",
-      "description": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
-      "author": "Lucas Ropek",
-      "content": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
+      "description": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+      "author": "Rebecca Szkutak",
+      "content": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
+        "relevance_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "impact_score": 0.9,
+        "overall_score": 0.86,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -45,23 +45,85 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T05:29:11.797048+00:00"
+        "consensus_timestamp": "2026-04-04T08:56:22.466145+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T05:29:11.797051+00:00"
+        "timestamp": "2026-04-04T08:56:22.466149+00:00"
       },
       "article_type": "headline"
+    },
+    {
+      "article_id": "b0c9836051cf59bb228c235d00321cb5",
+      "title": "Introducing Amazon Polly Bidirectional Streaming: Real-time speech synthesis for conversational AI",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-polly-bidirectional-streaming-real-time-speech-synthesis-for-conversational-ai/",
+      "published_date": "2026-03-26T17:10:20+00:00",
+      "category": "Industry",
+      "description": "Today, we’re excited to announce the new Bidirectional Streaming API for Amazon Polly, enabling streamlined real-time text-to-speech (TTS) synthesis where you can start sending text and receiving audio simultaneously. This new API is built for conversational AI applications that generate text or audio incrementally, like responses from large language models (LLMs), where users must begin synthesizing audio before the full text is available.",
+      "author": "Praveen Gadi",
+      "content": "Today, we’re excited to announce the new Bidirectional Streaming API for Amazon Polly, enabling streamlined real-time text-to-speech (TTS) synthesis where you can start sending text and receiving audio simultaneously. This new API is built for conversational AI applications that generate text or audio incrementally, like responses from large language models (LLMs), where users must begin synthesizing audio before the full text is available.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.925,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-04T08:56:22.465296+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-04T08:56:22.465299+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "7ba0ffb86d8ae8530cf4bb5cd7059f70",
@@ -110,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T05:29:11.795170+00:00"
+        "consensus_timestamp": "2026-04-04T08:56:22.463815+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,27 +183,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T05:29:11.795173+00:00"
+        "timestamp": "2026-04-04T08:56:22.463818+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "b0c9836051cf59bb228c235d00321cb5",
-      "title": "Introducing Amazon Polly Bidirectional Streaming: Real-time speech synthesis for conversational AI",
+      "article_id": "73db1099cf5b77322ff5c140ce0e38af",
+      "title": "Rocket Close transforms mortgage document processing with Amazon Bedrock and Amazon Textract",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-polly-bidirectional-streaming-real-time-speech-synthesis-for-conversational-ai/",
-      "published_date": "2026-03-26T17:10:20+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/rocket-close-transforms-mortgage-document-processing-with-amazon-bedrock-and-amazon-textract/",
+      "published_date": "2026-04-02T12:59:31+00:00",
       "category": "Industry",
-      "description": "Today, we’re excited to announce the new Bidirectional Streaming API for Amazon Polly, enabling streamlined real-time text-to-speech (TTS) synthesis where you can start sending text and receiving audio simultaneously. This new API is built for conversational AI applications that generate text or audio incrementally, like responses from large language models (LLMs), where users must begin synthesizing audio before the full text is available.",
-      "author": "Praveen Gadi",
-      "content": "Today, we’re excited to announce the new Bidirectional Streaming API for Amazon Polly, enabling streamlined real-time text-to-speech (TTS) synthesis where you can start sending text and receiving audio simultaneously. This new API is built for conversational AI applications that generate text or audio incrementally, like responses from large language models (LLMs), where users must begin synthesizing audio before the full text is available.",
+      "description": "Through a strategic partnership with the AWS Generative AI Innovation Center (GenAIIC), Rocket Close developed an intelligent document processing solution that has significantly reduced processing time, making the process 15 times faster. The solution, which uses Amazon Textract for OCR processing and Amazon Bedrock for foundation models (FMs), achieves a strong 90% overall accuracy in document segmentation, classification, and field extraction.",
+      "author": "Jeremy Little, Chris Day",
+      "content": "Through a strategic partnership with the AWS Generative AI Innovation Center (GenAIIC), Rocket Close developed an intelligent document processing solution that has significantly reduced processing time, making the process 15 times faster. The solution, which uses Amazon Textract for OCR processing and Amazon Bedrock for foundation models (FMs), achieves a strong 90% overall accuracy in document segmentation, classification, and field extraction.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.98
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -169,21 +231,83 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T05:29:11.796466+00:00"
+        "consensus_timestamp": "2026-04-04T08:56:22.464480+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T05:29:11.796469+00:00"
+        "timestamp": "2026-04-04T08:56:22.464483+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ebb67399a7b2a131d78bca56a93d53ce",
+      "title": "NVIDIA Platform Delivers Lowest Token Cost Enabled by Extreme Co-Design",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-platform-delivers-lowest-token-cost-enabled-by-extreme-co-design/",
+      "published_date": "2026-04-01T15:00:48+00:00",
+      "category": "Industry",
+      "description": "Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...",
+      "author": "Ashraf Eassa",
+      "content": "Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-04T08:56:22.466801+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-04T08:56:22.466806+00:00"
       },
       "article_type": "article"
     },
@@ -231,102 +355,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T05:29:11.796695+00:00"
+        "consensus_timestamp": "2026-04-04T08:56:22.465539+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T05:29:11.796697+00:00"
+        "timestamp": "2026-04-04T08:56:22.465542+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "640a43bff3a4324a85f0b43192f2c071",
-      "title": "Stream High-Fidelity Spatial Computing Content to Any Device with NVIDIA CloudXR 6.0",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/stream-high-fidelity-spatial-computing-content-to-any-device-with-nvidia-cloudxr-6-0/",
-      "published_date": "2026-03-31T18:14:50+00:00",
+      "article_id": "42a3985ec76fbe095cefbb0b5ff1d617",
+      "title": "AWS launches frontier agents for security testing and cloud operations",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/aws-launches-frontier-agents-for-security-testing-and-cloud-operations/",
+      "published_date": "2026-03-31T16:25:32+00:00",
       "category": "Industry",
-      "description": "Spatial computing is moving from visualization to active collaboration, adding increasingly more GPU demands on XR hardware to render photorealistic,...",
-      "author": "Max Bickley",
-      "content": "Spatial computing is moving from visualization to active collaboration, adding increasingly more GPU demands on XR hardware to render photorealistic,...",
+      "description": "I'm excited to announce that AWS Security Agent on-demand penetration testing and AWS DevOps Agent are now generally available, representing a new class of AI capabilities we announced at re:Invent called frontier agents. These autonomous systems work independently to achieve goals, scale massively to tackle concurrent tasks, and run persistently for hours or days without constant human oversight. Together, these agents are changing the way we secure and operate software. In preview, customers...",
+      "author": "Swami Sivasubramanian",
+      "content": "I'm excited to announce that AWS Security Agent on-demand penetration testing and AWS DevOps Agent are now generally available, representing a new class of AI capabilities we announced at re:Invent called frontier agents. These autonomous systems work independently to achieve goals, scale massively to tackle concurrent tasks, and run persistently for hours or days without constant human oversight. Together, these agents are changing the way we secure and operate software. In preview, customers...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T05:29:11.797970+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-04T05:29:11.797972+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "73db1099cf5b77322ff5c140ce0e38af",
-      "title": "Rocket Close transforms mortgage document processing with Amazon Bedrock and Amazon Textract",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/rocket-close-transforms-mortgage-document-processing-with-amazon-bedrock-and-amazon-textract/",
-      "published_date": "2026-04-02T12:59:31+00:00",
-      "category": "Industry",
-      "description": "Through a strategic partnership with the AWS Generative AI Innovation Center (GenAIIC), Rocket Close developed an intelligent document processing solution that has significantly reduced processing time, making the process 15 times faster. The solution, which uses Amazon Textract for OCR processing and Amazon Bedrock for foundation models (FMs), achieves a strong 90% overall accuracy in document segmentation, classification, and field extraction.",
-      "author": "Jeremy Little, Chris Day",
-      "content": "Through a strategic partnership with the AWS Generative AI Innovation Center (GenAIIC), Rocket Close developed an intelligent document processing solution that has significantly reduced processing time, making the process 15 times faster. The solution, which uses Amazon Textract for OCR processing and Amazon Bedrock for foundation models (FMs), achieves a strong 90% overall accuracy in document segmentation, classification, and field extraction.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
         "impact_score": 0.98,
-        "overall_score": 0.881,
+        "overall_score": 0.8935,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -358,7 +420,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T05:29:11.795712+00:00"
+        "consensus_timestamp": "2026-04-04T08:56:22.464827+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,20 +431,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T05:29:11.795715+00:00"
+        "timestamp": "2026-04-04T08:56:22.464830+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "42a3985ec76fbe095cefbb0b5ff1d617",
-      "title": "AWS launches frontier agents for security testing and cloud operations",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/aws-launches-frontier-agents-for-security-testing-and-cloud-operations/",
-      "published_date": "2026-03-31T16:25:32+00:00",
+      "article_id": "457a5393cfd8b5b7a6de39eebda1c302",
+      "title": "NIH researchers discover pain-relieving drug with minimal addictive properties",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-researchers-discover-pain-relieving-drug-minimal-addictive-properties",
+      "published_date": "2026-04-04T08:51:08.753621+00:00",
+      "category": "Government",
+      "description": "Positive safety profile of novel&nbsp;drug&nbsp;compound&nbsp;is surprise&nbsp;for&nbsp;class of synthetic opioids&nbsp;shelved&nbsp;years ago.",
+      "author": "",
+      "content": "Positive safety profile of novel&nbsp;drug&nbsp;compound&nbsp;is surprise&nbsp;for&nbsp;class of synthetic opioids&nbsp;shelved&nbsp;years ago.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-04T08:56:22.462316+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-04T08:56:22.462325+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "fd6a9110330c275763490167905b313d",
+      "title": "How Centralized Radar Processing on NVIDIA DRIVE Enables Safer, Smarter Level 4 Autonomy",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/how-centralized-radar-processing-on-nvidia-drive-enables-safer-smarter-level-4-autonomy/",
+      "published_date": "2026-03-25T16:00:00+00:00",
       "category": "Industry",
-      "description": "I'm excited to announce that AWS Security Agent on-demand penetration testing and AWS DevOps Agent are now generally available, representing a new class of AI capabilities we announced at re:Invent called frontier agents. These autonomous systems work independently to achieve goals, scale massively to tackle concurrent tasks, and run persistently for hours or days without constant human oversight. Together, these agents are changing the way we secure and operate software. In preview, customers...",
-      "author": "Swami Sivasubramanian",
-      "content": "I'm excited to announce that AWS Security Agent on-demand penetration testing and AWS DevOps Agent are now generally available, representing a new class of AI capabilities we announced at re:Invent called frontier agents. These autonomous systems work independently to achieve goals, scale massively to tackle concurrent tasks, and run persistently for hours or days without constant human oversight. Together, these agents are changing the way we secure and operate software. In preview, customers...",
+      "description": "In the current state of automotive radar, machine learning engineers can't work with camera-equivalent raw RGB images. Instead, they work with the output of...",
+      "author": "Lachlan Dowling",
+      "content": "In the current state of automotive radar, machine learning engineers can't work with camera-equivalent raw RGB images. Instead, they work with the output of...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
@@ -420,7 +544,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T05:29:11.796019+00:00"
+        "consensus_timestamp": "2026-04-04T08:56:22.467043+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -431,27 +555,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T05:29:11.796022+00:00"
+        "timestamp": "2026-04-04T08:56:22.467046+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "dfaf8aa0b10976b7d80fce6050e324d4",
-      "title": "NHS patients and British businesses to benefit from historic changes to medicines access following pharmaceutical partnership with USA",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/nhs-patients-and-british-businesses-to-benefit-from-historic-changes-to-medicines-access-following-pharmaceutical-partnership-with-usa",
-      "published_date": "2026-04-02T16:08:00+00:00",
-      "category": "Government",
-      "description": "New partnership accelerates NHS patients' access to new medicines and will see UK benefit from greater life sciences industry investment",
-      "author": "",
-      "content": "New partnership accelerates NHS patients' access to new medicines and will see UK benefit from greater life sciences industry investment",
+      "article_id": "942a08ed76d67409817ba4148505fc28",
+      "title": "Run Generative AI inference with Amazon Bedrock in Asia Pacific (New Zealand)",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-generative-ai-inference-with-amazon-bedrock-in-asia-pacific-new-zealand/",
+      "published_date": "2026-03-26T23:08:53+00:00",
+      "category": "Industry",
+      "description": "Today, we’re excited to announce that Amazon Bedrock is now available in the Asia Pacific (New Zealand) Region (ap-southeast-6). Customers in New Zealand can now access Anthropic Claude models (Claude Opus 4.5, Opus 4.6, Sonnet 4.5, Sonnet 4.6, and Haiku 4.5) and Amazon (Nova 2 Lite) models directly in the Auckland Region with cross region inference. In this post, we explore how cross-Region inference works from the New Zealand Region, the models available through geographic and global routing,...",
+      "author": "Zohreh Norouzi",
+      "content": "Today, we’re excited to announce that Amazon Bedrock is now available in the Asia Pacific (New Zealand) Region (ap-southeast-6). Customers in New Zealand can now access Anthropic Claude models (Claude Opus 4.5, Opus 4.6, Sonnet 4.5, Sonnet 4.6, and Haiku 4.5) and Amazon (Nova 2 Lite) models directly in the Auckland Region with cross region inference. In this post, we explore how cross-Region inference works from the New Zealand Region, the models available through geographic and global routing,...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -479,21 +603,83 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T05:29:11.794080+00:00"
+        "consensus_timestamp": "2026-04-04T08:56:22.465112+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T05:29:11.794083+00:00"
+        "timestamp": "2026-04-04T08:56:22.465115+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "316d0e82997b6ad19bc90505c85a7d54",
+      "title": "Press Start on April: GeForce NOW Brings 10 Games to the Cloud",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-april-2026-games-list/",
+      "published_date": "2026-04-02T13:00:09+00:00",
+      "category": "Industry",
+      "description": "No joke — GFN Thursday is skipping the tricks and heading straight into the games. April kicks off with ten new titles, bringing fresh adventures to GeForce NOW, including the launch of Capcom’s highly anticipated PRAGMATA. A dozen new games are available to stream this week, including Arknights: Endfield, which expands the acclaimed series into a full […]",
+      "author": "GeForce NOW Community",
+      "content": "No joke — GFN Thursday is skipping the tricks and heading straight into the games. April kicks off with ten new titles, bringing fresh adventures to GeForce NOW, including the launch of Capcom’s highly anticipated PRAGMATA. A dozen new games are available to stream this week, including Arknights: Endfield, which expands the acclaimed series into a full […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-04T08:56:22.465344+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-04T08:56:22.465347+00:00"
       },
       "article_type": "article"
     },
@@ -541,21 +727,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T05:29:11.796786+00:00"
+        "consensus_timestamp": "2026-04-04T08:56:22.465633+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T05:29:11.796789+00:00"
+        "timestamp": "2026-04-04T08:56:22.465636+00:00"
       },
       "article_type": "article"
     },
@@ -575,7 +761,7 @@
         "novelty_score": 0.75,
         "impact_score": 0.9,
         "overall_score": 0.8500000000000001,
-        "confidence_mean": 0.85
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -606,7 +792,7 @@
         "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T05:29:11.799172+00:00"
+        "consensus_timestamp": "2026-04-04T08:56:22.467488+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -617,69 +803,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T05:29:11.799175+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "977b72bf9fe21de8131d5d4a0cd4d9c4",
-      "title": "Study measuring changes in protein structure establishes new class of Alzheimer’s biomarkers",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/study-measuring-changes-protein-structure-establishes-new-class-alzheimers-biomarkers",
-      "published_date": "2026-04-04T05:24:02.897456+00:00",
-      "category": "Government",
-      "description": "NIH-funded insights into Alzheimer’s biology could help with early diagnosis, future clinical trials.",
-      "author": "",
-      "content": "NIH-funded insights into Alzheimer’s biology could help with early diagnosis, future clinical trials.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T05:29:11.793936+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-04T05:29:11.793939+00:00"
+        "timestamp": "2026-04-04T08:56:22.467491+00:00"
       },
       "article_type": "article"
     },
@@ -727,158 +851,34 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.8,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T05:29:11.795032+00:00"
+        "consensus_timestamp": "2026-04-04T08:56:22.463672+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T05:29:11.795035+00:00"
+        "timestamp": "2026-04-04T08:56:22.463675+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "26b8d5459866ed41afd7d503a387c0c5",
-      "title": "NIH awards top scientific teams for innovations linking nutrition and autoimmune disease",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-awards-top-scientific-teams-innovations-linking-nutrition-autoimmune-disease",
-      "published_date": "2026-04-04T05:24:02.896603+00:00",
-      "category": "Government",
-      "description": "Competition&nbsp;sought bold ideas to better understand how dietary interventions could influence disease onset and symptom management.",
-      "author": "",
-      "content": "Competition&nbsp;sought bold ideas to better understand how dietary interventions could influence disease onset and symptom management.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T05:29:11.793542+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-04T05:29:11.793547+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "13795601290fe379dc0306d3dfd60872",
-      "title": "NIH-supported trial reduces HIV incidence by 70% in rural populations",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-supported-trial-reduces-hiv-incidence-70-rural-populations",
-      "published_date": "2026-04-04T05:24:02.897539+00:00",
-      "category": "Government",
-      "description": "Study&nbsp;used technology to extend reach of existing infrastructure, linking people to care.",
-      "author": "",
-      "content": "Study&nbsp;used technology to extend reach of existing infrastructure, linking people to care.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.85
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T05:29:11.793986+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-04T05:29:11.793989+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "f18e7145f0d0ae53bcc4aef4e47472e8",
-      "title": "Research: Deepfake detection technology",
+      "article_id": "b27c28c92534d7d6636c867f1d497374",
+      "title": "Smart Infrastructure Pilots Programme",
       "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/deepfake-detection-technology",
-      "published_date": "2026-03-26T09:30:08+00:00",
+      "url": "https://www.gov.uk/government/case-studies/smart-infrastructure-pilots-programme",
+      "published_date": "2026-04-01T07:30:04+00:00",
       "category": "Government",
-      "description": "Analysis of the current state of demand and supply in the UK deepfake detection market​ and existing barriers and key drivers that can shape the future of the sector​.",
+      "description": "£1.5m Smart Infrastructure Pilots Programme funded councils to trial PAS 191 smart columns, boosting connectivity and services like CCTV, sensors and Wi-Fi",
       "author": "",
-      "content": "Analysis of the current state of demand and supply in the UK deepfake detection market​ and existing barriers and key drivers that can shape the future of the sector​.",
+      "content": "£1.5m Smart Infrastructure Pilots Programme funded councils to trial PAS 191 smart columns, boosting connectivity and services like CCTV, sensors and Wi-Fi",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
@@ -913,21 +913,21 @@
           }
         },
         "score": 0.85,
-        "confidence": 0.8,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T05:29:11.794673+00:00"
+        "consensus_timestamp": "2026-04-04T08:56:22.463045+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.71,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T05:29:11.794676+00:00"
+        "timestamp": "2026-04-04T08:56:22.463048+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 248.74222016334534,
+    "processing_time": 251.47656774520874,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 115,
+      "total_processed": 114,
       "candidates": {
-        "headlines": 9,
-        "articles": 106,
+        "headlines": 7,
+        "articles": 107,
         "research_papers": 0
       },
       "selected": {
