@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T16:47:55.480753+00:00",
+  "generated_at": "2026-04-04T20:44:46.468011+00:00",
   "articles": [
     {
       "article_id": "a78e5f7d184abfddc9806ed41cb3bbc7",
@@ -12,11 +12,11 @@
       "author": "Rebecca Bellan",
       "content": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
-        "quality_score": 0.9,
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
         "novelty_score": 0.7,
         "impact_score": 0.9,
-        "overall_score": 0.8350000000000001,
+        "overall_score": 0.8250000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -45,40 +45,102 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T16:47:55.448340+00:00"
+        "consensus_timestamp": "2026-04-04T20:44:46.442164+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T16:47:55.448343+00:00"
+        "timestamp": "2026-04-04T20:44:46.442166+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "1da0d3abd87c2ab854420ff0154db85f",
-      "title": "Bringing AI Closer to the Edge and On-Device with Gemma 4",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/bringing-ai-closer-to-the-edge-and-on-device-with-gemma-4/",
-      "published_date": "2026-04-02T16:27:46+00:00",
+      "article_id": "43c535ea7ce276a8b1fa16edb57e256c",
+      "title": "Did Google's TurboQuant Actually Solve AI Memory Crunch?",
+      "source": "nanonets_blog",
+      "url": "https://nanonets.com/blog/google-turboquant-ai-memory-crunch/",
+      "published_date": "2026-04-02T10:09:58+00:00",
       "category": "Industry",
-      "description": "The Gemmaverse expands with the launch of the latest Gemma 4 multimodal and multilingual models, designed to scale across the full spectrum of deployments, from...",
-      "author": "Anu Srivastava",
-      "content": "The Gemmaverse expands with the launch of the latest Gemma 4 multimodal and multilingual models, designed to scale across the full spectrum of deployments, from...",
+      "description": "Google’s TurboQuant promises 6x KV-cache compression. Here’s what it means for AI memory, HBM demand, and the broader memory crunch.",
+      "author": "Vinit Mehta",
+      "content": "Google’s TurboQuant promises 6x KV-cache compression. Here’s what it means for AI memory, HBM demand, and the broader memory crunch.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-04T20:44:46.443465+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-04T20:44:46.443468+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "25b24380093fa3e4af7ca8dea2dfd25c",
+      "title": "Helping disaster response teams turn AI into action across Asia",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+      "published_date": "2026-03-29T22:15:00+00:00",
+      "category": "Industry",
+      "description": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+      "author": "",
+      "content": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.9,
-        "overall_score": 0.8875000000000001,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -110,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T16:47:55.448891+00:00"
+        "consensus_timestamp": "2026-04-04T20:44:46.440232+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,7 +183,131 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T16:47:55.448894+00:00"
+        "timestamp": "2026-04-04T20:44:46.440235+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "30ed8667207daec1f4736aa4cb05287a",
+      "title": "The Future of AI Is Open and Proprietary",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/ai-future-open-and-proprietary/",
+      "published_date": "2026-03-25T19:00:04+00:00",
+      "category": "Industry",
+      "description": "AI is the defining technology of our time, quickly becoming core business infrastructure. It’s fueled by a diverse ecosystem of models: large and small, open and proprietary, generalist and specialist. This variety is essential for a future where every application will be powered by AI, every country will build it and every company will use […]",
+      "author": "Kari Briski",
+      "content": "AI is the defining technology of our time, quickly becoming core business infrastructure. It’s fueled by a diverse ecosystem of models: large and small, open and proprietary, generalist and specialist. This variety is essential for a future where every application will be powered by AI, every country will build it and every company will use […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-04T20:44:46.441795+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-04T20:44:46.441798+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "49e8e8ab9598794b3834cd61410d60e0",
+      "title": "Clinical trial results support use of weekly extended-release buprenorphine for treatment of opioid use disorder during pregnancy",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/clinical-trial-results-support-use-weekly-extended-release-buprenorphine-treatment-opioid-use-disorder-during-pregnancy",
+      "published_date": "2026-04-04T20:40:06.927739+00:00",
+      "category": "Government",
+      "description": "NIH-supported study shows&nbsp;this&nbsp;treatment&nbsp;resulted in&nbsp;higher rates of&nbsp;illicit&nbsp;opioid abstinence than current&nbsp;standard of care.",
+      "author": "",
+      "content": "NIH-supported study shows&nbsp;this&nbsp;treatment&nbsp;resulted in&nbsp;higher rates of&nbsp;illicit&nbsp;opioid abstinence than current&nbsp;standard of care.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-04T20:44:46.439204+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-04T20:44:46.439208+00:00"
       },
       "article_type": "article"
     },
@@ -169,10 +355,72 @@
           }
         },
         "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-04T20:44:46.441124+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-04T20:44:46.441127+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "457a5393cfd8b5b7a6de39eebda1c302",
+      "title": "NIH researchers discover pain-relieving drug with minimal addictive properties",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-researchers-discover-pain-relieving-drug-minimal-addictive-properties",
+      "published_date": "2026-04-04T20:40:06.927346+00:00",
+      "category": "Government",
+      "description": "Positive safety profile of novel&nbsp;drug&nbsp;compound&nbsp;is surprise&nbsp;for&nbsp;class of synthetic opioids&nbsp;shelved&nbsp;years ago.",
+      "author": "",
+      "content": "Positive safety profile of novel&nbsp;drug&nbsp;compound&nbsp;is surprise&nbsp;for&nbsp;class of synthetic opioids&nbsp;shelved&nbsp;years ago.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T16:47:55.447492+00:00"
+        "consensus_timestamp": "2026-04-04T20:44:46.439014+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,334 +431,24 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T16:47:55.447496+00:00"
+        "timestamp": "2026-04-04T20:44:46.439019+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f1c2254023d1b1fa2762d50b8bea0b77",
-      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-      "published_date": "2026-03-31T21:25:04+00:00",
-      "category": "Industry",
-      "description": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
-      "author": "Rebecca Bellan",
-      "content": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T16:47:55.448804+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-04T16:47:55.448806+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "cd7aea6748e6e383a0bfa36e354293b3",
-      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
-      "published_date": "2026-04-01T16:00:00+00:00",
-      "category": "Industry",
-      "description": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
-      "author": "Tim Fernholz",
-      "content": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.8975,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T16:47:55.448626+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-04T16:47:55.448629+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "73db1099cf5b77322ff5c140ce0e38af",
-      "title": "Rocket Close transforms mortgage document processing with Amazon Bedrock and Amazon Textract",
+      "article_id": "f94c47a19c1ca46701d1eaf335ea4630",
+      "title": "Automating competitive price intelligence with Amazon Nova Act",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/rocket-close-transforms-mortgage-document-processing-with-amazon-bedrock-and-amazon-textract/",
-      "published_date": "2026-04-02T12:59:31+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automating-competitive-price-intelligence-with-amazon-nova-act/",
+      "published_date": "2026-04-01T18:57:01+00:00",
       "category": "Industry",
-      "description": "Through a strategic partnership with the AWS Generative AI Innovation Center (GenAIIC), Rocket Close developed an intelligent document processing solution that has significantly reduced processing time, making the process 15 times faster. The solution, which uses Amazon Textract for OCR processing and Amazon Bedrock for foundation models (FMs), achieves a strong 90% overall accuracy in document segmentation, classification, and field extraction.",
-      "author": "Jeremy Little, Chris Day",
-      "content": "Through a strategic partnership with the AWS Generative AI Innovation Center (GenAIIC), Rocket Close developed an intelligent document processing solution that has significantly reduced processing time, making the process 15 times faster. The solution, which uses Amazon Textract for OCR processing and Amazon Bedrock for foundation models (FMs), achieves a strong 90% overall accuracy in document segmentation, classification, and field extraction.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.98,
-        "overall_score": 0.881,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T16:47:55.447203+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-04T16:47:55.447206+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "fd6a9110330c275763490167905b313d",
-      "title": "How Centralized Radar Processing on NVIDIA DRIVE Enables Safer, Smarter Level 4 Autonomy",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-centralized-radar-processing-on-nvidia-drive-enables-safer-smarter-level-4-autonomy/",
-      "published_date": "2026-03-25T16:00:00+00:00",
-      "category": "Industry",
-      "description": "In the current state of automotive radar, machine learning engineers can't work with camera-equivalent raw RGB images. Instead, they work with the output of...",
-      "author": "Lachlan Dowling",
-      "content": "In the current state of automotive radar, machine learning engineers can't work with camera-equivalent raw RGB images. Instead, they work with the output of...",
+      "description": "This post demonstrates how to build an automated competitive price intelligence system that streamlines manual workflows, supporting teams to make data-driven pricing decisions with real-time market insights.",
+      "author": "Nishant Dhiman",
+      "content": "This post demonstrates how to build an automated competitive price intelligence system that streamlines manual workflows, supporting teams to make data-driven pricing decisions with real-time market insights.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T16:47:55.449207+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-04T16:47:55.449210+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e5ebb70f75b04e7d065559acfddfd7d9",
-      "title": "Building NVIDIA Nemotron 3 Agents for Reasoning, Multimodal RAG, Voice, and Safety",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/building-nvidia-nemotron-3-agents-for-reasoning-multimodal-rag-voice-and-safety/",
-      "published_date": "2026-03-24T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Agentic AI is an ecosystem where specialized models work together to handle planning, reasoning, retrieval, and safety guardrailing. As these systems scale,...",
-      "author": "Chintan Patel",
-      "content": "Agentic AI is an ecosystem where specialized models work together to handle planning, reasoning, retrieval, and safety guardrailing. As these systems scale,...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T16:47:55.449342+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-04T16:47:55.449344+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "07aec25fbb023307911013279f5b069a",
-      "title": "Chronic inflammation leaves long-lasting impression on gut stem cells, increasing colorectal cancer risk",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/chronic-inflammation-leaves-long-lasting-impression-gut-stem-cells-increasing-colorectal-cancer-risk",
-      "published_date": "2026-04-04T16:43:18.321193+00:00",
-      "category": "Government",
-      "description": "NIH-funded animal study finds heritable memories of damage persisted in cells months after inflammation ceased.",
-      "author": "",
-      "content": "NIH-funded animal study finds heritable memories of damage persisted in cells months after inflammation ceased.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
         "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
@@ -544,7 +482,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T16:47:55.445234+00:00"
+        "consensus_timestamp": "2026-04-04T20:44:46.440907+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -555,150 +493,212 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T16:47:55.445238+00:00"
+        "timestamp": "2026-04-04T20:44:46.440909+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f8ff6eae0860f040a1dab4eafe02e038",
-      "title": "Deploying Disaggregated LLM Inference Workloads on Kubernetes",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/deploying-disaggregated-llm-inference-workloads-on-kubernetes/",
-      "published_date": "2026-03-23T07:01:00+00:00",
+      "article_id": "5e0caa736930f7e2593f837cf6bec441",
+      "title": "Inside our approach to the Model Spec",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "published_date": "2026-03-25T10:00:00+00:00",
       "category": "Industry",
-      "description": "As large language model (LLM) inference workloads grow in complexity, a single monolithic serving process starts to hit its limits. Prefill and decode stages...",
-      "author": "Anish Maddipoti",
-      "content": "As large language model (LLM) inference workloads grow in complexity, a single monolithic serving process starts to hit its limits. Prefill and decode stages...",
+      "description": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+      "author": "",
+      "content": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T16:47:55.449486+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-04T16:47:55.449490+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "214e79c915b16fc7ad61b0ec8f2cefef",
-      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
-      "published_date": "2026-03-26T15:23:35+00:00",
-      "category": "Industry",
-      "description": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
-      "author": "",
-      "content": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T16:47:55.449622+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-04T16:47:55.449625+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "26b8d5459866ed41afd7d503a387c0c5",
-      "title": "NIH awards top scientific teams for innovations linking nutrition and autoimmune disease",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-awards-top-scientific-teams-innovations-linking-nutrition-autoimmune-disease",
-      "published_date": "2026-04-04T16:43:18.320999+00:00",
-      "category": "Government",
-      "description": "Competition&nbsp;sought bold ideas to better understand how dietary interventions could influence disease onset and symptom management.",
-      "author": "",
-      "content": "Competition&nbsp;sought bold ideas to better understand how dietary interventions could influence disease onset and symptom management.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-04T20:44:46.440317+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-04T20:44:46.440320+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "7e86e6fac3df601cf757ba0add1e4e6f",
+      "title": "Maximize AI Infrastructure Throughput by Consolidating Underutilized GPU Workloads",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/maximize-ai-infrastructure-throughput-by-consolidating-underutilized-gpu-workloads/",
+      "published_date": "2026-03-25T16:35:43+00:00",
+      "category": "Industry",
+      "description": "In production Kubernetes environments, the difference between model requirements and GPU size creates inefficiencies. Lightweight automatic speech recognition...",
+      "author": "Sagar Desai",
+      "content": "In production Kubernetes environments, the difference between model requirements and GPU size creates inefficiencies. Lightweight automatic speech recognition...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-04T20:44:46.442831+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-04T20:44:46.442834+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "821dc44e70f8849dbb27a0612456c075",
+      "title": "Scaling Token Factory Revenue and AI Efficiency by Maximizing Performance per Watt",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/scaling-token-factory-revenue-and-ai-efficiency-by-maximizing-performance-per-watt/",
+      "published_date": "2026-03-25T11:00:00+00:00",
+      "category": "Industry",
+      "description": "In the AI era, power is the ultimate constraint, and every AI factory operates within a hard limit. This makes performance per watt—the rate at which power is...",
+      "author": "Kibibi Moseley",
+      "content": "In the AI era, power is the ultimate constraint, and every AI factory operates within a hard limit. This makes performance per watt—the rate at which power is...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-04T20:44:46.442947+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-04T20:44:46.442950+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "415a2dff91fd4a0bf38cc175224b2ce5",
+      "title": "Gradient Labs gives every bank customer an AI account manager",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/gradient-labs",
+      "published_date": "2026-04-01T02:00:00+00:00",
+      "category": "Industry",
+      "description": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
+      "author": "",
+      "content": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -727,21 +727,21 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T16:47:55.445125+00:00"
+        "consensus_timestamp": "2026-04-04T20:44:46.440147+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T16:47:55.445130+00:00"
+        "timestamp": "2026-04-04T20:44:46.440150+00:00"
       },
       "article_type": "article"
     },
@@ -788,42 +788,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.8,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T16:47:55.445929+00:00"
+        "consensus_timestamp": "2026-04-04T20:44:46.439839+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T16:47:55.445932+00:00"
+        "timestamp": "2026-04-04T20:44:46.439842+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "ab7465b00fae1df72d45386626e11b0d",
-      "title": "Meta’s natural gas binge could power South Dakota",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
-      "published_date": "2026-04-01T18:35:36+00:00",
+      "article_id": "0c6be21a81bd97395206ea3b12cce680",
+      "title": "Into the Omniverse: NVIDIA GTC Showcases Virtual Worlds Powering the Physical AI Era",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/gtc-2026-virtual-worlds-physical-ai/",
+      "published_date": "2026-03-26T15:00:56+00:00",
       "category": "Industry",
-      "description": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
-      "author": "Tim De Chant",
-      "content": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
+      "description": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse. NVIDIA GTC last week showcased a turning point in physical AI: Robots, vehicles and factories are scaling from single use cases and […]",
+      "author": "Heather McDiarmid",
+      "content": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse. NVIDIA GTC last week showcased a turning point in physical AI: Robots, vehicles and factories are scaling from single use cases and […]",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
         "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
+        "overall_score": 0.8375,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -851,41 +851,41 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T16:47:55.448582+00:00"
+        "consensus_timestamp": "2026-04-04T20:44:46.441712+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T16:47:55.448584+00:00"
+        "timestamp": "2026-04-04T20:44:46.441715+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3e48629f35264f6ce046d8ac1b418bb7",
-      "title": "Vibe Coding XR: Accelerating AI + XR prototyping with XR Blocks and Gemini",
-      "source": "google_research_blog",
-      "url": "https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/",
-      "published_date": "2026-03-25T09:14:00+00:00",
+      "article_id": "931753665f6b157e886f00627333182d",
+      "title": "Polkadot (DOT) Price Prediction: 2025, 2026, 2030",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/money/polkadot-price-prediction",
+      "published_date": "2026-04-04T14:15:38+00:00",
       "category": "Industry",
-      "description": "Human-Computer Interaction and Visualization",
-      "author": "",
-      "content": "Human-Computer Interaction and Visualization",
+      "description": "The post Polkadot (DOT) Price Prediction: 2025, 2026, 2030 by James Wells appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Polkadot (DOT) could reach $4.40 by 2030. Feeling confident about this DOT price prediction? You can trade Polkadot on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Polkadot (DOT) is a …...",
+      "author": "James Wells",
+      "content": "The post Polkadot (DOT) Price Prediction: 2025, 2026, 2030 by James Wells appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Polkadot (DOT) could reach $4.40 by 2030. Feeling confident about this DOT price prediction? You can trade Polkadot on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Polkadot (DOT) is a …...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.7,
         "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.85
+        "overall_score": 0.82,
+        "confidence_mean": 0.8
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -912,22 +912,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
+        "score": 0.65,
+        "confidence": 0.75,
+        "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-04T16:47:55.449577+00:00"
+        "consensus_timestamp": "2026-04-04T20:44:46.443426+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.5900000000000001,
+        "combined_confidence": 0.6499999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-04T16:47:55.449580+00:00"
+        "timestamp": "2026-04-04T20:44:46.443429+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 213.0485451221466,
+    "processing_time": 219.89683508872986,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 104,
+      "total_processed": 107,
       "candidates": {
-        "headlines": 8,
-        "articles": 96,
+        "headlines": 5,
+        "articles": 102,
         "research_papers": 0
       },
       "selected": {
