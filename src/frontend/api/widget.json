@@ -1,23 +1,23 @@
 {
-  "updated": "2026-04-08T03:00:55.948759+00:00",
+  "updated": "2026-04-08T05:55:46.157506+00:00",
   "top_stories": [
     {
-      "article_id": "295174e0fa061931fa6cc11c59ffd414",
-      "title": "Google quietly launched an AI dictation app that works offline",
+      "article_id": "651e226a4983b4fe18d57edb0d025f1e",
+      "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
-      "published_date": "2026-04-06T18:54:33+00:00",
+      "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+      "published_date": "2026-04-06T21:54:26+00:00",
       "category": "Industry",
-      "description": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
-      "author": "Ivan Mehta",
-      "content": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+      "description": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
+      "author": "Julie Bort",
+      "content": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
         "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
+        "confidence_mean": 0.8
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -45,96 +45,34 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-08T03:00:55.911585+00:00"
+        "consensus_timestamp": "2026-04-08T05:55:46.115044+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-08T03:00:55.911588+00:00"
+        "timestamp": "2026-04-08T05:55:46.115047+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "356bbff3c5eea37b70cdcb83e2895880",
-      "title": "Policy paper: UK-US arrangement on pharmaceutical trade and pricing",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/uk-us-arrangement-on-pharmaceutical-trade-and-pricing",
-      "published_date": "2026-04-02T19:55:43+00:00",
-      "category": "Government",
-      "description": "Shared UK and US commitments to improve access to medicines, support pharmaceutical innovation and grow trade in the life sciences sector.",
-      "author": "",
-      "content": "Shared UK and US commitments to improve access to medicines, support pharmaceutical innovation and grow trade in the life sciences sector.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-08T03:00:55.908803+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-08T03:00:55.908806+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "3b5c07115569627f8ee4f2791b9e5bfa",
-      "title": "Control which domains your AI agents can access",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/control-which-domains-your-ai-agents-can-access/",
-      "published_date": "2026-04-02T13:28:19+00:00",
+      "article_id": "7e86e6fac3df601cf757ba0add1e4e6f",
+      "title": "Maximize AI Infrastructure Throughput by Consolidating Underutilized GPU Workloads",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/maximize-ai-infrastructure-throughput-by-consolidating-underutilized-gpu-workloads/",
+      "published_date": "2026-03-25T16:35:43+00:00",
       "category": "Industry",
-      "description": "In this post, we show you how to configure AWS Network Firewall to restrict AgentCore resources to an allowlist of approved internet domains. This post focuses on domain-level filtering using SNI inspection — the first layer of a defense-in-depth approach.",
-      "author": "Kosti Vasilakakis",
-      "content": "In this post, we show you how to configure AWS Network Firewall to restrict AgentCore resources to an allowlist of approved internet domains. This post focuses on domain-level filtering using SNI inspection — the first layer of a defense-in-depth approach.",
+      "description": "In production Kubernetes environments, the difference between model requirements and GPU size creates inefficiencies. Lightweight automatic speech recognition...",
+      "author": "Sagar Desai",
+      "content": "In production Kubernetes environments, the difference between model requirements and GPU size creates inefficiencies. Lightweight automatic speech recognition...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -172,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-08T03:00:55.910612+00:00"
+        "consensus_timestamp": "2026-04-08T05:55:46.115707+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,26 +121,88 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-08T03:00:55.910615+00:00"
+        "timestamp": "2026-04-08T05:55:46.115710+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "499c93b75e63b6f4022d34544be6c69f",
-      "title": "Research: Data landscape review report 2024 to 2025",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/data-landscape-review-report-2024-to-2025",
-      "published_date": "2026-03-26T09:30:08+00:00",
-      "category": "Government",
-      "description": "This report focuses specifically on data access and sharing challenges related to online harms and the online safety tech sector, including the technologies and initiatives used to address them.",
-      "author": "",
-      "content": "This report focuses specifically on data access and sharing challenges related to online harms and the online safety tech sector, including the technologies and initiatives used to address them.",
+      "article_id": "ad4e09436cd559f71bb840da1328b495",
+      "title": "AI swarms are coming:  Here’s why it matters",
+      "source": "ai_accelerator_institute",
+      "url": "https://www.aiacceleratorinstitute.com/ai-swarms-are-coming-heres-why-it-matters/",
+      "published_date": "2026-03-27T09:59:06+00:00",
+      "category": "Industry",
+      "description": "If the last wave of AI felt like hiring a very smart intern, this one feels more like managing an entire organization that never sleeps (and occasionally argues with itself).",
+      "author": "Andrew Lovell",
+      "content": "If the last wave of AI felt like hiring a very smart intern, this one feels more like managing an entire organization that never sleeps (and occasionally argues with itself).",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.9159999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-08T05:55:46.117699+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-08T05:55:46.117702+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8185bc2c16b0f525c25320541e248ed4",
+      "title": "Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2026-gartner-magic-quadrant-for-integration-platform-as-a-service/",
+      "published_date": "2026-03-30T16:00:00+00:00",
+      "category": "Industry",
+      "description": "Read why Microsoft was named a Leader for integration services in the 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service. The post Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service appeared first on Microsoft Azure Blog.",
+      "author": "Naga Surendran",
+      "content": "Read why Microsoft was named a Leader for integration services in the 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service. The post Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -234,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-08T03:00:55.909436+00:00"
+        "consensus_timestamp": "2026-04-08T05:55:46.113152+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,26 +245,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-08T03:00:55.909438+00:00"
+        "timestamp": "2026-04-08T05:55:46.113155+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "8973b0ce4fac6d9b6c434eef7722c5a8",
-      "title": "Running AI Workloads on Rack-Scale Supercomputers: From Hardware to Topology-Aware Scheduling",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/running-ai-workloads-on-rack-scale-supercomputers-from-hardware-to-topology-aware-scheduling/",
-      "published_date": "2026-04-07T18:51:01+00:00",
-      "category": "Industry",
-      "description": "The NVIDIA GB200 NVL72 and NVIDIA GB300 NVL72 systems, featuring NVIDIA Blackwell architecture, are rack-scale supercomputers. They’re designed with 18...",
-      "author": "Ryan Prout",
-      "content": "The NVIDIA GB200 NVL72 and NVIDIA GB300 NVL72 systems, featuring NVIDIA Blackwell architecture, are rack-scale supercomputers. They’re designed with 18...",
+      "article_id": "f18e7145f0d0ae53bcc4aef4e47472e8",
+      "title": "Research: Deepfake detection technology",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/deepfake-detection-technology",
+      "published_date": "2026-03-26T09:30:08+00:00",
+      "category": "Government",
+      "description": "Analysis of the current state of demand and supply in the UK deepfake detection market​ and existing barriers and key drivers that can shape the future of the sector​.",
+      "author": "",
+      "content": "Analysis of the current state of demand and supply in the UK deepfake detection market​ and existing barriers and key drivers that can shape the future of the sector​.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -293,21 +293,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-08T03:00:55.911901+00:00"
+        "consensus_timestamp": "2026-04-08T05:55:46.112496+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-08T03:00:55.911904+00:00"
+        "timestamp": "2026-04-08T05:55:46.112499+00:00"
       },
       "article_type": "article"
     }

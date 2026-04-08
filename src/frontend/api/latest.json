@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-04-08T03:00:55.946033+00:00",
+  "generated_at": "2026-04-08T05:55:46.154561+00:00",
   "articles": [
     {
-      "article_id": "295174e0fa061931fa6cc11c59ffd414",
-      "title": "Google quietly launched an AI dictation app that works offline",
+      "article_id": "651e226a4983b4fe18d57edb0d025f1e",
+      "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
-      "published_date": "2026-04-06T18:54:33+00:00",
+      "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+      "published_date": "2026-04-06T21:54:26+00:00",
       "category": "Industry",
-      "description": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
-      "author": "Ivan Mehta",
-      "content": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+      "description": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
+      "author": "Julie Bort",
+      "content": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
         "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
+        "confidence_mean": 0.8
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -45,96 +45,34 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-08T03:00:55.911585+00:00"
+        "consensus_timestamp": "2026-04-08T05:55:46.115044+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-08T03:00:55.911588+00:00"
+        "timestamp": "2026-04-08T05:55:46.115047+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "356bbff3c5eea37b70cdcb83e2895880",
-      "title": "Policy paper: UK-US arrangement on pharmaceutical trade and pricing",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/uk-us-arrangement-on-pharmaceutical-trade-and-pricing",
-      "published_date": "2026-04-02T19:55:43+00:00",
-      "category": "Government",
-      "description": "Shared UK and US commitments to improve access to medicines, support pharmaceutical innovation and grow trade in the life sciences sector.",
-      "author": "",
-      "content": "Shared UK and US commitments to improve access to medicines, support pharmaceutical innovation and grow trade in the life sciences sector.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-08T03:00:55.908803+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-08T03:00:55.908806+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "3b5c07115569627f8ee4f2791b9e5bfa",
-      "title": "Control which domains your AI agents can access",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/control-which-domains-your-ai-agents-can-access/",
-      "published_date": "2026-04-02T13:28:19+00:00",
+      "article_id": "7e86e6fac3df601cf757ba0add1e4e6f",
+      "title": "Maximize AI Infrastructure Throughput by Consolidating Underutilized GPU Workloads",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/maximize-ai-infrastructure-throughput-by-consolidating-underutilized-gpu-workloads/",
+      "published_date": "2026-03-25T16:35:43+00:00",
       "category": "Industry",
-      "description": "In this post, we show you how to configure AWS Network Firewall to restrict AgentCore resources to an allowlist of approved internet domains. This post focuses on domain-level filtering using SNI inspection — the first layer of a defense-in-depth approach.",
-      "author": "Kosti Vasilakakis",
-      "content": "In this post, we show you how to configure AWS Network Firewall to restrict AgentCore resources to an allowlist of approved internet domains. This post focuses on domain-level filtering using SNI inspection — the first layer of a defense-in-depth approach.",
+      "description": "In production Kubernetes environments, the difference between model requirements and GPU size creates inefficiencies. Lightweight automatic speech recognition...",
+      "author": "Sagar Desai",
+      "content": "In production Kubernetes environments, the difference between model requirements and GPU size creates inefficiencies. Lightweight automatic speech recognition...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -172,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-08T03:00:55.910612+00:00"
+        "consensus_timestamp": "2026-04-08T05:55:46.115707+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,26 +121,88 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-08T03:00:55.910615+00:00"
+        "timestamp": "2026-04-08T05:55:46.115710+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "499c93b75e63b6f4022d34544be6c69f",
-      "title": "Research: Data landscape review report 2024 to 2025",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/data-landscape-review-report-2024-to-2025",
-      "published_date": "2026-03-26T09:30:08+00:00",
-      "category": "Government",
-      "description": "This report focuses specifically on data access and sharing challenges related to online harms and the online safety tech sector, including the technologies and initiatives used to address them.",
-      "author": "",
-      "content": "This report focuses specifically on data access and sharing challenges related to online harms and the online safety tech sector, including the technologies and initiatives used to address them.",
+      "article_id": "ad4e09436cd559f71bb840da1328b495",
+      "title": "AI swarms are coming:  Here’s why it matters",
+      "source": "ai_accelerator_institute",
+      "url": "https://www.aiacceleratorinstitute.com/ai-swarms-are-coming-heres-why-it-matters/",
+      "published_date": "2026-03-27T09:59:06+00:00",
+      "category": "Industry",
+      "description": "If the last wave of AI felt like hiring a very smart intern, this one feels more like managing an entire organization that never sleeps (and occasionally argues with itself).",
+      "author": "Andrew Lovell",
+      "content": "If the last wave of AI felt like hiring a very smart intern, this one feels more like managing an entire organization that never sleeps (and occasionally argues with itself).",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.9159999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-08T05:55:46.117699+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-08T05:55:46.117702+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8185bc2c16b0f525c25320541e248ed4",
+      "title": "Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2026-gartner-magic-quadrant-for-integration-platform-as-a-service/",
+      "published_date": "2026-03-30T16:00:00+00:00",
+      "category": "Industry",
+      "description": "Read why Microsoft was named a Leader for integration services in the 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service. The post Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service appeared first on Microsoft Azure Blog.",
+      "author": "Naga Surendran",
+      "content": "Read why Microsoft was named a Leader for integration services in the 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service. The post Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -234,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-08T03:00:55.909436+00:00"
+        "consensus_timestamp": "2026-04-08T05:55:46.113152+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,69 +245,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-08T03:00:55.909438+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8973b0ce4fac6d9b6c434eef7722c5a8",
-      "title": "Running AI Workloads on Rack-Scale Supercomputers: From Hardware to Topology-Aware Scheduling",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/running-ai-workloads-on-rack-scale-supercomputers-from-hardware-to-topology-aware-scheduling/",
-      "published_date": "2026-04-07T18:51:01+00:00",
-      "category": "Industry",
-      "description": "The NVIDIA GB200 NVL72 and NVIDIA GB300 NVL72 systems, featuring NVIDIA Blackwell architecture, are rack-scale supercomputers. They’re designed with 18...",
-      "author": "Ryan Prout",
-      "content": "The NVIDIA GB200 NVL72 and NVIDIA GB300 NVL72 systems, featuring NVIDIA Blackwell architecture, are rack-scale supercomputers. They’re designed with 18...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-08T03:00:55.911901+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-08T03:00:55.911904+00:00"
+        "timestamp": "2026-04-08T05:55:46.113155+00:00"
       },
       "article_type": "article"
     },
@@ -358,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-08T03:00:55.909339+00:00"
+        "consensus_timestamp": "2026-04-08T05:55:46.112496+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,27 +307,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-08T03:00:55.909343+00:00"
+        "timestamp": "2026-04-08T05:55:46.112499+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "0cb714632c9304821b01fbce8f958eaa",
-      "title": "Accelerating the next phase of AI",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "published_date": "2026-03-31T13:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+      "article_id": "356bbff3c5eea37b70cdcb83e2895880",
+      "title": "Policy paper: UK-US arrangement on pharmaceutical trade and pricing",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/uk-us-arrangement-on-pharmaceutical-trade-and-pricing",
+      "published_date": "2026-04-02T19:55:43+00:00",
+      "category": "Government",
+      "description": "Shared UK and US commitments to improve access to medicines, support pharmaceutical innovation and grow trade in the life sciences sector.",
       "author": "",
-      "content": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+      "content": "Shared UK and US commitments to improve access to medicines, support pharmaceutical innovation and grow trade in the life sciences sector.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.98
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -417,41 +355,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-08T03:00:55.909714+00:00"
+        "consensus_timestamp": "2026-04-08T05:55:46.111474+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-08T03:00:55.909717+00:00"
+        "timestamp": "2026-04-08T05:55:46.111478+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "7e86e6fac3df601cf757ba0add1e4e6f",
-      "title": "Maximize AI Infrastructure Throughput by Consolidating Underutilized GPU Workloads",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/maximize-ai-infrastructure-throughput-by-consolidating-underutilized-gpu-workloads/",
-      "published_date": "2026-03-25T16:35:43+00:00",
+      "article_id": "5b8f5b67eca5be41bb6b39a889160137",
+      "title": "Netflix AI Team Just Open-Sourced VOID: an AI Model That Erases Objects From Videos — Physics and All",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/04/04/netflix-ai-team-just-open-sourced-void-an-ai-model-that-erases-objects-from-videos-physics-and-all/",
+      "published_date": "2026-04-04T09:03:26+00:00",
       "category": "Industry",
-      "description": "In production Kubernetes environments, the difference between model requirements and GPU size creates inefficiencies. Lightweight automatic speech recognition...",
-      "author": "Sagar Desai",
-      "content": "In production Kubernetes environments, the difference between model requirements and GPU size creates inefficiencies. Lightweight automatic speech recognition...",
+      "description": "Video editing has always had a dirty secret: removing an object from footage is easy; making the scene look like it was never there is brutally hard. Take out a person holding a guitar, and you’re left with a floating instrument that defies gravity. Hollywood VFX teams spend weeks fixing exactly this kind of problem. […] The post Netflix AI Team Just Open-Sourced VOID: an AI Model That Erases Objects From Videos — Physics and All appeared first on MarkTechPost.",
+      "author": "Michal Sutter",
+      "content": "Video editing has always had a dirty secret: removing an object from footage is easy; making the scene look like it was never there is brutally hard. Take out a person holding a guitar, and you’re left with a floating instrument that defies gravity. Hollywood VFX teams spend weeks fixing exactly this kind of problem. […] The post Netflix AI Team Just Open-Sourced VOID: an AI Model That Erases Objects From Videos — Physics and All appeared first on MarkTechPost.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.98,
-        "overall_score": 0.881,
-        "confidence_mean": 0.95
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -478,35 +416,35 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
+        "score": 0.85,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-08T03:00:55.912315+00:00"
+        "consensus_timestamp": "2026-04-08T05:55:46.117512+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.71,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-08T03:00:55.912318+00:00"
+        "timestamp": "2026-04-08T05:55:46.117516+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "49e8e8ab9598794b3834cd61410d60e0",
-      "title": "Clinical trial results support use of weekly extended-release buprenorphine for treatment of opioid use disorder during pregnancy",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/clinical-trial-results-support-use-weekly-extended-release-buprenorphine-treatment-opioid-use-disorder-during-pregnancy",
-      "published_date": "2026-04-08T02:55:57.003983+00:00",
+      "article_id": "aa5bf4584a18d22a70e2a4618b8257bd",
+      "title": "Open Networks Ecosystem Competition",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/case-studies/open-networks-ecosystem-competition",
+      "published_date": "2026-04-01T07:30:04+00:00",
       "category": "Government",
-      "description": "NIH-supported study shows&nbsp;this&nbsp;treatment&nbsp;resulted in&nbsp;higher rates of&nbsp;illicit&nbsp;opioid abstinence than current&nbsp;standard of care.",
+      "description": "Case study on the Open Networks Ecosystem competition, which awarded ~£80.5m in funding to projects supporting the UK's 5G Supply Chain Diversification Strategy",
       "author": "",
-      "content": "NIH-supported study shows&nbsp;this&nbsp;treatment&nbsp;resulted in&nbsp;higher rates of&nbsp;illicit&nbsp;opioid abstinence than current&nbsp;standard of care.",
+      "content": "Case study on the Open Networks Ecosystem competition, which awarded ~£80.5m in funding to projects supporting the UK's 5G Supply Chain Diversification Strategy",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
@@ -541,40 +479,102 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-08T03:00:55.908503+00:00"
+        "consensus_timestamp": "2026-04-08T05:55:46.112271+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-08T03:00:55.908506+00:00"
+        "timestamp": "2026-04-08T05:55:46.112275+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3b24c11baca2912747e9d9f632e60690",
-      "title": "When multi-agent AI systems  fail, who takes the blame?",
-      "source": "ai_accelerator_institute",
-      "url": "https://www.aiacceleratorinstitute.com/when-multi-agent-ai-systems-fail-who-takes-the-blame/",
-      "published_date": "2026-03-26T15:26:38+00:00",
+      "article_id": "8973b0ce4fac6d9b6c434eef7722c5a8",
+      "title": "Running AI Workloads on Rack-Scale Supercomputers: From Hardware to Topology-Aware Scheduling",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/running-ai-workloads-on-rack-scale-supercomputers-from-hardware-to-topology-aware-scheduling/",
+      "published_date": "2026-04-07T18:51:01+00:00",
       "category": "Industry",
-      "description": "All AI systems can fail, but now we can trace exactly who’s responsible. Implicit Execution Tracing (IET) embeds invisible signatures in AI outputs, making multi-agent systems accountable, auditable, and tamper-proof.",
-      "author": "Andrew Lovell",
-      "content": "All AI systems can fail, but now we can trace exactly who’s responsible. Implicit Execution Tracing (IET) embeds invisible signatures in AI outputs, making multi-agent systems accountable, auditable, and tamper-proof.",
+      "description": "The NVIDIA GB200 NVL72 and NVIDIA GB300 NVL72 systems, featuring NVIDIA Blackwell architecture, are rack-scale supercomputers. They’re designed with 18...",
+      "author": "Ryan Prout",
+      "content": "The NVIDIA GB200 NVL72 and NVIDIA GB300 NVL72 systems, featuring NVIDIA Blackwell architecture, are rack-scale supercomputers. They’re designed with 18...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
         "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "overall_score": 0.87,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-08T05:55:46.115350+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-08T05:55:46.115353+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e3b263fb993c90dbd1ac069f28b68775",
+      "title": "Building real-time conversational podcasts with Amazon Nova 2 Sonic",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-real-time-conversational-podcasts-with-amazon-nova-2-sonic/",
+      "published_date": "2026-04-07T16:29:11+00:00",
+      "category": "Industry",
+      "description": "This post walks through building an automated podcast generator that creates engaging conversations between two AI hosts on any topic, demonstrating the streaming capabilities of Nova Sonic, stage-aware content filtering, and real-time audio generation.",
+      "author": "Madhavi Evana",
+      "content": "This post walks through building an automated podcast generator that creates engaging conversations between two AI hosts on any topic, demonstrating the streaming capabilities of Nova Sonic, stage-aware content filtering, and real-time audio generation.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.9,
+        "overall_score": 0.8500000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -603,226 +603,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-08T03:00:55.913038+00:00"
+        "consensus_timestamp": "2026-04-08T05:55:46.113290+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-08T03:00:55.913041+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "13795601290fe379dc0306d3dfd60872",
-      "title": "NIH-supported trial reduces HIV incidence by 70% in rural populations",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-supported-trial-reduces-hiv-incidence-70-rural-populations",
-      "published_date": "2026-04-08T02:55:57.004319+00:00",
-      "category": "Government",
-      "description": "Study&nbsp;used technology to extend reach of existing infrastructure, linking people to care.",
-      "author": "",
-      "content": "Study&nbsp;used technology to extend reach of existing infrastructure, linking people to care.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-08T03:00:55.908658+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-08T03:00:55.908661+00:00"
+        "timestamp": "2026-04-08T05:55:46.113293+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f82115249d528940f7e8febb03ebd6d1",
-      "title": "Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/",
-      "published_date": "2026-03-31T16:00:00+00:00",
+      "article_id": "3b5c07115569627f8ee4f2791b9e5bfa",
+      "title": "Control which domains your AI agents can access",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/control-which-domains-your-ai-agents-can-access/",
+      "published_date": "2026-04-02T13:28:19+00:00",
       "category": "Industry",
-      "description": "Explore how Microsoft and Armada bring sovereign AI to the edge with Azure Local, enabling secure, resilient workloads in disconnected and regulated environments. The post Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters appeared first on Microsoft Azure Blog.",
-      "author": "Douglas Phillips",
-      "content": "Explore how Microsoft and Armada bring sovereign AI to the edge with Azure Local, enabling secure, resilient workloads in disconnected and regulated environments. The post Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters appeared first on Microsoft Azure Blog.",
+      "description": "In this post, we show you how to configure AWS Network Firewall to restrict AgentCore resources to an allowlist of approved internet domains. This post focuses on domain-level filtering using SNI inspection — the first layer of a defense-in-depth approach.",
+      "author": "Kosti Vasilakakis",
+      "content": "In this post, we show you how to configure AWS Network Firewall to restrict AgentCore resources to an allowlist of approved internet domains. This post focuses on domain-level filtering using SNI inspection — the first layer of a defense-in-depth approach.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-08T03:00:55.909943+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-08T03:00:55.909945+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "96f2e89ebcff378ad29d7adf65d646c9",
-      "title": "Policy paper: Digital and Data Benefits framework",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/digital-and-data-benefits-framework",
-      "published_date": "2026-04-07T12:46:00+00:00",
-      "category": "Government",
-      "description": "This framework helps analysts across government quantify benefits of digital and data programmes.",
-      "author": "",
-      "content": "This framework helps analysts across government quantify benefits of digital and data programmes.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.75,
         "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.85
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-08T03:00:55.908706+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-08T03:00:55.908709+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "f923556ea2562963e953765c6fcdbef5",
-      "title": "Fighting financial crime with  hybrid AI",
-      "source": "ai_accelerator_institute",
-      "url": "https://www.aiacceleratorinstitute.com/fighting-financial-crime-with-hybrid-ai/",
-      "published_date": "2026-03-27T15:42:40+00:00",
-      "category": "Industry",
-      "description": "Here’s how consulting leader Valentin Marenich and his team built a hybrid AI system that combines machine learning, generative AI, and human oversight to deliver real-world results in a highly regulated environment.",
-      "author": "Valentin Marenich",
-      "content": "Here’s how consulting leader Valentin Marenich and his team built a hybrid AI system that combines machine learning, generative AI, and human oversight to deliver real-world results in a highly regulated environment.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
+        "overall_score": 0.8500000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -854,7 +668,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-08T03:00:55.912904+00:00"
+        "consensus_timestamp": "2026-04-08T05:55:46.113695+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -865,26 +679,88 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-08T03:00:55.912907+00:00"
+        "timestamp": "2026-04-08T05:55:46.113698+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "5e0caa736930f7e2593f837cf6bec441",
-      "title": "Inside our approach to the Model Spec",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/our-approach-to-the-model-spec",
-      "published_date": "2026-03-25T10:00:00+00:00",
+      "article_id": "ecd43dc042e3035ceea9ab0c29bf6ad9",
+      "title": "How to Build a Netflix VOID Video Object Removal and Inpainting Pipeline with CogVideoX, Custom Prompting, and End-to-End Sample Inference",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/04/05/how-to-build-a-netflix-void-video-object-removal-and-inpainting-pipeline-with-cogvideox-custom-prompting-and-end-to-end-sample-inference/",
+      "published_date": "2026-04-05T20:19:56+00:00",
       "category": "Industry",
-      "description": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
-      "author": "",
-      "content": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+      "description": "In this tutorial, we build and run an advanced pipeline for Netflix’s VOID model. We set up the environment, install all required dependencies, clone the repository, download the official base model and VOID checkpoint, and prepare the sample inputs needed for video object removal. We also make the workflow more practical by allowing secure terminal-style […] The post How to Build a Netflix VOID Video Object Removal and Inpainting Pipeline with CogVideoX, Custom Prompting, and End-to-End Sample...",
+      "author": "Asif Razzaq",
+      "content": "In this tutorial, we build and run an advanced pipeline for Netflix’s VOID model. We set up the environment, install all required dependencies, clone the repository, download the official base model and VOID checkpoint, and prepare the sample inputs needed for video object removal. We also make the workflow more practical by allowing secure terminal-style […] The post How to Build a Netflix VOID Video Object Removal and Inpainting Pipeline with CogVideoX, Custom Prompting, and End-to-End Sample...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-08T05:55:46.117349+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-08T05:55:46.117351+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "dd98d551af2962f5d215f8b0608bcaf6",
+      "title": "Codex now offers more flexible pricing for teams",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+      "published_date": "2026-04-02T10:00:00+00:00",
+      "category": "Industry",
+      "description": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+      "author": "",
+      "content": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.6,
         "impact_score": 0.9,
-        "overall_score": 0.8375,
+        "overall_score": 0.8125000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -916,7 +792,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-08T03:00:55.909849+00:00"
+        "consensus_timestamp": "2026-04-08T05:55:46.112774+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +803,131 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-08T03:00:55.909852+00:00"
+        "timestamp": "2026-04-08T05:55:46.112777+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "977b72bf9fe21de8131d5d4a0cd4d9c4",
+      "title": "Study measuring changes in protein structure establishes new class of Alzheimer’s biomarkers",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/study-measuring-changes-protein-structure-establishes-new-class-alzheimers-biomarkers",
+      "published_date": "2026-04-08T05:50:49.708957+00:00",
+      "category": "Government",
+      "description": "NIH-funded insights into Alzheimer’s biology could help with early diagnosis, future clinical trials.",
+      "author": "",
+      "content": "NIH-funded insights into Alzheimer’s biology could help with early diagnosis, future clinical trials.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.835,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-08T05:55:46.111242+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-08T05:55:46.111247+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ebb67399a7b2a131d78bca56a93d53ce",
+      "title": "NVIDIA Platform Delivers Lowest Token Cost Enabled by Extreme Co-Design",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-platform-delivers-lowest-token-cost-enabled-by-extreme-co-design/",
+      "published_date": "2026-04-01T15:00:48+00:00",
+      "category": "Industry",
+      "description": "Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...",
+      "author": "Ashraf Eassa",
+      "content": "Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.835,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-08T05:55:46.115517+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-08T05:55:46.115520+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 236.44035720825195,
+    "processing_time": 230.45512676239014,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 106,
+      "total_processed": 112,
       "candidates": {
-        "headlines": 8,
-        "articles": 98,
+        "headlines": 10,
+        "articles": 102,
         "research_papers": 0
       },
       "selected": {
