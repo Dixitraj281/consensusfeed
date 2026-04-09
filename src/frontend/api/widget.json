@@ -1,23 +1,23 @@
 {
-  "updated": "2026-04-09T02:55:36.305970+00:00",
+  "updated": "2026-04-09T05:56:44.007463+00:00",
   "top_stories": [
     {
-      "article_id": "76d9bd3fb5446086704be3d5ff31c981",
-      "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
+      "article_id": "23c78916b6e0d60e89c0f929704c96f2",
+      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
-      "published_date": "2026-04-08T13:00:00+00:00",
+      "url": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+      "published_date": "2026-04-08T15:23:44+00:00",
       "category": "Industry",
-      "description": "Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma.",
-      "author": "Rebecca Szkutak",
-      "content": "Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma.",
+      "description": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
+      "author": "Lauren Forristal",
+      "content": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
-        "quality_score": 0.8,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -45,41 +45,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T02:55:36.268519+00:00"
+        "consensus_timestamp": "2026-04-09T05:56:43.972358+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-09T02:55:36.268521+00:00"
+        "timestamp": "2026-04-09T05:56:43.972361+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "a3639f740fe21009f4826461b322cc08",
-      "title": "Azure IaaS: Keep critical applications running with built-in resiliency at scale",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/",
-      "published_date": "2026-04-01T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Azure IaaS provides foundational capabilities across compute, storage, and networking to help organizations stay resilient. The post Azure IaaS: Keep critical applications running with built-in resiliency at scale appeared first on Microsoft Azure Blog.",
-      "author": "Igal Figlin",
-      "content": "Azure IaaS provides foundational capabilities across compute, storage, and networking to help organizations stay resilient. The post Azure IaaS: Keep critical applications running with built-in resiliency at scale appeared first on Microsoft Azure Blog.",
+      "article_id": "b27c28c92534d7d6636c867f1d497374",
+      "title": "Smart Infrastructure Pilots Programme",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/case-studies/smart-infrastructure-pilots-programme",
+      "published_date": "2026-04-01T07:30:04+00:00",
+      "category": "Government",
+      "description": "£1.5m Smart Infrastructure Pilots Programme funded councils to trial PAS 191 smart columns, boosting connectivity and services like CCTV, sensors and Wi-Fi",
+      "author": "",
+      "content": "£1.5m Smart Infrastructure Pilots Programme funded councils to trial PAS 191 smart columns, boosting connectivity and services like CCTV, sensors and Wi-Fi",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.95,
         "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
+        "overall_score": 0.935,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -106,103 +106,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T02:55:36.267026+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-09T02:55:36.267029+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8973b0ce4fac6d9b6c434eef7722c5a8",
-      "title": "Running AI Workloads on Rack-Scale Supercomputers: From Hardware to Topology-Aware Scheduling",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/running-ai-workloads-on-rack-scale-supercomputers-from-hardware-to-topology-aware-scheduling/",
-      "published_date": "2026-04-07T18:51:01+00:00",
-      "category": "Industry",
-      "description": "The NVIDIA GB200 NVL72 and NVIDIA GB300 NVL72 systems, featuring NVIDIA Blackwell architecture, are rack-scale supercomputers. They’re designed with 18...",
-      "author": "Ryan Prout",
-      "content": "The NVIDIA GB200 NVL72 and NVIDIA GB300 NVL72 systems, featuring NVIDIA Blackwell architecture, are rack-scale supercomputers. They’re designed with 18...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.92,
+        "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T02:55:36.269010+00:00"
+        "consensus_timestamp": "2026-04-09T05:56:43.970402+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
+        "weighted_score": 0.74,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-09T02:55:36.269012+00:00"
+        "timestamp": "2026-04-09T05:56:43.970404+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "ebb67399a7b2a131d78bca56a93d53ce",
-      "title": "NVIDIA Platform Delivers Lowest Token Cost Enabled by Extreme Co-Design",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-platform-delivers-lowest-token-cost-enabled-by-extreme-co-design/",
-      "published_date": "2026-04-01T15:00:48+00:00",
+      "article_id": "3e8843e45d09a3e57558daad139b189e",
+      "title": "Scaling seismic foundation models on AWS: Distributed training with Amazon SageMaker HyperPod and expanding context windows",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-seismic-foundation-models-on-aws-distributed-training-with-amazon-sagemaker-hyperpod-and-expanding-context-windows/",
+      "published_date": "2026-04-02T13:30:57+00:00",
       "category": "Industry",
-      "description": "Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...",
-      "author": "Ashraf Eassa",
-      "content": "Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...",
+      "description": "This post describes how TGS achieved near-linear scaling for distributed training and expanded context windows for their Vision Transformer-based SFM using Amazon SageMaker HyperPod. This joint solution cut training time from 6 months to just 5 days while enabling analysis of seismic volumes larger than previously possible.",
+      "author": "Haotian An",
+      "content": "This post describes how TGS achieved near-linear scaling for distributed training and expanded context windows for their Vision Transformer-based SFM using Amazon SageMaker HyperPod. This joint solution cut training time from 6 months to just 5 days while enabling analysis of seismic volumes larger than previously possible.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.885,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -231,40 +169,102 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T02:55:36.269181+00:00"
+        "consensus_timestamp": "2026-04-09T05:56:43.971693+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-09T05:56:43.971695+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "adf780df21cb49ad802e4e4e4ffdca37",
+      "title": "Achieving Single-Digit Microsecond Latency Inference for Capital Markets",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/achieving-single-digit-microsecond-latency-inference-for-capital-markets/",
+      "published_date": "2026-04-02T16:00:00+00:00",
+      "category": "Industry",
+      "description": "In algorithmic trading, reducing response times to market events is crucial. To keep pace with high-speed electronic markets, latency-sensitive firms often use...",
+      "author": "Nikolay Markovskiy",
+      "content": "In algorithmic trading, reducing response times to market events is crucial. To keep pace with high-speed electronic markets, latency-sensitive firms often use...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-09T05:56:43.973010+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-09T02:55:36.269183+00:00"
+        "timestamp": "2026-04-09T05:56:43.973013+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "eb639d9da1c6608dc7083467f3291835",
-      "title": "Gemma 4: Byte for byte, the most capable open models",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
-      "published_date": "2026-04-02T16:00:49+00:00",
-      "category": "Industry",
-      "description": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
-      "author": "",
-      "content": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+      "article_id": "89c1703ef38773853dde78c9ae62bb14",
+      "title": "Recent outbreaks highlight the risks of bacterial meningitis – and the need to vaccinate",
+      "source": "the_conversation",
+      "url": "https://theconversation.com/recent-outbreaks-highlight-the-risks-of-bacterial-meningitis-and-the-need-to-vaccinate-279324",
+      "published_date": "2026-04-08T20:00:52+00:00",
+      "category": "Media",
+      "description": "Teens and young adults are more likely to be asymptomatic carriers of the bacterium that cause meningococcal disease, making university students a high-risk group.",
+      "author": "Sarah Hannah, Doctoral Candidate in Epidemiology, Te Kunenga ki Pūrehuroa – Massey University",
+      "content": "Teens and young adults are more likely to be asymptomatic carriers of the bacterium that cause meningococcal disease, making university students a high-risk group.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -296,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T02:55:36.269399+00:00"
+        "consensus_timestamp": "2026-04-09T05:56:43.974022+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-09T02:55:36.269401+00:00"
+        "timestamp": "2026-04-09T05:56:43.974024+00:00"
       },
       "article_type": "article"
     }
