@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T09:21:56.218025+00:00",
+  "updated": "2026-04-09T14:02:39.805554+00:00",
   "top_stories": [
     {
       "article_id": "23c78916b6e0d60e89c0f929704c96f2",
@@ -15,8 +15,8 @@
         "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.99,
-        "overall_score": 0.8955,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -45,23 +45,85 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T09:21:56.179494+00:00"
+        "consensus_timestamp": "2026-04-09T14:02:39.767425+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-09T09:21:56.179497+00:00"
+        "timestamp": "2026-04-09T14:02:39.767427+00:00"
       },
       "article_type": "headline"
+    },
+    {
+      "article_id": "356bbff3c5eea37b70cdcb83e2895880",
+      "title": "Policy paper: UK-US arrangement on pharmaceutical trade and pricing",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/uk-us-arrangement-on-pharmaceutical-trade-and-pricing",
+      "published_date": "2026-04-02T19:55:43+00:00",
+      "category": "Government",
+      "description": "Shared UK and US commitments to improve access to medicines, support pharmaceutical innovation and grow trade in the life sciences sector.",
+      "author": "",
+      "content": "Shared UK and US commitments to improve access to medicines, support pharmaceutical innovation and grow trade in the life sciences sector.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-09T14:02:39.765296+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-09T14:02:39.765299+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "cb9c24c234189b31b3a0e656735ba719",
@@ -110,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T09:21:56.180616+00:00"
+        "consensus_timestamp": "2026-04-09T14:02:39.768704+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,89 +183,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-09T09:21:56.180618+00:00"
+        "timestamp": "2026-04-09T14:02:39.768706+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "1da0d3abd87c2ab854420ff0154db85f",
-      "title": "Bringing AI Closer to the Edge and On-Device with Gemma 4",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/bringing-ai-closer-to-the-edge-and-on-device-with-gemma-4/",
-      "published_date": "2026-04-02T16:27:46+00:00",
+      "article_id": "0cb714632c9304821b01fbce8f958eaa",
+      "title": "Accelerating the next phase of AI",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "published_date": "2026-03-31T13:00:00+00:00",
       "category": "Industry",
-      "description": "The Gemmaverse expands with the launch of the latest Gemma 4 multimodal and multilingual models, designed to scale across the full spectrum of deployments, from...",
-      "author": "Anu Srivastava",
-      "content": "The Gemmaverse expands with the launch of the latest Gemma 4 multimodal and multilingual models, designed to scale across the full spectrum of deployments, from...",
+      "description": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+      "author": "",
+      "content": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T09:21:56.180259+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-09T09:21:56.180262+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "02775e529c221bb6027d411bf68b30fc",
-      "title": "Research: Data investment in the UK, 2024",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/data-investment-in-the-uk-2024",
-      "published_date": "2026-03-31T08:30:00+00:00",
-      "category": "Government",
-      "description": "This report estimates the total value of data investment in the UK economy in 2024. It includes a time series for data investment in the public sector.",
-      "author": "",
-      "content": "This report estimates the total value of data investment in the UK economy in 2024. It includes a time series for data investment in the public sector.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
         "impact_score": 0.95,
-        "overall_score": 0.8825000000000001,
-        "confidence_mean": 0.9
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -234,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T09:21:56.177023+00:00"
+        "consensus_timestamp": "2026-04-09T14:02:39.765964+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,26 +245,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-09T09:21:56.177026+00:00"
+        "timestamp": "2026-04-09T14:02:39.765967+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "e6cc32b9338f79f22019feb46ef8df9d",
-      "title": "Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/",
-      "published_date": "2026-04-08T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Get practical strategies and best practices to help you plan, design, and manage AI investments for sustainable value and efficiency. The post Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value appeared first on Microsoft Azure Blog.",
-      "author": "Fernando Vasconcellos",
-      "content": "Get practical strategies and best practices to help you plan, design, and manage AI investments for sustainable value and efficiency. The post Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value appeared first on Microsoft Azure Blog.",
+      "article_id": "a13d27da961d0b9b2612d0d9b44620b1",
+      "title": "Leading quantum nations to boost cooperation following UK summit",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/leading-quantum-nations-to-boost-cooperation-following-uk-summit",
+      "published_date": "2026-04-08T12:00:00+00:00",
+      "category": "Government",
+      "description": "Communique following the fifth meeting of the Quantum Development Group (QDG).",
+      "author": "",
+      "content": "Communique following the fifth meeting of the Quantum Development Group (QDG).",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.8799999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -293,21 +293,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T09:21:56.177927+00:00"
+        "consensus_timestamp": "2026-04-09T14:02:39.765102+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-09T09:21:56.177932+00:00"
+        "timestamp": "2026-04-09T14:02:39.765106+00:00"
       },
       "article_type": "article"
     }

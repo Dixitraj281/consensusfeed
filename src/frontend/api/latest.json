@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T09:21:56.215227+00:00",
+  "generated_at": "2026-04-09T14:02:39.802669+00:00",
   "articles": [
     {
       "article_id": "23c78916b6e0d60e89c0f929704c96f2",
@@ -15,8 +15,8 @@
         "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.99,
-        "overall_score": 0.8955,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -45,23 +45,85 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T09:21:56.179494+00:00"
+        "consensus_timestamp": "2026-04-09T14:02:39.767425+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-09T09:21:56.179497+00:00"
+        "timestamp": "2026-04-09T14:02:39.767427+00:00"
       },
       "article_type": "headline"
+    },
+    {
+      "article_id": "356bbff3c5eea37b70cdcb83e2895880",
+      "title": "Policy paper: UK-US arrangement on pharmaceutical trade and pricing",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/uk-us-arrangement-on-pharmaceutical-trade-and-pricing",
+      "published_date": "2026-04-02T19:55:43+00:00",
+      "category": "Government",
+      "description": "Shared UK and US commitments to improve access to medicines, support pharmaceutical innovation and grow trade in the life sciences sector.",
+      "author": "",
+      "content": "Shared UK and US commitments to improve access to medicines, support pharmaceutical innovation and grow trade in the life sciences sector.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-09T14:02:39.765296+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-09T14:02:39.765299+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "cb9c24c234189b31b3a0e656735ba719",
@@ -110,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T09:21:56.180616+00:00"
+        "consensus_timestamp": "2026-04-09T14:02:39.768704+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,89 +183,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-09T09:21:56.180618+00:00"
+        "timestamp": "2026-04-09T14:02:39.768706+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "1da0d3abd87c2ab854420ff0154db85f",
-      "title": "Bringing AI Closer to the Edge and On-Device with Gemma 4",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/bringing-ai-closer-to-the-edge-and-on-device-with-gemma-4/",
-      "published_date": "2026-04-02T16:27:46+00:00",
+      "article_id": "0cb714632c9304821b01fbce8f958eaa",
+      "title": "Accelerating the next phase of AI",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "published_date": "2026-03-31T13:00:00+00:00",
       "category": "Industry",
-      "description": "The Gemmaverse expands with the launch of the latest Gemma 4 multimodal and multilingual models, designed to scale across the full spectrum of deployments, from...",
-      "author": "Anu Srivastava",
-      "content": "The Gemmaverse expands with the launch of the latest Gemma 4 multimodal and multilingual models, designed to scale across the full spectrum of deployments, from...",
+      "description": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+      "author": "",
+      "content": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T09:21:56.180259+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-09T09:21:56.180262+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "02775e529c221bb6027d411bf68b30fc",
-      "title": "Research: Data investment in the UK, 2024",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/data-investment-in-the-uk-2024",
-      "published_date": "2026-03-31T08:30:00+00:00",
-      "category": "Government",
-      "description": "This report estimates the total value of data investment in the UK economy in 2024. It includes a time series for data investment in the public sector.",
-      "author": "",
-      "content": "This report estimates the total value of data investment in the UK economy in 2024. It includes a time series for data investment in the public sector.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
         "impact_score": 0.95,
-        "overall_score": 0.8825000000000001,
-        "confidence_mean": 0.9
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -234,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T09:21:56.177023+00:00"
+        "consensus_timestamp": "2026-04-09T14:02:39.765964+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,26 +245,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-09T09:21:56.177026+00:00"
+        "timestamp": "2026-04-09T14:02:39.765967+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "e6cc32b9338f79f22019feb46ef8df9d",
-      "title": "Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/",
-      "published_date": "2026-04-08T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Get practical strategies and best practices to help you plan, design, and manage AI investments for sustainable value and efficiency. The post Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value appeared first on Microsoft Azure Blog.",
-      "author": "Fernando Vasconcellos",
-      "content": "Get practical strategies and best practices to help you plan, design, and manage AI investments for sustainable value and efficiency. The post Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value appeared first on Microsoft Azure Blog.",
+      "article_id": "a13d27da961d0b9b2612d0d9b44620b1",
+      "title": "Leading quantum nations to boost cooperation following UK summit",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/leading-quantum-nations-to-boost-cooperation-following-uk-summit",
+      "published_date": "2026-04-08T12:00:00+00:00",
+      "category": "Government",
+      "description": "Communique following the fifth meeting of the Quantum Development Group (QDG).",
+      "author": "",
+      "content": "Communique following the fifth meeting of the Quantum Development Group (QDG).",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.8799999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -293,41 +293,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T09:21:56.177927+00:00"
+        "consensus_timestamp": "2026-04-09T14:02:39.765102+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-09T09:21:56.177932+00:00"
+        "timestamp": "2026-04-09T14:02:39.765106+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "457a5393cfd8b5b7a6de39eebda1c302",
-      "title": "NIH researchers discover pain-relieving drug with minimal addictive properties",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-researchers-discover-pain-relieving-drug-minimal-addictive-properties",
-      "published_date": "2026-04-09T09:17:08.882568+00:00",
-      "category": "Government",
-      "description": "Positive safety profile of novel&nbsp;drug&nbsp;compound&nbsp;is surprise&nbsp;for&nbsp;class of synthetic opioids&nbsp;shelved&nbsp;years ago.",
-      "author": "",
-      "content": "Positive safety profile of novel&nbsp;drug&nbsp;compound&nbsp;is surprise&nbsp;for&nbsp;class of synthetic opioids&nbsp;shelved&nbsp;years ago.",
+      "article_id": "ce77870b8d003ebbb98f4b5d78ad0a1c",
+      "title": "Persist session state with filesystem configuration and execute shell commands",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/persist-session-state-with-filesystem-configuration-and-execute-shell-commands/",
+      "published_date": "2026-04-02T12:52:07+00:00",
+      "category": "Industry",
+      "description": "In this post, we go through how to use managed session storage to persist your agent's filesystem state and how to execute shell commands directly in your agent's environment.",
+      "author": "Evandro Franco",
+      "content": "In this post, we go through how to use managed session storage to persist your agent's filesystem state and how to execute shell commands directly in your agent's environment.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.8,
-        "overall_score": 0.8550000000000001,
-        "confidence_mean": 0.9
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.85,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -354,159 +354,35 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T09:21:56.176035+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-09T09:21:56.176039+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "25b24380093fa3e4af7ca8dea2dfd25c",
-      "title": "Helping disaster response teams turn AI into action across Asia",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
-      "published_date": "2026-03-29T22:15:00+00:00",
-      "category": "Industry",
-      "description": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
-      "author": "",
-      "content": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
+        "score": 0.8,
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T09:21:56.177799+00:00"
+        "consensus_timestamp": "2026-04-09T14:02:39.766933+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.6799999999999999,
         "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-09T09:21:56.177802+00:00"
+        "timestamp": "2026-04-09T14:02:39.766936+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "dd98d551af2962f5d215f8b0608bcaf6",
-      "title": "Codex now offers more flexible pricing for teams",
+      "article_id": "e5dca895121ddd02cad6a5b0086b25c6",
+      "title": "Introducing the Child Safety Blueprint",
       "source": "openai_blog",
-      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
-      "published_date": "2026-04-02T10:00:00+00:00",
+      "url": "https://openai.com/index/introducing-child-safety-blueprint",
+      "published_date": "2026-04-08T05:00:00+00:00",
       "category": "Industry",
-      "description": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+      "description": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
       "author": "",
-      "content": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T09:21:56.177657+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-09T09:21:56.177661+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8185bc2c16b0f525c25320541e248ed4",
-      "title": "Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2026-gartner-magic-quadrant-for-integration-platform-as-a-service/",
-      "published_date": "2026-03-30T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Read why Microsoft was named a Leader for integration services in the 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service. The post Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service appeared first on Microsoft Azure Blog.",
-      "author": "Naga Surendran",
-      "content": "Read why Microsoft was named a Leader for integration services in the 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service. The post Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service appeared first on Microsoft Azure Blog.",
+      "content": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -541,83 +417,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T09:21:56.178117+00:00"
+        "consensus_timestamp": "2026-04-09T14:02:39.765694+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-09T09:21:56.178120+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "0c6be21a81bd97395206ea3b12cce680",
-      "title": "Into the Omniverse: NVIDIA GTC Showcases Virtual Worlds Powering the Physical AI Era",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/gtc-2026-virtual-worlds-physical-ai/",
-      "published_date": "2026-03-26T15:00:56+00:00",
-      "category": "Industry",
-      "description": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse. NVIDIA GTC last week showcased a turning point in physical AI: Robots, vehicles and factories are scaling from single use cases and […]",
-      "author": "Heather McDiarmid",
-      "content": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse. NVIDIA GTC last week showcased a turning point in physical AI: Robots, vehicles and factories are scaling from single use cases and […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T09:21:56.179171+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-09T09:21:56.179174+00:00"
+        "timestamp": "2026-04-09T14:02:39.765697+00:00"
       },
       "article_type": "article"
     },
@@ -664,11 +478,321 @@
             "enhancement_suggestions": []
           }
         },
+        "score": 0.92,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-09T14:02:39.768600+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.752,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-09T14:02:39.768608+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3808f0e59aa960fb68b0af6f95bd4b13",
+      "title": "Accelerating Vision AI Pipelines with Batch Mode VC-6 and NVIDIA Nsight",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/accelerating-vision-ai-pipelines-with-batch-mode-vc-6-and-nvidia-nsight/",
+      "published_date": "2026-04-02T20:00:00+00:00",
+      "category": "Industry",
+      "description": "In vision AI systems, model throughput continues to improve. The surrounding pipeline stages must keep pace, including decode, preprocessing, and GPU...",
+      "author": "Andreas Kieslinger",
+      "content": "In vision AI systems, model throughput continues to improve. The surrounding pipeline stages must keep pace, including decode, preprocessing, and GPU...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.92,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-09T14:02:39.768165+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.752,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-09T14:02:39.768168+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "69e11f4b903e72fe9916c7ec3de76c5a",
+      "title": "Best Energy Stocks",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/money/best-energy-stocks",
+      "published_date": "2026-04-09T11:15:51+00:00",
+      "category": "Industry",
+      "description": "The post Best Energy Stocks by Ryan Peterson appeared first on Benzinga. Visit Benzinga to get more great content like this. The energy stocks sector is made up of companies that are highly involved in activities relating to the production, exploration, refining, or transportation of consumable fuels, such as coal, oil, and gas. These companies often engage in activities relating to constructing or providing drilling equipment or oil rigs and handling energy-related services. This sector...",
+      "author": "Ryan Peterson",
+      "content": "The post Best Energy Stocks by Ryan Peterson appeared first on Benzinga. Visit Benzinga to get more great content like this. The energy stocks sector is made up of companies that are highly involved in activities relating to the production, exploration, refining, or transportation of consumable fuels, such as coal, oil, and gas. These companies often engage in activities relating to constructing or providing drilling equipment or oil rigs and handling energy-related services. This sector...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.8,
+        "overall_score": 0.8250000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.6,
+        "confidence": 0.8,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-09T14:02:39.768922+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.56,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-09T14:02:39.768925+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "43c535ea7ce276a8b1fa16edb57e256c",
+      "title": "Did Google's TurboQuant Actually Solve AI Memory Crunch?",
+      "source": "nanonets_blog",
+      "url": "https://nanonets.com/blog/google-turboquant-ai-memory-crunch/",
+      "published_date": "2026-04-02T10:09:58+00:00",
+      "category": "Industry",
+      "description": "Google’s TurboQuant promises 6x KV-cache compression. Here’s what it means for AI memory, HBM demand, and the broader memory crunch.",
+      "author": "Vinit Mehta",
+      "content": "Google’s TurboQuant promises 6x KV-cache compression. Here’s what it means for AI memory, HBM demand, and the broader memory crunch.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.8,
+        "overall_score": 0.8250000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.92,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-09T14:02:39.769010+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.752,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-09T14:02:39.769012+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "bfa92156d0608ef5bed9416225d9f040",
+      "title": "Google AI Research Introduces PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/04/08/google-ai-research-introduces-paperorchestra-a-multi-agent-framework-for-automated-ai-research-paper-writing/",
+      "published_date": "2026-04-09T03:25:24+00:00",
+      "category": "Industry",
+      "description": "Writing a research paper is brutal. Even after the experiments are done, a researcher still faces weeks of translating messy lab notes, scattered results tables, and half-formed ideas into a polished, logically coherent manuscript formatted precisely to a conference’s specifications. For many fresh researchers, that translation work is where papers go to die. A team […] The post Google AI Research Introduces PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing...",
+      "author": "Asif Razzaq",
+      "content": "Writing a research paper is brutal. Even after the experiments are done, a researcher still faces weeks of translating messy lab notes, scattered results tables, and half-formed ideas into a polished, logically coherent manuscript formatted precisely to a conference’s specifications. For many fresh researchers, that translation work is where papers go to die. A team […] The post Google AI Research Introduces PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.8,
+        "overall_score": 0.8250000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.88,
+        "confidence": 0.92,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-09T14:02:39.769142+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.728,
+        "combined_confidence": 0.752,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-09T14:02:39.769145+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a4e7c318ca2abf54b9de409b7fc2c5c9",
+      "title": "Call for views on enterprise connected device security",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/calls-for-evidence/call-for-views-on-enterprise-connected-device-security",
+      "published_date": "2026-04-08T14:03:56+00:00",
+      "category": "Government",
+      "description": "The government is asking for views on the security of enterprise connected devices, also known as \"IoT devices\". Anyone can respond to this call for views.",
+      "author": "",
+      "content": "The government is asking for views on the security of enterprise connected devices, also known as \"IoT devices\". Anyone can respond to this call for views.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8500000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
         "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T09:21:56.180527+00:00"
+        "consensus_timestamp": "2026-04-09T14:02:39.765049+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,27 +803,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-09T09:21:56.180529+00:00"
+        "timestamp": "2026-04-09T14:02:39.765054+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "969f832b1017c1d753f462a4a628016d",
-      "title": "Open Networks Research and Development Fund",
+      "article_id": "08c964d8601579a18325c189c8e088ef",
+      "title": "Research: UK Science and Technology Network summary: USA",
       "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/guidance/open-networks-research-and-development-fund",
-      "published_date": "2026-04-01T07:30:04+00:00",
+      "url": "https://www.gov.uk/government/publications/uk-science-and-innovation-network-country-snapshot-usa",
+      "published_date": "2026-04-08T10:08:30+00:00",
       "category": "Government",
-      "description": "The Open Networks Research and Development (R&D) Fund was a £250 million programme designed to support the UK’s 5G Supply Chain Diversification Strategy.",
+      "description": "A summary from UK Science and Technology Network (STN) on science and innovation in the USA including UK STN priorities and successes.",
       "author": "",
-      "content": "The Open Networks Research and Development (R&D) Fund was a £250 million programme designed to support the UK’s 5G Supply Chain Diversification Strategy.",
+      "content": "A summary from UK Science and Technology Network (STN) on science and innovation in the USA including UK STN priorities and successes.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.7,
         "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.95
+        "overall_score": 0.82,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -730,7 +854,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T09:21:56.176794+00:00"
+        "consensus_timestamp": "2026-04-09T14:02:39.765153+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -741,150 +865,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-09T09:21:56.176797+00:00"
+        "timestamp": "2026-04-09T14:02:39.765156+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "9d0c0e9c17217b4cba7181ca99393f9e",
-      "title": "Top 20 tech leaders  in New York",
-      "source": "ai_accelerator_institute",
-      "url": "https://www.aiacceleratorinstitute.com/top-20-tech-leaders-in-new-york/",
-      "published_date": "2026-03-26T15:52:27+00:00",
+      "article_id": "f82115249d528940f7e8febb03ebd6d1",
+      "title": "Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/",
+      "published_date": "2026-03-31T16:00:00+00:00",
       "category": "Industry",
-      "description": "Artificial intelligence is transforming industries at breakneck speed, and New York is at the heart of this revolution.",
-      "author": "Andrew Lovell",
-      "content": "Artificial intelligence is transforming industries at breakneck speed, and New York is at the heart of this revolution.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.75,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T09:21:56.181339+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6499999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-09T09:21:56.181341+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "96f2e89ebcff378ad29d7adf65d646c9",
-      "title": "Policy paper: Digital and Data Benefits framework",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/digital-and-data-benefits-framework",
-      "published_date": "2026-04-07T12:46:00+00:00",
-      "category": "Government",
-      "description": "This framework helps analysts across government quantify benefits of digital and data programmes.",
-      "author": "",
-      "content": "This framework helps analysts across government quantify benefits of digital and data programmes.",
+      "description": "Explore how Microsoft and Armada bring sovereign AI to the edge with Azure Local, enabling secure, resilient workloads in disconnected and regulated environments. The post Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters appeared first on Microsoft Azure Blog.",
+      "author": "Douglas Phillips",
+      "content": "Explore how Microsoft and Armada bring sovereign AI to the edge with Azure Local, enabling secure, resilient workloads in disconnected and regulated environments. The post Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters appeared first on Microsoft Azure Blog.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
         "novelty_score": 0.7,
         "impact_score": 0.9,
         "overall_score": 0.82,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T09:21:56.176513+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-09T09:21:56.176516+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "977b72bf9fe21de8131d5d4a0cd4d9c4",
-      "title": "Study measuring changes in protein structure establishes new class of Alzheimer’s biomarkers",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/study-measuring-changes-protein-structure-establishes-new-class-alzheimers-biomarkers",
-      "published_date": "2026-04-09T09:17:08.883330+00:00",
-      "category": "Government",
-      "description": "NIH-funded insights into Alzheimer’s biology could help with early diagnosis, future clinical trials.",
-      "author": "",
-      "content": "NIH-funded insights into Alzheimer’s biology could help with early diagnosis, future clinical trials.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -916,7 +916,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-09T09:21:56.176312+00:00"
+        "consensus_timestamp": "2026-04-09T14:02:39.766145+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-09T09:21:56.176317+00:00"
+        "timestamp": "2026-04-09T14:02:39.766148+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 225.49130153656006,
+    "processing_time": 224.9561369419098,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 104,
+      "total_processed": 110,
       "candidates": {
-        "headlines": 13,
-        "articles": 91,
+        "headlines": 12,
+        "articles": 98,
         "research_papers": 0
       },
       "selected": {
