@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T20:48:28.296700+00:00",
+  "generated_at": "2026-04-13T03:36:45.211749+00:00",
   "articles": [
     {
       "article_id": "b4f03464a5d27a883752b09bf87390e9",
@@ -45,40 +45,164 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-12T20:48:28.275590+00:00"
+        "consensus_timestamp": "2026-04-13T03:36:45.188743+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-13T03:36:45.188746+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "633e7675eca82757eecabc0714d886c3",
+      "title": "Poke makes using AI agents as easy as sending a text",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+      "published_date": "2026-04-08T21:05:13+00:00",
+      "category": "Industry",
+      "description": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+      "author": "Sarah Perez",
+      "content": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.925,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-13T03:36:45.189507+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-13T03:36:45.189509+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "49e8e8ab9598794b3834cd61410d60e0",
+      "title": "Clinical trial results support use of weekly extended-release buprenorphine for treatment of opioid use disorder during pregnancy",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/clinical-trial-results-support-use-weekly-extended-release-buprenorphine-treatment-opioid-use-disorder-during-pregnancy",
+      "published_date": "2026-04-13T03:32:40.183371+00:00",
+      "category": "Government",
+      "description": "NIH-supported study shows&nbsp;this&nbsp;treatment&nbsp;resulted in&nbsp;higher rates of&nbsp;illicit&nbsp;opioid abstinence than current&nbsp;standard of care.",
+      "author": "",
+      "content": "NIH-supported study shows&nbsp;this&nbsp;treatment&nbsp;resulted in&nbsp;higher rates of&nbsp;illicit&nbsp;opioid abstinence than current&nbsp;standard of care.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-13T03:36:45.185418+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-12T20:48:28.275593+00:00"
+        "timestamp": "2026-04-13T03:36:45.185421+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "4376f9d27074692a92752b7e275f6a75",
-      "title": "Healthcare",
-      "source": "openai_blog",
-      "url": "https://openai.com/academy/healthcare",
-      "published_date": "2026-04-10T00:00:00+00:00",
+      "article_id": "3808f0e59aa960fb68b0af6f95bd4b13",
+      "title": "Accelerating Vision AI Pipelines with Batch Mode VC-6 and NVIDIA Nsight",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/accelerating-vision-ai-pipelines-with-batch-mode-vc-6-and-nvidia-nsight/",
+      "published_date": "2026-04-02T20:00:00+00:00",
       "category": "Industry",
-      "description": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
-      "author": "",
-      "content": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
+      "description": "In vision AI systems, model throughput continues to improve. The surrounding pipeline stages must keep pace, including decode, preprocessing, and GPU...",
+      "author": "Andreas Kieslinger",
+      "content": "In vision AI systems, model throughput continues to improve. The surrounding pipeline stages must keep pace, including decode, preprocessing, and GPU...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
         "impact_score": 0.95,
-        "overall_score": 0.8975,
+        "overall_score": 0.875,
         "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
@@ -106,35 +230,35 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-12T20:48:28.274150+00:00"
+        "consensus_timestamp": "2026-04-13T03:36:45.189901+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-12T20:48:28.274153+00:00"
+        "timestamp": "2026-04-13T03:36:45.189904+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "dfaf8aa0b10976b7d80fce6050e324d4",
-      "title": "NHS patients and British businesses to benefit from historic changes to medicines access following pharmaceutical partnership with USA",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/nhs-patients-and-british-businesses-to-benefit-from-historic-changes-to-medicines-access-following-pharmaceutical-partnership-with-usa",
-      "published_date": "2026-04-02T16:08:00+00:00",
+      "article_id": "457a5393cfd8b5b7a6de39eebda1c302",
+      "title": "NIH researchers discover pain-relieving drug with minimal addictive properties",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-researchers-discover-pain-relieving-drug-minimal-addictive-properties",
+      "published_date": "2026-04-13T03:32:40.182938+00:00",
       "category": "Government",
-      "description": "New partnership accelerates NHS patients' access to new medicines and will see UK benefit from greater life sciences industry investment.",
+      "description": "Positive safety profile of novel&nbsp;drug&nbsp;compound&nbsp;is surprise&nbsp;for&nbsp;class of synthetic opioids&nbsp;shelved&nbsp;years ago.",
       "author": "",
-      "content": "New partnership accelerates NHS patients' access to new medicines and will see UK benefit from greater life sciences industry investment.",
+      "content": "Positive safety profile of novel&nbsp;drug&nbsp;compound&nbsp;is surprise&nbsp;for&nbsp;class of synthetic opioids&nbsp;shelved&nbsp;years ago.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -169,41 +293,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-12T20:48:28.273511+00:00"
+        "consensus_timestamp": "2026-04-13T03:36:45.185197+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-12T20:48:28.273513+00:00"
+        "timestamp": "2026-04-13T03:36:45.185201+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "219708273af8c12b232d0aaabcea18ad",
-      "title": "Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms",
+      "article_id": "8185bc2c16b0f525c25320541e248ed4",
+      "title": "Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service",
       "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
-      "published_date": "2026-04-09T19:00:00+00:00",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2026-gartner-magic-quadrant-for-integration-platform-as-a-service/",
+      "published_date": "2026-03-30T16:00:00+00:00",
       "category": "Industry",
-      "description": "Microsoft is named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms, recognizing Microsoft Sovereign Cloud leadership in evolving sovereignty needs. The post Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms appeared first on Microsoft Azure Blog.",
-      "author": "Alistair Speirs",
-      "content": "Microsoft is named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms, recognizing Microsoft Sovereign Cloud leadership in evolving sovereignty needs. The post Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms appeared first on Microsoft Azure Blog.",
+      "description": "Read why Microsoft was named a Leader for integration services in the 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service. The post Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service appeared first on Microsoft Azure Blog.",
+      "author": "Naga Surendran",
+      "content": "Read why Microsoft was named a Leader for integration services in the 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service. The post Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service appeared first on Microsoft Azure Blog.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -231,21 +355,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-12T20:48:28.274502+00:00"
+        "consensus_timestamp": "2026-04-13T03:36:45.187547+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-12T20:48:28.274505+00:00"
+        "timestamp": "2026-04-13T03:36:45.187552+00:00"
       },
       "article_type": "article"
     },
@@ -293,21 +417,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-12T20:48:28.273286+00:00"
+        "consensus_timestamp": "2026-04-13T03:36:45.185805+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-12T20:48:28.273289+00:00"
+        "timestamp": "2026-04-13T03:36:45.185808+00:00"
       },
       "article_type": "article"
     },
@@ -327,440 +451,6 @@
         "novelty_score": 0.8,
         "impact_score": 0.95,
         "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-12T20:48:28.273732+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-12T20:48:28.273735+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8a62e457da4c2598edd72be0e1d97f7f",
-      "title": "ChatGPT for operations teams",
-      "source": "openai_blog",
-      "url": "https://openai.com/academy/operations",
-      "published_date": "2026-04-10T00:00:00+00:00",
-      "category": "Industry",
-      "description": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
-      "author": "",
-      "content": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-12T20:48:28.273907+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-12T20:48:28.273909+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "adf780df21cb49ad802e4e4e4ffdca37",
-      "title": "Achieving Single-Digit Microsecond Latency Inference for Capital Markets",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/achieving-single-digit-microsecond-latency-inference-for-capital-markets/",
-      "published_date": "2026-04-02T16:00:00+00:00",
-      "category": "Industry",
-      "description": "In algorithmic trading, reducing response times to market events is crucial. To keep pace with high-speed electronic markets, latency-sensitive firms often use...",
-      "author": "Nikolay Markovskiy",
-      "content": "In algorithmic trading, reducing response times to market events is crucial. To keep pace with high-speed electronic markets, latency-sensitive firms often use...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-12T20:48:28.276722+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-12T20:48:28.276725+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "9b09113ca8e2f005bfbd4b87cb9f97fd",
-      "title": "Improving quality and robustness in LLM-based text-to-speech systems",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/improving-quality-and-robustness-in-llm-based-text-to-speech-systems",
-      "published_date": "2026-04-01T18:13:19+00:00",
-      "category": "Industry",
-      "description": "Low-rank adaptation, data augmentation, and chain-of-thought reasoning are among the techniques enabling accent-free polyglot outputs, improved expressiveness, and reliable synthesis.",
-      "author": "",
-      "content": "Low-rank adaptation, data augmentation, and chain-of-thought reasoning are among the techniques enabling accent-free polyglot outputs, improved expressiveness, and reliable synthesis.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-12T20:48:28.277183+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-12T20:48:28.277186+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d8bc5782762acf3b3aedebb9ac54f4f8",
-      "title": "Semarchy Named a Leader in the 2026 Gartner® Magic Quadrant™ for MDM",
-      "source": "ai_techpark",
-      "url": "https://ai-techpark.com/semarchy-named-a-leader-in-the-2026-gartner-magic-quadrant-for-mdm/",
-      "published_date": "2026-04-10T13:00:00+00:00",
-      "category": "Industry",
-      "description": "Gartner recognizes Semarchy for Completeness of Vision and Ability to Execute. Semarchy announced today that it has been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Master Data Management. We believe this recognition reflects the innovation Semarchy has achieved and the impact of the Semarchy Data Platform (SDP) — a... The post Semarchy Named a Leader in the 2026 Gartner® Magic Quadrant™ for MDM first appeared on AI-Tech Park.",
-      "author": "Business Wire",
-      "content": "Gartner recognizes Semarchy for Completeness of Vision and Ability to Execute. Semarchy announced today that it has been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Master Data Management. We believe this recognition reflects the innovation Semarchy has achieved and the impact of the Semarchy Data Platform (SDP) — a... The post Semarchy Named a Leader in the 2026 Gartner® Magic Quadrant™ for MDM first appeared on AI-Tech Park.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-12T20:48:28.277358+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-12T20:48:28.277361+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d97d0d5b5957c68753cdcccefcc8b7b9",
-      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
-      "published_date": "2026-04-08T18:23:06+00:00",
-      "category": "Industry",
-      "description": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
-      "author": "Lauren Forristal",
-      "content": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-12T20:48:28.276306+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-12T20:48:28.276309+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "f82115249d528940f7e8febb03ebd6d1",
-      "title": "Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/",
-      "published_date": "2026-03-31T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Explore how Microsoft and Armada bring sovereign AI to the edge with Azure Local, enabling secure, resilient workloads in disconnected and regulated environments. The post Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters appeared first on Microsoft Azure Blog.",
-      "author": "Douglas Phillips",
-      "content": "Explore how Microsoft and Armada bring sovereign AI to the edge with Azure Local, enabling secure, resilient workloads in disconnected and regulated environments. The post Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-12T20:48:28.274679+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-12T20:48:28.274681+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "b9fa8ae97ea8e2bcc7e765c9870fa811",
-      "title": "ChatGPT for finance teams",
-      "source": "openai_blog",
-      "url": "https://openai.com/academy/finance",
-      "published_date": "2026-04-10T00:00:00+00:00",
-      "category": "Industry",
-      "description": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
-      "author": "",
-      "content": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8350000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -788,35 +478,283 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-12T20:48:28.274284+00:00"
+        "consensus_timestamp": "2026-04-13T03:36:45.186456+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-13T03:36:45.186461+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8a62e457da4c2598edd72be0e1d97f7f",
+      "title": "ChatGPT for operations teams",
+      "source": "openai_blog",
+      "url": "https://openai.com/academy/operations",
+      "published_date": "2026-04-10T00:00:00+00:00",
+      "category": "Industry",
+      "description": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
+      "author": "",
+      "content": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-13T03:36:45.186694+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-13T03:36:45.186697+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4376f9d27074692a92752b7e275f6a75",
+      "title": "Healthcare",
+      "source": "openai_blog",
+      "url": "https://openai.com/academy/healthcare",
+      "published_date": "2026-04-10T00:00:00+00:00",
+      "category": "Industry",
+      "description": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
+      "author": "",
+      "content": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-13T03:36:45.186978+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-12T20:48:28.274286+00:00"
+        "timestamp": "2026-04-13T03:36:45.186981+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "a7bf6ab93b8d24a4ef1974f277e27cda",
-      "title": "How to Accelerate Protein Structure Prediction at Proteome-Scale",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-to-accelerate-protein-structure-prediction-at-proteome-scale/",
-      "published_date": "2026-04-09T15:00:00+00:00",
+      "article_id": "7f6a066e94949a0203c9730f464a52f0",
+      "title": "Verifying and optimizing post-quantum cryptography at Amazon",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/verifying-and-optimizing-post-quantum-cryptography-at-amazon",
+      "published_date": "2026-04-07T15:00:00+00:00",
       "category": "Industry",
-      "description": "Proteins rarely function in isolation as individual monomers. Most biological processes are governed by proteins interacting with other proteins, forming...",
-      "author": "Christian Dallago",
-      "content": "Proteins rarely function in isolation as individual monomers. Most biological processes are governed by proteins interacting with other proteins, forming...",
+      "description": "How automated reasoning reconciles the demands of security, performance, and maintainability.",
+      "author": "",
+      "content": "How automated reasoning reconciles the demands of security, performance, and maintainability.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.85,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.845,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-13T03:36:45.190392+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-13T03:36:45.190395+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "50843e9fb49ae532766937de5b643399",
+      "title": "Using projects in ChatGPT",
+      "source": "openai_blog",
+      "url": "https://openai.com/academy/projects",
+      "published_date": "2026-04-10T00:00:00+00:00",
+      "category": "Industry",
+      "description": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+      "author": "",
+      "content": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.6,
+        "impact_score": 0.9,
+        "overall_score": 0.8250000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-13T03:36:45.186087+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-13T03:36:45.186090+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c96e0af7b2bac3422858e4f7b260fe7e",
+      "title": "Sierra’s Bret Taylor says the era of clicking buttons is over",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/",
+      "published_date": "2026-04-09T17:20:50+00:00",
+      "category": "Industry",
+      "description": "Last month, Sierra launched Ghostwriter, an agent designed to build other agents. With this “agent as a service” tool, the startup intends to replace traditional click-based web applications with natural language. Users simply describe what they need, prompting Ghostwriter to autonomously create and deploy a specialized agent to execute the task.",
+      "author": "Marina Temkin",
+      "content": "Last month, Sierra launched Ghostwriter, an agent designed to build other agents. With this “agent as a service” tool, the startup intends to replace traditional click-based web applications with natural language. Users simply describe what they need, prompting Ghostwriter to autonomously create and deploy a specialized agent to execute the task.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -850,35 +788,35 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.8,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-12T20:48:28.276490+00:00"
+        "consensus_timestamp": "2026-04-13T03:36:45.189322+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-12T20:48:28.276492+00:00"
+        "timestamp": "2026-04-13T03:36:45.189324+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "26b8d5459866ed41afd7d503a387c0c5",
-      "title": "NIH awards top scientific teams for innovations linking nutrition and autoimmune disease",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-awards-top-scientific-teams-innovations-linking-nutrition-autoimmune-disease",
-      "published_date": "2026-04-12T20:44:04.447909+00:00",
+      "article_id": "294488bfdfb34a1fe5fc2742c47350c9",
+      "title": "UK considers ban on owning signal jamming devices used by car thieves and shoplifters",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/uk-considers-ban-on-owning-signal-jamming-devices-used-by-car-thieves-and-shoplifters",
+      "published_date": "2026-04-09T23:01:00+00:00",
       "category": "Government",
-      "description": "Competition&nbsp;sought bold ideas to better understand how dietary interventions could influence disease onset and symptom management.",
+      "description": "The UK government is considering tougher measures against criminals exploiting gadgets designed to hack doorbells and vehicle tracking systems.",
       "author": "",
-      "content": "Competition&nbsp;sought bold ideas to better understand how dietary interventions could influence disease onset and symptom management.",
+      "content": "The UK government is considering tougher measures against criminals exploiting gadgets designed to hack doorbells and vehicle tracking systems.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
@@ -913,21 +851,83 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-12T20:48:28.272631+00:00"
+        "consensus_timestamp": "2026-04-13T03:36:45.185705+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-12T20:48:28.272636+00:00"
+        "timestamp": "2026-04-13T03:36:45.185708+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3e8843e45d09a3e57558daad139b189e",
+      "title": "Scaling seismic foundation models on AWS: Distributed training with Amazon SageMaker HyperPod and expanding context windows",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-seismic-foundation-models-on-aws-distributed-training-with-amazon-sagemaker-hyperpod-and-expanding-context-windows/",
+      "published_date": "2026-04-02T13:30:57+00:00",
+      "category": "Industry",
+      "description": "This post describes how TGS achieved near-linear scaling for distributed training and expanded context windows for their Vision Transformer-based SFM using Amazon SageMaker HyperPod. This joint solution cut training time from 6 months to just 5 days while enabling analysis of seismic volumes larger than previously possible.",
+      "author": "Haotian An",
+      "content": "This post describes how TGS achieved near-linear scaling for distributed training and expanded context windows for their Vision Transformer-based SFM using Amazon SageMaker HyperPod. This joint solution cut training time from 6 months to just 5 days while enabling analysis of seismic volumes larger than previously possible.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-13T03:36:45.188433+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-13T03:36:45.188435+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 213.59560680389404,
+    "processing_time": 197.11256098747253,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 102,
+      "total_processed": 106,
       "candidates": {
         "headlines": 2,
-        "articles": 100,
+        "articles": 104,
         "research_papers": 0
       },
       "selected": {

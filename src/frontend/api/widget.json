@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12T20:48:28.299515+00:00",
+  "updated": "2026-04-13T03:36:45.214548+00:00",
   "top_stories": [
     {
       "article_id": "b4f03464a5d27a883752b09bf87390e9",
@@ -45,40 +45,164 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-12T20:48:28.275590+00:00"
+        "consensus_timestamp": "2026-04-13T03:36:45.188743+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-13T03:36:45.188746+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "633e7675eca82757eecabc0714d886c3",
+      "title": "Poke makes using AI agents as easy as sending a text",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+      "published_date": "2026-04-08T21:05:13+00:00",
+      "category": "Industry",
+      "description": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+      "author": "Sarah Perez",
+      "content": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.925,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-13T03:36:45.189507+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-13T03:36:45.189509+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "49e8e8ab9598794b3834cd61410d60e0",
+      "title": "Clinical trial results support use of weekly extended-release buprenorphine for treatment of opioid use disorder during pregnancy",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/clinical-trial-results-support-use-weekly-extended-release-buprenorphine-treatment-opioid-use-disorder-during-pregnancy",
+      "published_date": "2026-04-13T03:32:40.183371+00:00",
+      "category": "Government",
+      "description": "NIH-supported study shows&nbsp;this&nbsp;treatment&nbsp;resulted in&nbsp;higher rates of&nbsp;illicit&nbsp;opioid abstinence than current&nbsp;standard of care.",
+      "author": "",
+      "content": "NIH-supported study shows&nbsp;this&nbsp;treatment&nbsp;resulted in&nbsp;higher rates of&nbsp;illicit&nbsp;opioid abstinence than current&nbsp;standard of care.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-13T03:36:45.185418+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-12T20:48:28.275593+00:00"
+        "timestamp": "2026-04-13T03:36:45.185421+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "4376f9d27074692a92752b7e275f6a75",
-      "title": "Healthcare",
-      "source": "openai_blog",
-      "url": "https://openai.com/academy/healthcare",
-      "published_date": "2026-04-10T00:00:00+00:00",
+      "article_id": "3808f0e59aa960fb68b0af6f95bd4b13",
+      "title": "Accelerating Vision AI Pipelines with Batch Mode VC-6 and NVIDIA Nsight",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/accelerating-vision-ai-pipelines-with-batch-mode-vc-6-and-nvidia-nsight/",
+      "published_date": "2026-04-02T20:00:00+00:00",
       "category": "Industry",
-      "description": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
-      "author": "",
-      "content": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
+      "description": "In vision AI systems, model throughput continues to improve. The surrounding pipeline stages must keep pace, including decode, preprocessing, and GPU...",
+      "author": "Andreas Kieslinger",
+      "content": "In vision AI systems, model throughput continues to improve. The surrounding pipeline stages must keep pace, including decode, preprocessing, and GPU...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
         "impact_score": 0.95,
-        "overall_score": 0.8975,
+        "overall_score": 0.875,
         "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
@@ -106,35 +230,35 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-12T20:48:28.274150+00:00"
+        "consensus_timestamp": "2026-04-13T03:36:45.189901+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-12T20:48:28.274153+00:00"
+        "timestamp": "2026-04-13T03:36:45.189904+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "dfaf8aa0b10976b7d80fce6050e324d4",
-      "title": "NHS patients and British businesses to benefit from historic changes to medicines access following pharmaceutical partnership with USA",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/nhs-patients-and-british-businesses-to-benefit-from-historic-changes-to-medicines-access-following-pharmaceutical-partnership-with-usa",
-      "published_date": "2026-04-02T16:08:00+00:00",
+      "article_id": "457a5393cfd8b5b7a6de39eebda1c302",
+      "title": "NIH researchers discover pain-relieving drug with minimal addictive properties",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-researchers-discover-pain-relieving-drug-minimal-addictive-properties",
+      "published_date": "2026-04-13T03:32:40.182938+00:00",
       "category": "Government",
-      "description": "New partnership accelerates NHS patients' access to new medicines and will see UK benefit from greater life sciences industry investment.",
+      "description": "Positive safety profile of novel&nbsp;drug&nbsp;compound&nbsp;is surprise&nbsp;for&nbsp;class of synthetic opioids&nbsp;shelved&nbsp;years ago.",
       "author": "",
-      "content": "New partnership accelerates NHS patients' access to new medicines and will see UK benefit from greater life sciences industry investment.",
+      "content": "Positive safety profile of novel&nbsp;drug&nbsp;compound&nbsp;is surprise&nbsp;for&nbsp;class of synthetic opioids&nbsp;shelved&nbsp;years ago.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -169,145 +293,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-12T20:48:28.273511+00:00"
+        "consensus_timestamp": "2026-04-13T03:36:45.185197+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-12T20:48:28.273513+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "219708273af8c12b232d0aaabcea18ad",
-      "title": "Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
-      "published_date": "2026-04-09T19:00:00+00:00",
-      "category": "Industry",
-      "description": "Microsoft is named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms, recognizing Microsoft Sovereign Cloud leadership in evolving sovereignty needs. The post Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms appeared first on Microsoft Azure Blog.",
-      "author": "Alistair Speirs",
-      "content": "Microsoft is named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms, recognizing Microsoft Sovereign Cloud leadership in evolving sovereignty needs. The post Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-12T20:48:28.274502+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-12T20:48:28.274505+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "bc748cd89db7fb73968ac7cfbd6e89aa",
-      "title": "Notice: AI for Science Strategy: UK universities' joint statement",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/ai-for-science-strategy-uk-universities-joint-statement",
-      "published_date": "2026-04-09T09:41:04+00:00",
-      "category": "Government",
-      "description": "UK universities support on shared objectives and lessons learned on AI for science.",
-      "author": "",
-      "content": "UK universities support on shared objectives and lessons learned on AI for science.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.8,
-        "overall_score": 0.8550000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-12T20:48:28.273286+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-12T20:48:28.273289+00:00"
+        "timestamp": "2026-04-13T03:36:45.185201+00:00"
       },
       "article_type": "article"
     }
