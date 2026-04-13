@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-04-13T17:16:54.677524+00:00",
+  "generated_at": "2026-04-13T21:07:26.767953+00:00",
   "articles": [
     {
-      "article_id": "fe6c5637896cddf56b081aa1b8749211",
-      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+      "article_id": "b4f03464a5d27a883752b09bf87390e9",
+      "title": "Apple reportedly testing four designs for upcoming smart glasses",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
-      "published_date": "2026-04-11T17:18:22+00:00",
+      "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+      "published_date": "2026-04-12T19:58:42+00:00",
       "category": "Industry",
-      "description": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+      "description": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
       "author": "Anthony Ha",
-      "content": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+      "content": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T17:16:54.652998+00:00"
+        "consensus_timestamp": "2026-04-13T21:07:26.738379+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,7 +59,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-13T17:16:54.653001+00:00"
+        "timestamp": "2026-04-13T21:07:26.738382+00:00"
       },
       "article_type": "headline"
     },
@@ -106,35 +106,35 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
+        "score": 0.92,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T17:16:54.654044+00:00"
+        "consensus_timestamp": "2026-04-13T21:07:26.739450+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.752,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-13T17:16:54.654046+00:00"
+        "timestamp": "2026-04-13T21:07:26.739452+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "a4e7ed616c6369ca6ec83217adc2ec0b",
-      "title": "Customize Amazon Nova models with Amazon Bedrock fine-tuning",
+      "article_id": "e4a233c47c515da62e7ff8cd030dd90a",
+      "title": "Introducing stateful MCP client capabilities on Amazon Bedrock AgentCore Runtime",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-models-with-amazon-bedrock-fine-tuning/",
-      "published_date": "2026-04-08T19:51:50+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-stateful-mcp-client-capabilities-on-amazon-bedrock-agentcore-runtime/",
+      "published_date": "2026-04-09T14:47:57+00:00",
       "category": "Industry",
-      "description": "In this post, we'll walk you through a complete implementation of model fine-tuning in Amazon Bedrock using Amazon Nova models, demonstrating each step through an intent classifier example that achieves superior performance on a domain specific task. Throughout this guide, you'll learn to prepare high-quality training data that drives meaningful model improvements, configure hyperparameters to optimize learning without overfitting, and deploy your fine-tuned model for improved accuracy and...",
-      "author": "Bhavya Sruthi Sode",
-      "content": "In this post, we'll walk you through a complete implementation of model fine-tuning in Amazon Bedrock using Amazon Nova models, demonstrating each step through an intent classifier example that achieves superior performance on a domain specific task. Throughout this guide, you'll learn to prepare high-quality training data that drives meaningful model improvements, configure hyperparameters to optimize learning without overfitting, and deploy your fine-tuned model for improved accuracy and...",
+      "description": "In this post, you will learn how to build stateful MCP servers that request user input during execution, invoke LLM sampling for dynamic content generation, and stream progress updates for long-running tasks. You will see code examples for each capability and deploy a working stateful MCP server to Amazon Bedrock AgentCore Runtime.",
+      "author": "Evandro Franco",
+      "content": "In this post, you will learn how to build stateful MCP servers that request user input during execution, invoke LLM sampling for dynamic content generation, and stream progress updates for long-running tasks. You will see code examples for each capability and deploy a working stateful MCP server to Amazon Bedrock AgentCore Runtime.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -169,10 +169,134 @@
           }
         },
         "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-13T21:07:26.737313+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-13T21:07:26.737316+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "586d588242f1b324de1ea50f6b1d59be",
+      "title": "Our response to the Axios developer tool compromise",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/axios-developer-tool-compromise",
+      "published_date": "2026-04-10T00:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+      "author": "",
+      "content": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.89,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-13T21:07:26.736195+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-13T21:07:26.736198+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c64b7e9a9c430a425d9759c94b25860c",
+      "title": "Government announces preferred candidate for Ofcom Chair",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/government-announces-preferred-candidate-for-ofcom-chair",
+      "published_date": "2026-04-08T11:00:22+00:00",
+      "category": "Government",
+      "description": "Sir Ian Cheshire named as preferred candidate for Ofcom Chair, subject to parliamentary hearing before final appointment is confirmed.",
+      "author": "",
+      "content": "Sir Ian Cheshire named as preferred candidate for Ofcom Chair, subject to parliamentary hearing before final appointment is confirmed.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T17:16:54.651965+00:00"
+        "consensus_timestamp": "2026-04-13T21:07:26.735699+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,7 +307,193 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-13T17:16:54.651968+00:00"
+        "timestamp": "2026-04-13T21:07:26.735702+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4c52008d6b0a8b9a37a016e42db777cc",
+      "title": "Running Large-Scale GPU Workloads on Kubernetes with Slurm",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/running-large-scale-gpu-workloads-on-kubernetes-with-slurm/",
+      "published_date": "2026-04-09T17:00:00+00:00",
+      "category": "Industry",
+      "description": "Slurm is an open source cluster management and job scheduling system for Linux. It manages job scheduling for over 65% of TOP500 systems. Most organizations...",
+      "author": "Anton Polyakov",
+      "content": "Slurm is an open source cluster management and job scheduling system for Linux. It manages job scheduling for over 65% of TOP500 systems. Most organizations...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-13T21:07:26.739035+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-13T21:07:26.739038+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "7e2185c515e9c1c4d6bb480040ccb093",
+      "title": "Why You Hit Claude Limits So Fast: AI Token Limits Explained",
+      "source": "nanonets_blog",
+      "url": "https://nanonets.com/blog/ai-token-limits-explained-claude-context-window/",
+      "published_date": "2026-04-08T09:22:20+00:00",
+      "category": "Industry",
+      "description": "Learn what AI tokens are, why Claude hits limits fast, and how to cut waste from context windows, history, files, tools, and reasoning.",
+      "author": "Vinit Mehta",
+      "content": "Learn what AI tokens are, why Claude hits limits fast, and how to cut waste from context windows, history, files, tools, and reasoning.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-13T21:07:26.739977+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-13T21:07:26.739980+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b1acbbc0acfee0803fe789ca0621a989",
+      "title": "Guidance: UK digital verification services trust framework data schema (1.0)",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/uk-digital-verification-services-trust-framework-data-schema-1-0",
+      "published_date": "2026-04-13T15:29:59+00:00",
+      "category": "Government",
+      "description": "A specification to help DVS and relying parties organise and exchange information in a consistent way to enable interoperability",
+      "author": "",
+      "content": "A specification to help DVS and relying parties organise and exchange information in a consistent way to enable interoperability",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-13T21:07:26.735241+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-13T21:07:26.735244+00:00"
       },
       "article_type": "article"
     },
@@ -231,34 +541,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T17:16:54.649815+00:00"
+        "consensus_timestamp": "2026-04-13T21:07:26.735519+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-13T17:16:54.649818+00:00"
+        "timestamp": "2026-04-13T21:07:26.735522+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f9e45104c6d6b6765538a0f73a5edfdf",
-      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
-      "published_date": "2026-04-13T06:00:00+00:00",
+      "article_id": "6655c2ae98f00297d313208812499eee",
+      "title": "Google and Intel deepen AI infrastructure partnership",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
+      "published_date": "2026-04-09T18:27:47+00:00",
       "category": "Industry",
-      "description": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
-      "author": "",
-      "content": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+      "description": "The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage.",
+      "author": "Rebecca Szkutak",
+      "content": "The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -292,22 +602,84 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T17:16:54.650363+00:00"
+        "consensus_timestamp": "2026-04-13T21:07:26.738901+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-13T17:16:54.650366+00:00"
+        "timestamp": "2026-04-13T21:07:26.738904+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ddae5f99e8b6b492375c480d96363c87",
+      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+      "published_date": "2026-04-10T16:41:34+00:00",
+      "category": "Industry",
+      "description": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
+      "author": "Rebecca Bellan",
+      "content": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-13T21:07:26.738595+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-13T21:07:26.738597+00:00"
       },
       "article_type": "article"
     },
@@ -324,195 +696,9 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.7,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T17:16:54.651546+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-13T17:16:54.651550+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "640a43bff3a4324a85f0b43192f2c071",
-      "title": "Stream High-Fidelity Spatial Computing Content to Any Device with NVIDIA CloudXR 6.0",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/stream-high-fidelity-spatial-computing-content-to-any-device-with-nvidia-cloudxr-6-0/",
-      "published_date": "2026-03-31T18:14:50+00:00",
-      "category": "Industry",
-      "description": "Spatial computing is moving from visualization to active collaboration, adding increasingly more GPU demands on XR hardware to render photorealistic,...",
-      "author": "Max Bickley",
-      "content": "Spatial computing is moving from visualization to active collaboration, adding increasingly more GPU demands on XR hardware to render photorealistic,...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T17:16:54.654168+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-13T17:16:54.654171+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "7f6a066e94949a0203c9730f464a52f0",
-      "title": "Verifying and optimizing post-quantum cryptography at Amazon",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/verifying-and-optimizing-post-quantum-cryptography-at-amazon",
-      "published_date": "2026-04-07T15:00:00+00:00",
-      "category": "Industry",
-      "description": "How automated reasoning reconciles the demands of security, performance, and maintainability.",
-      "author": "",
-      "content": "How automated reasoning reconciles the demands of security, performance, and maintainability.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T17:16:54.654402+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-13T17:16:54.654405+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "75bf0308d31306af8832e6a499f5a49f",
-      "title": "Uniswap (UNI) Price Prediction: 2025, 2026, 2030",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/money/uniswap-uni-price-prediction",
-      "published_date": "2026-04-13T14:16:15+00:00",
-      "category": "Industry",
-      "description": "The post Uniswap (UNI) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Uniswap (UNI) could reach $22.82 by 2030. Feeling confident about this UNI price prediction? You can trade Uniswap on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Uniswap (UNI) is a …...",
-      "author": "Margaret Jackson",
-      "content": "The post Uniswap (UNI) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Uniswap (UNI) could reach $22.82 by 2030. Feeling confident about this UNI price prediction? You can trade Uniswap on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Uniswap (UNI) is a …...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
-        "impact_score": 0.7,
-        "overall_score": 0.8475,
+        "overall_score": 0.85,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -541,21 +727,21 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T17:16:54.654664+00:00"
+        "consensus_timestamp": "2026-04-13T21:07:26.736959+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-13T17:16:54.654667+00:00"
+        "timestamp": "2026-04-13T21:07:26.736962+00:00"
       },
       "article_type": "article"
     },
@@ -602,103 +788,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.98,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T17:16:54.650965+00:00"
+        "consensus_timestamp": "2026-04-13T21:07:26.736513+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-13T17:16:54.650968+00:00"
+        "timestamp": "2026-04-13T21:07:26.736516+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "1da0d3abd87c2ab854420ff0154db85f",
-      "title": "Bringing AI Closer to the Edge and On-Device with Gemma 4",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/bringing-ai-closer-to-the-edge-and-on-device-with-gemma-4/",
-      "published_date": "2026-04-02T16:27:46+00:00",
+      "article_id": "4a9ab9f042ad14fdc997ab29b11b4a2d",
+      "title": "Financial services",
+      "source": "openai_blog",
+      "url": "https://openai.com/academy/financial-services",
+      "published_date": "2026-04-10T00:00:00+00:00",
       "category": "Industry",
-      "description": "The Gemmaverse expands with the launch of the latest Gemma 4 multimodal and multilingual models, designed to scale across the full spectrum of deployments, from...",
-      "author": "Anu Srivastava",
-      "content": "The Gemmaverse expands with the launch of the latest Gemma 4 multimodal and multilingual models, designed to scale across the full spectrum of deployments, from...",
+      "description": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
+      "author": "",
+      "content": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.92,
-        "confidence": 0.96,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T17:16:54.653953+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.776,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-13T17:16:54.653956+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "fd611f865f662ddcaadc1f4e8a25ccd4",
-      "title": "The future of managing agents at scale: AWS Agent Registry now in preview",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/",
-      "published_date": "2026-04-09T17:28:20+00:00",
-      "category": "Industry",
-      "description": "Today, we're announcing AWS Agent Registry (preview) in AgentCore, a single place to discover, share, and reuse AI agents, tools, and agent skills across your enterprise.",
-      "author": "Preethi C N",
-      "content": "Today, we're announcing AWS Agent Registry (preview) in AgentCore, a single place to discover, share, and reuse AI agents, tools, and agent skills across your enterprise.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -726,41 +850,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T17:16:54.651826+00:00"
+        "consensus_timestamp": "2026-04-13T21:07:26.736377+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-13T17:16:54.651829+00:00"
+        "timestamp": "2026-04-13T21:07:26.736379+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "08051d87fbc9ec2e49b139add0fb4fc6",
-      "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
-      "published_date": "2026-04-10T14:00:00+00:00",
+      "article_id": "1da0d3abd87c2ab854420ff0154db85f",
+      "title": "Bringing AI Closer to the Edge and On-Device with Gemma 4",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/bringing-ai-closer-to-the-edge-and-on-device-with-gemma-4/",
+      "published_date": "2026-04-02T16:27:46+00:00",
       "category": "Industry",
-      "description": "This is it. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These discounts end at 11:59 p.m. PT.",
-      "author": "TechCrunch Events",
-      "content": "This is it. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These discounts end at 11:59 p.m. PT.",
+      "description": "The Gemmaverse expands with the launch of the latest Gemma 4 multimodal and multilingual models, designed to scale across the full spectrum of deployments, from...",
+      "author": "Anu Srivastava",
+      "content": "The Gemmaverse expands with the launch of the latest Gemma 4 multimodal and multilingual models, designed to scale across the full spectrum of deployments, from...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
+        "overall_score": 0.8625000000000002,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -792,7 +916,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T17:16:54.653180+00:00"
+        "consensus_timestamp": "2026-04-13T21:07:26.739361+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,131 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-13T17:16:54.653183+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "4a9ab9f042ad14fdc997ab29b11b4a2d",
-      "title": "Financial services",
-      "source": "openai_blog",
-      "url": "https://openai.com/academy/financial-services",
-      "published_date": "2026-04-10T00:00:00+00:00",
-      "category": "Industry",
-      "description": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
-      "author": "",
-      "content": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8375,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T17:16:54.650828+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-13T17:16:54.650831+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "2a82c6596f21f12386ef4091aafc651c",
-      "title": "ChatGPT for marketing teams",
-      "source": "openai_blog",
-      "url": "https://openai.com/academy/marketing",
-      "published_date": "2026-04-10T00:00:00+00:00",
-      "category": "Industry",
-      "description": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
-      "author": "",
-      "content": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.65,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T17:16:54.650688+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-13T17:16:54.650691+00:00"
+        "timestamp": "2026-04-13T21:07:26.739363+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 217.84462714195251,
+    "processing_time": 238.91516542434692,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 111,
+      "total_processed": 122,
       "candidates": {
-        "headlines": 4,
-        "articles": 107,
+        "headlines": 6,
+        "articles": 116,
         "research_papers": 0
       },
       "selected": {
