@@ -1,22 +1,22 @@
 {
-  "updated": "2026-04-14T14:04:33.243114+00:00",
+  "updated": "2026-04-14T17:23:22.412554+00:00",
   "top_stories": [
     {
-      "article_id": "6245e5eda4ec3c69c537d59c4150c5d3",
-      "title": "The largest orbital compute cluster is open for business",
+      "article_id": "674a26b8480ec5591eabdfbeaf11ac92",
+      "title": "OpenAI has bought AI personal finance startup Hiro",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
-      "published_date": "2026-04-13T07:01:00+00:00",
+      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+      "published_date": "2026-04-14T00:23:33+00:00",
       "category": "Industry",
-      "description": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
-      "author": "Tim Fernholz",
-      "content": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
+      "description": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+      "author": "Julie Bort",
+      "content": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8250000000000001,
+        "overall_score": 0.8450000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -45,165 +45,41 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-14T14:04:33.213270+00:00"
+        "consensus_timestamp": "2026-04-14T17:23:22.381032+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-14T14:04:33.213273+00:00"
+        "timestamp": "2026-04-14T17:23:22.381035+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "07aec25fbb023307911013279f5b069a",
-      "title": "Chronic inflammation leaves long-lasting impression on gut stem cells, increasing colorectal cancer risk",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/chronic-inflammation-leaves-long-lasting-impression-gut-stem-cells-increasing-colorectal-cancer-risk",
-      "published_date": "2026-04-14T13:59:38.531732+00:00",
-      "category": "Government",
-      "description": "NIH-funded animal study finds heritable memories of damage persisted in cells months after inflammation ceased.",
-      "author": "",
-      "content": "NIH-funded animal study finds heritable memories of damage persisted in cells months after inflammation ceased.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-14T14:04:33.209623+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-14T14:04:33.209627+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e4a233c47c515da62e7ff8cd030dd90a",
-      "title": "Introducing stateful MCP client capabilities on Amazon Bedrock AgentCore Runtime",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-stateful-mcp-client-capabilities-on-amazon-bedrock-agentcore-runtime/",
-      "published_date": "2026-04-09T14:47:57+00:00",
+      "article_id": "586d588242f1b324de1ea50f6b1d59be",
+      "title": "Our response to the Axios developer tool compromise",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/axios-developer-tool-compromise",
+      "published_date": "2026-04-10T00:00:00+00:00",
       "category": "Industry",
-      "description": "In this post, you will learn how to build stateful MCP servers that request user input during execution, invoke LLM sampling for dynamic content generation, and stream progress updates for long-running tasks. You will see code examples for each capability and deploy a working stateful MCP server to Amazon Bedrock AgentCore Runtime.",
-      "author": "Evandro Franco",
-      "content": "In this post, you will learn how to build stateful MCP servers that request user input during execution, invoke LLM sampling for dynamic content generation, and stream progress updates for long-running tasks. You will see code examples for each capability and deploy a working stateful MCP server to Amazon Bedrock AgentCore Runtime.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-14T14:04:33.212217+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-14T14:04:33.212220+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "eb639d9da1c6608dc7083467f3291835",
-      "title": "Gemma 4: Byte for byte, the most capable open models",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
-      "published_date": "2026-04-02T16:00:49+00:00",
-      "category": "Industry",
-      "description": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+      "description": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
       "author": "",
-      "content": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+      "content": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.875,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -234,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-14T14:04:33.214504+00:00"
+        "consensus_timestamp": "2026-04-14T17:23:22.379054+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,26 +121,150 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-14T14:04:33.214507+00:00"
+        "timestamp": "2026-04-14T17:23:22.379057+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "a7bf6ab93b8d24a4ef1974f277e27cda",
-      "title": "How to Accelerate Protein Structure Prediction at Proteome-Scale",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-to-accelerate-protein-structure-prediction-at-proteome-scale/",
-      "published_date": "2026-04-09T15:00:00+00:00",
+      "article_id": "d5c64c51eae04c23061d25b23c45a5ed",
+      "title": "Myro (MYRO) Price Prediction: 2025, 2026, 2030",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/money/myro-price-prediction",
+      "published_date": "2026-04-14T14:16:13+00:00",
       "category": "Industry",
-      "description": "Proteins rarely function in isolation as individual monomers. Most biological processes are governed by proteins interacting with other proteins, forming...",
-      "author": "Christian Dallago",
-      "content": "Proteins rarely function in isolation as individual monomers. Most biological processes are governed by proteins interacting with other proteins, forming...",
+      "description": "The post Myro (MYRO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Myro (MYRO) could reach $0.050 by 2030. Feeling confident about this MYRO price prediction? You can trade Myro on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Myro (MYRO), a meme … Continued...",
+      "author": "Margaret Jackson",
+      "content": "The post Myro (MYRO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Myro (MYRO) could reach $0.050 by 2030. Feeling confident about this MYRO price prediction? You can trade Myro on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Myro (MYRO), a meme … Continued...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.885,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.7,
+        "confidence": 0.75,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-14T17:23:22.383072+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.62,
+        "combined_confidence": 0.6499999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-14T17:23:22.383074+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b1acbbc0acfee0803fe789ca0621a989",
+      "title": "Guidance: UK digital verification services trust framework data schema (1.0)",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/uk-digital-verification-services-trust-framework-data-schema-1-0",
+      "published_date": "2026-04-13T15:29:59+00:00",
+      "category": "Government",
+      "description": "A specification to help DVS and relying parties organise and exchange information in a consistent way to enable interoperability",
+      "author": "",
+      "content": "A specification to help DVS and relying parties organise and exchange information in a consistent way to enable interoperability",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-14T17:23:22.378583+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-14T17:23:22.378586+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ee76ff6575f065e61099c525ea57a562",
+      "title": "AI Benchmarks Explained: GPQA, SWE-bench, Chatbot Arena and What They Actually Measure",
+      "source": "nanonets_blog",
+      "url": "https://nanonets.com/blog/ai-benchmarks-explained-gpqa-swe-bench-chatbot-arena/",
+      "published_date": "2026-04-10T12:33:33+00:00",
+      "category": "Industry",
+      "description": "Learn what MMLU, GPQA Diamond, SWE-bench, HealthBench, and Chatbot Arena actually measure, and how labs game benchmark scores.",
+      "author": "Vinit Mehta",
+      "content": "Learn what MMLU, GPQA Diamond, SWE-bench, HealthBench, and Chatbot Arena actually measure, and how labs game benchmark scores.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -293,21 +293,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.85,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-14T14:04:33.213952+00:00"
+        "consensus_timestamp": "2026-04-14T17:23:22.383272+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-14T14:04:33.213954+00:00"
+        "timestamp": "2026-04-14T17:23:22.383275+00:00"
       },
       "article_type": "article"
     }
