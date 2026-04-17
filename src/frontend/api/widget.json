@@ -1,23 +1,23 @@
 {
-  "updated": "2026-04-16T21:01:01.196570+00:00",
+  "updated": "2026-04-17T03:28:59.509929+00:00",
   "top_stories": [
     {
-      "article_id": "265e4055075ce8b79e5a0fce39815f13",
-      "title": "Google rolls out a native Gemini app for Mac",
+      "article_id": "85de77c93e92be141d44d21f89168c99",
+      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
-      "published_date": "2026-04-15T18:22:13+00:00",
+      "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+      "published_date": "2026-04-15T19:28:36+00:00",
       "category": "Industry",
-      "description": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
-      "author": "Aisha Malik",
-      "content": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
+      "description": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
+      "author": "Lucas Ropek",
+      "content": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "novelty_score": 0.7,
         "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.95
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,24 +44,86 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.8,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-16T21:01:01.154209+00:00"
+        "consensus_timestamp": "2026-04-17T03:28:59.466908+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-16T21:01:01.154212+00:00"
+        "timestamp": "2026-04-17T03:28:59.466911+00:00"
       },
       "article_type": "headline"
+    },
+    {
+      "article_id": "f0c7c0b504d619326525ee57dfecfb0a",
+      "title": "Cut Checkpoint Costs with About 30 Lines of Python and NVIDIA nvCOMP",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/cut-checkpoint-costs-with-about-30-lines-of-python-and-nvidia-nvcomp/",
+      "published_date": "2026-04-09T16:48:38+00:00",
+      "category": "Industry",
+      "description": "Training LLMs requires periodic checkpoints. These full snapshots of model weights, optimizer states, and gradients are saved to storage so training can resume...",
+      "author": "Wenqi Glantz",
+      "content": "Training LLMs requires periodic checkpoints. These full snapshots of model weights, optimizer states, and gradients are saved to storage so training can resume...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.9225000000000001,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-17T03:28:59.467380+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-17T03:28:59.467383+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "d26009b7563578cd9645b781eb5be539",
@@ -107,34 +169,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-16T21:01:01.152558+00:00"
+        "consensus_timestamp": "2026-04-17T03:28:59.465322+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-16T21:01:01.152560+00:00"
+        "timestamp": "2026-04-17T03:28:59.465325+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "2f0580e1259663493c8e280e82dbd7a3",
-      "title": "HPE accelerates quantum readiness ahead of Q-day",
-      "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2026/04/10/quantum-computing-market-hpe-hpeworldquantumday/",
-      "published_date": "2026-04-10T20:22:05+00:00",
+      "article_id": "cba032544e82090784c3fe439aab341a",
+      "title": "How to Build Vision AI Pipelines Using NVIDIA DeepStream Coding Agents",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/how-to-build-vision-ai-pipelines-using-deepstream-coding-agents/",
+      "published_date": "2026-04-16T15:00:00+00:00",
       "category": "Industry",
-      "description": "Enterprise tech is already preparing for “Q-day” — when quantum computing will be able to break today’s public-key cryptography. Although that date is still years away, staying ahead of the curve is a necessity if companies want to secure their infrastructure and incorporate quantum into the existing artificial intelligence and high-performance computing stack. Hewlett Packard Enterprise […] The post HPE accelerates quantum readiness ahead of Q-day appeared first on SiliconANGLE.",
-      "author": "Devony Hof",
-      "content": "Enterprise tech is already preparing for “Q-day” — when quantum computing will be able to break today’s public-key cryptography. Although that date is still years away, staying ahead of the curve is a necessity if companies want to secure their infrastructure and incorporate quantum into the existing artificial intelligence and high-performance computing stack. Hewlett Packard Enterprise […] The post HPE accelerates quantum readiness ahead of Q-day appeared first on SiliconANGLE.",
+      "description": "Developing real-time vision AI applications presents a significant challenge for developers, often demanding intricate data pipelines, countless lines of code,...",
+      "author": "Debraj Sinha",
+      "content": "Developing real-time vision AI applications presents a significant challenge for developers, often demanding intricate data pipelines, countless lines of code,...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -168,97 +230,35 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-16T21:01:01.155867+00:00"
+        "consensus_timestamp": "2026-04-17T03:28:59.467101+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-16T21:01:01.155870+00:00"
+        "timestamp": "2026-04-17T03:28:59.467104+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "8973b0ce4fac6d9b6c434eef7722c5a8",
-      "title": "Running AI Workloads on Rack-Scale Supercomputers: From Hardware to Topology-Aware Scheduling",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/running-ai-workloads-on-rack-scale-supercomputers-from-hardware-to-topology-aware-scheduling/",
-      "published_date": "2026-04-07T18:51:01+00:00",
-      "category": "Industry",
-      "description": "The NVIDIA GB200 NVL72 and NVIDIA GB300 NVL72 systems, featuring NVIDIA Blackwell architecture, are rack-scale supercomputers. They’re designed with 18...",
-      "author": "Ryan Prout",
-      "content": "The NVIDIA GB200 NVL72 and NVIDIA GB300 NVL72 systems, featuring NVIDIA Blackwell architecture, are rack-scale supercomputers. They’re designed with 18...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-16T21:01:01.154742+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-16T21:01:01.154745+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "840297f18e44d2391c92ddcd9ffee070",
-      "title": "Correspondence: AI cyber threats: open letter to business leaders",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/ai-cyber-threats-open-letter-to-business-leaders",
-      "published_date": "2026-04-15T14:28:00+00:00",
+      "article_id": "e695919d990bc8b95088daf6bdf94b58",
+      "title": "Any Color You Like: NIST Scientists Create ‘Any Wavelength’ Lasers in Tiny Circuits for Light",
+      "source": "nist_ai_news",
+      "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+      "published_date": "2026-04-15T12:00:00+00:00",
       "category": "Government",
-      "description": "Open letter from DSIT Secretary of State Liz Kendall and Security Minister Dan Jarvis to UK business leaders.",
-      "author": "",
-      "content": "Open letter from DSIT Secretary of State Liz Kendall and Security Minister Dan Jarvis to UK business leaders.",
+      "description": "NIST scientists and collaborators have pioneered a way to make integrated circuits for light by depositing complex patterns of specialized materials onto silicon wafers.",
+      "author": "Sarah Henderson",
+      "content": "NIST scientists and collaborators have pioneered a way to make integrated circuits for light by depositing complex patterns of specialized materials onto silicon wafers.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -296,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-16T21:01:01.150629+00:00"
+        "consensus_timestamp": "2026-04-17T03:28:59.462345+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-16T21:01:01.150632+00:00"
+        "timestamp": "2026-04-17T03:28:59.462350+00:00"
       },
       "article_type": "article"
     }
