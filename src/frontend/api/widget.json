@@ -1,146 +1,22 @@
 {
-  "updated": "2026-04-17T03:28:59.509929+00:00",
+  "updated": "2026-04-17T06:12:49.585560+00:00",
   "top_stories": [
     {
-      "article_id": "85de77c93e92be141d44d21f89168c99",
-      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+      "article_id": "fb239e4234470f13513e1e7385613f1c",
+      "title": "Google is now targeting bad ads over bad actors",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-      "published_date": "2026-04-15T19:28:36+00:00",
+      "url": "https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/",
+      "published_date": "2026-04-16T15:00:00+00:00",
       "category": "Industry",
-      "description": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
-      "author": "Lucas Ropek",
-      "content": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
+      "description": "Google blocked 8.3 billion ads in 2025 but suspended fewer advertisers.",
+      "author": "Jagmeet Singh",
+      "content": "Google blocked 8.3 billion ads in 2025 but suspended fewer advertisers.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.7,
         "impact_score": 0.95,
         "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-17T03:28:59.466908+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-17T03:28:59.466911+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "f0c7c0b504d619326525ee57dfecfb0a",
-      "title": "Cut Checkpoint Costs with About 30 Lines of Python and NVIDIA nvCOMP",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/cut-checkpoint-costs-with-about-30-lines-of-python-and-nvidia-nvcomp/",
-      "published_date": "2026-04-09T16:48:38+00:00",
-      "category": "Industry",
-      "description": "Training LLMs requires periodic checkpoints. These full snapshots of model weights, optimizer states, and gradients are saved to storage so training can resume...",
-      "author": "Wenqi Glantz",
-      "content": "Training LLMs requires periodic checkpoints. These full snapshots of model weights, optimizer states, and gradients are saved to storage so training can resume...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.9225000000000001,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-17T03:28:59.467380+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-17T03:28:59.467383+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d26009b7563578cd9645b781eb5be539",
-      "title": "Accelerating decode-heavy LLM inference with speculative decoding on AWS Trainium and vLLM",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-decode-heavy-llm-inference-with-speculative-decoding-on-aws-trainium-and-vllm/",
-      "published_date": "2026-04-15T15:20:58+00:00",
-      "category": "Industry",
-      "description": "In this post, you will learn how speculative decoding works and why it helps reduce cost per generated token on AWS Trainium2.",
-      "author": "Yahav Biran",
-      "content": "In this post, you will learn how speculative decoding works and why it helps reduce cost per generated token on AWS Trainium2.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -168,24 +44,24 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.9,
+        "score": 0.85,
+        "confidence": 0.88,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-17T03:28:59.465322+00:00"
+        "consensus_timestamp": "2026-04-17T06:12:49.542250+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.728,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-17T03:28:59.465325+00:00"
+        "timestamp": "2026-04-17T06:12:49.542253+00:00"
       },
-      "article_type": "article"
+      "article_type": "headline"
     },
     {
       "article_id": "cba032544e82090784c3fe439aab341a",
@@ -230,22 +106,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-17T03:28:59.467101+00:00"
+        "consensus_timestamp": "2026-04-17T06:12:49.542689+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-17T03:28:59.467104+00:00"
+        "timestamp": "2026-04-17T06:12:49.542692+00:00"
       },
       "article_type": "article"
     },
@@ -296,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-17T03:28:59.462345+00:00"
+        "consensus_timestamp": "2026-04-17T06:12:49.538681+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +183,131 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-17T03:28:59.462350+00:00"
+        "timestamp": "2026-04-17T06:12:49.538686+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "49e8e8ab9598794b3834cd61410d60e0",
+      "title": "Clinical trial results support use of weekly extended-release buprenorphine for treatment of opioid use disorder during pregnancy",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/clinical-trial-results-support-use-weekly-extended-release-buprenorphine-treatment-opioid-use-disorder-during-pregnancy",
+      "published_date": "2026-04-17T06:07:42.811926+00:00",
+      "category": "Government",
+      "description": "NIH-supported study shows&nbsp;this&nbsp;treatment&nbsp;resulted in&nbsp;higher rates of&nbsp;illicit&nbsp;opioid abstinence than current&nbsp;standard of care.",
+      "author": "",
+      "content": "NIH-supported study shows&nbsp;this&nbsp;treatment&nbsp;resulted in&nbsp;higher rates of&nbsp;illicit&nbsp;opioid abstinence than current&nbsp;standard of care.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-17T06:12:49.538999+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-17T06:12:49.539002+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3d37ed5ad6c3bb2d395d6dc76db9215f",
+      "title": "Guidance: DSIT Fellowship (open for applications)",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/dsit-fellowship-open-for-applications",
+      "published_date": "2026-04-14T15:21:40+00:00",
+      "category": "Government",
+      "description": "The DSIT Fellowship offers career professionals in science, innovation and technology a secondment opportunity to contribute to development of DSIT's key priorities.",
+      "author": "",
+      "content": "The DSIT Fellowship offers career professionals in science, innovation and technology a secondment opportunity to contribute to development of DSIT's key priorities.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-17T06:12:49.539529+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-17T06:12:49.539531+00:00"
       },
       "article_type": "article"
     }
