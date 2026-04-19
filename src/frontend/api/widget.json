@@ -1,16 +1,16 @@
 {
-  "updated": "2026-04-19T16:55:41.643388+00:00",
+  "updated": "2026-04-19T20:51:19.312836+00:00",
   "top_stories": [
     {
-      "article_id": "0ccaf7040c556f872aa7ec7d37416f3e",
-      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+      "article_id": "7e77d007350c80e7abafcf8ae417cc81",
+      "title": "The 12-month window",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
-      "published_date": "2026-04-19T16:30:00+00:00",
+      "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+      "published_date": "2026-04-19T19:30:00+00:00",
       "category": "Industry",
-      "description": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
-      "author": "Anthony Ha",
-      "content": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+      "description": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+      "author": "Connie Loizos",
+      "content": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -45,34 +45,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.8,
-        "recommendation": "CONDITIONAL",
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-19T16:55:41.621305+00:00"
+        "consensus_timestamp": "2026-04-19T20:51:19.282701+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-19T16:55:41.621306+00:00"
+        "timestamp": "2026-04-19T20:51:19.282704+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "19f183e218cd180ba9789037522ee6d2",
-      "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
-      "published_date": "2026-04-16T19:18:41+00:00",
+      "article_id": "8973b0ce4fac6d9b6c434eef7722c5a8",
+      "title": "Running AI Workloads on Rack-Scale Supercomputers: From Hardware to Topology-Aware Scheduling",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/running-ai-workloads-on-rack-scale-supercomputers-from-hardware-to-topology-aware-scheduling/",
+      "published_date": "2026-04-07T18:51:01+00:00",
       "category": "Industry",
-      "description": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
-      "author": "Lucas Ropek",
-      "content": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
+      "description": "The NVIDIA GB200 NVL72 and NVIDIA GB300 NVL72 systems, featuring NVIDIA Blackwell architecture, are rack-scale supercomputers. They’re designed with 18...",
+      "author": "Ryan Prout",
+      "content": "The NVIDIA GB200 NVL72 and NVIDIA GB300 NVL72 systems, featuring NVIDIA Blackwell architecture, are rack-scale supercomputers. They’re designed with 18...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -106,73 +106,11 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-19T16:55:41.621871+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-19T16:55:41.621872+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "39be1dce5b491a0e09cb23f754ab66a6",
-      "title": "The next evolution of the Agents SDK",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "published_date": "2026-04-15T10:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
-      "author": "",
-      "content": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
         "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-19T16:55:41.619879+00:00"
+        "consensus_timestamp": "2026-04-19T20:51:19.284077+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,7 +121,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-19T16:55:41.619881+00:00"
+        "timestamp": "2026-04-19T20:51:19.284080+00:00"
       },
       "article_type": "article"
     },
@@ -231,41 +169,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-19T16:55:41.621010+00:00"
+        "consensus_timestamp": "2026-04-19T20:51:19.282240+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-19T16:55:41.621012+00:00"
+        "timestamp": "2026-04-19T20:51:19.282243+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "e06cea984c29757938f1c609e947f4a2",
-      "title": "Power video semantic search with Amazon Nova Multimodal Embeddings",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/power-video-semantic-search-with-amazon-nova-multimodal-embeddings/",
-      "published_date": "2026-04-17T19:43:35+00:00",
+      "article_id": "144cbe499cb48270bb8e6f3c7f1a3e7c",
+      "title": "Accelerating the cyber defense ecosystem that protects us all",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+      "published_date": "2026-04-16T00:00:00+00:00",
       "category": "Industry",
-      "description": "In this post, we show you how to build a video semantic search solution on Amazon Bedrock using Nova Multimodal Embeddings that intelligently understands user intent and retrieves accurate video results across all signal types simultaneously. We also share a reference implementation you can deploy and explore with your own content.",
-      "author": "Amit Kalawat",
-      "content": "In this post, we show you how to build a video semantic search solution on Amazon Bedrock using Nova Multimodal Embeddings that intelligently understands user intent and retrieves accurate video results across all signal types simultaneously. We also share a reference implementation you can deploy and explore with your own content.",
+      "description": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+      "author": "",
+      "content": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
-        "confidence_mean": 0.95
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -293,21 +231,83 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-19T16:55:41.620651+00:00"
+        "consensus_timestamp": "2026-04-19T20:51:19.280606+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-19T16:55:41.620653+00:00"
+        "timestamp": "2026-04-19T20:51:19.280610+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b45b7527bf40dc11b83265912c231a86",
+      "title": "Create rich, custom tooltips in Amazon Quick Sight",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/create-rich-custom-tooltips-in-amazon-quick-sight/",
+      "published_date": "2026-04-15T15:22:53+00:00",
+      "category": "Industry",
+      "description": "Today, we're announcing sheet tooltips in Amazon Quick Sight. Dashboard authors can now design custom tooltip layouts using free-form layout sheets. These layouts combine charts, key performance indicator (KPI) metrics, text, and other visuals into a single tooltip that renders dynamically when readers hover over data points.",
+      "author": "Meshan Khosla",
+      "content": "Today, we're announcing sheet tooltips in Amazon Quick Sight. Dashboard authors can now design custom tooltip layouts using free-form layout sheets. These layouts combine charts, key performance indicator (KPI) metrics, text, and other visuals into a single tooltip that renders dynamically when readers hover over data points.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-19T20:51:19.282027+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-19T20:51:19.282030+00:00"
       },
       "article_type": "article"
     }
