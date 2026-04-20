@@ -1,22 +1,22 @@
 {
-  "updated": "2026-04-20T10:09:53.013151+00:00",
+  "updated": "2026-04-20T14:03:35.890140+00:00",
   "top_stories": [
     {
-      "article_id": "e1fec847f8119583b6b0245997c529bf",
-      "title": "AI chip startup Cerebras files for IPO",
+      "article_id": "06d0a40e67085c0df5cb2760d790ed80",
+      "title": "OpenAI’s existential questions",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-      "published_date": "2026-04-18T19:19:11+00:00",
+      "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "published_date": "2026-04-19T21:24:06+00:00",
       "category": "Industry",
-      "description": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+      "description": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
       "author": "Anthony Ha",
-      "content": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+      "content": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "overall_score": 0.8875,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-20T10:09:52.979510+00:00"
+        "consensus_timestamp": "2026-04-20T14:03:35.856873+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,20 +59,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-20T10:09:52.979513+00:00"
+        "timestamp": "2026-04-20T14:03:35.856876+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "39be1dce5b491a0e09cb23f754ab66a6",
-      "title": "The next evolution of the Agents SDK",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "published_date": "2026-04-15T10:00:00+00:00",
+      "article_id": "219708273af8c12b232d0aaabcea18ad",
+      "title": "Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
+      "published_date": "2026-04-09T19:00:00+00:00",
       "category": "Industry",
-      "description": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+      "description": "Microsoft is named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms, recognizing Microsoft Sovereign Cloud leadership in evolving sovereignty needs. The post Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms appeared first on Microsoft Azure Blog.",
+      "author": "Alistair Speirs",
+      "content": "Microsoft is named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms, recognizing Microsoft Sovereign Cloud leadership in evolving sovereignty needs. The post Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-20T14:03:35.855521+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-20T14:03:35.855524+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "f9e45104c6d6b6765538a0f73a5edfdf",
+      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "published_date": "2026-04-13T06:00:00+00:00",
+      "category": "Industry",
+      "description": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
       "author": "",
-      "content": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+      "content": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -110,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-20T10:09:52.977386+00:00"
+        "consensus_timestamp": "2026-04-20T14:03:35.854811+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,150 +183,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-20T10:09:52.977390+00:00"
+        "timestamp": "2026-04-20T14:03:35.854814+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "4614a4f588f1fcbd357e38a672d888ec",
-      "title": "Codex for (almost) everything",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/codex-for-almost-everything",
-      "published_date": "2026-04-16T10:00:00+00:00",
+      "article_id": "1979dcc62f2f78afa6e821c66f46c126",
+      "title": "Best Airline Stocks Right Now",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/money/best-airline-stocks",
+      "published_date": "2026-04-20T11:15:54+00:00",
       "category": "Industry",
-      "description": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
-      "author": "",
-      "content": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+      "description": "The post Best Airline Stocks Right Now by Charles Munyi appeared first on Benzinga. Visit Benzinga to get more great content like this. Airline stocks are cyclical and previous downturns have resulted in multiple airline failures and bankruptcies. It’s the question everyone’s been asking: Is it safe to invest in airline stocks now? Which ones are the best-run companies? Benzinga takes a look at some of the best airline stocks so you know where in this industry you … Continued The post Best...",
+      "author": "Charles Munyi",
+      "content": "The post Best Airline Stocks Right Now by Charles Munyi appeared first on Benzinga. Visit Benzinga to get more great content like this. Airline stocks are cyclical and previous downturns have resulted in multiple airline failures and bankruptcies. It’s the question everyone’s been asking: Is it safe to invest in airline stocks now? Which ones are the best-run companies? Benzinga takes a look at some of the best airline stocks so you know where in this industry you … Continued The post Best...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-20T10:09:52.977230+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-20T10:09:52.977233+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "6521eac3e7af096413a742962080be74",
-      "title": "Creating images with ChatGPT",
-      "source": "openai_blog",
-      "url": "https://openai.com/academy/image-generation",
-      "published_date": "2026-04-10T00:00:00+00:00",
-      "category": "Industry",
-      "description": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
-      "author": "",
-      "content": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-20T10:09:52.977524+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-20T10:09:52.977527+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "9379b1e4a4454652c7008f08951980c8",
-      "title": "Full-Stack Optimizations for Agentic Inference with NVIDIA Dynamo",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/full-stack-optimizations-for-agentic-inference-with-nvidia-dynamo/",
-      "published_date": "2026-04-17T22:52:47+00:00",
-      "category": "Industry",
-      "description": "Coding agents are starting to write production code at scale. Stripe’s agents generate 1,300+ PRs per week. Ramp attributes 30% of merged PRs to agents....",
-      "author": "Ishan Dhanani",
-      "content": "Coding agents are starting to write production code at scale. Stripe’s agents generate 1,300+ PRs per week. Ramp attributes 30% of merged PRs to agents....",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "overall_score": 0.9,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -296,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-20T10:09:52.980226+00:00"
+        "consensus_timestamp": "2026-04-20T14:03:35.858754+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +245,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-20T10:09:52.980229+00:00"
+        "timestamp": "2026-04-20T14:03:35.858757+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "efe3a685f4ffdfa369f0e61b58a3cc1a",
+      "title": "Accelerate Clean, Modular, Nuclear Reactor Design with AI Physics",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/accelerate-clean-modular-nuclear-reactor-design-with-ai-physics/",
+      "published_date": "2026-04-17T15:00:00+00:00",
+      "category": "Industry",
+      "description": "The development of socially acceptable nuclear reactors requires that they are safe, clean, efficient, economical, and sustainable. Meeting these requirements...",
+      "author": "Mark Hobbs",
+      "content": "The development of socially acceptable nuclear reactors requires that they are safe, clean, efficient, economical, and sustainable. Meeting these requirements...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-20T14:03:35.857838+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-20T14:03:35.857841+00:00"
       },
       "article_type": "article"
     }
