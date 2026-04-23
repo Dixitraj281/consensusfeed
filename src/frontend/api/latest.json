@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-04-23T06:17:38.640912+00:00",
+  "generated_at": "2026-04-23T09:56:03.116207+00:00",
   "articles": [
     {
-      "article_id": "327a35a8640b965f8e669ff791a188e1",
-      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+      "article_id": "52417ffc0164ca622a14f3b70b8c9556",
+      "title": "AI is spitting out more potential drugs than ever. This startup wants to figure out which ones matter.",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
-      "published_date": "2026-04-21T23:45:21+00:00",
+      "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+      "published_date": "2026-04-22T13:00:00+00:00",
       "category": "Industry",
-      "description": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
-      "author": "Lucas Ropek",
-      "content": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+      "description": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
+      "author": "Tim Fernholz",
+      "content": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.9
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -45,40 +45,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-23T06:17:38.609509+00:00"
+        "consensus_timestamp": "2026-04-23T09:56:03.073801+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-23T06:17:38.609511+00:00"
+        "timestamp": "2026-04-23T09:56:03.073804+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "1f81169f7a77c084d7e0d64c9149d023",
-      "title": "AI firms pioneering drug discovery, cheaper supercomputing and more get first backing through UK’s Sovereign AI",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/ai-firms-pioneering-drug-discovery-cheaper-supercomputing-and-more-get-first-backing-through-uks-sovereign-ai",
-      "published_date": "2026-04-16T17:30:06+00:00",
-      "category": "Government",
-      "description": "Sovereign AI is the UK’s £500 million bet to back homegrown AI founders, drive growth and create jobs across the UK.",
+      "article_id": "61d15252f2084ff36fbb3101e2b2420a",
+      "title": "Isabelle/HOL: The proof assistant behind the Nitro Isolation Engine",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/isabelle-hol-the-proof-assistant-behind-the-nitro-isolation-engine",
+      "published_date": "2026-04-17T13:00:00+00:00",
+      "category": "Industry",
+      "description": "Isabelle/HOL's balance of expressiveness, automation, and scalability enabled the world's first formally verified cloud hypervisor.",
       "author": "",
-      "content": "Sovereign AI is the UK’s £500 million bet to back homegrown AI founders, drive growth and create jobs across the UK.",
+      "content": "Isabelle/HOL's balance of expressiveness, automation, and scalability enabled the world's first formally verified cloud hypervisor.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -110,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-23T06:17:38.606954+00:00"
+        "consensus_timestamp": "2026-04-23T09:56:03.075024+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,150 +121,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-23T06:17:38.606956+00:00"
+        "timestamp": "2026-04-23T09:56:03.075027+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "e06cea984c29757938f1c609e947f4a2",
-      "title": "Power video semantic search with Amazon Nova Multimodal Embeddings",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/power-video-semantic-search-with-amazon-nova-multimodal-embeddings/",
-      "published_date": "2026-04-17T19:43:35+00:00",
-      "category": "Industry",
-      "description": "In this post, we show you how to build a video semantic search solution on Amazon Bedrock using Nova Multimodal Embeddings that intelligently understands user intent and retrieves accurate video results across all signal types simultaneously. We also share a reference implementation you can deploy and explore with your own content.",
-      "author": "Amit Kalawat",
-      "content": "In this post, we show you how to build a video semantic search solution on Amazon Bedrock using Nova Multimodal Embeddings that intelligently understands user intent and retrieves accurate video results across all signal types simultaneously. We also share a reference implementation you can deploy and explore with your own content.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-23T06:17:38.608505+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-23T06:17:38.608507+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "3fe49a0357baddce2336eef2dee852cc",
-      "title": "Scaling Codex to enterprises worldwide",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-      "published_date": "2026-04-21T00:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
-      "author": "",
-      "content": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-23T06:17:38.607459+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-23T06:17:38.607461+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e9fbc82c6ceb001624704e6a0aea0a48",
-      "title": "NVIDIA and Google Cloud Collaborate to Advance Agentic and Physical AI",
+      "article_id": "7a49386364922a736391ee10d6687264",
+      "title": "Rethinking AI TCO: Why Cost per Token Is the Only Metric That Matters",
       "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/google-cloud-agentic-physical-ai-factories/",
-      "published_date": "2026-04-22T12:00:42+00:00",
+      "url": "https://blogs.nvidia.com/blog/lowest-token-cost-ai-factories/",
+      "published_date": "2026-04-15T15:00:26+00:00",
       "category": "Industry",
-      "description": "NVIDIA and Google Cloud have collaborated for more than a decade, co‑engineering a full‑stack AI platform that spans every technology layer — from performance‑optimized libraries and frameworks to enterprise‑grade cloud services. This foundation enables developers, startups and enterprises to push agentic and physical AI out of the lab and into production — from agents that […]",
-      "author": "Ian Buck",
-      "content": "NVIDIA and Google Cloud have collaborated for more than a decade, co‑engineering a full‑stack AI platform that spans every technology layer — from performance‑optimized libraries and frameworks to enterprise‑grade cloud services. This foundation enables developers, startups and enterprises to push agentic and physical AI out of the lab and into production — from agents that […]",
+      "description": "Traditional data centers only stored, retrieved and processed data. In the generative and agentic AI era, these facilities have evolved into AI token factories. With AI inference becoming their primary workload, their primary output is intelligence manufactured in the form of tokens. This transformation demands a corresponding shift in how the economics of AI infrastructure, […]",
+      "author": "Shruti Koparkar",
+      "content": "Traditional data centers only stored, retrieved and processed data. In the generative and agentic AI era, these facilities have evolved into AI token factories. With AI inference becoming their primary workload, their primary output is intelligence manufactured in the form of tokens. This transformation demands a corresponding shift in how the economics of AI infrastructure, […]",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "impact_score": 0.99,
+        "overall_score": 0.9079999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -296,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-23T06:17:38.608809+00:00"
+        "consensus_timestamp": "2026-04-23T09:56:03.073150+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,26 +183,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-23T06:17:38.608811+00:00"
+        "timestamp": "2026-04-23T09:56:03.073153+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "ade37d5eda38d5a7bf7d91104b23f2c7",
-      "title": "Run High-Throughput Reinforcement Learning Training with End-to-End FP8 Precision",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/run-high-throughput-reinforcement-learning-training-with-end-to-end-fp8-precision/",
-      "published_date": "2026-04-20T22:52:15+00:00",
+      "article_id": "a55d8a47b71e501dcba91a467efa00ef",
+      "title": "Rede Mater Dei de Saúde: Monitoring AI agents in the revenue cycle with Amazon Bedrock AgentCore",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/rede-mater-dei-de-saude-monitoring-ai-agents-in-the-revenue-cycle-with-amazon-bedrock-agentcore/",
+      "published_date": "2026-04-15T15:15:23+00:00",
       "category": "Industry",
-      "description": "As LLMs transition from simple text generation to complex reasoning, reinforcement learning (RL) plays a central role. Algorithms like Group Relative Policy...",
-      "author": "Guyue Huang",
-      "content": "As LLMs transition from simple text generation to complex reasoning, reinforcement learning (RL) plays a central role. Algorithms like Group Relative Policy...",
+      "description": "This post is cowritten by Renata Salvador Grande, Gabriel Bueno and Paulo Laurentys at Rede Mater Dei de Saúde. The growing adoption of multi-agent AI systems is redefining critical operations in healthcare. In large hospital networks, where thousands of decisions directly impact cash flow, service delivery times, and the risk of claim denials, the ability […]",
+      "author": "Renata Salvador Grande",
+      "content": "This post is cowritten by Renata Salvador Grande, Gabriel Bueno and Paulo Laurentys at Rede Mater Dei de Saúde. The growing adoption of multi-agent AI systems is redefining critical operations in healthcare. In large hospital networks, where thousands of decisions directly impact cash flow, service delivery times, and the risk of claim denials, the ability […]",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.95,
-        "overall_score": 0.8825000000000001,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -355,21 +231,393 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-23T06:17:38.609921+00:00"
+        "consensus_timestamp": "2026-04-23T09:56:03.072889+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-23T09:56:03.072891+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e0c3d178a8e5aa28edbf3e1a13c991d1",
+      "title": "Building Custom Atomistic Simulation Workflows for Chemistry and Materials Science with NVIDIA ALCHEMI Toolkit",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/building-custom-atomistic-simulation-workflows-for-chemistry-and-materials-science-with-nvidia-alchemi-toolkit/",
+      "published_date": "2026-04-14T16:30:00+00:00",
+      "category": "Industry",
+      "description": "For decades, computational chemistry has faced a tug-of-war between accuracy and speed. Ab initio methods like density functional theory (DFT) provide high...",
+      "author": "Erica Tsai",
+      "content": "For decades, computational chemistry has faced a tug-of-war between accuracy and speed. Ab initio methods like density functional theory (DFT) provide high...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.885,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-23T09:56:03.074472+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-23T09:56:03.074475+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "d4ac19a629f3f45398df085f9b5bf69f",
+      "title": "Google Cloud AI Research Introduces ReasoningBank: A Memory Framework that Distills Reasoning Strategies from Agent Successes and Failures",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/04/23/google-cloud-ai-research-introduces-reasoningbank-a-memory-framework-that-distills-reasoning-strategies-from-agent-successes-and-failures/",
+      "published_date": "2026-04-23T07:26:06+00:00",
+      "category": "Industry",
+      "description": "A new memory framework from Google Cloud AI Research and UIUC gives LLM agents the ability to distill generalizable reasoning strategies from both successful and failed experiences — and combines that with test-time scaling to create agents that genuinely improve over time. The post Google Cloud AI Research Introduces ReasoningBank: A Memory Framework that Distills Reasoning Strategies from Agent Successes and Failures appeared first on MarkTechPost.",
+      "author": "Asif Razzaq",
+      "content": "A new memory framework from Google Cloud AI Research and UIUC gives LLM agents the ability to distill generalizable reasoning strategies from both successful and failed experiences — and combines that with test-time scaling to create agents that genuinely improve over time. The post Google Cloud AI Research Introduces ReasoningBank: A Memory Framework that Distills Reasoning Strategies from Agent Successes and Failures appeared first on MarkTechPost.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-23T09:56:03.075519+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-23T06:17:38.609922+00:00"
+        "timestamp": "2026-04-23T09:56:03.075534+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "aff644807f35cfdf0b8e3f72a31b51af",
+      "title": "Transform retail with AWS generative AI services",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/transform-retail-with-aws-generative-ai-services/",
+      "published_date": "2026-04-16T17:39:56+00:00",
+      "category": "Industry",
+      "description": "Online retailers face a persistent challenge: shoppers struggle to determine the fit and look when ordering online, leading to increased returns and decreased purchase confidence. The cost? Lost revenue, operational overhead, and customer frustration. Meanwhile, consumers increasingly expect immersive, interactive shopping experiences that bridge the gap between online and in-store retail. Retailers implementing virtual try-on […]",
+      "author": "Bhavya Chugh",
+      "content": "Online retailers face a persistent challenge: shoppers struggle to determine the fit and look when ordering online, leading to increased returns and decreased purchase confidence. The cost? Lost revenue, operational overhead, and customer frustration. Meanwhile, consumers increasingly expect immersive, interactive shopping experiences that bridge the gap between online and in-store retail. Retailers implementing virtual try-on […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-23T09:56:03.072706+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-23T09:56:03.072709+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8bc96cf927795ecd34da2911dec01da5",
+      "title": "Claude for Legal Teams: Contract Review, Compliance and Due Diligence",
+      "source": "nanonets_blog",
+      "url": "https://nanonets.com/blog/claude-legal-plugin-contract-review-compliance-due-diligence/",
+      "published_date": "2026-04-21T15:43:30+00:00",
+      "category": "Industry",
+      "description": "See how the Claude legal plugin helps in-house legal teams with contract review, compliance scanning, due diligence, obligations tracking, and drafting.",
+      "author": "Vinit Mehta",
+      "content": "See how the Claude legal plugin helps in-house legal teams with contract review, compliance scanning, due diligence, obligations tracking, and drafting.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-23T09:56:03.075338+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-23T09:56:03.075341+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4c52008d6b0a8b9a37a016e42db777cc",
+      "title": "Running Large-Scale GPU Workloads on Kubernetes with Slurm",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/running-large-scale-gpu-workloads-on-kubernetes-with-slurm/",
+      "published_date": "2026-04-09T17:00:00+00:00",
+      "category": "Industry",
+      "description": "Slurm is an open source cluster management and job scheduling system for Linux. It manages job scheduling for over 65% of TOP500 systems. Most organizations...",
+      "author": "Anton Polyakov",
+      "content": "Slurm is an open source cluster management and job scheduling system for Linux. It manages job scheduling for over 65% of TOP500 systems. Most organizations...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.98,
+        "overall_score": 0.881,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-23T09:56:03.074671+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-23T09:56:03.074674+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "1f81169f7a77c084d7e0d64c9149d023",
+      "title": "AI firms pioneering drug discovery, cheaper supercomputing and more get first backing through UK’s Sovereign AI",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/ai-firms-pioneering-drug-discovery-cheaper-supercomputing-and-more-get-first-backing-through-uks-sovereign-ai",
+      "published_date": "2026-04-16T17:30:06+00:00",
+      "category": "Government",
+      "description": "Sovereign AI is the UK’s £500 million bet to back homegrown AI founders, drive growth and create jobs across the UK.",
+      "author": "",
+      "content": "Sovereign AI is the UK’s £500 million bet to back homegrown AI founders, drive growth and create jobs across the UK.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8624999999999998,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-23T09:56:03.070326+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-23T09:56:03.070329+00:00"
       },
       "article_type": "article"
     },
@@ -416,227 +664,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.98,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-23T06:17:38.607562+00:00"
+        "consensus_timestamp": "2026-04-23T09:56:03.071228+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-23T06:17:38.607564+00:00"
+        "timestamp": "2026-04-23T09:56:03.071232+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "8a62e457da4c2598edd72be0e1d97f7f",
-      "title": "ChatGPT for operations teams",
+      "article_id": "f9e45104c6d6b6765538a0f73a5edfdf",
+      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
       "source": "openai_blog",
-      "url": "https://openai.com/academy/operations",
-      "published_date": "2026-04-10T00:00:00+00:00",
+      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "published_date": "2026-04-13T06:00:00+00:00",
       "category": "Industry",
-      "description": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
+      "description": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
       "author": "",
-      "content": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
+      "content": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.95,
         "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-23T06:17:38.607733+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-23T06:17:38.607735+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "13ee5bf611609015117fe31b4b7d380c",
-      "title": "Simplify Sparse Deep Learning with Universal Sparse Tensor in nvmath-python",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/simplify-sparse-deep-learning-with-universal-sparse-tensor-in-nvmath-python/",
-      "published_date": "2026-04-22T23:50:10+00:00",
-      "category": "Industry",
-      "description": "In a previous post, we introduced the Universal Sparse Tensor (UST), enabling developers to decouple a tensor’s sparsity from its memory layout for greater...",
-      "author": "Aart J.C. Bik",
-      "content": "In a previous post, we introduced the Universal Sparse Tensor (UST), enabling developers to decouple a tensor’s sparsity from its memory layout for greater...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-23T06:17:38.609785+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-23T06:17:38.609787+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "ca0bbd93002c883156b53a0963d6c949",
-      "title": "Scaling the AI-Ready Data Center with NVIDIA RTX PRO 4500 Blackwell Server Edition and NVIDIA vGPU 20",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/scaling-the-ai-ready-data-center-with-nvidia-rtx-pro-4500-blackwell-server-edition-and-nvidia-vgpu-20/",
-      "published_date": "2026-04-22T20:30:00+00:00",
-      "category": "Industry",
-      "description": "AI integration is redefining mainstream enterprise applications, from productivity software like Microsoft Office to more complex design and engineering tools....",
-      "author": "Phoebe Lee",
-      "content": "AI integration is redefining mainstream enterprise applications, from productivity software like Microsoft Office to more complex design and engineering tools....",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.87,
-        "confidence_mean": 0.85
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-23T06:17:38.609819+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-23T06:17:38.609821+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "139aa89c6d26ed26444025f1b84d75a8",
-      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
-      "published_date": "2026-04-15T16:03:19+00:00",
-      "category": "Industry",
-      "description": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
-      "author": "",
-      "content": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -668,7 +730,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-23T06:17:38.610417+00:00"
+        "consensus_timestamp": "2026-04-23T09:56:03.071410+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,26 +741,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-23T06:17:38.610419+00:00"
+        "timestamp": "2026-04-23T09:56:03.071413+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "61d15252f2084ff36fbb3101e2b2420a",
-      "title": "Isabelle/HOL: The proof assistant behind the Nitro Isolation Engine",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/isabelle-hol-the-proof-assistant-behind-the-nitro-isolation-engine",
-      "published_date": "2026-04-17T13:00:00+00:00",
+      "article_id": "5ec896221deb9de4b549398c576e76f8",
+      "title": "Microsoft Discovery: Advancing agentic R&D at scale",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/",
+      "published_date": "2026-04-22T16:00:00+00:00",
       "category": "Industry",
-      "description": "Isabelle/HOL's balance of expressiveness, automation, and scalability enabled the world's first formally verified cloud hypervisor.",
-      "author": "",
-      "content": "Isabelle/HOL's balance of expressiveness, automation, and scalability enabled the world's first formally verified cloud hypervisor.",
+      "description": "Expanded preview access for Microsoft Discovery brings new enterprise-grade, agentic AI capabilities for research and development teams. The post Microsoft Discovery: Advancing agentic R&D at scale appeared first on Microsoft Azure Blog.",
+      "author": "Aseem Datar",
+      "content": "Expanded preview access for Microsoft Discovery brings new enterprise-grade, agentic AI capabilities for research and development teams. The post Microsoft Discovery: Advancing agentic R&D at scale appeared first on Microsoft Azure Blog.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.85,
-        "overall_score": 0.8525000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -730,7 +792,7 @@
         "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-23T06:17:38.610486+00:00"
+        "consensus_timestamp": "2026-04-23T09:56:03.071754+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -741,26 +803,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-23T06:17:38.610487+00:00"
+        "timestamp": "2026-04-23T09:56:03.071757+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "892f208dcc167c37eda0e37f405cd2c3",
-      "title": "Edtech and AI companies invited to help build safe AI tutoring tools for disadvantaged pupils",
+      "article_id": "cc8c61bc9d740e9c00949c5f2e9044e9",
+      "title": "Guidance: Cyber Resilience Pledge",
       "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/edtech-and-ai-companies-invited-to-help-build-safe-ai-tutoring-tools-for-disadvantaged-pupils",
-      "published_date": "2026-04-16T21:30:02+00:00",
+      "url": "https://www.gov.uk/government/publications/cyber-resilience-pledge",
+      "published_date": "2026-04-22T08:30:00+00:00",
       "category": "Government",
-      "description": "The government is inviting EdTech companies and AI labs to bid to develop safe, personalised AI tutoring tools designed to improve learning outcomes, particularly for disadvantaged pupils.",
+      "description": "Organisations are invited to take the Cyber Resilience Pledge, which contains 3 actions that will have an immediate positive impact on resilience to cyber attacks.",
       "author": "",
-      "content": "The government is inviting EdTech companies and AI labs to bid to develop safe, personalised AI tutoring tools designed to improve learning outcomes, particularly for disadvantaged pupils.",
+      "content": "Organisations are invited to take the Cyber Resilience Pledge, which contains 3 actions that will have an immediate positive impact on resilience to cyber attacks.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.87,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -788,104 +850,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-23T06:17:38.606883+00:00"
+        "consensus_timestamp": "2026-04-23T09:56:03.070048+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-23T06:17:38.606886+00:00"
+        "timestamp": "2026-04-23T09:56:03.070052+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "8522b1df0e84249bd35e8022a3f6d0d0",
-      "title": "OpenAI Open-Sources Euphony: A Browser-Based Visualization Tool for Harmony Chat Data and Codex Session Logs",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/04/21/openai-open-sources-euphony-a-browser-based-visualization-tool-for-harmony-chat-data-and-codex-session-logs/",
-      "published_date": "2026-04-22T04:38:14+00:00",
+      "article_id": "20bb38556916b5bf2abce3c28ba32a4f",
+      "title": "ToolSimulator: scalable tool testing for AI agents",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/toolsimulator-scalable-tool-testing-for-ai-agents/",
+      "published_date": "2026-04-20T17:06:26+00:00",
       "category": "Industry",
-      "description": "Debugging an AI agent that runs for dozens of steps: reading files, calling APIs, writing code, and revising its own output, is not like debugging a regular function. There is no single stack trace to read. Instead, developers are left staring at hundreds of lines of raw JSON, trying to reconstruct what the model was […] The post OpenAI Open-Sources Euphony: A Browser-Based Visualization Tool for Harmony Chat Data and Codex Session Logs appeared first on MarkTechPost.",
-      "author": "Asif Razzaq",
-      "content": "Debugging an AI agent that runs for dozens of steps: reading files, calling APIs, writing code, and revising its own output, is not like debugging a regular function. There is no single stack trace to read. Instead, developers are left staring at hundreds of lines of raw JSON, trying to reconstruct what the model was […] The post OpenAI Open-Sources Euphony: A Browser-Based Visualization Tool for Harmony Chat Data and Codex Session Logs appeared first on MarkTechPost.",
+      "description": "You can use ToolSimulator, an LLM-powered tool simulation framework within Strands Evals, to thoroughly and safely test AI agents that rely on external tools, at scale. Instead of risking live API calls that expose personally identifiable information (PII), trigger unintended actions, or settling for static mocks that break with multi-turn workflows, you can use ToolSimulator's large language model (LLM)-powered simulations to validate your agents. Available today as part of the Strands Evals...",
+      "author": "Darren Wang",
+      "content": "You can use ToolSimulator, an LLM-powered tool simulation framework within Strands Evals, to thoroughly and safely test AI agents that rely on external tools, at scale. Instead of risking live API calls that expose personally identifiable information (PII), trigger unintended actions, or settling for static mocks that break with multi-turn workflows, you can use ToolSimulator's large language model (LLM)-powered simulations to validate your agents. Available today as part of the Strands Evals...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-23T06:17:38.610896+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-23T06:17:38.610897+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e695919d990bc8b95088daf6bdf94b58",
-      "title": "Any Color You Like: NIST Scientists Create ‘Any Wavelength’ Lasers in Tiny Circuits for Light",
-      "source": "nist_ai_news",
-      "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
-      "published_date": "2026-04-15T12:00:00+00:00",
-      "category": "Government",
-      "description": "NIST scientists and collaborators have pioneered a way to make integrated circuits for light by depositing complex patterns of specialized materials onto silicon wafers.",
-      "author": "Sarah Henderson",
-      "content": "NIST scientists and collaborators have pioneered a way to make integrated circuits for light by depositing complex patterns of specialized materials onto silicon wafers.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -912,22 +912,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.8,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-23T06:17:38.606063+00:00"
+        "consensus_timestamp": "2026-04-23T09:56:03.072306+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-23T06:17:38.606074+00:00"
+        "timestamp": "2026-04-23T09:56:03.072309+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 308.93930745124817,
+    "processing_time": 255.84081768989563,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 131,
+      "total_processed": 135,
       "candidates": {
         "headlines": 16,
-        "articles": 115,
+        "articles": 119,
         "research_papers": 0
       },
       "selected": {

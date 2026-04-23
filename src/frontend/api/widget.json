@@ -1,23 +1,23 @@
 {
-  "updated": "2026-04-23T06:17:38.643278+00:00",
+  "updated": "2026-04-23T09:56:03.119039+00:00",
   "top_stories": [
     {
-      "article_id": "327a35a8640b965f8e669ff791a188e1",
-      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+      "article_id": "52417ffc0164ca622a14f3b70b8c9556",
+      "title": "AI is spitting out more potential drugs than ever. This startup wants to figure out which ones matter.",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
-      "published_date": "2026-04-21T23:45:21+00:00",
+      "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+      "published_date": "2026-04-22T13:00:00+00:00",
       "category": "Industry",
-      "description": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
-      "author": "Lucas Ropek",
-      "content": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+      "description": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
+      "author": "Tim Fernholz",
+      "content": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.9
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -45,40 +45,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-23T06:17:38.609509+00:00"
+        "consensus_timestamp": "2026-04-23T09:56:03.073801+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-23T06:17:38.609511+00:00"
+        "timestamp": "2026-04-23T09:56:03.073804+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "1f81169f7a77c084d7e0d64c9149d023",
-      "title": "AI firms pioneering drug discovery, cheaper supercomputing and more get first backing through UK’s Sovereign AI",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/ai-firms-pioneering-drug-discovery-cheaper-supercomputing-and-more-get-first-backing-through-uks-sovereign-ai",
-      "published_date": "2026-04-16T17:30:06+00:00",
-      "category": "Government",
-      "description": "Sovereign AI is the UK’s £500 million bet to back homegrown AI founders, drive growth and create jobs across the UK.",
+      "article_id": "61d15252f2084ff36fbb3101e2b2420a",
+      "title": "Isabelle/HOL: The proof assistant behind the Nitro Isolation Engine",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/isabelle-hol-the-proof-assistant-behind-the-nitro-isolation-engine",
+      "published_date": "2026-04-17T13:00:00+00:00",
+      "category": "Industry",
+      "description": "Isabelle/HOL's balance of expressiveness, automation, and scalability enabled the world's first formally verified cloud hypervisor.",
       "author": "",
-      "content": "Sovereign AI is the UK’s £500 million bet to back homegrown AI founders, drive growth and create jobs across the UK.",
+      "content": "Isabelle/HOL's balance of expressiveness, automation, and scalability enabled the world's first formally verified cloud hypervisor.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -110,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-23T06:17:38.606954+00:00"
+        "consensus_timestamp": "2026-04-23T09:56:03.075024+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,150 +121,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-23T06:17:38.606956+00:00"
+        "timestamp": "2026-04-23T09:56:03.075027+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "e06cea984c29757938f1c609e947f4a2",
-      "title": "Power video semantic search with Amazon Nova Multimodal Embeddings",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/power-video-semantic-search-with-amazon-nova-multimodal-embeddings/",
-      "published_date": "2026-04-17T19:43:35+00:00",
-      "category": "Industry",
-      "description": "In this post, we show you how to build a video semantic search solution on Amazon Bedrock using Nova Multimodal Embeddings that intelligently understands user intent and retrieves accurate video results across all signal types simultaneously. We also share a reference implementation you can deploy and explore with your own content.",
-      "author": "Amit Kalawat",
-      "content": "In this post, we show you how to build a video semantic search solution on Amazon Bedrock using Nova Multimodal Embeddings that intelligently understands user intent and retrieves accurate video results across all signal types simultaneously. We also share a reference implementation you can deploy and explore with your own content.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-23T06:17:38.608505+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-23T06:17:38.608507+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "3fe49a0357baddce2336eef2dee852cc",
-      "title": "Scaling Codex to enterprises worldwide",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-      "published_date": "2026-04-21T00:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
-      "author": "",
-      "content": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-23T06:17:38.607459+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-23T06:17:38.607461+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e9fbc82c6ceb001624704e6a0aea0a48",
-      "title": "NVIDIA and Google Cloud Collaborate to Advance Agentic and Physical AI",
+      "article_id": "7a49386364922a736391ee10d6687264",
+      "title": "Rethinking AI TCO: Why Cost per Token Is the Only Metric That Matters",
       "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/google-cloud-agentic-physical-ai-factories/",
-      "published_date": "2026-04-22T12:00:42+00:00",
+      "url": "https://blogs.nvidia.com/blog/lowest-token-cost-ai-factories/",
+      "published_date": "2026-04-15T15:00:26+00:00",
       "category": "Industry",
-      "description": "NVIDIA and Google Cloud have collaborated for more than a decade, co‑engineering a full‑stack AI platform that spans every technology layer — from performance‑optimized libraries and frameworks to enterprise‑grade cloud services. This foundation enables developers, startups and enterprises to push agentic and physical AI out of the lab and into production — from agents that […]",
-      "author": "Ian Buck",
-      "content": "NVIDIA and Google Cloud have collaborated for more than a decade, co‑engineering a full‑stack AI platform that spans every technology layer — from performance‑optimized libraries and frameworks to enterprise‑grade cloud services. This foundation enables developers, startups and enterprises to push agentic and physical AI out of the lab and into production — from agents that […]",
+      "description": "Traditional data centers only stored, retrieved and processed data. In the generative and agentic AI era, these facilities have evolved into AI token factories. With AI inference becoming their primary workload, their primary output is intelligence manufactured in the form of tokens. This transformation demands a corresponding shift in how the economics of AI infrastructure, […]",
+      "author": "Shruti Koparkar",
+      "content": "Traditional data centers only stored, retrieved and processed data. In the generative and agentic AI era, these facilities have evolved into AI token factories. With AI inference becoming their primary workload, their primary output is intelligence manufactured in the form of tokens. This transformation demands a corresponding shift in how the economics of AI infrastructure, […]",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "impact_score": 0.99,
+        "overall_score": 0.9079999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -296,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-23T06:17:38.608809+00:00"
+        "consensus_timestamp": "2026-04-23T09:56:03.073150+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +183,131 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-23T06:17:38.608811+00:00"
+        "timestamp": "2026-04-23T09:56:03.073153+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a55d8a47b71e501dcba91a467efa00ef",
+      "title": "Rede Mater Dei de Saúde: Monitoring AI agents in the revenue cycle with Amazon Bedrock AgentCore",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/rede-mater-dei-de-saude-monitoring-ai-agents-in-the-revenue-cycle-with-amazon-bedrock-agentcore/",
+      "published_date": "2026-04-15T15:15:23+00:00",
+      "category": "Industry",
+      "description": "This post is cowritten by Renata Salvador Grande, Gabriel Bueno and Paulo Laurentys at Rede Mater Dei de Saúde. The growing adoption of multi-agent AI systems is redefining critical operations in healthcare. In large hospital networks, where thousands of decisions directly impact cash flow, service delivery times, and the risk of claim denials, the ability […]",
+      "author": "Renata Salvador Grande",
+      "content": "This post is cowritten by Renata Salvador Grande, Gabriel Bueno and Paulo Laurentys at Rede Mater Dei de Saúde. The growing adoption of multi-agent AI systems is redefining critical operations in healthcare. In large hospital networks, where thousands of decisions directly impact cash flow, service delivery times, and the risk of claim denials, the ability […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-23T09:56:03.072889+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-23T09:56:03.072891+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e0c3d178a8e5aa28edbf3e1a13c991d1",
+      "title": "Building Custom Atomistic Simulation Workflows for Chemistry and Materials Science with NVIDIA ALCHEMI Toolkit",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/building-custom-atomistic-simulation-workflows-for-chemistry-and-materials-science-with-nvidia-alchemi-toolkit/",
+      "published_date": "2026-04-14T16:30:00+00:00",
+      "category": "Industry",
+      "description": "For decades, computational chemistry has faced a tug-of-war between accuracy and speed. Ab initio methods like density functional theory (DFT) provide high...",
+      "author": "Erica Tsai",
+      "content": "For decades, computational chemistry has faced a tug-of-war between accuracy and speed. Ab initio methods like density functional theory (DFT) provide high...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.885,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-23T09:56:03.074472+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-23T09:56:03.074475+00:00"
       },
       "article_type": "article"
     }
