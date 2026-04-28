@@ -1,23 +1,23 @@
 {
-  "updated": "2026-04-28T17:57:02.462843+00:00",
+  "updated": "2026-04-28T21:18:29.800909+00:00",
   "top_stories": [
     {
-      "article_id": "01dd6eabc8d88a88a9992be9671e33c7",
-      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+      "article_id": "0fdb1f017a7e88d6d352d9a13ea6b348",
+      "title": "China blocks Meta’s $2B Manus deal after months-long probe",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-      "published_date": "2026-04-27T17:40:38+00:00",
+      "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+      "published_date": "2026-04-27T13:16:55+00:00",
       "category": "Industry",
-      "description": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
-      "author": "Julie Bort",
-      "content": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
+      "description": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+      "author": "Kate Park",
+      "content": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
-        "confidence_mean": 0.95
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.835,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,148 +44,24 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
+        "score": 0.8,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-28T17:57:02.432532+00:00"
+        "consensus_timestamp": "2026-04-28T21:18:29.770229+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.6799999999999999,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-28T17:57:02.432534+00:00"
+        "timestamp": "2026-04-28T21:18:29.770232+00:00"
       },
       "article_type": "headline"
-    },
-    {
-      "article_id": "139aa89c6d26ed26444025f1b84d75a8",
-      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
-      "published_date": "2026-04-15T16:03:19+00:00",
-      "category": "Industry",
-      "description": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
-      "author": "",
-      "content": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.9285000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-28T17:57:02.434103+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-28T17:57:02.434108+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "f0357e62f5fb005cc70d7721ebf6c02d",
-      "title": "NVIDIA Nemotron 3 Nano Omni Powers Multimodal Agent Reasoning in a Single Efficient Open Model",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-nano-omni-powers-multimodal-agent-reasoning-in-a-single-efficient-open-model/",
-      "published_date": "2026-04-28T16:01:12+00:00",
-      "category": "Industry",
-      "description": "Agentic systems often reason across screens, documents, audio, video, and text within a single perception‑to‑action loop. However, they still rely on...",
-      "author": "Anjali Shah",
-      "content": "Agentic systems often reason across screens, documents, audio, video, and text within a single perception‑to‑action loop. However, they still rely on...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-28T17:57:02.433222+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-28T17:57:02.433225+00:00"
-      },
-      "article_type": "article"
     },
     {
       "article_id": "a0bda89789570c5ac8c69cbb743aefd2",
@@ -231,41 +107,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-28T17:57:02.429706+00:00"
+        "consensus_timestamp": "2026-04-28T21:18:29.767171+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-28T17:57:02.429709+00:00"
+        "timestamp": "2026-04-28T21:18:29.767174+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "dff5c97c4c8494329ab85f86c71e7141",
-      "title": "Introducing workspace agents in ChatGPT",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-      "published_date": "2026-04-22T10:00:00+00:00",
+      "article_id": "4cf0f29c4f975b50168a9632f5a4f4f5",
+      "title": "Amazon SageMaker AI now supports optimized generative AI inference recommendations",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-supports-optimized-generative-ai-inference-recommendations/",
+      "published_date": "2026-04-22T19:15:08+00:00",
       "category": "Industry",
-      "description": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
-      "author": "",
-      "content": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+      "description": "Today, Amazon SageMaker AI supports optimized generative AI inference recommendations. By delivering validated, optimal deployment configurations with performance metrics, Amazon SageMaker AI keeps your model developers focused on building accurate models, not managing infrastructure.",
+      "author": "Mona Mona",
+      "content": "Today, Amazon SageMaker AI supports optimized generative AI inference recommendations. By delivering validated, optimal deployment configurations with performance metrics, Amazon SageMaker AI keeps your model developers focused on building accurate models, not managing infrastructure.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.95,
         "overall_score": 0.8875,
-        "confidence_mean": 0.9
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -296,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-28T17:57:02.430525+00:00"
+        "consensus_timestamp": "2026-04-28T21:18:29.768780+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +183,131 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-28T17:57:02.430528+00:00"
+        "timestamp": "2026-04-28T21:18:29.768783+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b4c8f4c3cb4662a1af14fcfdeabcbbb4",
+      "title": "AI Builders Summit: Healthcare Boston 2026",
+      "source": "ai_accelerator_institute",
+      "url": "https://www.aiacceleratorinstitute.com/ai-builders-summit-healthcare-boston-2026/",
+      "published_date": "2026-04-28T13:56:24+00:00",
+      "category": "Industry",
+      "description": "Build and deploy secure, clinical-grade AI in one of the world’s most complex domains; healthcare.",
+      "author": "AIAI",
+      "content": "Build and deploy secure, clinical-grade AI in one of the world’s most complex domains; healthcare.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-28T21:18:29.771757+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-28T21:18:29.771760+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "268aeb32296dd57faee3ffa0ae7f0e35",
+      "title": "24/7 Simulation Loops: How Agentic AI Keeps Subsurface Engineering Moving",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/24-7-simulation-loops-how-agentic-ai-keeps-subsurface-engineering-moving/",
+      "published_date": "2026-04-28T15:00:00+00:00",
+      "category": "Industry",
+      "description": "The subsurface industry is at a critical point in its digital evolution. For decades, unlocking reservoir potential has relied on experts performing essential...",
+      "author": "Tsubasa Onishi",
+      "content": "The subsurface industry is at a critical point in its digital evolution. For decades, unlocking reservoir potential has relied on experts performing essential...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.87,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-28T21:18:29.770748+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-28T21:18:29.770751+00:00"
       },
       "article_type": "article"
     }
