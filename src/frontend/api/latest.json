@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-04-28T21:18:29.798151+00:00",
+  "generated_at": "2026-04-29T03:47:00.402497+00:00",
   "articles": [
     {
-      "article_id": "0fdb1f017a7e88d6d352d9a13ea6b348",
-      "title": "China blocks Meta’s $2B Manus deal after months-long probe",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
-      "published_date": "2026-04-27T13:16:55+00:00",
+      "article_id": "d9f1547f17ffffe8b4ad99902e2ee760",
+      "title": "OpenAI Releases Privacy Filter: A 1.5B-Parameter Open-Source PII Redaction Model with 50M Active Parameters",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/04/28/openai-releases-privacy-filter-a-1-5b-parameter-open-source-pii-redaction-model-with-50m-active-parameters/",
+      "published_date": "2026-04-28T21:37:57+00:00",
       "category": "Industry",
-      "description": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
-      "author": "Kate Park",
-      "content": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+      "description": "OpenAI's Privacy Filter Is a 1.5B-Parameter PII Detector Built on a Distilled Decoder — And It Runs in Your Browser The post OpenAI Releases Privacy Filter: A 1.5B-Parameter Open-Source PII Redaction Model with 50M Active Parameters appeared first on MarkTechPost.",
+      "author": "Asif Razzaq",
+      "content": "OpenAI's Privacy Filter Is a 1.5B-Parameter PII Detector Built on a Distilled Decoder — And It Runs in Your Browser The post OpenAI Releases Privacy Filter: A 1.5B-Parameter Open-Source PII Redaction Model with 50M Active Parameters appeared first on MarkTechPost.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
         "impact_score": 0.95,
-        "overall_score": 0.835,
+        "overall_score": 0.925,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -44,24 +44,272 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-28T21:18:29.770229+00:00"
+        "consensus_timestamp": "2026-04-29T03:47:00.372784+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-29T03:47:00.372787+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "e84d6cb8926bdce2bd8d8ea98bd8e162",
+      "title": "Accelerate Generative AI Inference on Amazon SageMaker AI with G7e Instances",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-on-amazon-sagemaker-ai-with-g7e-instances/",
+      "published_date": "2026-04-20T19:38:10+00:00",
+      "category": "Industry",
+      "description": "Today, we are thrilled to announce the availability of G7e instances powered by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs on Amazon SageMaker AI. You can provision nodes with 1, 2, 4, and 8 RTX PRO 6000 GPU instances, with each GPU providing 96 GB of GDDR7 memory. This launch provides the capability to use a single-node GPU, G7e.2xlarge instance to host powerful open source foundation models (FMs) like GPT-OSS-120B, Nemotron-3-Super-120B-A12B (NVFP4 variant), and Qwen3.5-35B-A3B,...",
+      "author": "Hazim Qudah",
+      "content": "Today, we are thrilled to announce the availability of G7e instances powered by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs on Amazon SageMaker AI. You can provision nodes with 1, 2, 4, and 8 RTX PRO 6000 GPU instances, with each GPU providing 96 GB of GDDR7 memory. This launch provides the capability to use a single-node GPU, G7e.2xlarge instance to host powerful open source foundation models (FMs) like GPT-OSS-120B, Nemotron-3-Super-120B-A12B (NVFP4 variant), and Qwen3.5-35B-A3B,...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-29T03:47:00.369813+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-29T03:47:00.369816+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "7a49386364922a736391ee10d6687264",
+      "title": "Rethinking AI TCO: Why Cost per Token Is the Only Metric That Matters",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/lowest-token-cost-ai-factories/",
+      "published_date": "2026-04-15T15:00:26+00:00",
+      "category": "Industry",
+      "description": "Traditional data centers only stored, retrieved and processed data. In the generative and agentic AI era, these facilities have evolved into AI token factories. With AI inference becoming their primary workload, their primary output is intelligence manufactured in the form of tokens. This transformation demands a corresponding shift in how the economics of AI infrastructure, […]",
+      "author": "Shruti Koparkar",
+      "content": "Traditional data centers only stored, retrieved and processed data. In the generative and agentic AI era, these facilities have evolved into AI token factories. With AI inference becoming their primary workload, their primary output is intelligence manufactured in the form of tokens. This transformation demands a corresponding shift in how the economics of AI infrastructure, […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-29T03:47:00.370539+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-29T03:47:00.370542+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "d7c28a24c8722df830cac5966835cb3a",
+      "title": "Policy paper: UK Compute Roadmap",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/uk-compute-roadmap",
+      "published_date": "2026-04-23T15:11:20+00:00",
+      "category": "Government",
+      "description": "Our plan to build a world-class compute ecosystem that provides a platform for innovation, growth and opportunity across the economy.",
+      "author": "",
+      "content": "Our plan to build a world-class compute ecosystem that provides a platform for innovation, growth and opportunity across the economy.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-29T03:47:00.367129+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-29T03:47:00.367131+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "051014cdc22142107481634851563d73",
+      "title": "Winning a Kaggle Competition with Generative AI–Assisted Coding",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/winning-a-kaggle-competition-with-generative-ai-assisted-coding/",
+      "published_date": "2026-04-23T20:15:02+00:00",
+      "category": "Industry",
+      "description": "In March 2026, three LLM agents generated over 600,000 lines of code, ran 850 experiments, and helped secure a first-place finish in a Kaggle playground...",
+      "author": "Chris Deotte",
+      "content": "In March 2026, three LLM agents generated over 600,000 lines of code, ran 850 experiments, and helped secure a first-place finish in a Kaggle playground...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-29T03:47:00.371732+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-28T21:18:29.770232+00:00"
+        "timestamp": "2026-04-29T03:47:00.371735+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
       "article_id": "a0bda89789570c5ac8c69cbb743aefd2",
@@ -110,7 +358,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-28T21:18:29.767171+00:00"
+        "consensus_timestamp": "2026-04-29T03:47:00.368242+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,27 +369,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-28T21:18:29.767174+00:00"
+        "timestamp": "2026-04-29T03:47:00.368245+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "4cf0f29c4f975b50168a9632f5a4f4f5",
-      "title": "Amazon SageMaker AI now supports optimized generative AI inference recommendations",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-supports-optimized-generative-ai-inference-recommendations/",
-      "published_date": "2026-04-22T19:15:08+00:00",
+      "article_id": "d3cba9ef81d6fc5003a01e10653b4111",
+      "title": "Scaling Biomolecular Modeling Using Context Parallelism in NVIDIA BioNeMo",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/scaling-biomolecular-modeling-using-context-parallelism-in-nvidia-bionemo/",
+      "published_date": "2026-04-28T19:00:00+00:00",
       "category": "Industry",
-      "description": "Today, Amazon SageMaker AI supports optimized generative AI inference recommendations. By delivering validated, optimal deployment configurations with performance metrics, Amazon SageMaker AI keeps your model developers focused on building accurate models, not managing infrastructure.",
-      "author": "Mona Mona",
-      "content": "Today, Amazon SageMaker AI supports optimized generative AI inference recommendations. By delivering validated, optimal deployment configurations with performance metrics, Amazon SageMaker AI keeps your model developers focused on building accurate models, not managing infrastructure.",
+      "description": "For decades, computational biology has operated under a reductionist compromise. To fit complex biological systems into the limited memory of a single GPU,...",
+      "author": "Dejun Lin",
+      "content": "For decades, computational biology has operated under a reductionist compromise. To fit complex biological systems into the limited memory of a single GPU,...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.95
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -169,41 +417,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-28T21:18:29.768780+00:00"
+        "consensus_timestamp": "2026-04-29T03:47:00.371548+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-28T21:18:29.768783+00:00"
+        "timestamp": "2026-04-29T03:47:00.371551+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "b4c8f4c3cb4662a1af14fcfdeabcbbb4",
-      "title": "AI Builders Summit: Healthcare Boston 2026",
-      "source": "ai_accelerator_institute",
-      "url": "https://www.aiacceleratorinstitute.com/ai-builders-summit-healthcare-boston-2026/",
-      "published_date": "2026-04-28T13:56:24+00:00",
+      "article_id": "2892c6fcd76b6052a30b879d2e40b1d9",
+      "title": "Announcing our partnership with the Republic of Korea",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "published_date": "2026-04-27T07:00:06+00:00",
       "category": "Industry",
-      "description": "Build and deploy secure, clinical-grade AI in one of the world’s most complex domains; healthcare.",
-      "author": "AIAI",
-      "content": "Build and deploy secure, clinical-grade AI in one of the world’s most complex domains; healthcare.",
+      "description": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+      "author": "",
+      "content": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
+        "impact_score": 0.9,
+        "overall_score": 0.8775000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -234,7 +482,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-28T21:18:29.771757+00:00"
+        "consensus_timestamp": "2026-04-29T03:47:00.372363+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,150 +493,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-28T21:18:29.771760+00:00"
+        "timestamp": "2026-04-29T03:47:00.372365+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "268aeb32296dd57faee3ffa0ae7f0e35",
-      "title": "24/7 Simulation Loops: How Agentic AI Keeps Subsurface Engineering Moving",
+      "article_id": "ca0bbd93002c883156b53a0963d6c949",
+      "title": "Scaling the AI-Ready Data Center with NVIDIA RTX PRO 4500 Blackwell Server Edition and NVIDIA vGPU 20",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/24-7-simulation-loops-how-agentic-ai-keeps-subsurface-engineering-moving/",
-      "published_date": "2026-04-28T15:00:00+00:00",
+      "url": "https://developer.nvidia.com/blog/scaling-the-ai-ready-data-center-with-nvidia-rtx-pro-4500-blackwell-server-edition-and-nvidia-vgpu-20/",
+      "published_date": "2026-04-22T20:30:00+00:00",
       "category": "Industry",
-      "description": "The subsurface industry is at a critical point in its digital evolution. For decades, unlocking reservoir potential has relied on experts performing essential...",
-      "author": "Tsubasa Onishi",
-      "content": "The subsurface industry is at a critical point in its digital evolution. For decades, unlocking reservoir potential has relied on experts performing essential...",
+      "description": "AI integration is redefining mainstream enterprise applications, from productivity software like Microsoft Office to more complex design and engineering tools....",
+      "author": "Phoebe Lee",
+      "content": "AI integration is redefining mainstream enterprise applications, from productivity software like Microsoft Office to more complex design and engineering tools....",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.87,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-28T21:18:29.770748+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-28T21:18:29.770751+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "22b550a7c318b9617d810809f75d0c56",
-      "title": "How Popsa used Amazon Nova to inspire customers with personalised title suggestions",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-popsa-used-amazon-nova-to-inspire-customers-with-personalised-title-suggestions/",
-      "published_date": "2026-04-27T16:45:37+00:00",
-      "category": "Industry",
-      "description": "In this post, we share how we applied Amazon Bedrock and the Amazon Nova family of models to reimagine our Title Suggestion feature. By combining metadata, computer vision, and retrieval-augmented generative AI, we now automatically generate creative, brand-aligned titles and subtitles across 12 languages. Using the unified API of Amazon Bedrock, Anthropic’s Claude 3 Haiku, and Amazon Nova Lite and Pro, we improved quality, reduced cost, and cut response times. This resulted in higher customer...",
-      "author": "Bradley Grantham",
-      "content": "In this post, we share how we applied Amazon Bedrock and the Amazon Nova family of models to reimagine our Title Suggestion feature. By combining metadata, computer vision, and retrieval-augmented generative AI, we now automatically generate creative, brand-aligned titles and subtitles across 12 languages. Using the unified API of Amazon Bedrock, Anthropic’s Claude 3 Haiku, and Amazon Nova Lite and Pro, we improved quality, reduced cost, and cut response times. This resulted in higher customer...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-28T21:18:29.768554+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-28T21:18:29.768556+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "13ee5bf611609015117fe31b4b7d380c",
-      "title": "Simplify Sparse Deep Learning with Universal Sparse Tensor in nvmath-python",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/simplify-sparse-deep-learning-with-universal-sparse-tensor-in-nvmath-python/",
-      "published_date": "2026-04-22T23:50:10+00:00",
-      "category": "Industry",
-      "description": "In a previous post, we introduced the Universal Sparse Tensor (UST), enabling developers to decouple a tensor’s sparsity from its memory layout for greater...",
-      "author": "Aart J.C. Bik",
-      "content": "In a previous post, we introduced the Universal Sparse Tensor (UST), enabling developers to decouple a tensor’s sparsity from its memory layout for greater...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.875,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -420,7 +544,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-28T21:18:29.770922+00:00"
+        "consensus_timestamp": "2026-04-29T03:47:00.371863+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -431,27 +555,89 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-28T21:18:29.770925+00:00"
+        "timestamp": "2026-04-29T03:47:00.371866+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "a283148870e4b5a86c620411a6f4b103",
-      "title": "3 easy ways to get the most out  of Claude Code",
-      "source": "ai_accelerator_institute",
-      "url": "https://www.aiacceleratorinstitute.com/3-easy-ways-to-get-the-most-out-of-claude-code/",
-      "published_date": "2026-04-16T14:05:01+00:00",
+      "article_id": "e91722175095c548fa72b186d3123e24",
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "published_date": "2026-04-22T10:00:00+00:00",
       "category": "Industry",
-      "description": "Everyone is talking about Claude Code. With millions of weekly downloads and a rapidly expanding feature set, it has quietly become one of the most powerful tools in a developer's arsenal. But most people are barely scratching the surface.",
-      "author": "Andrew Lovell",
-      "content": "Everyone is talking about Claude Code. With millions of weekly downloads and a rapidly expanding feature set, it has quietly become one of the most powerful tools in a developer's arsenal. But most people are barely scratching the surface.",
+      "description": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "author": "",
+      "content": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-29T03:47:00.369310+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-29T03:47:00.369313+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8bc96cf927795ecd34da2911dec01da5",
+      "title": "Claude for Legal Teams: Contract Review, Compliance and Due Diligence",
+      "source": "nanonets_blog",
+      "url": "https://nanonets.com/blog/claude-legal-plugin-contract-review-compliance-due-diligence/",
+      "published_date": "2026-04-21T15:43:30+00:00",
+      "category": "Industry",
+      "description": "See how the Claude legal plugin helps in-house legal teams with contract review, compliance scanning, due diligence, obligations tracking, and drafting.",
+      "author": "Vinit Mehta",
+      "content": "See how the Claude legal plugin helps in-house legal teams with contract review, compliance scanning, due diligence, obligations tracking, and drafting.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.9,
         "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.9
+        "confidence_mean": 0.85
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -479,145 +665,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-28T21:18:29.772036+00:00"
+        "consensus_timestamp": "2026-04-29T03:47:00.372648+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-28T21:18:29.772039+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "5ec896221deb9de4b549398c576e76f8",
-      "title": "Microsoft Discovery: Advancing agentic R&D at scale",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/",
-      "published_date": "2026-04-22T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Expanded preview access for Microsoft Discovery brings new enterprise-grade, agentic AI capabilities for research and development teams. The post Microsoft Discovery: Advancing agentic R&D at scale appeared first on Microsoft Azure Blog.",
-      "author": "Aseem Datar",
-      "content": "Expanded preview access for Microsoft Discovery brings new enterprise-grade, agentic AI capabilities for research and development teams. The post Microsoft Discovery: Advancing agentic R&D at scale appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-28T21:18:29.768153+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-28T21:18:29.768156+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "96614b81895116bea56084dca2042bed",
-      "title": "Advancing Emerging Optimizers for Accelerated LLM Training with NVIDIA Megatron",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/advancing-emerging-optimizers-for-accelerated-llm-training-with-nvidia-megatron/",
-      "published_date": "2026-04-22T20:01:03+00:00",
-      "category": "Industry",
-      "description": "Higher-order optimization algorithms such as Shampoo have been effectively applied in neural network training for at least a decade. These methods have achieved...",
-      "author": "Hao Wu",
-      "content": "Higher-order optimization algorithms such as Shampoo have been effectively applied in neural network training for at least a decade. These methods have achieved...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.85,
-        "overall_score": 0.86,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-28T21:18:29.771017+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-28T21:18:29.771019+00:00"
+        "timestamp": "2026-04-29T03:47:00.372651+00:00"
       },
       "article_type": "article"
     },
@@ -668,7 +730,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-28T21:18:29.767319+00:00"
+        "consensus_timestamp": "2026-04-29T03:47:00.368388+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,7 +741,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-28T21:18:29.767322+00:00"
+        "timestamp": "2026-04-29T03:47:00.368391+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ece8002912fe3ec6e75393bf8600f628",
+      "title": "An open-source spec for orchestration: Symphony",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "published_date": "2026-04-27T00:00:00+00:00",
+      "category": "Industry",
+      "description": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+      "author": "",
+      "content": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-29T03:47:00.368629+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-29T03:47:00.368632+00:00"
       },
       "article_type": "article"
     },
@@ -699,7 +823,7 @@
         "novelty_score": 0.8,
         "impact_score": 0.9,
         "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.8
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -726,103 +850,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.8,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-28T21:18:29.765950+00:00"
+        "consensus_timestamp": "2026-04-29T03:47:00.366206+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-28T21:18:29.765955+00:00"
+        "timestamp": "2026-04-29T03:47:00.366218+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "ade37d5eda38d5a7bf7d91104b23f2c7",
-      "title": "Run High-Throughput Reinforcement Learning Training with End-to-End FP8 Precision",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/run-high-throughput-reinforcement-learning-training-with-end-to-end-fp8-precision/",
-      "published_date": "2026-04-20T22:52:15+00:00",
+      "article_id": "db8943eb6a50c04b82c7af4e3c7cd100",
+      "title": "Into the Omniverse: Manufacturing’s Simulation-First Era Has Arrived",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/manufacturing-simulation-first/",
+      "published_date": "2026-04-28T13:00:33+00:00",
       "category": "Industry",
-      "description": "As LLMs transition from simple text generation to complex reasoning, reinforcement learning (RL) plays a central role. Algorithms like Group Relative Policy...",
-      "author": "Guyue Huang",
-      "content": "As LLMs transition from simple text generation to complex reasoning, reinforcement learning (RL) plays a central role. Algorithms like Group Relative Policy...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.85,
-        "impact_score": 0.9,
-        "overall_score": 0.8625,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-28T21:18:29.771115+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-28T21:18:29.771117+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "26b8d5459866ed41afd7d503a387c0c5",
-      "title": "NIH awards top scientific teams for innovations linking nutrition and autoimmune disease",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-awards-top-scientific-teams-innovations-linking-nutrition-autoimmune-disease",
-      "published_date": "2026-04-28T21:13:14.613567+00:00",
-      "category": "Government",
-      "description": "Competition&nbsp;sought bold ideas to better understand how dietary interventions could influence disease onset and symptom management.",
-      "author": "",
-      "content": "Competition&nbsp;sought bold ideas to better understand how dietary interventions could influence disease onset and symptom management.",
+      "description": "Manufacturing’s traditional design-build-test cycle rested on a single assumption: Real-world testing was the only reliable test environment.",
+      "author": "Bhoomi Gadhia",
+      "content": "Manufacturing’s traditional design-build-test cycle rested on a single assumption: Real-world testing was the only reliable test environment.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
-        "novelty_score": 0.7,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.82,
+        "overall_score": 0.8450000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -851,83 +913,21 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-28T21:18:29.766303+00:00"
+        "consensus_timestamp": "2026-04-29T03:47:00.370168+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-28T21:18:29.766309+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d7c28a24c8722df830cac5966835cb3a",
-      "title": "Policy paper: UK Compute Roadmap",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/uk-compute-roadmap",
-      "published_date": "2026-04-23T15:11:20+00:00",
-      "category": "Government",
-      "description": "Our plan to build a world-class compute ecosystem that provides a platform for innovation, growth and opportunity across the economy.",
-      "author": "",
-      "content": "Our plan to build a world-class compute ecosystem that provides a platform for innovation, growth and opportunity across the economy.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-28T21:18:29.766723+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-28T21:18:29.766726+00:00"
+        "timestamp": "2026-04-29T03:47:00.370171+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 256.3552875518799,
+    "processing_time": 235.59153056144714,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 120,
+      "total_processed": 126,
       "candidates": {
-        "headlines": 11,
-        "articles": 109,
+        "headlines": 13,
+        "articles": 113,
         "research_papers": 0
       },
       "selected": {
