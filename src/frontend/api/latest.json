@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T13:46:10.085985+00:00",
+  "generated_at": "2026-05-01T17:10:12.635304+00:00",
   "articles": [
     {
       "article_id": "22cbf9f304a322806b761cb05c7ef6fe",
@@ -12,12 +12,12 @@
       "author": "Lucas Ropek",
       "content": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,24 +44,86 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.85,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-01T13:46:10.054187+00:00"
+        "consensus_timestamp": "2026-05-01T17:10:12.606123+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-01T13:46:10.054189+00:00"
+        "timestamp": "2026-05-01T17:10:12.606125+00:00"
       },
       "article_type": "headline"
+    },
+    {
+      "article_id": "e913f52da87bffdcad84873e48eab808",
+      "title": "NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
+      "published_date": "2026-04-28T16:00:28+00:00",
+      "category": "Industry",
+      "description": "AI agent systems today juggle separate models for vision, speech and language — losing time and context as they pass data from one model to the other. Unveiled today, NVIDIA Nemotron 3 Nano Omni is an open multimodal model that brings these capabilities together into one system, enabling agents to deliver faster, smarter responses with […]",
+      "author": "Kari Briski",
+      "content": "AI agent systems today juggle separate models for vision, speech and language — losing time and context as they pass data from one model to the other. Unveiled today, NVIDIA Nemotron 3 Nano Omni is an open multimodal model that brings these capabilities together into one system, enabling agents to deliver faster, smarter responses with […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-01T17:10:12.604971+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-01T17:10:12.604974+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "297f083cc62c5709bd2262e81c43de5e",
@@ -107,34 +169,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-01T13:46:10.051883+00:00"
+        "consensus_timestamp": "2026-05-01T17:10:12.603783+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-01T13:46:10.051886+00:00"
+        "timestamp": "2026-05-01T17:10:12.603786+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "667a128a811e614db10bb6c5220ea3d6",
-      "title": "NIH-funded AI model predicts cancer survival from single-cell tumor data",
+      "article_id": "457a5393cfd8b5b7a6de39eebda1c302",
+      "title": "NIH researchers discover pain-relieving drug with minimal addictive properties",
       "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-ai-model-predicts-cancer-survival-single-cell-tumor-data",
-      "published_date": "2026-05-01T13:40:38.657986+00:00",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-researchers-discover-pain-relieving-drug-minimal-addictive-properties",
+      "published_date": "2026-05-01T17:03:29.289337+00:00",
       "category": "Government",
-      "description": "Study links specific cell populations to patient risk in melanoma and liver cancer.",
+      "description": "Positive safety profile of novel&nbsp;drug&nbsp;compound&nbsp;is surprise&nbsp;for&nbsp;class of synthetic opioids&nbsp;shelved&nbsp;years ago.",
       "author": "",
-      "content": "Study links specific cell populations to patient risk in melanoma and liver cancer.",
+      "content": "Positive safety profile of novel&nbsp;drug&nbsp;compound&nbsp;is surprise&nbsp;for&nbsp;class of synthetic opioids&nbsp;shelved&nbsp;years ago.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -168,22 +230,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.98,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-01T13:46:10.049121+00:00"
+        "consensus_timestamp": "2026-05-01T17:10:12.601756+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-01T13:46:10.049125+00:00"
+        "timestamp": "2026-05-01T17:10:12.601760+00:00"
       },
       "article_type": "article"
     },
@@ -230,41 +292,227 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.98,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-01T13:46:10.049626+00:00"
+        "consensus_timestamp": "2026-05-01T17:10:12.602039+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-01T13:46:10.049629+00:00"
+        "timestamp": "2026-05-01T17:10:12.602043+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "9432f641c93b553cf1f07da4ee5399ce",
-      "title": "How catastrophic is your LLM?",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/how-catastrophic-is-your-llm",
-      "published_date": "2026-04-27T19:01:26+00:00",
-      "category": "Industry",
-      "description": "A new framework provides a statistical method for estimating the likelihood of catastrophic failures in large language models in adversarial conversations.",
+      "article_id": "d7c28a24c8722df830cac5966835cb3a",
+      "title": "Policy paper: UK Compute Roadmap",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/uk-compute-roadmap",
+      "published_date": "2026-04-23T15:11:20+00:00",
+      "category": "Government",
+      "description": "Our plan to build a world-class compute ecosystem that provides a platform for innovation, growth and opportunity across the economy.",
       "author": "",
-      "content": "A new framework provides a statistical method for estimating the likelihood of catastrophic failures in large language models in adversarial conversations.",
+      "content": "Our plan to build a world-class compute ecosystem that provides a platform for innovation, growth and opportunity across the economy.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-01T17:10:12.602676+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-01T17:10:12.602679+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a04779e27f930c62f7d12889b633ee8e",
+      "title": "Guidance: Regulatory Innovation Office: Front Door pilot",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/regulatory-innovation-office-front-door-pilot",
+      "published_date": "2026-04-20T14:26:36+00:00",
+      "category": "Government",
+      "description": "Businesses can use the Front Door pilot to tell us about regulatory barriers.",
+      "author": "",
+      "content": "Businesses can use the Front Door pilot to tell us about regulatory barriers.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-01T17:10:12.602819+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-01T17:10:12.602822+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "94e4295985de8c6001f79696ff562813",
+      "title": "Federated Learning Without the Refactoring Overhead Using NVIDIA FLARE",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/federated-learning-without-the-refactoring-overhead-using-nvidia-flare/",
+      "published_date": "2026-04-24T15:00:00+00:00",
+      "category": "Industry",
+      "description": "Federated learning (FL) is no longer a research curiosity—it’s a practical response to a hard constraint: the most valuable data is often the least movable....",
+      "author": "Holger Roth",
+      "content": "Federated learning (FL) is no longer a research curiosity—it’s a practical response to a hard constraint: the most valuable data is often the least movable....",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.895,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.93,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-01T17:10:12.606658+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.758,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-01T17:10:12.606660+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ade37d5eda38d5a7bf7d91104b23f2c7",
+      "title": "Run High-Throughput Reinforcement Learning Training with End-to-End FP8 Precision",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/run-high-throughput-reinforcement-learning-training-with-end-to-end-fp8-precision/",
+      "published_date": "2026-04-20T22:52:15+00:00",
+      "category": "Industry",
+      "description": "As LLMs transition from simple text generation to complex reasoning, reinforcement learning (RL) plays a central role. Algorithms like Group Relative Policy...",
+      "author": "Guyue Huang",
+      "content": "As LLMs transition from simple text generation to complex reasoning, reinforcement learning (RL) plays a central role. Algorithms like Group Relative Policy...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -296,7 +544,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-01T13:46:10.055650+00:00"
+        "consensus_timestamp": "2026-05-01T17:10:12.606941+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,82 +555,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-01T13:46:10.055653+00:00"
+        "timestamp": "2026-05-01T17:10:12.606944+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "632763f556f570bc186294d6e9f42863",
-      "title": "Britain must secure greater control and leverage over AI to protect our national security in fractured world",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/britain-must-secure-greater-control-and-leverage-over-ai-to-protect-our-national-security-in-fractured-world",
-      "published_date": "2026-04-28T11:00:00+00:00",
-      "category": "Government",
-      "description": "In a landmark speech, the Technology Secretary said there must be a “decisive move” towards backing more British tech companies as AI reshapes global power, security and prosperity.",
-      "author": "",
-      "content": "In a landmark speech, the Technology Secretary said there must be a “decisive move” towards backing more British tech companies as AI reshapes global power, security and prosperity.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-01T13:46:10.049857+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-01T13:46:10.049860+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "6d51b33a1f2b777c996f30f8837536f7",
-      "title": "Standard Intelligence: Training General Intelligence in Pixel Space",
-      "source": "sequoia_ai",
-      "url": "https://sequoiacap.com/article/standard-intelligence-training-general-intelligence-in-pixel-space/",
-      "published_date": "2026-04-30T14:00:29+00:00",
-      "category": "Startups",
-      "description": "The post Standard Intelligence: Training General Intelligence in Pixel Space appeared first on Sequoia Capital.",
-      "author": "amoore",
-      "content": "The post Standard Intelligence: Training General Intelligence in Pixel Space appeared first on Sequoia Capital.",
+      "article_id": "118db8efedabe72f7713ec31f510886b",
+      "title": "Organizing Agents’ memory at scale: Namespace design patterns in AgentCore Memory",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/organizing-agents-memory-at-scale-namespace-design-patterns-in-agentcore-memory/",
+      "published_date": "2026-04-29T19:31:54+00:00",
+      "category": "Industry",
+      "description": "In this post, you will learn how to design namespace hierarchies, choose the right retrieval patterns, and implement AWS Identity and Access Management (IAM)-based access control for AgentCore Memory.",
+      "author": "Noor Randhawa",
+      "content": "In this post, you will learn how to design namespace hierarchies, choose the right retrieval patterns, and implement AWS Identity and Access Management (IAM)-based access control for AgentCore Memory.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
@@ -416,165 +602,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
+        "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-01T13:46:10.055327+00:00"
+        "consensus_timestamp": "2026-05-01T17:10:12.604230+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
+        "weighted_score": 0.74,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-01T13:46:10.055332+00:00"
+        "timestamp": "2026-05-01T17:10:12.604233+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "2892c6fcd76b6052a30b879d2e40b1d9",
-      "title": "Announcing our partnership with the Republic of Korea",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
-      "published_date": "2026-04-27T07:00:06+00:00",
+      "article_id": "eb69271125beb7e5c3503411262a7ce9",
+      "title": "NVIDIA Nemotron 3 Nano Omni model now available on Amazon SageMaker JumpStart",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-omni-model-now-available-on-amazon-sagemaker-jumpstart/",
+      "published_date": "2026-04-28T16:40:34+00:00",
       "category": "Industry",
-      "description": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
-      "author": "",
-      "content": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+      "description": "Today, we are excited to announce the day zero availability of NVIDIA Nemotron 3 Nano Omni on Amazon SageMaker JumpStart. In this post, we walk through the model architecture and key capabilities of Nemotron 3 Nano Omni, explore the enterprise use cases it unlocks, and show you how to deploy and run inference using Amazon SageMaker JumpStart.",
+      "author": "Dan Ferguson",
+      "content": "Today, we are excited to announce the day zero availability of NVIDIA Nemotron 3 Nano Omni on Amazon SageMaker JumpStart. In this post, we walk through the model architecture and key capabilities of Nemotron 3 Nano Omni, explore the enterprise use cases it unlocks, and show you how to deploy and run inference using Amazon SageMaker JumpStart.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-01T13:46:10.055558+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-01T13:46:10.055561+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "92bf14a9b4f0bea4a6412e25c1bd18a7",
-      "title": "Transparency data: Ministerial Group for Digital Inclusion: meeting summaries",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/ministerial-group-for-digital-inclusion-meeting-summaries",
-      "published_date": "2026-04-24T09:09:57+00:00",
-      "category": "Government",
-      "description": "Summary of minutes of the meetings for the Ministerial Group for Digital Inclusion.",
-      "author": "",
-      "content": "Summary of minutes of the meetings for the Ministerial Group for Digital Inclusion.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.8,
-        "overall_score": 0.8550000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-01T13:46:10.050041+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-01T13:46:10.050043+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "3d2ad9d61156d068701c672d921b4157",
-      "title": "Unleashing Agentic AI Analytics on Amazon SageMaker with Amazon Athena and Amazon Quick",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/unleashing-agentic-ai-analytics-on-amazon-sagemaker-with-amazon-athena-and-amazon-quick/",
-      "published_date": "2026-04-30T16:52:40+00:00",
-      "category": "Industry",
-      "description": "This post demonstrates how agentic AI assistant from Amazon Quick transform data analytics into a self-service capability by using Amazon Simple Storage Service (Amazon S3) as a storage, Amazon SageMaker and AWS Glue for lakehouse, Amazon Athena for serverless SQL querying across multiple storage formats (S3 Table, Iceberg, and Parquet).",
-      "author": "Raj Balani",
-      "content": "This post demonstrates how agentic AI assistant from Amazon Quick transform data analytics into a self-service capability by using Amazon Simple Storage Service (Amazon S3) as a storage, Amazon SageMaker and AWS Glue for lakehouse, Amazon Athena for serverless SQL querying across multiple storage formats (S3 Table, Iceberg, and Parquet).",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "novelty_score": 0.75,
         "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "overall_score": 0.875,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -603,34 +665,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-01T13:46:10.052160+00:00"
+        "consensus_timestamp": "2026-05-01T17:10:12.604411+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-01T13:46:10.052163+00:00"
+        "timestamp": "2026-05-01T17:10:12.604414+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "e913f52da87bffdcad84873e48eab808",
-      "title": "NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
-      "published_date": "2026-04-28T16:00:28+00:00",
+      "article_id": "268aeb32296dd57faee3ffa0ae7f0e35",
+      "title": "24/7 Simulation Loops: How Agentic AI Keeps Subsurface Engineering Moving",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/24-7-simulation-loops-how-agentic-ai-keeps-subsurface-engineering-moving/",
+      "published_date": "2026-04-28T15:00:00+00:00",
       "category": "Industry",
-      "description": "AI agent systems today juggle separate models for vision, speech and language — losing time and context as they pass data from one model to the other. Unveiled today, NVIDIA Nemotron 3 Nano Omni is an open multimodal model that brings these capabilities together into one system, enabling agents to deliver faster, smarter responses with […]",
-      "author": "Kari Briski",
-      "content": "AI agent systems today juggle separate models for vision, speech and language — losing time and context as they pass data from one model to the other. Unveiled today, NVIDIA Nemotron 3 Nano Omni is an open multimodal model that brings these capabilities together into one system, enabling agents to deliver faster, smarter responses with […]",
+      "description": "The subsurface industry is at a critical point in its digital evolution. For decades, unlocking reservoir potential has relied on experts performing essential...",
+      "author": "Tsubasa Onishi",
+      "content": "The subsurface industry is at a critical point in its digital evolution. For decades, unlocking reservoir potential has relied on experts performing essential...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -664,41 +726,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.9,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-01T13:46:10.053062+00:00"
+        "consensus_timestamp": "2026-05-01T17:10:12.606566+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-01T13:46:10.053064+00:00"
+        "timestamp": "2026-05-01T17:10:12.606568+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "6463a51b1e59a7aaa6fa0fd1e612164e",
-      "title": "Powering AI Factories with NVIDIA Enterprise Reference Architectures",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/powering-ai-factories-with-nvidia-enterprise-reference-architectures/",
-      "published_date": "2026-04-29T16:41:57+00:00",
+      "article_id": "5e9b35828398c41df7d4f03c73244f95",
+      "title": "NVIDIA and Partners Showcase the Future of AI-Driven Manufacturing at Hannover Messe 2026",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/ai-manufacturing-hannover-messe/",
+      "published_date": "2026-04-20T08:30:55+00:00",
       "category": "Industry",
-      "description": "The next wave of enterprise productivity is being built on AI factories. As organizations deploy agentic AI systems capable of reasoning, automation, and...",
-      "author": "Shashank Sabhlok",
-      "content": "The next wave of enterprise productivity is being built on AI factories. As organizations deploy agentic AI systems capable of reasoning, automation, and...",
+      "description": "Manufacturing is at an inflection point. Across every major industrial economy, the pressure to do more with less — due to faster design cycles, leaner operations and strain on skilled labor pools — is accelerating the shift to AI-driven production. The question is no longer whether to adopt AI, but how fast and at what […]",
+      "author": "James McKenna",
+      "content": "Manufacturing is at an inflection point. Across every major industrial economy, the pressure to do more with less — due to faster design cycles, leaner operations and strain on skilled labor pools — is accelerating the shift to AI-driven production. The question is no longer whether to adopt AI, but how fast and at what […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
+        "quality_score": 0.8,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -727,21 +789,83 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-01T13:46:10.054597+00:00"
+        "consensus_timestamp": "2026-05-01T17:10:12.605354+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-01T17:10:12.605357+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "6463a51b1e59a7aaa6fa0fd1e612164e",
+      "title": "Powering AI Factories with NVIDIA Enterprise Reference Architectures",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/powering-ai-factories-with-nvidia-enterprise-reference-architectures/",
+      "published_date": "2026-04-29T16:41:57+00:00",
+      "category": "Industry",
+      "description": "The next wave of enterprise productivity is being built on AI factories. As organizations deploy agentic AI systems capable of reasoning, automation, and...",
+      "author": "Shashank Sabhlok",
+      "content": "The next wave of enterprise productivity is being built on AI factories. As organizations deploy agentic AI systems capable of reasoning, automation, and...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.9,
+        "overall_score": 0.8500000000000001,
+        "confidence_mean": 0.85
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.92,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-01T17:10:12.606428+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.752,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-01T13:46:10.054600+00:00"
+        "timestamp": "2026-05-01T17:10:12.606431+00:00"
       },
       "article_type": "article"
     },
@@ -792,7 +916,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-01T13:46:10.052928+00:00"
+        "consensus_timestamp": "2026-05-01T17:10:12.604833+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,131 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-01T13:46:10.052931+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "dcdf77ee256a294695b9340da1927f79",
-      "title": "Symptom-based approach treats opioid withdrawal in newborns with minimal drug exposure",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/symptom-based-approach-treats-opioid-withdrawal-newborns-minimal-drug-exposure",
-      "published_date": "2026-05-01T13:40:38.657834+00:00",
-      "category": "Government",
-      "description": "NIH-funded clinical trial shows that the new approach could also decrease time in the hospital.",
-      "author": "",
-      "content": "NIH-funded clinical trial shows that the new approach could also decrease time in the hospital.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-01T13:46:10.049000+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-01T13:46:10.049005+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "323e13674ddd8518634453086bcff429",
-      "title": "NIH-funded breakthrough shrinks CRISPR for precision delivery in the body",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body",
-      "published_date": "2026-05-01T13:40:38.658128+00:00",
-      "category": "Government",
-      "description": "Smaller gene-editing system could expand treatment options for cancer, ALS and other diseases.",
-      "author": "",
-      "content": "Smaller gene-editing system could expand treatment options for cancer, ALS and other diseases.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-01T13:46:10.049229+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-01T13:46:10.049233+00:00"
+        "timestamp": "2026-05-01T17:10:12.604836+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 270.90563011169434,
+    "processing_time": 334.8065891265869,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,9 +953,9 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 124,
+      "total_processed": 122,
       "candidates": {
-        "headlines": 13,
+        "headlines": 11,
         "articles": 111,
         "research_papers": 0
       },

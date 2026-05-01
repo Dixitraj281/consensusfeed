@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T13:46:10.088863+00:00",
+  "updated": "2026-05-01T17:10:12.638061+00:00",
   "top_stories": [
     {
       "article_id": "22cbf9f304a322806b761cb05c7ef6fe",
@@ -12,12 +12,12 @@
       "author": "Lucas Ropek",
       "content": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,24 +44,86 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.85,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-01T13:46:10.054187+00:00"
+        "consensus_timestamp": "2026-05-01T17:10:12.606123+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-01T13:46:10.054189+00:00"
+        "timestamp": "2026-05-01T17:10:12.606125+00:00"
       },
       "article_type": "headline"
+    },
+    {
+      "article_id": "e913f52da87bffdcad84873e48eab808",
+      "title": "NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
+      "published_date": "2026-04-28T16:00:28+00:00",
+      "category": "Industry",
+      "description": "AI agent systems today juggle separate models for vision, speech and language — losing time and context as they pass data from one model to the other. Unveiled today, NVIDIA Nemotron 3 Nano Omni is an open multimodal model that brings these capabilities together into one system, enabling agents to deliver faster, smarter responses with […]",
+      "author": "Kari Briski",
+      "content": "AI agent systems today juggle separate models for vision, speech and language — losing time and context as they pass data from one model to the other. Unveiled today, NVIDIA Nemotron 3 Nano Omni is an open multimodal model that brings these capabilities together into one system, enabling agents to deliver faster, smarter responses with […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-01T17:10:12.604971+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-01T17:10:12.604974+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "297f083cc62c5709bd2262e81c43de5e",
@@ -107,34 +169,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-01T13:46:10.051883+00:00"
+        "consensus_timestamp": "2026-05-01T17:10:12.603783+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-01T13:46:10.051886+00:00"
+        "timestamp": "2026-05-01T17:10:12.603786+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "667a128a811e614db10bb6c5220ea3d6",
-      "title": "NIH-funded AI model predicts cancer survival from single-cell tumor data",
+      "article_id": "457a5393cfd8b5b7a6de39eebda1c302",
+      "title": "NIH researchers discover pain-relieving drug with minimal addictive properties",
       "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-ai-model-predicts-cancer-survival-single-cell-tumor-data",
-      "published_date": "2026-05-01T13:40:38.657986+00:00",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-researchers-discover-pain-relieving-drug-minimal-addictive-properties",
+      "published_date": "2026-05-01T17:03:29.289337+00:00",
       "category": "Government",
-      "description": "Study links specific cell populations to patient risk in melanoma and liver cancer.",
+      "description": "Positive safety profile of novel&nbsp;drug&nbsp;compound&nbsp;is surprise&nbsp;for&nbsp;class of synthetic opioids&nbsp;shelved&nbsp;years ago.",
       "author": "",
-      "content": "Study links specific cell populations to patient risk in melanoma and liver cancer.",
+      "content": "Positive safety profile of novel&nbsp;drug&nbsp;compound&nbsp;is surprise&nbsp;for&nbsp;class of synthetic opioids&nbsp;shelved&nbsp;years ago.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -168,22 +230,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.98,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-01T13:46:10.049121+00:00"
+        "consensus_timestamp": "2026-05-01T17:10:12.601756+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-01T13:46:10.049125+00:00"
+        "timestamp": "2026-05-01T17:10:12.601760+00:00"
       },
       "article_type": "article"
     },
@@ -230,84 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.98,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-01T13:46:10.049626+00:00"
+        "consensus_timestamp": "2026-05-01T17:10:12.602039+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-01T13:46:10.049629+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "9432f641c93b553cf1f07da4ee5399ce",
-      "title": "How catastrophic is your LLM?",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/how-catastrophic-is-your-llm",
-      "published_date": "2026-04-27T19:01:26+00:00",
-      "category": "Industry",
-      "description": "A new framework provides a statistical method for estimating the likelihood of catastrophic failures in large language models in adversarial conversations.",
-      "author": "",
-      "content": "A new framework provides a statistical method for estimating the likelihood of catastrophic failures in large language models in adversarial conversations.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.895,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-01T13:46:10.055650+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-01T13:46:10.055653+00:00"
+        "timestamp": "2026-05-01T17:10:12.602043+00:00"
       },
       "article_type": "article"
     }
