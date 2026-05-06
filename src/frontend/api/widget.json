@@ -1,22 +1,208 @@
 {
-  "updated": "2026-05-05T21:14:20.012379+00:00",
+  "updated": "2026-05-06T03:48:22.434424+00:00",
   "top_stories": [
     {
-      "article_id": "30386362b2b48fc05f71b061900dc591",
-      "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+      "article_id": "d94819619fd492701f8ca11fc133edb2",
+      "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
-      "published_date": "2026-05-04T16:57:47+00:00",
+      "url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
+      "published_date": "2026-05-05T14:27:00+00:00",
       "category": "Industry",
-      "description": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
-      "author": "Tim Fernholz",
-      "content": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
+      "description": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout.",
+      "author": "Aisha Malik",
+      "content": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-06T03:48:22.400440+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-06T03:48:22.400443+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "05a78e5c4c4ccca5127a83909fd1cef5",
+      "title": "Build a Modular Skill-Based Agent System for LLMs with Dynamic Tool Routing in Python",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/05/05/build-a-modular-skill-based-agent-system-for-llms-with-dynamic-tool-routing-in-python/",
+      "published_date": "2026-05-05T20:47:25+00:00",
+      "category": "Industry",
+      "description": "In this tutorial, we build a complete skill-based agent system for large language models and explore how modular capabilities can be structured like an operating system for AI agents. We define reusable skills, attach metadata and schemas to them, register them in a central registry, and enable dynamic orchestration through tool calling and multi-step reasoning. […] The post Build a Modular Skill-Based Agent System for LLMs with Dynamic Tool Routing in Python appeared first on MarkTechPost.",
+      "author": "Sana Hassan",
+      "content": "In this tutorial, we build a complete skill-based agent system for large language models and explore how modular capabilities can be structured like an operating system for AI agents. We define reusable skills, attach metadata and schemas to them, register them in a central registry, and enable dynamic orchestration through tool calling and multi-step reasoning. […] The post Build a Modular Skill-Based Agent System for LLMs with Dynamic Tool Routing in Python appeared first on MarkTechPost.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.9225000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-06T03:48:22.402295+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-06T03:48:22.402298+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ee13e9dfc2e97e140fdc19aa31e4b943",
+      "title": "Why Gradient Descent Zigzags and How Momentum Fixes It",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/05/05/why-gradient-descent-zigzags-and-how-momentum-fixes-it/",
+      "published_date": "2026-05-05T07:26:29+00:00",
+      "category": "Industry",
+      "description": "How momentum optimizes gradient descent by dampening oscillations and accelerating convergence on complex The post Why Gradient Descent Zigzags and How Momentum Fixes It appeared first on MarkTechPost.",
+      "author": "Arham Islam",
+      "content": "How momentum optimizes gradient descent by dampening oscillations and accelerating convergence on complex The post Why Gradient Descent Zigzags and How Momentum Fixes It appeared first on MarkTechPost.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.9225000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-06T03:48:22.402339+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-06T03:48:22.402342+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "0a062953f6ec5a44cb58276bb28c71e0",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/openai-on-aws",
+      "published_date": "2026-04-28T00:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "author": "",
+      "content": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.98,
+        "overall_score": 0.9185000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -48,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-05T21:14:19.976372+00:00"
+        "consensus_timestamp": "2026-05-06T03:48:22.398221+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,9 +245,9 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-05T21:14:19.976375+00:00"
+        "timestamp": "2026-05-06T03:48:22.398225+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
       "article_id": "30daeba44c7832573529893d645f278c",
@@ -110,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-05T21:14:19.973250+00:00"
+        "consensus_timestamp": "2026-05-06T03:48:22.397819+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,193 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-05T21:14:19.973252+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "3ee82acecca94cec38c16a64b7ff463d",
-      "title": "Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/",
-      "published_date": "2026-04-28T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Azure API Management provides a single, Azure-native platform to govern everything from traditional APIs to AI models, tools, and agents. The post Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment appeared first on Microsoft Azure Blog.",
-      "author": "Naga Surendran",
-      "content": "Azure API Management provides a single, Azure-native platform to govern everything from traditional APIs to AI models, tools, and agents. The post Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-05T21:14:19.974292+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-05T21:14:19.974295+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "6463a51b1e59a7aaa6fa0fd1e612164e",
-      "title": "Powering AI Factories with NVIDIA Enterprise Reference Architectures",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/powering-ai-factories-with-nvidia-enterprise-reference-architectures/",
-      "published_date": "2026-04-29T16:41:57+00:00",
-      "category": "Industry",
-      "description": "The next wave of enterprise productivity is being built on AI factories. As organizations deploy agentic AI systems capable of reasoning, automation, and...",
-      "author": "Shashank Sabhlok",
-      "content": "The next wave of enterprise productivity is being built on AI factories. As organizations deploy agentic AI systems capable of reasoning, automation, and...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-05T21:14:19.976893+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-05T21:14:19.976896+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "ca0bbd93002c883156b53a0963d6c949",
-      "title": "Scaling the AI-Ready Data Center with NVIDIA RTX PRO 4500 Blackwell Server Edition and NVIDIA vGPU 20",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/scaling-the-ai-ready-data-center-with-nvidia-rtx-pro-4500-blackwell-server-edition-and-nvidia-vgpu-20/",
-      "published_date": "2026-04-22T20:30:00+00:00",
-      "category": "Industry",
-      "description": "AI integration is redefining mainstream enterprise applications, from productivity software like Microsoft Office to more complex design and engineering tools....",
-      "author": "Phoebe Lee",
-      "content": "AI integration is redefining mainstream enterprise applications, from productivity software like Microsoft Office to more complex design and engineering tools....",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-05T21:14:19.977255+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-05T21:14:19.977257+00:00"
+        "timestamp": "2026-05-06T03:48:22.397823+00:00"
       },
       "article_type": "article"
     }
