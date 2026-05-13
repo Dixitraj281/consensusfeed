@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T04:01:03.225834+00:00",
+  "generated_at": "2026-05-13T06:58:09.370748+00:00",
   "articles": [
     {
       "article_id": "ba19d74c3172a0abb86043caf0a4ce00",
@@ -44,22 +44,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.9,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-13T04:01:03.183915+00:00"
+        "consensus_timestamp": "2026-05-13T06:58:09.335420+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-13T04:01:03.183920+00:00"
+        "timestamp": "2026-05-13T06:58:09.335422+00:00"
       },
       "article_type": "headline"
     },
@@ -110,7 +110,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-13T04:01:03.182739+00:00"
+        "consensus_timestamp": "2026-05-13T06:58:09.334472+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,7 +121,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-13T04:01:03.182742+00:00"
+        "timestamp": "2026-05-13T06:58:09.334474+00:00"
       },
       "article_type": "article"
     },
@@ -172,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-13T04:01:03.184579+00:00"
+        "consensus_timestamp": "2026-05-13T06:58:09.336117+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,20 +183,144 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-13T04:01:03.184582+00:00"
+        "timestamp": "2026-05-13T06:58:09.336120+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c0b1b281d8f8e82ed831682d8b0a4432",
-      "title": "NIH-funded study suggests that testosterone suppresses brain tumor growth in males",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-study-suggests-testosterone-suppresses-brain-tumor-growth-males",
-      "published_date": "2026-05-13T03:55:46.258965+00:00",
-      "category": "Government",
-      "description": "Findings may warrant exploration of the hormones as glioblastoma treatment.",
+      "article_id": "b7bd4e99740e4517910b910f88933f06",
+      "title": "How enterprises are scaling AI",
+      "source": "openai_blog",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "published_date": "2026-05-11T10:00:00+00:00",
+      "category": "Industry",
+      "description": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
       "author": "",
-      "content": "Findings may warrant exploration of the hormones as glioblastoma treatment.",
+      "content": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-13T06:58:09.333141+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-13T06:58:09.333144+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e7d96379b3f75227ac03ec2cedf5f67a",
+      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "published_date": "2026-05-07T13:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+      "author": "",
+      "content": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-13T06:58:09.333329+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-13T06:58:09.333332+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "5c4d8d052887df5a19c8ee2a0296e4f8",
+      "title": "Official Statistics: Cyber security breaches survey 2025/2026",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/statistics/cyber-security-breaches-survey-20252026",
+      "published_date": "2026-04-30T08:36:00+00:00",
+      "category": "Government",
+      "description": "An annual official statistic detailing the frequency and impact of cyber breaches attacks on businesses, charities and educational institutions.",
+      "author": "",
+      "content": "An annual official statistic detailing the frequency and impact of cyber breaches attacks on businesses, charities and educational institutions.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -234,7 +358,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-13T04:01:03.180040+00:00"
+        "consensus_timestamp": "2026-05-13T06:58:09.332831+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,7 +369,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-13T04:01:03.180044+00:00"
+        "timestamp": "2026-05-13T06:58:09.332834+00:00"
       },
       "article_type": "article"
     },
@@ -292,104 +416,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-13T04:01:03.184439+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-13T04:01:03.184442+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "dd3fb2514c8541071816f08931f5720a",
-      "title": "Achieving Peak System and Workload Efficiency on NVIDIA GB200 NVL72 with Slurm Block Scheduling",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/achieving-peak-system-and-workload-efficiency-on-nvidia-gb200-nvl72-with-slurm-block-scheduling/",
-      "published_date": "2026-05-07T21:20:14+00:00",
-      "category": "Industry",
-      "description": "NVIDIA GB200 NVL72 introduces a fundamentally new way to build GPU clusters by extending NVIDIA NVLink coherence across an entire rack. This design enables...",
-      "author": "Felix Abecassis",
-      "content": "NVIDIA GB200 NVL72 introduces a fundamentally new way to build GPU clusters by extending NVIDIA NVLink coherence across an entire rack. This design enables...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
+        "score": 0.95,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-13T04:01:03.184702+00:00"
+        "consensus_timestamp": "2026-05-13T06:58:09.335978+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.77,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-13T04:01:03.184705+00:00"
+        "timestamp": "2026-05-13T06:58:09.335981+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f5afe3f14fd53bcbf28a721458c15e7a",
-      "title": "Speed Up Unreal Engine NNE Inference with NVIDIA TensorRT for RTX Runtime",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/speed-up-unreal-engine-nne-inference-with-nvidia-tensorrt-for-rtx-runtime/",
-      "published_date": "2026-04-30T17:00:00+00:00",
+      "article_id": "ca947decdf99abbbb2ae7c2920e0dac5",
+      "title": "Meta and Stanford Researchers Propose Fast Byte Latent Transformer That Reduces Inference Memory Bandwidth by Over 50% Without Tokenization",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/05/11/meta-and-stanford-researchers-propose-fast-byte-latent-transformer-that-reduces-inference-memory-bandwidth-by-over-50-without-tokenization/",
+      "published_date": "2026-05-11T17:52:15+00:00",
       "category": "Industry",
-      "description": "Neural network techniques are increasingly used in computer graphics to boost image quality, improve performance, and streamline content creation. Approaches...",
-      "author": "Homam Bahnassi",
-      "content": "Neural network techniques are increasingly used in computer graphics to boost image quality, improve performance, and streamline content creation. Approaches...",
+      "description": "Researchers from Meta FAIR and Stanford propose three inference methods for the Byte Latent Transformer that reduce memory-bandwidth cost by over 50% without subword tokenization. The post Meta and Stanford Researchers Propose Fast Byte Latent Transformer That Reduces Inference Memory Bandwidth by Over 50% Without Tokenization appeared first on MarkTechPost.",
+      "author": "Asif Razzaq",
+      "content": "Researchers from Meta FAIR and Stanford propose three inference methods for the Byte Latent Transformer that reduce memory-bandwidth cost by over 50% without subword tokenization. The post Meta and Stanford Researchers Propose Fast Byte Latent Transformer That Reduces Inference Memory Bandwidth by Over 50% Without Tokenization appeared first on MarkTechPost.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
+        "impact_score": 0.9,
+        "overall_score": 0.8775000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -420,7 +482,7 @@
         "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-13T04:01:03.185709+00:00"
+        "consensus_timestamp": "2026-05-13T06:58:09.337323+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -431,26 +493,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-13T04:01:03.185713+00:00"
+        "timestamp": "2026-05-13T06:58:09.337326+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "b7bd4e99740e4517910b910f88933f06",
-      "title": "How enterprises are scaling AI",
-      "source": "openai_blog",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "published_date": "2026-05-11T10:00:00+00:00",
+      "article_id": "eef2977ea49f7dfd68bc1b7010a95de6",
+      "title": "Building trust into AI",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/building-trust-into-ai",
+      "published_date": "2026-05-04T15:07:58+00:00",
       "category": "Industry",
-      "description": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "description": "Amazon scientists and policy experts discuss how the company’s responsible-AI pipeline embeds safety and values throughout the AI development lifecycle.",
       "author": "",
-      "content": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "content": "Amazon scientists and policy experts discuss how the company’s responsible-AI pipeline embeds safety and values throughout the AI development lifecycle.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "novelty_score": 0.75,
         "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
+        "overall_score": 0.865,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -478,41 +540,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
+        "score": 0.95,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-13T04:01:03.181358+00:00"
+        "consensus_timestamp": "2026-05-13T06:58:09.336860+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.77,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-13T04:01:03.181360+00:00"
+        "timestamp": "2026-05-13T06:58:09.336864+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "42cc791e686f6797e1ae2b1ecbe63cb6",
-      "title": "Azure IaaS: Defense in depth built on secure-by-design principles",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
-      "published_date": "2026-05-04T16:00:00+00:00",
+      "article_id": "bdf4ae198dde3ec9aef32e040a16f7b5",
+      "title": "Manufacturing intelligence with Amazon Nova Multimodal Embeddings",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings/",
+      "published_date": "2026-05-11T17:08:24+00:00",
       "category": "Industry",
-      "description": "Security for cloud infrastructure is no longer defined by a single control, product, or boundary. Modern threats target identity, software supply chains, control planes, networks, and data simultaneously. The post Azure IaaS: Defense in depth built on secure-by-design principles appeared first on Microsoft Azure Blog.",
-      "author": "Narayan Annamalai",
-      "content": "Security for cloud infrastructure is no longer defined by a single control, product, or boundary. Modern threats target identity, software supply chains, control planes, networks, and data simultaneously. The post Azure IaaS: Defense in depth built on secure-by-design principles appeared first on Microsoft Azure Blog.",
+      "description": "In this post, we build a multimodal retrieval system for aerospace manufacturing documents using Amazon Nova Multimodal Embeddings on Amazon Bedrock and Amazon S3 Vectors. We evaluate the system on 26 manufacturing queries and compare generation quality between a text-only pipeline and the multimodal pipeline.",
+      "author": "Adewale Akinfaderin",
+      "content": "In this post, we build a multimodal retrieval system for aerospace manufacturing documents using Amazon Nova Multimodal Embeddings on Amazon Bedrock and Amazon S3 Vectors. We evaluate the system on 26 manufacturing queries and compare generation quality between a text-only pipeline and the multimodal pipeline.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -544,7 +606,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-13T04:01:03.182183+00:00"
+        "consensus_timestamp": "2026-05-13T06:58:09.334283+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -555,7 +617,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-13T04:01:03.182186+00:00"
+        "timestamp": "2026-05-13T06:58:09.334286+00:00"
       },
       "article_type": "article"
     },
@@ -606,7 +668,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-13T04:01:03.181849+00:00"
+        "consensus_timestamp": "2026-05-13T06:58:09.333571+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -617,7 +679,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-13T04:01:03.181852+00:00"
+        "timestamp": "2026-05-13T06:58:09.333574+00:00"
       },
       "article_type": "article"
     },
@@ -668,7 +730,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-13T04:01:03.181992+00:00"
+        "consensus_timestamp": "2026-05-13T06:58:09.333715+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,20 +741,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-13T04:01:03.181995+00:00"
+        "timestamp": "2026-05-13T06:58:09.333718+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "bdf4ae198dde3ec9aef32e040a16f7b5",
-      "title": "Manufacturing intelligence with Amazon Nova Multimodal Embeddings",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings/",
-      "published_date": "2026-05-11T17:08:24+00:00",
+      "article_id": "8a1ed7747c4c5bc338a5d0e04c2f26fb",
+      "title": "NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/",
+      "published_date": "2026-05-06T11:30:20+00:00",
       "category": "Industry",
-      "description": "In this post, we build a multimodal retrieval system for aerospace manufacturing documents using Amazon Nova Multimodal Embeddings on Amazon Bedrock and Amazon S3 Vectors. We evaluate the system on 26 manufacturing queries and compare generation quality between a text-only pipeline and the multimodal pipeline.",
-      "author": "Adewale Akinfaderin",
-      "content": "In this post, we build a multimodal retrieval system for aerospace manufacturing documents using Amazon Nova Multimodal Embeddings on Amazon Bedrock and Amazon S3 Vectors. We evaluate the system on 26 manufacturing queries and compare generation quality between a text-only pipeline and the multimodal pipeline.",
+      "description": "The race to build the world’s most powerful AI factories demands networking that keeps pace with the ambitions of AI itself. NVIDIA Spectrum-X Ethernet scale-out infrastructure stands at the forefront of that race as the most advanced AI networking technology available today, deployed by industry leaders who can’t afford to compromise on performance, resilience or […]",
+      "author": "Gilad Shainer",
+      "content": "The race to build the world’s most powerful AI factories demands networking that keeps pace with the ambitions of AI itself. NVIDIA Spectrum-X Ethernet scale-out infrastructure stands at the forefront of that race as the most advanced AI networking technology available today, deployed by industry leaders who can’t afford to compromise on performance, resilience or […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -726,11 +788,73 @@
             "enhancement_suggestions": []
           }
         },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-13T06:58:09.335051+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-13T06:58:09.335054+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "2af08704015d823a4f9830654df43f93",
+      "title": "Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
+      "published_date": "2026-04-30T18:00:00+00:00",
+      "category": "Industry",
+      "description": "As cloud workloads become more agentic and AI systems handle increasingly sensitive data, trust must be engineered directly into infrastructure. Azure Integrated HSM brings hardware‑enforced key protection into Azure, extending cryptographic trust from silicon to services through verifiable and transparent design. The post Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM appeared first on Microsoft Azure Blog.",
+      "author": "Mark Russinovich and Saurabh Dighe",
+      "content": "As cloud workloads become more agentic and AI systems handle increasingly sensitive data, trust must be engineered directly into infrastructure. Azure Integrated HSM brings hardware‑enforced key protection into Azure, extending cryptographic trust from silicon to services through verifiable and transparent design. The post Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
         "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-13T04:01:03.182517+00:00"
+        "consensus_timestamp": "2026-05-13T06:58:09.334004+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -741,26 +865,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-13T04:01:03.182520+00:00"
+        "timestamp": "2026-05-13T06:58:09.334007+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "7e121c787992eaab429b1a60444185be",
-      "title": "Automating GPU Kernel Translation with AI Agents: cuTile Python to cuTile.jl",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/automating-gpu-kernel-translation-with-ai-agents-cutile-python-to-cutile-jl/",
-      "published_date": "2026-04-30T15:54:38+00:00",
+      "article_id": "400287b2e2d818c36acf1e59aaaf97fd",
+      "title": "Navigating EU AI Act requirements for LLM fine-tuning on Amazon SageMaker AI",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/navigating-eu-ai-act-requirements-for-llm-fine-tuning-on-amazon-sagemaker-ai/",
+      "published_date": "2026-05-12T15:48:52+00:00",
       "category": "Industry",
-      "description": "NVIDIA CUDA Tile (cuTile) is a tile-based programming model that enables developers to write GPU kernels in terms of tile-level operations—loads, stores, and...",
-      "author": "Zhengyi Zhang",
-      "content": "NVIDIA CUDA Tile (cuTile) is a tile-based programming model that enables developers to write GPU kernels in terms of tile-level operations—loads, stores, and...",
+      "description": "In this post, we show you how to set up FLOPs tracking during LLM fine-tuning using the open source Fine-Tuning FLOPs Meter toolkit on Amazon SageMaker AI. You learn how to determine your compliance status with a single configuration flag and generate audit-ready documentation.",
+      "author": "Shukhrat Khodjaev",
+      "content": "In this post, we show you how to set up FLOPs tracking during LLM fine-tuning using the open source Fine-Tuning FLOPs Meter toolkit on Amazon SageMaker AI. You learn how to determine your compliance status with a single configuration flag and generate audit-ready documentation.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.7,
+        "novelty_score": 0.75,
         "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
+        "overall_score": 0.8600000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -789,145 +913,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-13T04:01:03.185856+00:00"
+        "consensus_timestamp": "2026-05-13T06:58:09.334143+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-13T04:01:03.185860+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "323e13674ddd8518634453086bcff429",
-      "title": "NIH-funded breakthrough shrinks CRISPR for precision delivery in the body",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body",
-      "published_date": "2026-05-13T03:55:46.259404+00:00",
-      "category": "Government",
-      "description": "Smaller gene-editing system could expand treatment options for cancer, ALS and other diseases.",
-      "author": "",
-      "content": "Smaller gene-editing system could expand treatment options for cancer, ALS and other diseases.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-13T04:01:03.180203+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-13T04:01:03.180207+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d647139efd570b37f1f7dc9932607508",
-      "title": "PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/money/pancakeswap-cake-price-prediction",
-      "published_date": "2026-05-12T14:16:09+00:00",
-      "category": "Industry",
-      "description": "The post PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030 by Gianluca Miller appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that PancakeSwap (CAKE) could reach $7.70 by 2030. Feeling confident about this CAKE price prediction? You can trade PancakeSwap on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. PancakeSwap...",
-      "author": "Gianluca Miller",
-      "content": "The post PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030 by Gianluca Miller appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that PancakeSwap (CAKE) could reach $7.70 by 2030. Feeling confident about this CAKE price prediction? You can trade PancakeSwap on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. PancakeSwap...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.4,
-        "confidence": 0.6,
-        "recommendation": "REJECT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-13T04:01:03.186396+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.44,
-        "combined_confidence": 0.56,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-13T04:01:03.186398+00:00"
+        "timestamp": "2026-05-13T06:58:09.334146+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 247.74661827087402,
+    "processing_time": 253.4067096710205,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 131,
+      "total_processed": 115,
       "candidates": {
-        "headlines": 14,
-        "articles": 117,
+        "headlines": 11,
+        "articles": 104,
         "research_papers": 0
       },
       "selected": {
