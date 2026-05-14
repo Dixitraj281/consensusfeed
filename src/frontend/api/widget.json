@@ -1,22 +1,84 @@
 {
-  "updated": "2026-05-14T04:01:09.169795+00:00",
+  "updated": "2026-05-14T06:55:35.819121+00:00",
   "top_stories": [
     {
-      "article_id": "75bee9939da2327bd9e963d0985df2a6",
-      "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+      "article_id": "553cf77c4e9ee0718f873c4057973cbc",
+      "title": "Anthropic courts a new kind of customer: small business owners",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-      "published_date": "2026-05-13T00:26:48+00:00",
+      "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
+      "published_date": "2026-05-13T16:00:00+00:00",
       "category": "Industry",
-      "description": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
-      "author": "Connie Loizos",
-      "content": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
+      "description": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's the 36 million small businesses that make up the backbone of the U.S. economy.",
+      "author": "Lucas Ropek",
+      "content": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's the 36 million small businesses that make up the backbone of the U.S. economy.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.8500000000000001,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-14T06:55:35.790246+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-14T06:55:35.790247+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "8484f4117e7c96bb0cdb128f1f485da7",
+      "title": "Meet AntAngelMed: A 103B-Parameter Open-Source Medical Language Model Built on a 1/32 Activation-Ratio MoE Architecture",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/05/12/meet-antangelmed-a-103b-parameter-open-source-medical-language-model-built-on-a-1-32-activation-ratio-moe-architecture/",
+      "published_date": "2026-05-12T21:21:47+00:00",
+      "category": "Industry",
+      "description": "MedAIBase has released AntAngelMed, a 103B-parameter open-source medical language model that uses a 1/32 activation-ratio Mixture-of-Experts (MoE) architecture to activate only 6.1B parameters at inference time, matching the performance of roughly 40B dense models while exceeding 200 tokens per second on H20 hardware. Built on Ling-flash-2.0 and trained through a three-stage pipeline of continual pre-training, supervised fine-tuning, and GRPO-based reinforcement learning, the model ranks first...",
+      "author": "Asif Razzaq",
+      "content": "MedAIBase has released AntAngelMed, a 103B-parameter open-source medical language model that uses a 1/32 activation-ratio Mixture-of-Experts (MoE) architecture to activate only 6.1B parameters at inference time, matching the performance of roughly 40B dense models while exceeding 200 tokens per second on H20 hardware. Built on Ling-flash-2.0 and trained through a three-stage pipeline of continual pre-training, supervised fine-tuning, and GRPO-based reinforcement learning, the model ranks first...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.98,
+        "overall_score": 0.9185000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -45,23 +107,23 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T04:01:09.130550+00:00"
+        "consensus_timestamp": "2026-05-14T06:55:35.791439+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-14T04:01:09.130552+00:00"
+        "timestamp": "2026-05-14T06:55:35.791441+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
       "article_id": "87d33eba8240162d4464099b198c018a",
@@ -106,42 +168,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
+        "score": 0.95,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T04:01:09.131728+00:00"
+        "consensus_timestamp": "2026-05-14T06:55:35.791309+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.77,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-14T04:01:09.131730+00:00"
+        "timestamp": "2026-05-14T06:55:35.791311+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "9af39b6480dcc4da25cfb7bb4f71c4c9",
-      "title": "Celonis buys decision-intelligence startup Ikigai Labs to provide operational context for enterprise AI",
+      "article_id": "cc524efcc0a67f25b0dea9eaae9e0491",
+      "title": "Sam Altman testifies in landmark OpenAI trial, says Musk wanted control of company",
       "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2026/05/12/celonis-buys-decision-intelligence-startup-ikigai-labs-provide-operational-context-enterprise-ai/",
-      "published_date": "2026-05-13T02:20:51+00:00",
+      "url": "https://siliconangle.com/2026/05/12/sam-altman-testifies-landmark-openai-trial-says-musk-wanted-control-company/",
+      "published_date": "2026-05-13T02:32:09+00:00",
       "category": "Industry",
-      "description": "Process mining software company Celonis SE said today it has snapped up the Massachusetts Institute of Technology-linked decision intelligence startup Ikigai Labs Inc., planning to use it to power a new “context model” developed by Celonis that’s designed to function as a real-time digital twin of its customers’ business operations. Celonis says enterprises are facing a […] The post Celonis buys decision-intelligence startup Ikigai Labs to provide operational context for enterprise AI appeared...",
-      "author": "Mike Wheatley",
-      "content": "Process mining software company Celonis SE said today it has snapped up the Massachusetts Institute of Technology-linked decision intelligence startup Ikigai Labs Inc., planning to use it to power a new “context model” developed by Celonis that’s designed to function as a real-time digital twin of its customers’ business operations. Celonis says enterprises are facing a […] The post Celonis buys decision-intelligence startup Ikigai Labs to provide operational context for enterprise AI appeared...",
+      "description": "OpenAI Group PBC co-founder and Chief Executive Sam Altman faced the witness stand today in the high-stakes trial that could determine the future of the company. Elon Musk is suing the company and its leaders, alleging that Altman and OpenAI president Greg Brockman betrayed the founding mission to serve humanity by turning a nonprofit into […] The post Sam Altman testifies in landmark OpenAI trial, says Musk wanted control of company appeared first on SiliconANGLE.",
+      "author": "James Farrell",
+      "content": "OpenAI Group PBC co-founder and Chief Executive Sam Altman faced the witness stand today in the high-stakes trial that could determine the future of the company. Elon Musk is suing the company and its leaders, alleging that Altman and OpenAI president Greg Brockman betrayed the founding mission to serve humanity by turning a nonprofit into […] The post Sam Altman testifies in landmark OpenAI trial, says Musk wanted control of company appeared first on SiliconANGLE.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.98
+        "impact_score": 0.9,
+        "overall_score": 0.89,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -168,104 +230,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
+        "score": 0.85,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T04:01:09.132479+00:00"
+        "consensus_timestamp": "2026-05-14T06:55:35.791666+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
+        "weighted_score": 0.71,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-14T04:01:09.132481+00:00"
+        "timestamp": "2026-05-14T06:55:35.791668+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "66f5a2c9e8e86fdabcc5b280d011aa67",
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/autoscout24",
-      "published_date": "2026-05-12T00:00:00+00:00",
+      "article_id": "bea100baa75f0e5db71429897d7e3690",
+      "title": "How to Build In-Vehicle AI Agents with NVIDIA: From Cloud to Car",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/how-to-build-in-vehicle-ai-agents-with-nvidia-from-cloud-to-car/",
+      "published_date": "2026-05-05T16:00:00+00:00",
       "category": "Industry",
-      "description": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-      "author": "",
-      "content": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T04:01:09.128107+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-14T04:01:09.128109+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "323e13674ddd8518634453086bcff429",
-      "title": "NIH-funded breakthrough shrinks CRISPR for precision delivery in the body",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body",
-      "published_date": "2026-05-14T03:55:17.232234+00:00",
-      "category": "Government",
-      "description": "Smaller gene-editing system could expand treatment options for cancer, ALS and other diseases.",
-      "author": "",
-      "content": "Smaller gene-editing system could expand treatment options for cancer, ALS and other diseases.",
+      "description": "The automotive cockpit is undergoing a fundamental shift from rule-based interfaces to agentic, multimodal AI systems capable of reasoning, planning, and...",
+      "author": "Felix Friedmann",
+      "content": "The automotive cockpit is undergoing a fundamental shift from rule-based interfaces to agentic, multimodal AI systems capable of reasoning, planning, and...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.95
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -293,21 +293,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T04:01:09.127015+00:00"
+        "consensus_timestamp": "2026-05-14T06:55:35.790868+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-14T04:01:09.127019+00:00"
+        "timestamp": "2026-05-14T06:55:35.790870+00:00"
       },
       "article_type": "article"
     }
