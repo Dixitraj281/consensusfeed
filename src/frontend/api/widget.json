@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T06:55:35.819121+00:00",
+  "updated": "2026-05-14T10:31:46.274008+00:00",
   "top_stories": [
     {
       "article_id": "553cf77c4e9ee0718f873c4057973cbc",
@@ -45,164 +45,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T06:55:35.790246+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-14T06:55:35.790247+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "8484f4117e7c96bb0cdb128f1f485da7",
-      "title": "Meet AntAngelMed: A 103B-Parameter Open-Source Medical Language Model Built on a 1/32 Activation-Ratio MoE Architecture",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/05/12/meet-antangelmed-a-103b-parameter-open-source-medical-language-model-built-on-a-1-32-activation-ratio-moe-architecture/",
-      "published_date": "2026-05-12T21:21:47+00:00",
-      "category": "Industry",
-      "description": "MedAIBase has released AntAngelMed, a 103B-parameter open-source medical language model that uses a 1/32 activation-ratio Mixture-of-Experts (MoE) architecture to activate only 6.1B parameters at inference time, matching the performance of roughly 40B dense models while exceeding 200 tokens per second on H20 hardware. Built on Ling-flash-2.0 and trained through a three-stage pipeline of continual pre-training, supervised fine-tuning, and GRPO-based reinforcement learning, the model ranks first...",
-      "author": "Asif Razzaq",
-      "content": "MedAIBase has released AntAngelMed, a 103B-parameter open-source medical language model that uses a 1/32 activation-ratio Mixture-of-Experts (MoE) architecture to activate only 6.1B parameters at inference time, matching the performance of roughly 40B dense models while exceeding 200 tokens per second on H20 hardware. Built on Ling-flash-2.0 and trained through a three-stage pipeline of continual pre-training, supervised fine-tuning, and GRPO-based reinforcement learning, the model ranks first...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T06:55:35.791439+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-14T06:55:35.791441+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "87d33eba8240162d4464099b198c018a",
-      "title": "How to Build a Dynamic Zero-Trust Network Simulation with Graph-Based Micro-Segmentation, Adaptive Policy Engine, and Insider Threat Detection",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/05/13/how-to-build-a-dynamic-zero-trust-network-simulation-with-graph-based-micro-segmentation-adaptive-policy-engine-and-insider-threat-detection/",
-      "published_date": "2026-05-14T02:31:47+00:00",
-      "category": "Industry",
-      "description": "In this tutorial, we build a realistic Zero-Trust network simulation by modeling a micro-segmented environment as a directed graph and forcing every request to earn access through continuous verification. We implement a dynamic policy engine that blends ABAC-style permissions with device posture, MFA, path reachability, zone sensitivity, and live risk signals such as anomaly and […] The post How to Build a Dynamic Zero-Trust Network Simulation with Graph-Based Micro-Segmentation, Adaptive...",
-      "author": "Sana Hassan",
-      "content": "In this tutorial, we build a realistic Zero-Trust network simulation by modeling a micro-segmented environment as a directed graph and forcing every request to earn access through continuous verification. We implement a dynamic policy engine that blends ABAC-style permissions with device posture, MFA, path reachability, zone sensitivity, and live risk signals such as anomaly and […] The post How to Build a Dynamic Zero-Trust Network Simulation with Graph-Based Micro-Segmentation, Adaptive...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T06:55:35.791309+00:00"
+        "consensus_timestamp": "2026-05-14T10:31:46.233197+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
+        "weighted_score": 0.74,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-14T06:55:35.791311+00:00"
+        "timestamp": "2026-05-14T10:31:46.233200+00:00"
       },
-      "article_type": "article"
+      "article_type": "headline"
     },
     {
-      "article_id": "cc524efcc0a67f25b0dea9eaae9e0491",
-      "title": "Sam Altman testifies in landmark OpenAI trial, says Musk wanted control of company",
-      "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2026/05/12/sam-altman-testifies-landmark-openai-trial-says-musk-wanted-control-company/",
-      "published_date": "2026-05-13T02:32:09+00:00",
-      "category": "Industry",
-      "description": "OpenAI Group PBC co-founder and Chief Executive Sam Altman faced the witness stand today in the high-stakes trial that could determine the future of the company. Elon Musk is suing the company and its leaders, alleging that Altman and OpenAI president Greg Brockman betrayed the founding mission to serve humanity by turning a nonprofit into […] The post Sam Altman testifies in landmark OpenAI trial, says Musk wanted control of company appeared first on SiliconANGLE.",
-      "author": "James Farrell",
-      "content": "OpenAI Group PBC co-founder and Chief Executive Sam Altman faced the witness stand today in the high-stakes trial that could determine the future of the company. Elon Musk is suing the company and its leaders, alleging that Altman and OpenAI president Greg Brockman betrayed the founding mission to serve humanity by turning a nonprofit into […] The post Sam Altman testifies in landmark OpenAI trial, says Musk wanted control of company appeared first on SiliconANGLE.",
+      "article_id": "b0de5629e26867736f8f613b721c29d2",
+      "title": "Esteemed scientist and academic leader Sir Leszek Borysiewicz named as government’s preferred candidate for UKRI Chair",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/esteemed-scientist-and-academic-leader-sir-leszek-borysiewicz-named-as-governments-preferred-candidate-for-ukri-chair",
+      "published_date": "2026-05-07T09:12:52+00:00",
+      "category": "Government",
+      "description": "Science Secretary Liz Kendall has named Professor Sir Leszek Borysiewicz as her preferred candidate for Chair of UK Research and Innovation (UKRI).",
+      "author": "",
+      "content": "Science Secretary Liz Kendall has named Professor Sir Leszek Borysiewicz as her preferred candidate for Chair of UK Research and Innovation (UKRI).",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.89,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -230,42 +106,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T06:55:35.791666+00:00"
+        "consensus_timestamp": "2026-05-14T10:31:46.230019+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-14T06:55:35.791668+00:00"
+        "timestamp": "2026-05-14T10:31:46.230022+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "bea100baa75f0e5db71429897d7e3690",
-      "title": "How to Build In-Vehicle AI Agents with NVIDIA: From Cloud to Car",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-to-build-in-vehicle-ai-agents-with-nvidia-from-cloud-to-car/",
-      "published_date": "2026-05-05T16:00:00+00:00",
+      "article_id": "e6501ab1e3eaf47432ad8d5fd0ddcab3",
+      "title": "Securing AI agents: How AWS and Cisco AI Defense scale MCP and A2A deployments",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-how-aws-and-cisco-ai-defense-scale-mcp-and-a2a-deployments/",
+      "published_date": "2026-05-13T17:33:16+00:00",
       "category": "Industry",
-      "description": "The automotive cockpit is undergoing a fundamental shift from rule-based interfaces to agentic, multimodal AI systems capable of reasoning, planning, and...",
-      "author": "Felix Friedmann",
-      "content": "The automotive cockpit is undergoing a fundamental shift from rule-based interfaces to agentic, multimodal AI systems capable of reasoning, planning, and...",
+      "description": "The Cisco and AWS partnership addresses three challenges enterprises face when scaling AI agents: visibility gaps, security bottlenecks, and compliance risks. In this post, we explore how you can overcome AI security challenges through automated scanning and unified governance.",
+      "author": "Amit Arora",
+      "content": "The Cisco and AWS partnership addresses three challenges enterprises face when scaling AI agents: visibility gaps, security bottlenecks, and compliance risks. In this post, we explore how you can overcome AI security challenges through automated scanning and unified governance.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -293,21 +169,145 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T06:55:35.790868+00:00"
+        "consensus_timestamp": "2026-05-14T10:31:46.231574+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-14T06:55:35.790870+00:00"
+        "timestamp": "2026-05-14T10:31:46.231578+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "32ad86a2794e35984f6dafd21fcc95b3",
+      "title": "CME Group and Silicon Data to launch AI compute futures market",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/05/12/cme-group-silicon-data-launch-ai-compute-futures-market/",
+      "published_date": "2026-05-13T00:22:08+00:00",
+      "category": "Industry",
+      "description": "Silicon Data, the startup that provides market intelligence for artificial intelligence compute infrastructure, will provide the price indexes for a new futures market that will allow investors to hedge their bets on the semiconductor industry. CME Group’s new “compute futures market” will give investors the opportunity to bet on the price of renting cloud-based computing […] The post CME Group and Silicon Data to launch AI compute futures market appeared first on SiliconANGLE.",
+      "author": "Mike Wheatley",
+      "content": "Silicon Data, the startup that provides market intelligence for artificial intelligence compute infrastructure, will provide the price indexes for a new futures market that will allow investors to hedge their bets on the semiconductor industry. CME Group’s new “compute futures market” will give investors the opportunity to bet on the price of renting cloud-based computing […] The post CME Group and Silicon Data to launch AI compute futures market appeared first on SiliconANGLE.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.98,
+        "overall_score": 0.881,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-14T10:31:46.235217+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-14T10:31:46.235220+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "323e13674ddd8518634453086bcff429",
+      "title": "NIH-funded breakthrough shrinks CRISPR for precision delivery in the body",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body",
+      "published_date": "2026-05-14T10:26:11.128632+00:00",
+      "category": "Government",
+      "description": "Smaller gene-editing system could expand treatment options for cancer, ALS and other diseases.",
+      "author": "",
+      "content": "Smaller gene-editing system could expand treatment options for cancer, ALS and other diseases.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-14T10:31:46.229231+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-14T10:31:46.229234+00:00"
       },
       "article_type": "article"
     }
