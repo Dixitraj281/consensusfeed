@@ -1,22 +1,22 @@
 {
-  "updated": "2026-05-14T14:34:19.058865+00:00",
+  "updated": "2026-05-14T18:04:54.508381+00:00",
   "top_stories": [
     {
-      "article_id": "d719b89a9f2ef55e901fbe31d4230553",
-      "title": "Notion just turned its workspace into a hub for AI agents",
+      "article_id": "5e5c1e79bf9925f4cc3684637dc8fba5",
+      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
-      "published_date": "2026-05-13T21:45:09+00:00",
+      "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+      "published_date": "2026-05-13T14:00:00+00:00",
       "category": "Industry",
-      "description": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
-      "author": "Sarah Perez",
-      "content": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+      "description": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
+      "author": "Russell Brandom",
+      "content": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T14:34:19.023791+00:00"
+        "consensus_timestamp": "2026-05-14T18:04:54.463569+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,82 +59,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-14T14:34:19.023793+00:00"
+        "timestamp": "2026-05-14T18:04:54.463572+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "9be5a72b32471baae4084a63922ead8d",
-      "title": "NVIDIA, Ineffable Intelligence Team Up to Build the Future of Reinforcement Learning Infrastructure",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/ineffable-intelligence-reinforcement-learning-infrastructure/",
-      "published_date": "2026-05-13T13:00:57+00:00",
-      "category": "Industry",
-      "description": "Reinforcement-learning agents — AI systems that learn by trial and error — can convert computation into new knowledge. That’s the focus of a new engineering-level collaboration between NVIDIA and Ineffable Intelligence, the London-based AI lab founded by AlphaGo architect David Silver in the wake of Ineffable’s emergence from stealth last week. “The next frontier of […]",
-      "author": "NVIDIA Writers",
-      "content": "Reinforcement-learning agents — AI systems that learn by trial and error — can convert computation into new knowledge. That’s the focus of a new engineering-level collaboration between NVIDIA and Ineffable Intelligence, the London-based AI lab founded by AlphaGo architect David Silver in the wake of Ineffable’s emergence from stealth last week. “The next frontier of […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T14:34:19.023173+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-14T14:34:19.023176+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "7658f7b492be237e9190f32d9878bf80",
-      "title": "Mira Murati’s Thinking Machines Lab Introduces Interaction Models: A Native Multimodal Architecture for Real-Time Human-AI Collaboration",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/05/13/mira-muratis-thinking-machines-lab-introduces-interaction-models-a-native-multimodal-architecture-for-real-time-human-ai-collaboration/",
-      "published_date": "2026-05-13T09:21:33+00:00",
-      "category": "Industry",
-      "description": "Thinking Machines Lab has introduced a research preview of TML-Interaction-Small, a 276B parameter Mixture-of-Experts model with 12B active parameters, built around a multi-stream, time-aligned micro-turn architecture that processes 200ms chunks of audio, video, and text simultaneously — eliminating the need for external voice-activity detection harnesses. Unlike standard turn-based models that freeze perception during generation, the system runs two components in parallel: a real-time...",
-      "author": "Asif Razzaq",
-      "content": "Thinking Machines Lab has introduced a research preview of TML-Interaction-Small, a 276B parameter Mixture-of-Experts model with 12B active parameters, built around a multi-stream, time-aligned micro-turn architecture that processes 200ms chunks of audio, video, and text simultaneously — eliminating the need for external voice-activity detection harnesses. Unlike standard turn-based models that freeze perception during generation, the system runs two components in parallel: a real-time...",
+      "article_id": "b7a240ba0e511c5cd5519a3b4b6a791e",
+      "title": "Adding weekly GLP-1 to cognitive behavioral therapy further reduces heavy drinking",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/adding-weekly-glp-1-cognitive-behavioral-therapy-further-reduces-heavy-drinking",
+      "published_date": "2026-05-14T17:58:20.421733+00:00",
+      "category": "Government",
+      "description": "Clinical trial suggests semaglutide may help patients with alcohol use disorder and obesity.",
+      "author": "",
+      "content": "Clinical trial suggests semaglutide may help patients with alcohol use disorder and obesity.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -172,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T14:34:19.025497+00:00"
+        "consensus_timestamp": "2026-05-14T18:04:54.459290+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,27 +121,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-14T14:34:19.025500+00:00"
+        "timestamp": "2026-05-14T18:04:54.459294+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "cc524efcc0a67f25b0dea9eaae9e0491",
-      "title": "Sam Altman testifies in landmark OpenAI trial, says Musk wanted control of company",
+      "article_id": "32ad86a2794e35984f6dafd21fcc95b3",
+      "title": "CME Group and Silicon Data to launch AI compute futures market",
       "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2026/05/12/sam-altman-testifies-landmark-openai-trial-says-musk-wanted-control-company/",
-      "published_date": "2026-05-13T02:32:09+00:00",
+      "url": "https://siliconangle.com/2026/05/12/cme-group-silicon-data-launch-ai-compute-futures-market/",
+      "published_date": "2026-05-13T00:22:08+00:00",
       "category": "Industry",
-      "description": "OpenAI Group PBC co-founder and Chief Executive Sam Altman faced the witness stand today in the high-stakes trial that could determine the future of the company. Elon Musk is suing the company and its leaders, alleging that Altman and OpenAI president Greg Brockman betrayed the founding mission to serve humanity by turning a nonprofit into […] The post Sam Altman testifies in landmark OpenAI trial, says Musk wanted control of company appeared first on SiliconANGLE.",
-      "author": "James Farrell",
-      "content": "OpenAI Group PBC co-founder and Chief Executive Sam Altman faced the witness stand today in the high-stakes trial that could determine the future of the company. Elon Musk is suing the company and its leaders, alleging that Altman and OpenAI president Greg Brockman betrayed the founding mission to serve humanity by turning a nonprofit into […] The post Sam Altman testifies in landmark OpenAI trial, says Musk wanted control of company appeared first on SiliconANGLE.",
+      "description": "Silicon Data, the startup that provides market intelligence for artificial intelligence compute infrastructure, will provide the price indexes for a new futures market that will allow investors to hedge their bets on the semiconductor industry. CME Group’s new “compute futures market” will give investors the opportunity to bet on the price of renting cloud-based computing […] The post CME Group and Silicon Data to launch AI compute futures market appeared first on SiliconANGLE.",
+      "author": "Mike Wheatley",
+      "content": "Silicon Data, the startup that provides market intelligence for artificial intelligence compute infrastructure, will provide the price indexes for a new futures market that will allow investors to hedge their bets on the semiconductor industry. CME Group’s new “compute futures market” will give investors the opportunity to bet on the price of renting cloud-based computing […] The post CME Group and Silicon Data to launch AI compute futures market appeared first on SiliconANGLE.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
-        "confidence_mean": 0.95
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -230,41 +168,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.9,
+        "score": 0.92,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T14:34:19.025939+00:00"
+        "consensus_timestamp": "2026-05-14T18:04:54.466168+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.752,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-14T14:34:19.025941+00:00"
+        "timestamp": "2026-05-14T18:04:54.466171+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "400287b2e2d818c36acf1e59aaaf97fd",
-      "title": "Navigating EU AI Act requirements for LLM fine-tuning on Amazon SageMaker AI",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/navigating-eu-ai-act-requirements-for-llm-fine-tuning-on-amazon-sagemaker-ai/",
-      "published_date": "2026-05-12T15:48:52+00:00",
-      "category": "Industry",
-      "description": "In this post, we show you how to set up FLOPs tracking during LLM fine-tuning using the open source Fine-Tuning FLOPs Meter toolkit on Amazon SageMaker AI. You learn how to determine your compliance status with a single configuration flag and generate audit-ready documentation.",
-      "author": "Shukhrat Khodjaev",
-      "content": "In this post, we show you how to set up FLOPs tracking during LLM fine-tuning using the open source Fine-Tuning FLOPs Meter toolkit on Amazon SageMaker AI. You learn how to determine your compliance status with a single configuration flag and generate audit-ready documentation.",
+      "article_id": "c7fbaaf0f58dc0ca56c1ea57114362cf",
+      "title": "Researchers identify first suite of human antibodies against measles virus",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/researchers-identify-first-suite-human-antibodies-against-measles-virus",
+      "published_date": "2026-05-14T17:58:20.421304+00:00",
+      "category": "Government",
+      "description": "NIH-funded study lays foundation for antibody-based measles treatment.",
+      "author": "",
+      "content": "NIH-funded study lays foundation for antibody-based measles treatment.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -296,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T14:34:19.022529+00:00"
+        "consensus_timestamp": "2026-05-14T18:04:54.458994+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +245,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-14T14:34:19.022532+00:00"
+        "timestamp": "2026-05-14T18:04:54.458998+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ef8f5a7fb94400e45795ee3a84e34573",
+      "title": "Exclusive: AirOps targets emerging AI search market with autonomous content optimization agent",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/05/13/exclusive-airops-targets-emerging-ai-search-market-autonomous-content-optimization-agent/",
+      "published_date": "2026-05-13T12:30:44+00:00",
+      "category": "Industry",
+      "description": "AirOps, the business name of Rivington Labs Inc., today introduced Quill, an artificial intelligence agent designed to help brands maintain visibility in generative AI search engines by continuously monitoring, updating and creating content. The San Francisco-based startup is building its business on the broader shift from traditional search engine optimization to what is increasingly being […] The post Exclusive: AirOps targets emerging AI search market with autonomous content optimization...",
+      "author": "Paul Gillin",
+      "content": "AirOps, the business name of Rivington Labs Inc., today introduced Quill, an artificial intelligence agent designed to help brands maintain visibility in generative AI search engines by continuously monitoring, updating and creating content. The San Francisco-based startup is building its business on the broader shift from traditional search engine optimization to what is increasingly being […] The post Exclusive: AirOps targets emerging AI search market with autonomous content optimization...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-14T18:04:54.465982+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-14T18:04:54.465985+00:00"
       },
       "article_type": "article"
     }
