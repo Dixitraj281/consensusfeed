@@ -1,22 +1,84 @@
 {
-  "generated_at": "2026-05-15T21:17:00.372670+00:00",
+  "generated_at": "2026-05-16T03:46:19.321058+00:00",
   "articles": [
     {
-      "article_id": "c193d2966aa90239ac6539ccec90c57e",
-      "title": "Nous Research Releases Token Superposition Training to Speed Up LLM Pre-Training by Up to 2.5x Across 270M to 10B Parameter Models",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/05/13/nous-research-releases-token-superposition-training-to-speed-up-llm-pre-training-by-up-to-2-5x-across-270m-to-10b-parameter-models/",
-      "published_date": "2026-05-14T05:46:32+00:00",
+      "article_id": "84ab51b704a0b23c43fb4f2bba8a944a",
+      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+      "published_date": "2026-05-14T16:30:02+00:00",
       "category": "Industry",
-      "description": "Nous Research releases Token Superposition Training (TST), a two-phase pre-training method that cuts wall-clock training time by up to 2.5x at matched FLOPs by averaging contiguous token embeddings into bags during Phase 1 and reverting to standard next-token prediction in Phase 2 — without changing the model architecture, tokenizer, optimizer, or inference-time behavior. Validated at 270M, 600M, 3B dense, and 10B-A1B MoE scales. The post Nous Research Releases Token Superposition Training to...",
-      "author": "Asif Razzaq",
-      "content": "Nous Research releases Token Superposition Training (TST), a two-phase pre-training method that cuts wall-clock training time by up to 2.5x at matched FLOPs by averaging contiguous token embeddings into bags during Phase 1 and reverting to standard next-token prediction in Phase 2 — without changing the model architecture, tokenizer, optimizer, or inference-time behavior. Validated at 270M, 600M, 3B dense, and 10B-A1B MoE scales. The post Nous Research Releases Token Superposition Training to...",
+      "description": "A year ago, it looked like this day would never happen for Cerebras.",
+      "author": "Julie Bort",
+      "content": "A year ago, it looked like this day would never happen for Cerebras.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.75,
+        "novelty_score": 0.7,
         "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-16T03:46:19.283151+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-16T03:46:19.283153+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "f23871efc0d94a104c8350e9cf35b034",
+      "title": "Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/",
+      "published_date": "2026-05-06T14:00:00+00:00",
+      "category": "Industry",
+      "description": "As demand for cloud and AI grows, Microsoft is expanding Azure across Europe to deliver scalable, resilient infrastructure that supports innovation, compliance, and performance. The post Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future appeared first on Microsoft Azure Blog.",
+      "author": "Jessica Hawk",
+      "content": "As demand for cloud and AI grows, Microsoft is expanding Azure across Europe to deliver scalable, resilient infrastructure that supports innovation, compliance, and performance. The post Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.9,
+        "overall_score": 0.8875000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -44,166 +106,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T21:17:00.334028+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-15T21:17:00.334031+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "c8112d8bdfdcab74b41755a2a5220bb7",
-      "title": "From commit to cloud: Powering what’s next for PostgreSQL",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
-      "published_date": "2026-05-13T16:00:00+00:00",
-      "category": "Industry",
-      "description": "PostgreSQL has become foundational to how modern applications are built. It powers everything from early‑stage startups to some of the most demanding production systems in the world. Its longevity isn’t accidental, it’s the result of decades of engineering discipline, community collaboration, and a relentless focus on correctness and extensibility. The post From commit to cloud: Powering what’s next for PostgreSQL appeared first on Microsoft Azure Blog.",
-      "author": "Shireesh Thota",
-      "content": "PostgreSQL has become foundational to how modern applications are built. It powers everything from early‑stage startups to some of the most demanding production systems in the world. Its longevity isn’t accidental, it’s the result of decades of engineering discipline, community collaboration, and a relentless focus on correctness and extensibility. The post From commit to cloud: Powering what’s next for PostgreSQL appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T21:17:00.330031+00:00"
+        "consensus_timestamp": "2026-05-16T03:46:19.281602+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-15T21:17:00.330034+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "f23871efc0d94a104c8350e9cf35b034",
-      "title": "Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/",
-      "published_date": "2026-05-06T14:00:00+00:00",
-      "category": "Industry",
-      "description": "As demand for cloud and AI grows, Microsoft is expanding Azure across Europe to deliver scalable, resilient infrastructure that supports innovation, compliance, and performance. The post Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future appeared first on Microsoft Azure Blog.",
-      "author": "Jessica Hawk",
-      "content": "As demand for cloud and AI grows, Microsoft is expanding Azure across Europe to deliver scalable, resilient infrastructure that supports innovation, compliance, and performance. The post Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T21:17:00.330185+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-15T21:17:00.330188+00:00"
+        "timestamp": "2026-05-16T03:46:19.281604+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "a93508ec727b20c919e5e519d1a420fd",
-      "title": "How ChatGPT adoption broadened in early 2026",
-      "source": "openai_blog",
-      "url": "https://openai.com/signals/research/2026q1-update",
-      "published_date": "2026-05-11T15:00:00+00:00",
+      "article_id": "5c3f34cecf9b8e8b44631f9f1c6aae80",
+      "title": "Poetiq’s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-without-fine-tuning/",
+      "published_date": "2026-05-15T03:38:10+00:00",
       "category": "Industry",
-      "description": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
-      "author": "",
-      "content": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
+      "description": "Poetiq's Meta-System automatically constructed and optimized an inference harness for LiveCodeBench Pro using only Gemini 3.1 Pro — no fine-tuning, no model internals. The same harness, applied without modification to GPT 5.5 High, Kimi K2.6, Gemini 3.0 Flash, and four other models, improved every one of them. The post Poetiq’s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning appeared first on MarkTechPost.",
+      "author": "Asif Razzaq",
+      "content": "Poetiq's Meta-System automatically constructed and optimized an inference harness for LiveCodeBench Pro using only Gemini 3.1 Pro — no fine-tuning, no model internals. The same harness, applied without modification to GPT 5.5 High, Kimi K2.6, Gemini 3.0 Flash, and four other models, improved every one of them. The post Poetiq’s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning appeared first on MarkTechPost.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.95
+        "overall_score": 0.885,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -234,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T21:17:00.329624+00:00"
+        "consensus_timestamp": "2026-05-16T03:46:19.284496+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,7 +183,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-15T21:17:00.329627+00:00"
+        "timestamp": "2026-05-16T03:46:19.284499+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "29c892229786137853bf663875fbf505",
+      "title": "How to Build an MCP Style Routed AI Agent System with Dynamic Tool Exposure Planning, Execution, and Context Injection",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/05/15/how-to-build-an-mcp-style-routed-ai-agent-system-with-dynamic-tool-exposure-planning-execution-and-context-injection/",
+      "published_date": "2026-05-15T21:05:34+00:00",
+      "category": "Industry",
+      "description": "In this tutorial, we build a fully functional MCP-style routed agent system from scratch, combining tool discovery, intelligent routing, structured planning, and execution into a single cohesive workflow. We start by setting up a modular tool server that exposes capabilities such as web search, local retrieval, dataset loading, and Python execution, all defined through structured […] The post How to Build an MCP Style Routed AI Agent System with Dynamic Tool Exposure Planning, Execution, and...",
+      "author": "Sana Hassan",
+      "content": "In this tutorial, we build a fully functional MCP-style routed agent system from scratch, combining tool discovery, intelligent routing, structured planning, and execution into a single cohesive workflow. We start by setting up a modular tool server that exposes capabilities such as web search, local retrieval, dataset loading, and Python execution, all defined through structured […] The post How to Build an MCP Style Routed AI Agent System with Dynamic Tool Exposure Planning, Execution, and...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.88,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-16T03:46:19.284346+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.728,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-16T03:46:19.284349+00:00"
       },
       "article_type": "article"
     },
@@ -292,165 +292,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T21:17:00.332259+00:00"
+        "consensus_timestamp": "2026-05-16T03:46:19.283734+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-15T21:17:00.332261+00:00"
+        "timestamp": "2026-05-16T03:46:19.283737+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "dac711f32034e5384a1685c48a02aecb",
-      "title": "Making LLMs faster without sacrificing accuracy",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/making-llms-faster-without-sacrificing-accuracy",
-      "published_date": "2026-05-15T13:00:00+00:00",
+      "article_id": "143537c6b5b37960751b0478c3a18545",
+      "title": "Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-hermes-agent-dgx-spark/",
+      "published_date": "2026-05-13T13:00:10+00:00",
       "category": "Industry",
-      "description": "A new scaling law that relates particular architectural choices to loss helps identify models that improve throughput by up to 47% with no loss of accuracy.",
-      "author": "",
-      "content": "A new scaling law that relates particular architectural choices to loss helps identify models that improve throughput by up to 47% with no loss of accuracy.",
+      "description": "Agentic AI is changing the way users get work done. Following the success of OpenClaw, the community is embracing new open source agentic frameworks. The latest is Hermes Agent, which crossed 140,000 GitHub stars in under three months.",
+      "author": "Abhishek Gore",
+      "content": "Agentic AI is changing the way users get work done. Following the success of OpenClaw, the community is embracing new open source agentic frameworks. The latest is Hermes Agent, which crossed 140,000 GitHub stars in under three months.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "novelty_score": 0.75,
         "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T21:17:00.333554+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-15T21:17:00.333558+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "0811b529d29609adc5e5205d252d9135",
-      "title": "Red Hat and Intel spotlight scalable AI inference as enterprises move beyond the GPU gold rush",
-      "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2026/05/13/scalable-ai-inference-focus-amid-move-beyond-gpus-rhsummit/",
-      "published_date": "2026-05-13T13:52:35+00:00",
-      "category": "Industry",
-      "description": "As companies move from testing AI to broader adoption, the biggest challenge is building scalable AI inference systems that perform without breaking the budget. The next wave of AI won’t be won on raw power alone — it will be decided by who can do more with less. When AI inference first took off, the […] The post Red Hat and Intel spotlight scalable AI inference as enterprises move beyond the GPU gold rush appeared first on SiliconANGLE.",
-      "author": "Ryan Stevens",
-      "content": "As companies move from testing AI to broader adoption, the biggest challenge is building scalable AI inference systems that perform without breaking the budget. The next wave of AI won’t be won on raw power alone — it will be decided by who can do more with less. When AI inference first took off, the […] The post Red Hat and Intel spotlight scalable AI inference as enterprises move beyond the GPU gold rush appeared first on SiliconANGLE.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T21:17:00.334183+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-15T21:17:00.334186+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "04436b43cab3e21f5df4305b12374ab8",
-      "title": "Our response to the TanStack npm supply chain attack",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-      "published_date": "2026-05-13T00:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
-      "author": "",
-      "content": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
+        "overall_score": 0.875,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -479,40 +355,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T21:17:00.329393+00:00"
+        "consensus_timestamp": "2026-05-16T03:46:19.282501+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-15T21:17:00.329396+00:00"
+        "timestamp": "2026-05-16T03:46:19.282503+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f626ed1a375b06ee605b8b48168771c9",
-      "title": "Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/",
-      "published_date": "2026-05-11T19:00:00+00:00",
+      "article_id": "b7bd4e99740e4517910b910f88933f06",
+      "title": "How enterprises are scaling AI",
+      "source": "openai_blog",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "published_date": "2026-05-11T10:00:00+00:00",
       "category": "Industry",
-      "description": "Microsoft and Red Hat show how Azure Red Hat OpenShift powers modernization and production AI with secure, scalable enterprise governance. The post Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift appeared first on Microsoft Azure Blog.",
-      "author": "Sean McKenna",
-      "content": "Microsoft and Red Hat show how Azure Red Hat OpenShift powers modernization and production AI with secure, scalable enterprise governance. The post Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift appeared first on Microsoft Azure Blog.",
+      "description": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "author": "",
+      "content": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
         "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
+        "overall_score": 0.8799999999999999,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -541,21 +417,269 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T21:17:00.330109+00:00"
+        "consensus_timestamp": "2026-05-16T03:46:19.281150+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-15T21:17:00.330112+00:00"
+        "timestamp": "2026-05-16T03:46:19.281152+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "6e6497d9ff1c08598f02a2b3fc85f50a",
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "published_date": "2026-05-13T11:00:00+00:00",
+      "category": "Industry",
+      "description": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+      "author": "",
+      "content": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-16T03:46:19.280850+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-16T03:46:19.280852+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "2d109efc339832e77f13be119c4f6094",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/nvidia",
+      "published_date": "2026-05-12T00:00:00+00:00",
+      "category": "Industry",
+      "description": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "author": "",
+      "content": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-16T03:46:19.280961+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-16T03:46:19.280964+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a93508ec727b20c919e5e519d1a420fd",
+      "title": "How ChatGPT adoption broadened in early 2026",
+      "source": "openai_blog",
+      "url": "https://openai.com/signals/research/2026q1-update",
+      "published_date": "2026-05-11T15:00:00+00:00",
+      "category": "Industry",
+      "description": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
+      "author": "",
+      "content": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-16T03:46:19.281075+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-16T03:46:19.281077+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e6c549ca79515130a0deab7067b4aecc",
+      "title": "Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
+      "published_date": "2026-05-12T18:00:00+00:00",
+      "category": "Industry",
+      "description": "Together, Microsoft and SAP are helping enterprises transform operations, decision-making, and innovation at scale on Azure. The post Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026 appeared first on Microsoft Azure Blog.",
+      "author": "Wael El Kabbany and Hiren Shah",
+      "content": "Together, Microsoft and SAP are helping enterprises transform operations, decision-making, and innovation at scale on Azure. The post Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026 appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-16T03:46:19.281487+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-16T03:46:19.281489+00:00"
       },
       "article_type": "article"
     },
@@ -602,289 +726,165 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T21:17:00.332182+00:00"
+        "consensus_timestamp": "2026-05-16T03:46:19.283657+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-15T21:17:00.332184+00:00"
+        "timestamp": "2026-05-16T03:46:19.283659+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "6517b19db70031e0d2b3c736ca429f55",
-      "title": "How Amazon Finance streamlines regulatory inquiries by using generative AI on AWS",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-finance-streamlines-regulatory-inquiries-by-using-generative-ai-on-aws/",
-      "published_date": "2026-05-12T16:41:33+00:00",
+      "article_id": "eef2977ea49f7dfd68bc1b7010a95de6",
+      "title": "Building trust into AI",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/building-trust-into-ai",
+      "published_date": "2026-05-04T15:07:58+00:00",
       "category": "Industry",
-      "description": "In this post, we demonstrate how Amazon FinTech teams are using Amazon Bedrock and other AWS services to build a scalable AI application to transform how regulatory inquiries are handled. Each team using this solution creates and maintains its own dedicated knowledge base, populated with that team's specific documents and reference materials.",
-      "author": "Balaji Kumar Gopalakrishnan",
-      "content": "In this post, we demonstrate how Amazon FinTech teams are using Amazon Bedrock and other AWS services to build a scalable AI application to transform how regulatory inquiries are handled. Each team using this solution creates and maintains its own dedicated knowledge base, populated with that team's specific documents and reference materials.",
+      "description": "Amazon scientists and policy experts discuss how the company’s responsible-AI pipeline embeds safety and values throughout the AI development lifecycle.",
+      "author": "",
+      "content": "Amazon scientists and policy experts discuss how the company’s responsible-AI pipeline embeds safety and values throughout the AI development lifecycle.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-16T03:46:19.284116+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-16T03:46:19.284118+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "400287b2e2d818c36acf1e59aaaf97fd",
+      "title": "Navigating EU AI Act requirements for LLM fine-tuning on Amazon SageMaker AI",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/navigating-eu-ai-act-requirements-for-llm-fine-tuning-on-amazon-sagemaker-ai/",
+      "published_date": "2026-05-12T15:48:52+00:00",
+      "category": "Industry",
+      "description": "In this post, we show you how to set up FLOPs tracking during LLM fine-tuning using the open source Fine-Tuning FLOPs Meter toolkit on Amazon SageMaker AI. You learn how to determine your compliance status with a single configuration flag and generate audit-ready documentation.",
+      "author": "Shukhrat Khodjaev",
+      "content": "In this post, we show you how to set up FLOPs tracking during LLM fine-tuning using the open source Fine-Tuning FLOPs Meter toolkit on Amazon SageMaker AI. You learn how to determine your compliance status with a single configuration flag and generate audit-ready documentation.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.9,
+        "overall_score": 0.8500000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-16T03:46:19.282126+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-16T03:46:19.282128+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4eab4e31a849b8ddebc6a1b4aa7d53c9",
+      "title": "Research: Newton Fund Impact Evaluation",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/newton-fund-impact-evaluation",
+      "published_date": "2026-05-06T08:30:01+00:00",
+      "category": "Government",
+      "description": "Impact evaluation to assess the progress of the Newton Fund and recommendations for future research and innovation activities.",
+      "author": "",
+      "content": "Impact evaluation to assess the progress of the Newton Fund and recommendations for future research and innovation activities.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.7,
         "impact_score": 0.95,
         "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T21:17:00.330605+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-15T21:17:00.330607+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c0b1b281d8f8e82ed831682d8b0a4432",
-      "title": "NIH-funded study suggests that testosterone suppresses brain tumor growth in males",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-study-suggests-testosterone-suppresses-brain-tumor-growth-males",
-      "published_date": "2026-05-15T21:11:14.394655+00:00",
-      "category": "Government",
-      "description": "Findings may warrant exploration of the hormones as glioblastoma treatment.",
-      "author": "",
-      "content": "Findings may warrant exploration of the hormones as glioblastoma treatment.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T21:17:00.328443+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-15T21:17:00.328448+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "92a96da3a955a3d0e1bc964616ac3bea",
-      "title": "Policy paper: Telecoms Modernisation: Critical National Infrastructure Charter",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/telecoms-modernisation-critical-national-infrastructure-charter",
-      "published_date": "2026-05-13T10:15:59+00:00",
-      "category": "Government",
-      "description": "This document sets out telecoms companies’ approach to protect CNI during telecoms modernisations.",
-      "author": "",
-      "content": "This document sets out telecoms companies’ approach to protect CNI during telecoms modernisations.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T21:17:00.328775+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-15T21:17:00.328778+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "16f1ccc2fa415567cadbaa312a2cc23b",
-      "title": "A Coding Implementation to Master GPU Computing with CuPy, Custom CUDA Kernels, Streams, Sparse Matrices, and Profiling",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/05/14/a-coding-implementation-to-master-gpu-computing-with-cupy-custom-cuda-kernels-streams-sparse-matrices-and-profiling/",
-      "published_date": "2026-05-14T23:21:09+00:00",
-      "category": "Industry",
-      "description": "In this tutorial, we delve into CuPy as a powerful GPU-accelerated alternative to NumPy for high-performance numerical computing in Python. We start by inspecting the available CUDA device, checking the CuPy version, runtime details, GPU memory, and compute capability so that we understand the hardware environment before running heavy computations. Then, we compare NumPy and […] The post A Coding Implementation to Master GPU Computing with CuPy, Custom CUDA Kernels, Streams, Sparse Matrices,...",
-      "author": "Sana Hassan",
-      "content": "In this tutorial, we delve into CuPy as a powerful GPU-accelerated alternative to NumPy for high-performance numerical computing in Python. We start by inspecting the available CUDA device, checking the CuPy version, runtime details, GPU memory, and compute capability so that we understand the hardware environment before running heavy computations. Then, we compare NumPy and […] The post A Coding Implementation to Master GPU Computing with CuPy, Custom CUDA Kernels, Streams, Sparse Matrices,...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.88,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T21:17:00.333988+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.728,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-15T21:17:00.333991+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "06f14a3692e48f06c8e383dd466c8f14",
-      "title": "From siloed data to unified insights: Cross-account Athena Access for Amazon Quick",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/from-siloed-data-to-unified-insights-cross-account-athena-access-for-amazon-quick/",
-      "published_date": "2026-05-14T17:17:50+00:00",
-      "category": "Industry",
-      "description": "Today, we're announcing cross-account Athena access for Amazon Quick. With this feature, customers can query Athena data in other AWS accounts using AWS Identity and Access Management (IAM) role chaining, with query costs billed to the account where the data resides.",
-      "author": "Vignessh Baskaran",
-      "content": "Today, we're announcing cross-account Athena access for Amazon Quick. With this feature, customers can query Athena data in other AWS accounts using AWS Identity and Access Management (IAM) role chaining, with query costs billed to the account where the data resides.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8375,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -916,7 +916,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T21:17:00.330378+00:00"
+        "consensus_timestamp": "2026-05-16T03:46:19.280577+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-15T21:17:00.330381+00:00"
+        "timestamp": "2026-05-16T03:46:19.280580+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 247.82495021820068,
+    "processing_time": 287.00847840309143,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 125,
+      "total_processed": 127,
       "candidates": {
-        "headlines": 16,
-        "articles": 109,
+        "headlines": 15,
+        "articles": 112,
         "research_papers": 0
       },
       "selected": {

@@ -1,22 +1,84 @@
 {
-  "updated": "2026-05-15T21:17:00.375589+00:00",
+  "updated": "2026-05-16T03:46:19.323835+00:00",
   "top_stories": [
     {
-      "article_id": "c193d2966aa90239ac6539ccec90c57e",
-      "title": "Nous Research Releases Token Superposition Training to Speed Up LLM Pre-Training by Up to 2.5x Across 270M to 10B Parameter Models",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/05/13/nous-research-releases-token-superposition-training-to-speed-up-llm-pre-training-by-up-to-2-5x-across-270m-to-10b-parameter-models/",
-      "published_date": "2026-05-14T05:46:32+00:00",
+      "article_id": "84ab51b704a0b23c43fb4f2bba8a944a",
+      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+      "published_date": "2026-05-14T16:30:02+00:00",
       "category": "Industry",
-      "description": "Nous Research releases Token Superposition Training (TST), a two-phase pre-training method that cuts wall-clock training time by up to 2.5x at matched FLOPs by averaging contiguous token embeddings into bags during Phase 1 and reverting to standard next-token prediction in Phase 2 — without changing the model architecture, tokenizer, optimizer, or inference-time behavior. Validated at 270M, 600M, 3B dense, and 10B-A1B MoE scales. The post Nous Research Releases Token Superposition Training to...",
-      "author": "Asif Razzaq",
-      "content": "Nous Research releases Token Superposition Training (TST), a two-phase pre-training method that cuts wall-clock training time by up to 2.5x at matched FLOPs by averaging contiguous token embeddings into bags during Phase 1 and reverting to standard next-token prediction in Phase 2 — without changing the model architecture, tokenizer, optimizer, or inference-time behavior. Validated at 270M, 600M, 3B dense, and 10B-A1B MoE scales. The post Nous Research Releases Token Superposition Training to...",
+      "description": "A year ago, it looked like this day would never happen for Cerebras.",
+      "author": "Julie Bort",
+      "content": "A year ago, it looked like this day would never happen for Cerebras.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.75,
+        "novelty_score": 0.7,
         "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-16T03:46:19.283151+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-16T03:46:19.283153+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "f23871efc0d94a104c8350e9cf35b034",
+      "title": "Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/",
+      "published_date": "2026-05-06T14:00:00+00:00",
+      "category": "Industry",
+      "description": "As demand for cloud and AI grows, Microsoft is expanding Azure across Europe to deliver scalable, resilient infrastructure that supports innovation, compliance, and performance. The post Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future appeared first on Microsoft Azure Blog.",
+      "author": "Jessica Hawk",
+      "content": "As demand for cloud and AI grows, Microsoft is expanding Azure across Europe to deliver scalable, resilient infrastructure that supports innovation, compliance, and performance. The post Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.9,
+        "overall_score": 0.8875000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -44,166 +106,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T21:17:00.334028+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-15T21:17:00.334031+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "c8112d8bdfdcab74b41755a2a5220bb7",
-      "title": "From commit to cloud: Powering what’s next for PostgreSQL",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
-      "published_date": "2026-05-13T16:00:00+00:00",
-      "category": "Industry",
-      "description": "PostgreSQL has become foundational to how modern applications are built. It powers everything from early‑stage startups to some of the most demanding production systems in the world. Its longevity isn’t accidental, it’s the result of decades of engineering discipline, community collaboration, and a relentless focus on correctness and extensibility. The post From commit to cloud: Powering what’s next for PostgreSQL appeared first on Microsoft Azure Blog.",
-      "author": "Shireesh Thota",
-      "content": "PostgreSQL has become foundational to how modern applications are built. It powers everything from early‑stage startups to some of the most demanding production systems in the world. Its longevity isn’t accidental, it’s the result of decades of engineering discipline, community collaboration, and a relentless focus on correctness and extensibility. The post From commit to cloud: Powering what’s next for PostgreSQL appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T21:17:00.330031+00:00"
+        "consensus_timestamp": "2026-05-16T03:46:19.281602+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-15T21:17:00.330034+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "f23871efc0d94a104c8350e9cf35b034",
-      "title": "Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/",
-      "published_date": "2026-05-06T14:00:00+00:00",
-      "category": "Industry",
-      "description": "As demand for cloud and AI grows, Microsoft is expanding Azure across Europe to deliver scalable, resilient infrastructure that supports innovation, compliance, and performance. The post Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future appeared first on Microsoft Azure Blog.",
-      "author": "Jessica Hawk",
-      "content": "As demand for cloud and AI grows, Microsoft is expanding Azure across Europe to deliver scalable, resilient infrastructure that supports innovation, compliance, and performance. The post Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T21:17:00.330185+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-15T21:17:00.330188+00:00"
+        "timestamp": "2026-05-16T03:46:19.281604+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "a93508ec727b20c919e5e519d1a420fd",
-      "title": "How ChatGPT adoption broadened in early 2026",
-      "source": "openai_blog",
-      "url": "https://openai.com/signals/research/2026q1-update",
-      "published_date": "2026-05-11T15:00:00+00:00",
+      "article_id": "5c3f34cecf9b8e8b44631f9f1c6aae80",
+      "title": "Poetiq’s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-without-fine-tuning/",
+      "published_date": "2026-05-15T03:38:10+00:00",
       "category": "Industry",
-      "description": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
-      "author": "",
-      "content": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
+      "description": "Poetiq's Meta-System automatically constructed and optimized an inference harness for LiveCodeBench Pro using only Gemini 3.1 Pro — no fine-tuning, no model internals. The same harness, applied without modification to GPT 5.5 High, Kimi K2.6, Gemini 3.0 Flash, and four other models, improved every one of them. The post Poetiq’s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning appeared first on MarkTechPost.",
+      "author": "Asif Razzaq",
+      "content": "Poetiq's Meta-System automatically constructed and optimized an inference harness for LiveCodeBench Pro using only Gemini 3.1 Pro — no fine-tuning, no model internals. The same harness, applied without modification to GPT 5.5 High, Kimi K2.6, Gemini 3.0 Flash, and four other models, improved every one of them. The post Poetiq’s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning appeared first on MarkTechPost.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.95
+        "overall_score": 0.885,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -234,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T21:17:00.329624+00:00"
+        "consensus_timestamp": "2026-05-16T03:46:19.284496+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,7 +183,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-15T21:17:00.329627+00:00"
+        "timestamp": "2026-05-16T03:46:19.284499+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "29c892229786137853bf663875fbf505",
+      "title": "How to Build an MCP Style Routed AI Agent System with Dynamic Tool Exposure Planning, Execution, and Context Injection",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/05/15/how-to-build-an-mcp-style-routed-ai-agent-system-with-dynamic-tool-exposure-planning-execution-and-context-injection/",
+      "published_date": "2026-05-15T21:05:34+00:00",
+      "category": "Industry",
+      "description": "In this tutorial, we build a fully functional MCP-style routed agent system from scratch, combining tool discovery, intelligent routing, structured planning, and execution into a single cohesive workflow. We start by setting up a modular tool server that exposes capabilities such as web search, local retrieval, dataset loading, and Python execution, all defined through structured […] The post How to Build an MCP Style Routed AI Agent System with Dynamic Tool Exposure Planning, Execution, and...",
+      "author": "Sana Hassan",
+      "content": "In this tutorial, we build a fully functional MCP-style routed agent system from scratch, combining tool discovery, intelligent routing, structured planning, and execution into a single cohesive workflow. We start by setting up a modular tool server that exposes capabilities such as web search, local retrieval, dataset loading, and Python execution, all defined through structured […] The post How to Build an MCP Style Routed AI Agent System with Dynamic Tool Exposure Planning, Execution, and...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.88,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-16T03:46:19.284346+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.728,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-16T03:46:19.284349+00:00"
       },
       "article_type": "article"
     },
@@ -292,22 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T21:17:00.332259+00:00"
+        "consensus_timestamp": "2026-05-16T03:46:19.283734+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-15T21:17:00.332261+00:00"
+        "timestamp": "2026-05-16T03:46:19.283737+00:00"
       },
       "article_type": "article"
     }
