@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T03:46:19.323835+00:00",
+  "updated": "2026-05-16T06:32:15.002816+00:00",
   "top_stories": [
     {
       "article_id": "84ab51b704a0b23c43fb4f2bba8a944a",
@@ -45,103 +45,41 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-16T03:46:19.283151+00:00"
+        "consensus_timestamp": "2026-05-16T06:32:14.969178+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-16T03:46:19.283153+00:00"
+        "timestamp": "2026-05-16T06:32:14.969180+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "f23871efc0d94a104c8350e9cf35b034",
-      "title": "Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/",
-      "published_date": "2026-05-06T14:00:00+00:00",
+      "article_id": "04436b43cab3e21f5df4305b12374ab8",
+      "title": "Our response to the TanStack npm supply chain attack",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "published_date": "2026-05-13T00:00:00+00:00",
       "category": "Industry",
-      "description": "As demand for cloud and AI grows, Microsoft is expanding Azure across Europe to deliver scalable, resilient infrastructure that supports innovation, compliance, and performance. The post Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future appeared first on Microsoft Azure Blog.",
-      "author": "Jessica Hawk",
-      "content": "As demand for cloud and AI grows, Microsoft is expanding Azure across Europe to deliver scalable, resilient infrastructure that supports innovation, compliance, and performance. The post Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future appeared first on Microsoft Azure Blog.",
+      "description": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
+      "author": "",
+      "content": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.9,
-        "overall_score": 0.8875000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-16T03:46:19.281602+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-16T03:46:19.281604+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "5c3f34cecf9b8e8b44631f9f1c6aae80",
-      "title": "Poetiq’s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-without-fine-tuning/",
-      "published_date": "2026-05-15T03:38:10+00:00",
-      "category": "Industry",
-      "description": "Poetiq's Meta-System automatically constructed and optimized an inference harness for LiveCodeBench Pro using only Gemini 3.1 Pro — no fine-tuning, no model internals. The same harness, applied without modification to GPT 5.5 High, Kimi K2.6, Gemini 3.0 Flash, and four other models, improved every one of them. The post Poetiq’s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning appeared first on MarkTechPost.",
-      "author": "Asif Razzaq",
-      "content": "Poetiq's Meta-System automatically constructed and optimized an inference harness for LiveCodeBench Pro using only Gemini 3.1 Pro — no fine-tuning, no model internals. The same harness, applied without modification to GPT 5.5 High, Kimi K2.6, Gemini 3.0 Flash, and four other models, improved every one of them. The post Poetiq’s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning appeared first on MarkTechPost.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
-        "confidence_mean": 0.9
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -172,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-16T03:46:19.284496+00:00"
+        "consensus_timestamp": "2026-05-16T06:32:14.966553+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,7 +121,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-16T03:46:19.284499+00:00"
+        "timestamp": "2026-05-16T06:32:14.966556+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "92a96da3a955a3d0e1bc964616ac3bea",
+      "title": "Policy paper: Telecoms Modernisation: Critical National Infrastructure Charter",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/telecoms-modernisation-critical-national-infrastructure-charter",
+      "published_date": "2026-05-13T10:15:59+00:00",
+      "category": "Government",
+      "description": "This document sets out telecoms companies’ approach to protect CNI during telecoms modernisations.",
+      "author": "",
+      "content": "This document sets out telecoms companies’ approach to protect CNI during telecoms modernisations.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-16T06:32:14.965809+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-16T06:32:14.965812+00:00"
       },
       "article_type": "article"
     },
@@ -230,22 +230,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.88,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-16T03:46:19.284346+00:00"
+        "consensus_timestamp": "2026-05-16T06:32:14.970525+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.728,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-16T03:46:19.284349+00:00"
+        "timestamp": "2026-05-16T06:32:14.970528+00:00"
       },
       "article_type": "article"
     },
@@ -265,7 +265,7 @@
         "novelty_score": 0.8,
         "impact_score": 0.95,
         "overall_score": 0.8875,
-        "confidence_mean": 0.9
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -293,21 +293,21 @@
           }
         },
         "score": 0.95,
-        "confidence": 0.9,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-16T03:46:19.283734+00:00"
+        "consensus_timestamp": "2026-05-16T06:32:14.969766+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.77,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-16T03:46:19.283737+00:00"
+        "timestamp": "2026-05-16T06:32:14.969768+00:00"
       },
       "article_type": "article"
     }
