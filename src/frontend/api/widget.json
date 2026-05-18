@@ -1,23 +1,23 @@
 {
-  "updated": "2026-05-17T21:05:35.336089+00:00",
+  "updated": "2026-05-18T04:17:33.572932+00:00",
   "top_stories": [
     {
-      "article_id": "a522104871ad04cb11d149a6c1bdfd3e",
-      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+      "article_id": "acbe59f1a810bac30767276a42ae2227",
+      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
-      "published_date": "2026-05-17T16:05:00+00:00",
+      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "published_date": "2026-05-16T18:54:28+00:00",
       "category": "Industry",
-      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "author": "Kirsten Korosec",
-      "content": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "description": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+      "author": "Anthony Ha",
+      "content": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.8,
-        "overall_score": 0.805,
-        "confidence_mean": 0.8
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.4,
+        "impact_score": 0.9,
+        "overall_score": 0.745,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,22 +44,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.8,
+        "score": 0.7,
+        "confidence": 0.7,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-17T21:05:35.309021+00:00"
+        "consensus_timestamp": "2026-05-18T04:17:33.544680+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.6799999999999999,
+        "weighted_score": 0.62,
+        "combined_confidence": 0.62,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-17T21:05:35.309024+00:00"
+        "timestamp": "2026-05-18T04:17:33.544683+00:00"
       },
       "article_type": "headline"
     },
@@ -73,130 +73,6 @@
       "description": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
       "author": "Russell Brandom",
       "content": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-17T21:05:35.309491+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-17T21:05:35.309494+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "99670e80593143744194beb1297b4e93",
-      "title": "Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and Persistent Session Management in Production",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/05/16/meet-litellm-agent-platform-a-kubernetes-based-self-hosted-infrastructure-layer-for-isolated-agent-sandboxes-and-persistent-session-management-in-production/",
-      "published_date": "2026-05-16T17:59:09+00:00",
-      "category": "Industry",
-      "description": "Running AI agents in a local script is straightforward. Running them reliably in production across teams, across restarts, with isolated environments per context is a different problem entirely. BerriAI, the company behind the LiteLLM AI Gateway, is now open-sourcing a purpose-built answer to that problem: the LiteLLM Agent Platform. The platform is described as a […] The post Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and...",
-      "author": "Asif Razzaq",
-      "content": "Running AI agents in a local script is straightforward. Running them reliably in production across teams, across restarts, with isolated environments per context is a different problem entirely. BerriAI, the company behind the LiteLLM AI Gateway, is now open-sourcing a purpose-built answer to that problem: the LiteLLM Agent Platform. The platform is described as a […] The post Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.925,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-17T21:05:35.310675+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-17T21:05:35.310677+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "7376bab6e342745f107f5e227607e2a8",
-      "title": "Accelerated X-Ray Analysis for Nanoscale Imaging (XANI) of Novel Materials",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/accelerated-x-ray-analysis-for-nanoscale-imaging-xani-of-novel-materials/",
-      "published_date": "2026-05-13T16:39:20+00:00",
-      "category": "Industry",
-      "description": "A massive-scale X-ray free-electron laser (XFEL) enables tracking structural and electron dynamics in novel systems, including fusion materials, semiconductors,...",
-      "author": "Irina Demeshko",
-      "content": "A massive-scale X-ray free-electron laser (XFEL) enables tracking structural and electron dynamics in novel systems, including fusion materials, semiconductors,...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -230,41 +106,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.98,
+        "score": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-17T21:05:35.309751+00:00"
+        "consensus_timestamp": "2026-05-18T04:17:33.545145+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-17T21:05:35.309754+00:00"
+        "timestamp": "2026-05-18T04:17:33.545147+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "7c3a00575058a71517942ef7ef34bc7d",
-      "title": "A Coding Implementation to Compress and Benchmark Instruction-Tuned LLMs with FP8, GPTQ, and SmoothQuant Quantization using llmcompressor",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/05/17/a-coding-implementation-to-compress-and-benchmark-instruction-tuned-llms-with-fp8-gptq-and-smoothquant-quantization-using-llmcompressor/",
-      "published_date": "2026-05-17T18:19:09+00:00",
-      "category": "Industry",
-      "description": "In this tutorial, we explore how to apply post-training quantization to an instruction-tuned language model using llmcompressor. We start with an FP16 baseline and then compare multiple compression strategies, including FP8 dynamic quantization, GPTQ W4A16, and SmoothQuant with GPTQ W8A8. Along the way, we benchmark each model variant for disk size, generation latency, throughput, perplexity, […] The post A Coding Implementation to Compress and Benchmark Instruction-Tuned LLMs with FP8, GPTQ,...",
-      "author": "Sana Hassan",
-      "content": "In this tutorial, we explore how to apply post-training quantization to an instruction-tuned language model using llmcompressor. We start with an FP16 baseline and then compare multiple compression strategies, including FP8 dynamic quantization, GPTQ W4A16, and SmoothQuant with GPTQ W8A8. Along the way, we benchmark each model variant for disk size, generation latency, throughput, perplexity, […] The post A Coding Implementation to Compress and Benchmark Instruction-Tuned LLMs with FP8, GPTQ,...",
+      "article_id": "cebb2dbd0b3a911e621ed9a206ec0e61",
+      "title": "Statistics at DSIT",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology/about/statistics",
+      "published_date": "2026-05-12T08:30:06+00:00",
+      "category": "Government",
+      "description": "DSIT and its public bodies produces official statistics covering its sectors.",
+      "author": "",
+      "content": "DSIT and its public bodies produces official statistics covering its sectors.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.8875000000000001,
+        "overall_score": 0.9,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -292,22 +168,146 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.99,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-17T21:05:35.310504+00:00"
+        "consensus_timestamp": "2026-05-18T04:17:33.541753+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.794,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-17T21:05:35.310506+00:00"
+        "timestamp": "2026-05-18T04:17:33.541755+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "06f14a3692e48f06c8e383dd466c8f14",
+      "title": "From siloed data to unified insights: Cross-account Athena Access for Amazon Quick",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-siloed-data-to-unified-insights-cross-account-athena-access-for-amazon-quick/",
+      "published_date": "2026-05-14T17:17:50+00:00",
+      "category": "Industry",
+      "description": "Today, we're announcing cross-account Athena access for Amazon Quick. With this feature, customers can query Athena data in other AWS accounts using AWS Identity and Access Management (IAM) role chaining, with query costs billed to the account where the data resides.",
+      "author": "Vignessh Baskaran",
+      "content": "Today, we're announcing cross-account Athena access for Amazon Quick. With this feature, customers can query Athena data in other AWS accounts using AWS Identity and Access Management (IAM) role chaining, with query costs billed to the account where the data resides.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.885,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-18T04:17:33.543471+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-18T04:17:33.543473+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "97e1d7ba151305522c734d9159a31308",
+      "title": "Build real-time voice streaming applications with Amazon Nova Sonic and WebRTC",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-streaming-applications-with-amazon-nova-sonic-and-webrtc/",
+      "published_date": "2026-05-13T17:46:19+00:00",
+      "category": "Industry",
+      "description": "Building end-to-end live streaming applications with real-time voice interaction presents several challenges. This post introduces a solution based on Amazon Nova 2 Sonic (Nova Sonic) and Amazon Kinesis Video Streams WebRTC (WebRTC) that addresses these challenges. In this post, we’ll walk through the solution architecture, implementation patterns, and two real-world scenario examples.",
+      "author": "Zihang Huang",
+      "content": "Building end-to-end live streaming applications with real-time voice interaction presents several challenges. This post introduces a solution based on Amazon Nova 2 Sonic (Nova Sonic) and Amazon Kinesis Video Streams WebRTC (WebRTC) that addresses these challenges. In this post, we’ll walk through the solution architecture, implementation patterns, and two real-world scenario examples.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.85,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.895,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-18T04:17:33.543602+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-18T04:17:33.543605+00:00"
       },
       "article_type": "article"
     }
