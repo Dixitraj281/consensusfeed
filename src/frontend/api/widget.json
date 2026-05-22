@@ -1,23 +1,23 @@
 {
-  "updated": "2026-05-22T11:01:40.957288+00:00",
+  "updated": "2026-05-22T14:59:44.920642+00:00",
   "top_stories": [
     {
-      "article_id": "0797627cd7cd5201e93ca71781682a85",
-      "title": "Anthropic says it’s about to have its first profitable quarter",
+      "article_id": "249a51485f19ba57bdbc6a3e92604dbe",
+      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-      "published_date": "2026-05-21T00:21:21+00:00",
+      "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+      "published_date": "2026-05-21T19:45:00+00:00",
       "category": "Industry",
-      "description": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
-      "author": "Lucas Ropek",
-      "content": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+      "description": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
+      "author": "Sarah Perez",
+      "content": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,148 +44,24 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.9,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T11:01:40.908550+00:00"
+        "consensus_timestamp": "2026-05-22T14:59:44.867926+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T11:01:40.908553+00:00"
+        "timestamp": "2026-05-22T14:59:44.867929+00:00"
       },
       "article_type": "headline"
-    },
-    {
-      "article_id": "2d109efc339832e77f13be119c4f6094",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/nvidia",
-      "published_date": "2026-05-12T00:00:00+00:00",
-      "category": "Industry",
-      "description": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "author": "",
-      "content": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T11:01:40.906503+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-22T11:01:40.906505+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "6f157bc14f1c66da2da8a62e79b923e3",
-      "title": "Build custom code-based evaluators in Amazon Bedrock AgentCore",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-custom-code-based-evaluators-in-amazon-bedrock-agentcore/",
-      "published_date": "2026-05-18T15:07:15+00:00",
-      "category": "Industry",
-      "description": "In this post, you will implement four Lambda-based custom code evaluators for a financial market-intelligence agent, register each with AgentCore, and run them in on-demand and online modes. You will also see how to combine custom code-based evaluators with built-in evaluators and how to call other AWS services for grounded fact-checking, PII detection, and real-time alerting.",
-      "author": "Bharathi Srinivasan",
-      "content": "In this post, you will implement four Lambda-based custom code evaluators for a financial market-intelligence agent, register each with AgentCore, and run them in on-demand and online modes. You will also see how to combine custom code-based evaluators with built-in evaluators and how to call other AWS services for grounded fact-checking, PII detection, and real-time alerting.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T11:01:40.907532+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-22T11:01:40.907534+00:00"
-      },
-      "article_type": "article"
     },
     {
       "article_id": "368a2c862dd2c2d0e35f9d5f55566b6c",
@@ -234,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T11:01:40.909311+00:00"
+        "consensus_timestamp": "2026-05-22T14:59:44.869824+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,27 +121,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T11:01:40.909314+00:00"
+        "timestamp": "2026-05-22T14:59:44.869831+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "543e2a20a783dc8fb8b3a6f6280f33a5",
-      "title": "Fast-tracking genetic leads to reverse cellular aging",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
-      "published_date": "2026-05-18T18:21:39+00:00",
+      "article_id": "4858e5219ded259e036582374290ed21",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/databricks",
+      "published_date": "2026-05-15T00:00:00+00:00",
       "category": "Industry",
-      "description": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "description": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "author": "",
-      "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "content": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.85,
         "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.98
+        "overall_score": 0.9125000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -293,21 +169,145 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T11:01:40.909573+00:00"
+        "consensus_timestamp": "2026-05-22T14:59:44.865935+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T11:01:40.909576+00:00"
+        "timestamp": "2026-05-22T14:59:44.865938+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "46ce34bcc750eb47d1b4bd01e9b31a8b",
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/adventhealth",
+      "published_date": "2026-05-21T12:00:00+00:00",
+      "category": "Industry",
+      "description": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "author": "",
+      "content": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-22T14:59:44.865399+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-22T14:59:44.865402+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a22f70570334eb06d7e88126b5bcbddb",
+      "title": "Introducing OpenAI for Singapore",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "published_date": "2026-05-19T20:30:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "author": "",
+      "content": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-22T14:59:44.865579+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-22T14:59:44.865582+00:00"
       },
       "article_type": "article"
     }

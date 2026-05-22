@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-05-22T11:01:40.954422+00:00",
+  "generated_at": "2026-05-22T14:59:44.917366+00:00",
   "articles": [
     {
-      "article_id": "0797627cd7cd5201e93ca71781682a85",
-      "title": "Anthropic says it’s about to have its first profitable quarter",
+      "article_id": "249a51485f19ba57bdbc6a3e92604dbe",
+      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-      "published_date": "2026-05-21T00:21:21+00:00",
+      "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+      "published_date": "2026-05-21T19:45:00+00:00",
       "category": "Industry",
-      "description": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
-      "author": "Lucas Ropek",
-      "content": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+      "description": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
+      "author": "Sarah Perez",
+      "content": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,148 +44,24 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.9,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T11:01:40.908550+00:00"
+        "consensus_timestamp": "2026-05-22T14:59:44.867926+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T11:01:40.908553+00:00"
+        "timestamp": "2026-05-22T14:59:44.867929+00:00"
       },
       "article_type": "headline"
-    },
-    {
-      "article_id": "2d109efc339832e77f13be119c4f6094",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/nvidia",
-      "published_date": "2026-05-12T00:00:00+00:00",
-      "category": "Industry",
-      "description": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "author": "",
-      "content": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T11:01:40.906503+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-22T11:01:40.906505+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "6f157bc14f1c66da2da8a62e79b923e3",
-      "title": "Build custom code-based evaluators in Amazon Bedrock AgentCore",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-custom-code-based-evaluators-in-amazon-bedrock-agentcore/",
-      "published_date": "2026-05-18T15:07:15+00:00",
-      "category": "Industry",
-      "description": "In this post, you will implement four Lambda-based custom code evaluators for a financial market-intelligence agent, register each with AgentCore, and run them in on-demand and online modes. You will also see how to combine custom code-based evaluators with built-in evaluators and how to call other AWS services for grounded fact-checking, PII detection, and real-time alerting.",
-      "author": "Bharathi Srinivasan",
-      "content": "In this post, you will implement four Lambda-based custom code evaluators for a financial market-intelligence agent, register each with AgentCore, and run them in on-demand and online modes. You will also see how to combine custom code-based evaluators with built-in evaluators and how to call other AWS services for grounded fact-checking, PII detection, and real-time alerting.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T11:01:40.907532+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-22T11:01:40.907534+00:00"
-      },
-      "article_type": "article"
     },
     {
       "article_id": "368a2c862dd2c2d0e35f9d5f55566b6c",
@@ -234,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T11:01:40.909311+00:00"
+        "consensus_timestamp": "2026-05-22T14:59:44.869824+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,89 +121,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T11:01:40.909314+00:00"
+        "timestamp": "2026-05-22T14:59:44.869831+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "543e2a20a783dc8fb8b3a6f6280f33a5",
-      "title": "Fast-tracking genetic leads to reverse cellular aging",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
-      "published_date": "2026-05-18T18:21:39+00:00",
+      "article_id": "4858e5219ded259e036582374290ed21",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/databricks",
+      "published_date": "2026-05-15T00:00:00+00:00",
       "category": "Industry",
-      "description": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "description": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "author": "",
-      "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "content": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.85,
         "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T11:01:40.909573+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-22T11:01:40.909576+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "873b7345489491fde955d3e2b9fa6f76",
-      "title": "Oral small-molecule GLP-1 drugs penetrate deep into the brain to suppress cravings",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/oral-small-molecule-glp-1-drugs-penetrate-deep-into-brain-suppress-cravings",
-      "published_date": "2026-05-22T10:56:23.501260+00:00",
-      "category": "Government",
-      "description": "NIH-funded research identifies new mechanism of action for next-generation weight-loss drugs.",
-      "author": "",
-      "content": "NIH-funded research identifies new mechanism of action for next-generation weight-loss drugs.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
+        "overall_score": 0.9125000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -358,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T11:01:40.904688+00:00"
+        "consensus_timestamp": "2026-05-22T14:59:44.865935+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,82 +183,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T11:01:40.904693+00:00"
+        "timestamp": "2026-05-22T14:59:44.865938+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "9fc06833d4b67de751e5547800fd13c2",
-      "title": "Intelligent radiology workflow optimization with AI agents",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/intelligent-radiology-workflow-optimization-with-ai-agents-2/",
-      "published_date": "2026-05-21T19:11:09+00:00",
+      "article_id": "46ce34bcc750eb47d1b4bd01e9b31a8b",
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/adventhealth",
+      "published_date": "2026-05-21T12:00:00+00:00",
       "category": "Industry",
-      "description": "Many healthcare organizations report that traditional worklist systems rely on rigid rules that ignore critical context, radiologist specialization, current workload, fatigue levels, and case complexity. This creates a persistent challenge: radiologists cherry-pick easier, higher-value cases while avoiding complex studies, leading to diagnostic delays and increased costs. Research across 62 hospitals analyzing 2.2 million studies found […]",
-      "author": "Priya Padate",
-      "content": "Many healthcare organizations report that traditional worklist systems rely on rigid rules that ignore critical context, radiologist specialization, current workload, fatigue levels, and case complexity. This creates a persistent challenge: radiologists cherry-pick easier, higher-value cases while avoiding complex studies, leading to diagnostic delays and increased costs. Research across 62 hospitals analyzing 2.2 million studies found […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.875,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T11:01:40.906787+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-22T11:01:40.906790+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "ce52b12f523fde3507db4b3900729647",
-      "title": "HM Government licensing cyber security tech for a global market",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/case-studies/hm-government-licensing-cyber-security-tech-for-a-global-market",
-      "published_date": "2026-05-20T12:12:24+00:00",
-      "category": "Government",
-      "description": "SilentGlass is a plug-and-play cyber security device developed by NCSC and commercialised with support from GOTT, now licensed to a UK firm for global use.",
+      "description": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
       "author": "",
-      "content": "SilentGlass is a plug-and-play cyber security device developed by NCSC and commercialised with support from GOTT, now licensed to a UK firm for global use.",
+      "content": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -482,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T11:01:40.905076+00:00"
+        "consensus_timestamp": "2026-05-22T14:59:44.865399+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -493,26 +245,88 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T11:01:40.905079+00:00"
+        "timestamp": "2026-05-22T14:59:44.865402+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "4372b7d523448d56edda29e215341264",
-      "title": "Implementing programmatic tool calling on Amazon Bedrock",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/implementing-programmatic-tool-calling-on-amazon-bedrock/",
-      "published_date": "2026-05-19T15:17:00+00:00",
+      "article_id": "a22f70570334eb06d7e88126b5bcbddb",
+      "title": "Introducing OpenAI for Singapore",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "published_date": "2026-05-19T20:30:00+00:00",
       "category": "Industry",
-      "description": "In this post, we show three ways to implement Programmatic tool calling (PTC) on Amazon Bedrock: a self-hosted Docker sandbox on ECS for maximum control, a managed solution using Amazon Bedrock AgentCore Code Interpreter, and an Anthropic SDK-compatible path through a proxy for teams that prefer that developer experience.",
-      "author": "Shreyas Subramanian",
-      "content": "In this post, we show three ways to implement Programmatic tool calling (PTC) on Amazon Bedrock: a self-hosted Docker sandbox on ECS for maximum control, a managed solution using Amazon Bedrock AgentCore Code Interpreter, and an Anthropic SDK-compatible path through a proxy for teams that prefer that developer experience.",
+      "description": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "author": "",
+      "content": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-22T14:59:44.865579+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-22T14:59:44.865582+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "04436b43cab3e21f5df4305b12374ab8",
+      "title": "Our response to the TanStack npm supply chain attack",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "published_date": "2026-05-13T00:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
+      "author": "",
+      "content": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.98,
+        "overall_score": 0.881,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -540,35 +354,159 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T11:01:40.907353+00:00"
+        "consensus_timestamp": "2026-05-22T14:59:44.866196+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T11:01:40.907356+00:00"
+        "timestamp": "2026-05-22T14:59:44.866199+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "12387a857b81e80bafd2ce2078abdeaa",
-      "title": "Mastering Agentic Techniques: AI Agent Customization",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-customization/",
-      "published_date": "2026-05-20T20:00:00+00:00",
+      "article_id": "38df3f3f744028832d3e800a5b3efc8d",
+      "title": "Building multi-tenant agents with Amazon Bedrock AgentCore",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-multi-tenant-agents-with-amazon-bedrock-agentcore/",
+      "published_date": "2026-05-21T16:16:09+00:00",
       "category": "Industry",
-      "description": "Autonomous AI agents are taking on all types of work for businesses: routing logistics fleets, triaging support tickets, generating code, and orchestrating...",
-      "author": "Edward Li",
-      "content": "Autonomous AI agents are taking on all types of work for businesses: routing logistics fleets, triaging support tickets, generating code, and orchestrating...",
+      "description": "This post explores design considerations for architecting multi-tenant agentic applications and the framework needed to address SaaS architecture challenges with Amazon Bedrock AgentCore.",
+      "author": "Dhawalkumar Patel",
+      "content": "This post explores design considerations for architecting multi-tenant agentic applications and the framework needed to address SaaS architecture challenges with Amazon Bedrock AgentCore.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.85,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8699999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-22T14:59:44.866693+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-22T14:59:44.866696+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "12b9723de85ab1c97b1f6485164e0d7f",
+      "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+      "published_date": "2026-05-16T09:13:34+00:00",
+      "category": "Industry",
+      "description": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
+      "author": "",
+      "content": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-22T14:59:44.870418+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-22T14:59:44.870420+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "78f0b16e062bf8f6badc65a81bd64fdf",
+      "title": "Uncovering repurposed medicines to fight liver fibrosis",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
+      "published_date": "2026-05-16T07:40:27+00:00",
+      "category": "Industry",
+      "description": "Stanford geneticist uses Co-Scientist to help find new treatments for chronic liver disease and liver fibrosis.",
+      "author": "",
+      "content": "Stanford geneticist uses Co-Scientist to help find new treatments for chronic liver disease and liver fibrosis.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -606,7 +544,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T11:01:40.909180+00:00"
+        "consensus_timestamp": "2026-05-22T14:59:44.870639+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -617,82 +555,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T11:01:40.909183+00:00"
+        "timestamp": "2026-05-22T14:59:44.870642+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "7376bab6e342745f107f5e227607e2a8",
-      "title": "Accelerated X-Ray Analysis for Nanoscale Imaging (XANI) of Novel Materials",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/accelerated-x-ray-analysis-for-nanoscale-imaging-xani-of-novel-materials/",
-      "published_date": "2026-05-13T16:39:20+00:00",
-      "category": "Industry",
-      "description": "A massive-scale X-ray free-electron laser (XFEL) enables tracking structural and electron dynamics in novel systems, including fusion materials, semiconductors,...",
-      "author": "Irina Demeshko",
-      "content": "A massive-scale X-ray free-electron laser (XFEL) enables tracking structural and electron dynamics in novel systems, including fusion materials, semiconductors,...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T11:01:40.909355+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-22T11:01:40.909357+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "4858e5219ded259e036582374290ed21",
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "article_id": "fda3b32f3b7e664831e23b3e0fa06adc",
+      "title": "How sales teams use Codex",
       "source": "openai_blog",
-      "url": "https://openai.com/index/databricks",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "published_date": "2026-05-15T00:00:00+00:00",
       "category": "Industry",
-      "description": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "description": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "author": "",
-      "content": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "content": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -727,34 +603,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T11:01:40.906103+00:00"
+        "consensus_timestamp": "2026-05-22T14:59:44.865803+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T11:01:40.906106+00:00"
+        "timestamp": "2026-05-22T14:59:44.865806+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c7fbaaf0f58dc0ca56c1ea57114362cf",
-      "title": "Researchers identify first suite of human antibodies against measles virus",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/researchers-identify-first-suite-human-antibodies-against-measles-virus",
-      "published_date": "2026-05-22T10:56:23.501038+00:00",
+      "article_id": "04d8f5a225a32c4a6281e110e2711b10",
+      "title": "Robotic Servicing of Geosynchronous Satellites technology to launch in 2026",
+      "source": "darpa_ai_research",
+      "url": "https://www.darpa.mil/news/2026/robotic-servicing-geosynchronous-satellites-technology-launch-2026",
+      "published_date": "2026-05-19T18:26:04+00:00",
       "category": "Government",
-      "description": "NIH-funded study lays foundation for antibody-based measles treatment.",
-      "author": "",
-      "content": "NIH-funded study lays foundation for antibody-based measles treatment.",
+      "description": "DARPA and its partners approach the most significant milestone of the Robotic Servicing of Geosynchronous Satellites (RSGS) program.",
+      "author": "outreach@darpa.mil",
+      "content": "DARPA and its partners approach the most significant milestone of the Robotic Servicing of Geosynchronous Satellites (RSGS) program.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.8,
@@ -792,7 +668,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T11:01:40.904512+00:00"
+        "consensus_timestamp": "2026-05-22T14:59:44.864576+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,88 +679,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T11:01:40.904516+00:00"
+        "timestamp": "2026-05-22T14:59:44.864579+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "cafb5695fa974387536bd52cd818a144",
-      "title": "Millions to get faster, easier access to government support with new AI tool",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/millions-to-get-faster-easier-access-to-government-support-with-new-ai-tool",
-      "published_date": "2026-05-14T21:30:00+00:00",
-      "category": "Government",
-      "description": "GOV.UK Chat is now available in the GOV.UK app – a new AI tool that lets people ask questions in plain language and get clear, reliable answers instantly.",
-      "author": "",
-      "content": "GOV.UK Chat is now available in the GOV.UK app – a new AI tool that lets people ask questions in plain language and get clear, reliable answers instantly.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T11:01:40.905265+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-22T11:01:40.905269+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c08cc46a9adecb0fdf67ce65fe71db6c",
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "published_date": "2026-05-20T00:00:00+00:00",
+      "article_id": "12387a857b81e80bafd2ce2078abdeaa",
+      "title": "Mastering Agentic Techniques: AI Agent Customization",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-customization/",
+      "published_date": "2026-05-20T20:00:00+00:00",
       "category": "Industry",
-      "description": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "author": "",
-      "content": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "description": "Autonomous AI agents are taking on all types of work for businesses: routing logistics fleets, triaging support tickets, generating code, and orchestrating...",
+      "author": "Edward Li",
+      "content": "Autonomous AI agents are taking on all types of work for businesses: routing logistics fleets, triaging support tickets, generating code, and orchestrating...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -916,7 +730,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T11:01:40.905785+00:00"
+        "consensus_timestamp": "2026-05-22T14:59:44.869685+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +741,193 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T11:01:40.905788+00:00"
+        "timestamp": "2026-05-22T14:59:44.869687+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b7a240ba0e511c5cd5519a3b4b6a791e",
+      "title": "Adding weekly GLP-1 to cognitive behavioral therapy further reduces heavy drinking",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/adding-weekly-glp-1-cognitive-behavioral-therapy-further-reduces-heavy-drinking",
+      "published_date": "2026-05-22T14:53:59.606551+00:00",
+      "category": "Government",
+      "description": "Clinical trial suggests semaglutide may help patients with alcohol use disorder and obesity.",
+      "author": "",
+      "content": "Clinical trial suggests semaglutide may help patients with alcohol use disorder and obesity.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-22T14:59:44.864418+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-22T14:59:44.864422+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4364c750ede879cf40abd1a1645d10db",
+      "title": "NVIDIA-Verified Agent Skills Provide Capability Governance for AI Agents",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-verified-agent-skills-provide-capability-governance-for-ai-agents/",
+      "published_date": "2026-05-19T23:40:45+00:00",
+      "category": "Industry",
+      "description": "Autonomous AI agents are becoming more capable. Open models, Model Context Protocol (MCP)-connected tools, and portable skills are also making agents easier to...",
+      "author": "Moshe Abramovitch",
+      "content": "Autonomous AI agents are becoming more capable. Open models, Model Context Protocol (MCP)-connected tools, and portable skills are also making agents easier to...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-22T14:59:44.869777+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-22T14:59:44.869780+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8685d9f6ae706cacf9f162e49243c085",
+      "title": "Accelerate ML feature pipelines with new capabilities in Amazon SageMaker Feature Store",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-ml-feature-pipelines-with-new-capabilities-in-amazon-sagemaker-feature-store/",
+      "published_date": "2026-05-19T15:20:33+00:00",
+      "category": "Industry",
+      "description": "Today, we’re announcing three new capabilities available in SageMaker Python SDK v3.8.0. In this post, we walk through each capability with code examples you can use to get started. For complete end-to-end walkthroughs, see the accompanying notebooks for Lake Formation governance and Iceberg table properties in the SageMaker Python SDK repository.",
+      "author": "Dhaval Shah",
+      "content": "Today, we’re announcing three new capabilities available in SageMaker Python SDK v3.8.0. In this post, we walk through each capability with code examples you can use to get started. For complete end-to-end walkthroughs, see the accompanying notebooks for Lake Formation governance and Iceberg table properties in the SageMaker Python SDK repository.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.85,
+        "overall_score": 0.8275,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-22T14:59:44.867215+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-22T14:59:44.867218+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 246.07361721992493,
+    "processing_time": 273.4977910518646,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 127,
+      "total_processed": 130,
       "candidates": {
-        "headlines": 13,
-        "articles": 114,
+        "headlines": 10,
+        "articles": 120,
         "research_papers": 0
       },
       "selected": {
