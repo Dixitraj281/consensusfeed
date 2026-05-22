@@ -1,22 +1,84 @@
 {
-  "updated": "2026-05-22T04:16:36.223615+00:00",
+  "updated": "2026-05-22T11:01:40.957288+00:00",
   "top_stories": [
     {
-      "article_id": "1765d7e1b6780da56606c9dd1397f2fd",
-      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      "article_id": "0797627cd7cd5201e93ca71781682a85",
+      "title": "Anthropic says it’s about to have its first profitable quarter",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-      "published_date": "2026-05-21T00:28:31+00:00",
+      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "published_date": "2026-05-21T00:21:21+00:00",
       "category": "Industry",
-      "description": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
-      "author": "Julie Bort",
-      "content": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+      "description": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+      "author": "Lucas Ropek",
+      "content": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.98,
         "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-22T11:01:40.908550+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-22T11:01:40.908553+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "2d109efc339832e77f13be119c4f6094",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/nvidia",
+      "published_date": "2026-05-12T00:00:00+00:00",
+      "category": "Industry",
+      "description": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "author": "",
+      "content": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.931,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -48,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T04:16:36.176544+00:00"
+        "consensus_timestamp": "2026-05-22T11:01:40.906503+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,9 +121,71 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T04:16:36.176546+00:00"
+        "timestamp": "2026-05-22T11:01:40.906505+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
+    },
+    {
+      "article_id": "6f157bc14f1c66da2da8a62e79b923e3",
+      "title": "Build custom code-based evaluators in Amazon Bedrock AgentCore",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-custom-code-based-evaluators-in-amazon-bedrock-agentcore/",
+      "published_date": "2026-05-18T15:07:15+00:00",
+      "category": "Industry",
+      "description": "In this post, you will implement four Lambda-based custom code evaluators for a financial market-intelligence agent, register each with AgentCore, and run them in on-demand and online modes. You will also see how to combine custom code-based evaluators with built-in evaluators and how to call other AWS services for grounded fact-checking, PII detection, and real-time alerting.",
+      "author": "Bharathi Srinivasan",
+      "content": "In this post, you will implement four Lambda-based custom code evaluators for a financial market-intelligence agent, register each with AgentCore, and run them in on-demand and online modes. You will also see how to combine custom code-based evaluators with built-in evaluators and how to call other AWS services for grounded fact-checking, PII detection, and real-time alerting.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.931,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-22T11:01:40.907532+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-22T11:01:40.907534+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "368a2c862dd2c2d0e35f9d5f55566b6c",
@@ -76,9 +200,9 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.9,
         "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "overall_score": 0.931,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -107,165 +231,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.85,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T04:16:36.177224+00:00"
+        "consensus_timestamp": "2026-05-22T11:01:40.909311+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T04:16:36.177227+00:00"
+        "timestamp": "2026-05-22T11:01:40.909314+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c0b1b281d8f8e82ed831682d8b0a4432",
-      "title": "NIH-funded study suggests that testosterone suppresses brain tumor growth in males",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-study-suggests-testosterone-suppresses-brain-tumor-growth-males",
-      "published_date": "2026-05-22T04:10:56.492266+00:00",
-      "category": "Government",
-      "description": "Findings may warrant exploration of the hormones as glioblastoma treatment.",
-      "author": "",
-      "content": "Findings may warrant exploration of the hormones as glioblastoma treatment.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T04:16:36.173173+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-22T04:16:36.173176+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "5934e203b82cd27cc000ecee5c79f40f",
-      "title": "Introducing NVIDIA Fleet Intelligence for Real-Time GPU Fleet Visibility and Optimization",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/introducing-nvidia-fleet-intelligence-for-real-time-gpu-fleet-visibility-and-optimization/",
-      "published_date": "2026-05-11T19:44:27+00:00",
+      "article_id": "543e2a20a783dc8fb8b3a6f6280f33a5",
+      "title": "Fast-tracking genetic leads to reverse cellular aging",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "published_date": "2026-05-18T18:21:39+00:00",
       "category": "Industry",
-      "description": "The compute capability of large GPU fleets presents unprecedented opportunities to innovate and provide value to customers in record time. Yet these...",
-      "author": "Christian Shrauder",
-      "content": "The compute capability of large GPU fleets presents unprecedented opportunities to innovate and provide value to customers in record time. Yet these...",
+      "description": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "author": "",
+      "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T04:16:36.177428+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-22T04:16:36.177430+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "1a3f4d063233d3657867a8f50ad7ff26",
-      "title": "Integrating AWS API MCP Server with Amazon Quick using Amazon Bedrock AgentCore Runtime",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/integrating-aws-api-mcp-server-with-amazon-quick-suite-using-amazon-bedrock-agentcore-runtime/",
-      "published_date": "2026-05-21T16:32:09+00:00",
-      "category": "Industry",
-      "description": "This post shows you how to use Amazon Bedrock AgentCore Runtime with Model Context Protocol (MCP) support to connect Amazon Quick with AWS services through the AWS API MCP Server, creating a conversational AI assistant that translates natural language into AWS Command Line Interface (AWS CLI) commands, without the need to switch between tools during critical moments.",
-      "author": "Sangeetha Kamatkar",
-      "content": "This post shows you how to use Amazon Bedrock AgentCore Runtime with Model Context Protocol (MCP) support to connect Amazon Quick with AWS services through the AWS API MCP Server, creating a conversational AI assistant that translates natural language into AWS Command Line Interface (AWS CLI) commands, without the need to switch between tools during critical moments.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.86,
-        "confidence_mean": 0.95
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -293,21 +293,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T04:16:36.174861+00:00"
+        "consensus_timestamp": "2026-05-22T11:01:40.909573+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T04:16:36.174864+00:00"
+        "timestamp": "2026-05-22T11:01:40.909576+00:00"
       },
       "article_type": "article"
     }

@@ -1,22 +1,84 @@
 {
-  "generated_at": "2026-05-22T04:16:36.220651+00:00",
+  "generated_at": "2026-05-22T11:01:40.954422+00:00",
   "articles": [
     {
-      "article_id": "1765d7e1b6780da56606c9dd1397f2fd",
-      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      "article_id": "0797627cd7cd5201e93ca71781682a85",
+      "title": "Anthropic says it’s about to have its first profitable quarter",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-      "published_date": "2026-05-21T00:28:31+00:00",
+      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "published_date": "2026-05-21T00:21:21+00:00",
       "category": "Industry",
-      "description": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
-      "author": "Julie Bort",
-      "content": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+      "description": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+      "author": "Lucas Ropek",
+      "content": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.98,
         "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-22T11:01:40.908550+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-22T11:01:40.908553+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "2d109efc339832e77f13be119c4f6094",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/nvidia",
+      "published_date": "2026-05-12T00:00:00+00:00",
+      "category": "Industry",
+      "description": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "author": "",
+      "content": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.931,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -48,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T04:16:36.176544+00:00"
+        "consensus_timestamp": "2026-05-22T11:01:40.906503+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,9 +121,71 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T04:16:36.176546+00:00"
+        "timestamp": "2026-05-22T11:01:40.906505+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
+    },
+    {
+      "article_id": "6f157bc14f1c66da2da8a62e79b923e3",
+      "title": "Build custom code-based evaluators in Amazon Bedrock AgentCore",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-custom-code-based-evaluators-in-amazon-bedrock-agentcore/",
+      "published_date": "2026-05-18T15:07:15+00:00",
+      "category": "Industry",
+      "description": "In this post, you will implement four Lambda-based custom code evaluators for a financial market-intelligence agent, register each with AgentCore, and run them in on-demand and online modes. You will also see how to combine custom code-based evaluators with built-in evaluators and how to call other AWS services for grounded fact-checking, PII detection, and real-time alerting.",
+      "author": "Bharathi Srinivasan",
+      "content": "In this post, you will implement four Lambda-based custom code evaluators for a financial market-intelligence agent, register each with AgentCore, and run them in on-demand and online modes. You will also see how to combine custom code-based evaluators with built-in evaluators and how to call other AWS services for grounded fact-checking, PII detection, and real-time alerting.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.931,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-22T11:01:40.907532+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-22T11:01:40.907534+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "368a2c862dd2c2d0e35f9d5f55566b6c",
@@ -76,9 +200,9 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.9,
         "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "overall_score": 0.931,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -107,34 +231,220 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.85,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T04:16:36.177224+00:00"
+        "consensus_timestamp": "2026-05-22T11:01:40.909311+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T04:16:36.177227+00:00"
+        "timestamp": "2026-05-22T11:01:40.909314+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c0b1b281d8f8e82ed831682d8b0a4432",
-      "title": "NIH-funded study suggests that testosterone suppresses brain tumor growth in males",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-study-suggests-testosterone-suppresses-brain-tumor-growth-males",
-      "published_date": "2026-05-22T04:10:56.492266+00:00",
-      "category": "Government",
-      "description": "Findings may warrant exploration of the hormones as glioblastoma treatment.",
+      "article_id": "543e2a20a783dc8fb8b3a6f6280f33a5",
+      "title": "Fast-tracking genetic leads to reverse cellular aging",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "published_date": "2026-05-18T18:21:39+00:00",
+      "category": "Industry",
+      "description": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
       "author": "",
-      "content": "Findings may warrant exploration of the hormones as glioblastoma treatment.",
+      "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-22T11:01:40.909573+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-22T11:01:40.909576+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "873b7345489491fde955d3e2b9fa6f76",
+      "title": "Oral small-molecule GLP-1 drugs penetrate deep into the brain to suppress cravings",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/oral-small-molecule-glp-1-drugs-penetrate-deep-into-brain-suppress-cravings",
+      "published_date": "2026-05-22T10:56:23.501260+00:00",
+      "category": "Government",
+      "description": "NIH-funded research identifies new mechanism of action for next-generation weight-loss drugs.",
+      "author": "",
+      "content": "NIH-funded research identifies new mechanism of action for next-generation weight-loss drugs.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-22T11:01:40.904688+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-22T11:01:40.904693+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "9fc06833d4b67de751e5547800fd13c2",
+      "title": "Intelligent radiology workflow optimization with AI agents",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/intelligent-radiology-workflow-optimization-with-ai-agents-2/",
+      "published_date": "2026-05-21T19:11:09+00:00",
+      "category": "Industry",
+      "description": "Many healthcare organizations report that traditional worklist systems rely on rigid rules that ignore critical context, radiologist specialization, current workload, fatigue levels, and case complexity. This creates a persistent challenge: radiologists cherry-pick easier, higher-value cases while avoiding complex studies, leading to diagnostic delays and increased costs. Research across 62 hospitals analyzing 2.2 million studies found […]",
+      "author": "Priya Padate",
+      "content": "Many healthcare organizations report that traditional worklist systems rely on rigid rules that ignore critical context, radiologist specialization, current workload, fatigue levels, and case complexity. This creates a persistent challenge: radiologists cherry-pick easier, higher-value cases while avoiding complex studies, leading to diagnostic delays and increased costs. Research across 62 hospitals analyzing 2.2 million studies found […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.875,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-22T11:01:40.906787+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-22T11:01:40.906790+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ce52b12f523fde3507db4b3900729647",
+      "title": "HM Government licensing cyber security tech for a global market",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/case-studies/hm-government-licensing-cyber-security-tech-for-a-global-market",
+      "published_date": "2026-05-20T12:12:24+00:00",
+      "category": "Government",
+      "description": "SilentGlass is a plug-and-play cyber security device developed by NCSC and commercialised with support from GOTT, now licensed to a UK firm for global use.",
+      "author": "",
+      "content": "SilentGlass is a plug-and-play cyber security device developed by NCSC and commercialised with support from GOTT, now licensed to a UK firm for global use.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -172,7 +482,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T04:16:36.173173+00:00"
+        "consensus_timestamp": "2026-05-22T11:01:40.905076+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,213 +493,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T04:16:36.173176+00:00"
+        "timestamp": "2026-05-22T11:01:40.905079+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "5934e203b82cd27cc000ecee5c79f40f",
-      "title": "Introducing NVIDIA Fleet Intelligence for Real-Time GPU Fleet Visibility and Optimization",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/introducing-nvidia-fleet-intelligence-for-real-time-gpu-fleet-visibility-and-optimization/",
-      "published_date": "2026-05-11T19:44:27+00:00",
-      "category": "Industry",
-      "description": "The compute capability of large GPU fleets presents unprecedented opportunities to innovate and provide value to customers in record time. Yet these...",
-      "author": "Christian Shrauder",
-      "content": "The compute capability of large GPU fleets presents unprecedented opportunities to innovate and provide value to customers in record time. Yet these...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T04:16:36.177428+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-22T04:16:36.177430+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "1a3f4d063233d3657867a8f50ad7ff26",
-      "title": "Integrating AWS API MCP Server with Amazon Quick using Amazon Bedrock AgentCore Runtime",
+      "article_id": "4372b7d523448d56edda29e215341264",
+      "title": "Implementing programmatic tool calling on Amazon Bedrock",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/integrating-aws-api-mcp-server-with-amazon-quick-suite-using-amazon-bedrock-agentcore-runtime/",
-      "published_date": "2026-05-21T16:32:09+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/implementing-programmatic-tool-calling-on-amazon-bedrock/",
+      "published_date": "2026-05-19T15:17:00+00:00",
       "category": "Industry",
-      "description": "This post shows you how to use Amazon Bedrock AgentCore Runtime with Model Context Protocol (MCP) support to connect Amazon Quick with AWS services through the AWS API MCP Server, creating a conversational AI assistant that translates natural language into AWS Command Line Interface (AWS CLI) commands, without the need to switch between tools during critical moments.",
-      "author": "Sangeetha Kamatkar",
-      "content": "This post shows you how to use Amazon Bedrock AgentCore Runtime with Model Context Protocol (MCP) support to connect Amazon Quick with AWS services through the AWS API MCP Server, creating a conversational AI assistant that translates natural language into AWS Command Line Interface (AWS CLI) commands, without the need to switch between tools during critical moments.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.86,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T04:16:36.174861+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-22T04:16:36.174864+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "6a60d094f0c5e88736f450ff663d2cb2",
-      "title": "Restrict access to sensitive documents in your Amazon Quick knowledge bases for Amazon S3",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/restrict-access-to-sensitive-documents-in-your-amazon-quick-knowledge-bases-for-amazon-s3/",
-      "published_date": "2026-05-15T15:41:00+00:00",
-      "category": "Industry",
-      "description": "In this post, we walk through how to configure document-level ACLs for your S3 knowledge base in Amazon Quick. You will learn how to set up and verify an ACL configuration that enforces document-level permissions across chat and automated workflows.",
-      "author": "Josh DeMuth",
-      "content": "In this post, we walk through how to configure document-level ACLs for your S3 knowledge base in Amazon Quick. You will learn how to set up and verify an ACL configuration that enforces document-level permissions across chat and automated workflows.",
+      "description": "In this post, we show three ways to implement Programmatic tool calling (PTC) on Amazon Bedrock: a self-hosted Docker sandbox on ECS for maximum control, a managed solution using Amazon Bedrock AgentCore Code Interpreter, and an Anthropic SDK-compatible path through a proxy for teams that prefer that developer experience.",
+      "author": "Shreyas Subramanian",
+      "content": "In this post, we show three ways to implement Programmatic tool calling (PTC) on Amazon Bedrock: a self-hosted Docker sandbox on ECS for maximum control, a managed solution using Amazon Bedrock AgentCore Code Interpreter, and an Anthropic SDK-compatible path through a proxy for teams that prefer that developer experience.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
         "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.99,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T04:16:36.175626+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.794,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-22T04:16:36.175628+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "0c7582461ea8eca462a327d5b866b8c0",
-      "title": "Uniting biological toolkits for a new approach to ALS",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
-      "published_date": "2026-05-16T07:53:11+00:00",
-      "category": "Industry",
-      "description": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
-      "author": "",
-      "content": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8350000000000001,
-        "confidence_mean": 0.85
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -420,7 +544,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T04:16:36.177915+00:00"
+        "consensus_timestamp": "2026-05-22T11:01:40.907353+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -431,7 +555,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T04:16:36.177917+00:00"
+        "timestamp": "2026-05-22T11:01:40.907356+00:00"
       },
       "article_type": "article"
     },
@@ -448,72 +572,10 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.7,
+        "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
+        "overall_score": 0.8725,
         "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T04:16:36.177097+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-22T04:16:36.177100+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "ae741c1f805299c52250f534c73c02ff",
-      "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
-      "published_date": "2026-05-12T14:40:07+00:00",
-      "category": "Industry",
-      "description": "Introducing Co-Scientist, a collaborative AI partner built with Gemini to help researchers accelerate scientific breakthroughs.",
-      "author": "",
-      "content": "Introducing Co-Scientist, a collaborative AI partner built with Gemini to help researchers accelerate scientific breakthroughs.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -544,7 +606,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T04:16:36.178085+00:00"
+        "consensus_timestamp": "2026-05-22T11:01:40.909180+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -555,317 +617,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T04:16:36.178088+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "dcdf77ee256a294695b9340da1927f79",
-      "title": "Symptom-based approach treats opioid withdrawal in newborns with minimal drug exposure",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/symptom-based-approach-treats-opioid-withdrawal-newborns-minimal-drug-exposure",
-      "published_date": "2026-05-22T04:10:56.492369+00:00",
-      "category": "Government",
-      "description": "NIH-funded clinical trial shows that the new approach could also decrease time in the hospital.",
-      "author": "",
-      "content": "NIH-funded clinical trial shows that the new approach could also decrease time in the hospital.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T04:16:36.173222+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-22T04:16:36.173227+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "728ce8b1075ccee0f8ba75443d650493",
-      "title": "Bittensor (TAO) Price Prediction: 2025, 2026, 2030",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/money/bittensor-tao-price-prediction",
-      "published_date": "2026-05-21T14:16:05+00:00",
-      "category": "Industry",
-      "description": "The post Bittensor (TAO) Price Prediction: 2025, 2026, 2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Bittensor (TAO) could reach $1,338.94 by 2030. Feeling confident about this TAO price prediction? You can trade Bittensor on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Bittensor (TAO) is a …...",
-      "author": "Ishan Jain",
-      "content": "The post Bittensor (TAO) Price Prediction: 2025, 2026, 2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Bittensor (TAO) could reach $1,338.94 by 2030. Feeling confident about this TAO price prediction? You can trade Bittensor on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Bittensor (TAO) is a …...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.45,
-        "confidence": 0.65,
-        "recommendation": "REJECT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T04:16:36.178256+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.47000000000000003,
-        "combined_confidence": 0.5900000000000001,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-22T04:16:36.178258+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "931753665f6b157e886f00627333182d",
-      "title": "Polkadot (DOT) Price Prediction: 2025, 2026, 2030",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/money/polkadot-price-prediction",
-      "published_date": "2026-05-21T14:16:04+00:00",
-      "category": "Industry",
-      "description": "The post Polkadot (DOT) Price Prediction: 2025, 2026, 2030 by James Wells appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Polkadot (DOT) could reach $4.40 by 2030. Feeling confident about this DOT price prediction? You can trade Polkadot on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Polkadot (DOT) is a …...",
-      "author": "James Wells",
-      "content": "The post Polkadot (DOT) Price Prediction: 2025, 2026, 2030 by James Wells appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Polkadot (DOT) could reach $4.40 by 2030. Feeling confident about this DOT price prediction? You can trade Polkadot on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Polkadot (DOT) is a …...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.9,
-        "impact_score": 0.8,
-        "overall_score": 0.8550000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T04:16:36.178298+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-22T04:16:36.178300+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8685d9f6ae706cacf9f162e49243c085",
-      "title": "Accelerate ML feature pipelines with new capabilities in Amazon SageMaker Feature Store",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-ml-feature-pipelines-with-new-capabilities-in-amazon-sagemaker-feature-store/",
-      "published_date": "2026-05-19T15:20:33+00:00",
-      "category": "Industry",
-      "description": "Today, we’re announcing three new capabilities available in SageMaker Python SDK v3.8.0. In this post, we walk through each capability with code examples you can use to get started. For complete end-to-end walkthroughs, see the accompanying notebooks for Lake Formation governance and Iceberg table properties in the SageMaker Python SDK repository.",
-      "author": "Dhaval Shah",
-      "content": "Today, we’re announcing three new capabilities available in SageMaker Python SDK v3.8.0. In this post, we walk through each capability with code examples you can use to get started. For complete end-to-end walkthroughs, see the accompanying notebooks for Lake Formation governance and Iceberg table properties in the SageMaker Python SDK repository.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.85,
-        "overall_score": 0.8275,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T04:16:36.175322+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-22T04:16:36.175324+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8f6298648cd411edbb3c485b2ec83d7a",
-      "title": "Wear and Tear Changes Measurable PFAS Levels in Firefighter Hoods, Gloves and Wildland Gear",
-      "source": "nist_ai_news",
-      "url": "https://www.nist.gov/news-events/news/2026/05/wear-and-tear-changes-measurable-pfas-levels-firefighter-hoods-gloves-and",
-      "published_date": "2026-05-13T12:00:00+00:00",
-      "category": "Government",
-      "description": "In the fourth of an ongoing series of reports, NIST shows that wear and tear increased the levels of PFAS found in hoods and gloves.",
-      "author": "Sarah Henderson",
-      "content": "In the fourth of an ongoing series of reports, NIST shows that wear and tear increased the levels of PFAS found in hoods and gloves.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.82,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T04:16:36.172835+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-22T04:16:36.172847+00:00"
+        "timestamp": "2026-05-22T11:01:40.909183+00:00"
       },
       "article_type": "article"
     },
@@ -880,12 +632,12 @@
       "author": "Irina Demeshko",
       "content": "A massive-scale X-ray free-electron laser (XFEL) enables tracking structural and electron dynamics in novel systems, including fusion materials, semiconductors,...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
+        "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.92,
-        "overall_score": 0.8265000000000001,
-        "confidence_mean": 0.85
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -912,22 +664,270 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.8,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T04:16:36.177344+00:00"
+        "consensus_timestamp": "2026-05-22T11:01:40.909355+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.6799999999999999,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T04:16:36.177347+00:00"
+        "timestamp": "2026-05-22T11:01:40.909357+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4858e5219ded259e036582374290ed21",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/databricks",
+      "published_date": "2026-05-15T00:00:00+00:00",
+      "category": "Industry",
+      "description": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "author": "",
+      "content": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-22T11:01:40.906103+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-22T11:01:40.906106+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c7fbaaf0f58dc0ca56c1ea57114362cf",
+      "title": "Researchers identify first suite of human antibodies against measles virus",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/researchers-identify-first-suite-human-antibodies-against-measles-virus",
+      "published_date": "2026-05-22T10:56:23.501038+00:00",
+      "category": "Government",
+      "description": "NIH-funded study lays foundation for antibody-based measles treatment.",
+      "author": "",
+      "content": "NIH-funded study lays foundation for antibody-based measles treatment.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-22T11:01:40.904512+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-22T11:01:40.904516+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "cafb5695fa974387536bd52cd818a144",
+      "title": "Millions to get faster, easier access to government support with new AI tool",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/millions-to-get-faster-easier-access-to-government-support-with-new-ai-tool",
+      "published_date": "2026-05-14T21:30:00+00:00",
+      "category": "Government",
+      "description": "GOV.UK Chat is now available in the GOV.UK app – a new AI tool that lets people ask questions in plain language and get clear, reliable answers instantly.",
+      "author": "",
+      "content": "GOV.UK Chat is now available in the GOV.UK app – a new AI tool that lets people ask questions in plain language and get clear, reliable answers instantly.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-22T11:01:40.905265+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-22T11:01:40.905269+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c08cc46a9adecb0fdf67ce65fe71db6c",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "published_date": "2026-05-20T00:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "author": "",
+      "content": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-22T11:01:40.905785+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-22T11:01:40.905788+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 273.1037256717682,
+    "processing_time": 246.07361721992493,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 121,
+      "total_processed": 127,
       "candidates": {
-        "headlines": 12,
-        "articles": 109,
+        "headlines": 13,
+        "articles": 114,
         "research_papers": 0
       },
       "selected": {
