@@ -1,22 +1,84 @@
 {
-  "updated": "2026-05-22T14:59:44.920642+00:00",
+  "updated": "2026-05-22T18:03:53.110320+00:00",
   "top_stories": [
     {
-      "article_id": "249a51485f19ba57bdbc6a3e92604dbe",
-      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+      "article_id": "ddbb827b143cb166b86a33a9b71b9e07",
+      "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
-      "published_date": "2026-05-21T19:45:00+00:00",
+      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "published_date": "2026-05-21T14:00:00+00:00",
       "category": "Industry",
-      "description": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
-      "author": "Sarah Perez",
-      "content": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
+      "description": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
+      "author": "Tim Fernholz",
+      "content": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-22T18:03:53.058588+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-22T18:03:53.058591+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "8d0281a244b192cb0231f71ea245a40c",
+      "title": "SAP Sapphire 2026: The Complete Breakdown",
+      "source": "nanonets_blog",
+      "url": "https://nanonets.com/blog/sap-sapphire-2026-the-complete-breakdown/",
+      "published_date": "2026-05-21T13:03:03+00:00",
+      "category": "Industry",
+      "description": "All 25 announcements from Orlando, what's actually shipping vs. what's marketing — and what it means for the document and data foundation of the autonomous enterprise.SAP's Sapphire 2026 in Orlando was the most AI-dense keynote in the company's history. Christian Klein",
+      "author": "Rushabh Nagda",
+      "content": "All 25 announcements from Orlando, what's actually shipping vs. what's marketing — and what it means for the document and data foundation of the autonomous enterprise.SAP's Sapphire 2026 in Orlando was the most AI-dense keynote in the company's history. Christian Klein",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -45,164 +107,40 @@
           }
         },
         "score": 0.95,
-        "confidence": 0.98,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T14:59:44.867926+00:00"
+        "consensus_timestamp": "2026-05-22T18:03:53.060650+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-22T14:59:44.867929+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "368a2c862dd2c2d0e35f9d5f55566b6c",
-      "title": "How the NVIDIA Vera Rubin Platform is Solving Agentic AI’s Scale-Up Problem",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-the-nvidia-vera-rubin-platform-is-solving-agentic-ais-scale-up-problem/",
-      "published_date": "2026-05-14T19:24:35+00:00",
-      "category": "Industry",
-      "description": "Agentic inference has fundamentally changed the runtime dynamics of inference workloads by introducing non-deterministic trajectories—actions, observations,...",
-      "author": "Graham Steele",
-      "content": "Agentic inference has fundamentally changed the runtime dynamics of inference workloads by introducing non-deterministic trajectories—actions, observations,...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T14:59:44.869824+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T14:59:44.869831+00:00"
+        "timestamp": "2026-05-22T18:03:53.060653+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "4858e5219ded259e036582374290ed21",
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/databricks",
-      "published_date": "2026-05-15T00:00:00+00:00",
+      "article_id": "60460347b7026c7f8d2af08367cf4e60",
+      "title": "Get Real-Time Visibility into GPU Usage Across Kubernetes Clusters",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/get-real-time-visibility-into-gpu-usage-across-kubernetes-clusters/",
+      "published_date": "2026-05-21T18:00:00+00:00",
       "category": "Industry",
-      "description": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "author": "",
-      "content": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "description": "Maximizing the value of AI infrastructure demands deep visibility into GPU utilization. Yet many platform teams running AI workloads on Kubernetes operate with...",
+      "author": "Guy Saltoun",
+      "content": "Maximizing the value of AI infrastructure demands deep visibility into GPU utilization. Yet many platform teams running AI workloads on Kubernetes operate with...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.9125000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T14:59:44.865935+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-22T14:59:44.865938+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "46ce34bcc750eb47d1b4bd01e9b31a8b",
-      "title": "AdventHealth advances whole-person care with OpenAI",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/adventhealth",
-      "published_date": "2026-05-21T12:00:00+00:00",
-      "category": "Industry",
-      "description": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-      "author": "",
-      "content": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "overall_score": 0.8875,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -234,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T14:59:44.865399+00:00"
+        "consensus_timestamp": "2026-05-22T18:03:53.059265+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,26 +183,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T14:59:44.865402+00:00"
+        "timestamp": "2026-05-22T18:03:53.059268+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "a22f70570334eb06d7e88126b5bcbddb",
-      "title": "Introducing OpenAI for Singapore",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/introducing-openai-for-singapore",
-      "published_date": "2026-05-19T20:30:00+00:00",
+      "article_id": "a8259c77b691188a5a9d5b9220dcdf5f",
+      "title": "Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/",
+      "published_date": "2026-05-11T16:00:00+00:00",
       "category": "Industry",
-      "description": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-      "author": "",
-      "content": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "description": "AI is reshaping application development. Explore key trends from Cosmos DB Conf 2026 and how teams are building scalable, AI-native applications with Azure Cosmos DB. The post Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026 appeared first on Microsoft Azure Blog.",
+      "author": "Shireesh Thota",
+      "content": "AI is reshaping application development. Explore key trends from Cosmos DB Conf 2026 and how teams are building scalable, AI-native applications with Azure Cosmos DB. The post Build AI apps with Azure Cosmos DB: Key trends from Cosmos Conf 2026 appeared first on Microsoft Azure Blog.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -296,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-22T14:59:44.865579+00:00"
+        "consensus_timestamp": "2026-05-22T18:03:53.056747+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +245,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-22T14:59:44.865582+00:00"
+        "timestamp": "2026-05-22T18:03:53.056751+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c7fbaaf0f58dc0ca56c1ea57114362cf",
+      "title": "Researchers identify first suite of human antibodies against measles virus",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/researchers-identify-first-suite-human-antibodies-against-measles-virus",
+      "published_date": "2026-05-22T17:58:14.245562+00:00",
+      "category": "Government",
+      "description": "NIH-funded study lays foundation for antibody-based measles treatment.",
+      "author": "",
+      "content": "NIH-funded study lays foundation for antibody-based measles treatment.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.87,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-22T18:03:53.054280+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-22T18:03:53.054284+00:00"
       },
       "article_type": "article"
     }
