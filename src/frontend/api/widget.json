@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T06:56:49.114057+00:00",
+  "updated": "2026-05-30T10:10:05.631997+00:00",
   "top_stories": [
     {
       "article_id": "371a26c44bf976abe4f59aee065892db",
@@ -44,11 +44,73 @@
             "enhancement_suggestions": []
           }
         },
+        "score": 0.95,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-30T10:10:05.595056+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-30T10:10:05.595059+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "c9500563a9d3f259fe8e5226dcfb8c7c",
+      "title": "Streamline external access to Amazon SageMaker MLflow using a REST API proxy",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/streamline-external-access-to-amazon-sagemaker-mlflow-using-a-rest-api-proxy/",
+      "published_date": "2026-05-28T20:35:44+00:00",
+      "category": "Industry",
+      "description": "In this post, we demonstrate how to build a secure Flask-based MLflow proxy service that provides HTTPS access to Amazon SageMaker MLflow without requiring the MLflow SDK. This solution is for organizations undergoing cloud transformation who want to preserve their existing ML workflows while adopting cloud-native services.",
+      "author": "Manish Garg",
+      "content": "In this post, we demonstrate how to build a secure Flask-based MLflow proxy service that provides HTTPS access to Amazon SageMaker MLflow without requiring the MLflow SDK. This solution is for organizations undergoing cloud transformation who want to preserve their existing ML workflows while adopting cloud-native services.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.875,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
         "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-30T06:56:49.081027+00:00"
+        "consensus_timestamp": "2026-05-30T10:10:05.593384+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,26 +121,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-30T06:56:49.081030+00:00"
+        "timestamp": "2026-05-30T10:10:05.593389+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "dfb8041e88c94ac223264e220ba4d641",
-      "title": "A SMART approach to securing strategic materials",
-      "source": "darpa_ai_research",
-      "url": "https://www.darpa.mil/news/2026/smart-approach-securing-strategic-materials",
-      "published_date": "2026-05-19T12:16:04+00:00",
-      "category": "Government",
-      "description": "DARPA and State of Utah have entered into an agreement to establish the Strategic Materials Accelerator and Research Test Bed (SMART).",
-      "author": "outreach@darpa.mil",
-      "content": "DARPA and State of Utah have entered into an agreement to establish the Strategic Materials Accelerator and Research Test Bed (SMART).",
+      "article_id": "c61bb4e2310dc1d271b8bf201c90e426",
+      "title": "NVIDIA and Google Cloud Empower the Next Wave of AI Builders",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/google-cloud-developer-community-ai-builders/",
+      "published_date": "2026-05-19T20:30:09+00:00",
+      "category": "Industry",
+      "description": "At this year’s Google I/O conference, NVIDIA and Google Cloud are accelerating the work of more than 100,000 developers in the companies’ joint developer community, which provides curated learning paths, hands-on labs and events that help them build using the full-stack NVIDIA AI platform on Google Cloud. Launched at Google I/O last year, the community […]",
+      "author": "Ankit Patel",
+      "content": "At this year’s Google I/O conference, NVIDIA and Google Cloud are accelerating the work of more than 100,000 developers in the companies’ joint developer community, which provides curated learning paths, hands-on labs and events that help them build using the full-stack NVIDIA AI platform on Google Cloud. Launched at Google I/O last year, the community […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.931,
+        "overall_score": 0.8935,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -107,83 +169,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-30T06:56:49.077333+00:00"
+        "consensus_timestamp": "2026-05-30T10:10:05.594506+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-30T06:56:49.077337+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "7e606ffc505f1f5cde0dab09c0bd7965",
-      "title": "Notice: Life Sciences Healthcare Goals",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/life-sciences-healthcare-goals",
-      "published_date": "2026-05-28T15:59:48+00:00",
-      "category": "Government",
-      "description": "The Healthcare Goals programme brings together industry, academia, the third sector and the NHS to tackle healthcare challenges such as dementia, cancer, mental health, obesity and addiction.",
-      "author": "",
-      "content": "The Healthcare Goals programme brings together industry, academia, the third sector and the NHS to tackle healthcare challenges such as dementia, cancer, mental health, obesity and addiction.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-30T06:56:49.077568+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-30T06:56:49.077571+00:00"
+        "timestamp": "2026-05-30T10:10:05.594509+00:00"
       },
       "article_type": "article"
     },
@@ -234,7 +234,7 @@
         "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-30T06:56:49.081344+00:00"
+        "consensus_timestamp": "2026-05-30T10:10:05.595399+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,27 +245,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-30T06:56:49.081347+00:00"
+        "timestamp": "2026-05-30T10:10:05.595401+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "99515a836f1474946dac2139ab321714",
-      "title": "Private analytics via zero-trust aggregation",
-      "source": "google_research_blog",
-      "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/",
-      "published_date": "2026-05-27T16:56:00+00:00",
-      "category": "Industry",
-      "description": "Security, Privacy and Abuse Prevention",
+      "article_id": "d262578e07bd02f465bf813225eface0",
+      "title": "Transparency data: Premises contracted and built, Project Gigabit contracts",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/premises-contracted-and-built-project-gigabit-contracts",
+      "published_date": "2026-05-26T10:39:33+00:00",
+      "category": "Government",
+      "description": "Building Digital UK (BDUK) reports on premises contracted and built under Project Gigabit contracts.",
       "author": "",
-      "content": "Security, Privacy and Abuse Prevention",
+      "content": "Building Digital UK (BDUK) reports on premises contracted and built under Project Gigabit contracts.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.98
+        "impact_score": 0.8,
+        "overall_score": 0.8550000000000001,
+        "confidence_mean": 0.8
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -292,22 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.98,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-30T06:56:49.082081+00:00"
+        "consensus_timestamp": "2026-05-30T10:10:05.591331+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-30T06:56:49.082084+00:00"
+        "timestamp": "2026-05-30T10:10:05.591334+00:00"
       },
       "article_type": "article"
     }
