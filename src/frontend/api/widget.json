@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-02T22:30:37.618424+00:00",
+  "updated": "2026-06-03T04:54:19.965803+00:00",
   "top_stories": [
     {
-      "article_id": "6e7caa8e70d1719cffdb07974ca14ca0",
-      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+      "article_id": "f95de306beeba018e41a648b205928fa",
+      "title": "This AI weather startup is out-forecasting government agencies",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
-      "published_date": "2026-06-02T12:00:00+00:00",
+      "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+      "published_date": "2026-06-01T16:00:00+00:00",
       "category": "Industry",
-      "description": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
+      "description": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collected by the balloons is fed into the models.",
       "author": "Tim Fernholz",
-      "content": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
+      "content": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collected by the balloons is fed into the models.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -44,104 +44,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-02T22:30:37.582841+00:00"
+        "consensus_timestamp": "2026-06-03T04:54:19.930978+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-02T22:30:37.582844+00:00"
+        "timestamp": "2026-06-03T04:54:19.930980+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "37fa59ae953d80d8d9249913ccc23cb8",
-      "title": "Diverse reasoning traces teach LLMs to make better decisions",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/diverse-reasoning-traces-teach-llms-to-make-better-decisions",
-      "published_date": "2026-05-26T15:17:06+00:00",
-      "category": "Industry",
-      "description": "How to train language models to generate diverse, accurate reasoning paths using tokens that control distinct reasoning strategies.",
-      "author": "",
-      "content": "How to train language models to generate diverse, accurate reasoning paths using tokens that control distinct reasoning strategies.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-02T22:30:37.584379+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-02T22:30:37.584382+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "009b2040678a3c363a320ba01a6be199",
-      "title": "Reference your own AWS Secrets Manager secrets in Amazon Bedrock AgentCore Identity",
+      "article_id": "98f9c6e34697c6b48032e1963a0a5474",
+      "title": "Claude Opus 4.8 is now available on AWS",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/reference-your-own-aws-secrets-manager-secrets-in-amazon-bedrock-agentcore-identity/",
-      "published_date": "2026-06-01T22:16:28+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/claude-opus-4-8-is-now-available-on-aws/",
+      "published_date": "2026-05-28T17:51:32+00:00",
       "category": "Industry",
-      "description": "Today, we’re excited to announce the ability to reference a secret in AWS Secrets Manager for AgentCore Identity, so you can reference your own preconfigured secret from Secrets Manager and retain full control over how it is managed. With this ability, you can extend your organization’s existing secrets governance processes to AgentCore. You can provide an existing, preconfigured AWS Secrets Manager secret to use with your credential provider resources. You retain full control over its...",
-      "author": "Swara Gandhi",
-      "content": "Today, we’re excited to announce the ability to reference a secret in AWS Secrets Manager for AgentCore Identity, so you can reference your own preconfigured secret from Secrets Manager and retain full control over how it is managed. With this ability, you can extend your organization’s existing secrets governance processes to AgentCore. You can provide an existing, preconfigured AWS Secrets Manager secret to use with your credential provider resources. You retain full control over its...",
+      "description": "This post covers Opus 4.8's improvements and practical guidance for AI engineers integrating the model into agentic systems and production inference workloads on Amazon Bedrock.",
+      "author": "Aamna Najmi",
+      "content": "This post covers Opus 4.8's improvements and practical guidance for AI engineers integrating the model into agentic systems and production inference workloads on Amazon Bedrock.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.95,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.8975,
-        "confidence_mean": 0.98
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -169,40 +107,102 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-02T22:30:37.581144+00:00"
+        "consensus_timestamp": "2026-06-03T04:54:19.929574+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-02T22:30:37.581147+00:00"
+        "timestamp": "2026-06-03T04:54:19.929577+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "1c016e43a21ad97196253ee8c00767e4",
-      "title": "UK and Australia pact on fast-moving AI security risks",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/uk-and-australia-pact-on-fast-moving-ai-security-risks",
-      "published_date": "2026-05-25T00:00:02+00:00",
-      "category": "Government",
-      "description": "UK and Australia agree deeper ties to tackle AI risks",
-      "author": "",
-      "content": "UK and Australia agree deeper ties to tackle AI risks",
+      "article_id": "f65c85b1af11722d81cc25bb42072e11",
+      "title": "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/",
+      "published_date": "2026-06-02T06:00:36+00:00",
+      "category": "Industry",
+      "description": "Financial institutions have spent years building AI: fraud models, credit models, recommendation engines and risk systems. While this sprawl of task-specific models has been effective, it’s also constrained by siloed systems. Siloed systems prevent institutions from developing a unified understanding of consumers’ financial behavior. As enterprise datasets keep growing, so does the gap between what […]",
+      "author": "Pahal Patangia",
+      "content": "Financial institutions have spent years building AI: fraud models, credit models, recommendation engines and risk systems. While this sprawl of task-specific models has been effective, it’s also constrained by siloed systems. Siloed systems prevent institutions from developing a unified understanding of consumers’ financial behavior. As enterprise datasets keep growing, so does the gap between what […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-03T04:54:19.929709+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-03T04:54:19.929712+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "f99af3695dd9ce7b2f9533374447279c",
+      "title": "Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/",
+      "published_date": "2026-05-22T15:00:00+00:00",
+      "category": "Industry",
+      "description": "Azure NetApp Files is redefining what’s possible for EDA in the cloud—delivering scalable, high-performance storage that supports massive concurrency, low latency, and consistent production performance. With independent benchmark validation and real-world adoption, organizations can now run EDA workloads at scale without traditional storage bottlenecks. The post Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale appeared first on Microsoft Azure Blog.",
+      "author": "Aung Oo",
+      "content": "Azure NetApp Files is redefining what’s possible for EDA in the cloud—delivering scalable, high-performance storage that supports massive concurrency, low latency, and consistent production performance. With independent benchmark validation and real-world adoption, organizations can now run EDA workloads at scale without traditional storage bottlenecks. The post Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -234,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-02T22:30:37.579837+00:00"
+        "consensus_timestamp": "2026-06-03T04:54:19.928739+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,27 +245,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-02T22:30:37.579840+00:00"
+        "timestamp": "2026-06-03T04:54:19.928742+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "593fcda683a65984b52a052a538209d1",
-      "title": "Extract More Kernel Performance with NVIDIA CompileIQ Auto-Tuning",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/extract-more-kernel-performance-with-nvidia-compileiq-auto-tuning/",
-      "published_date": "2026-05-26T22:08:56+00:00",
-      "category": "Industry",
-      "description": "NVIDIA CompileIQ tackles one of the hardest problems in performance engineering: finding the compiler options that unlock the best performance for a specific...",
-      "author": "Aditya Srikanth",
-      "content": "NVIDIA CompileIQ tackles one of the hardest problems in performance engineering: finding the compiler options that unlock the best performance for a specific...",
+      "article_id": "1c016e43a21ad97196253ee8c00767e4",
+      "title": "UK and Australia pact on fast-moving AI security risks",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/uk-and-australia-pact-on-fast-moving-ai-security-risks",
+      "published_date": "2026-05-25T00:00:02+00:00",
+      "category": "Government",
+      "description": "UK and Australia agree deeper ties to tackle AI risks",
+      "author": "",
+      "content": "UK and Australia agree deeper ties to tackle AI risks",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.98,
-        "overall_score": 0.881,
-        "confidence_mean": 0.95
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.6,
+        "impact_score": 0.9,
+        "overall_score": 0.8250000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -292,22 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.98,
+        "score": 0.8,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-02T22:30:37.583987+00:00"
+        "consensus_timestamp": "2026-06-03T04:54:19.927772+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-02T22:30:37.583990+00:00"
+        "timestamp": "2026-06-03T04:54:19.927775+00:00"
       },
       "article_type": "article"
     }
