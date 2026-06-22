@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T21:25:11.397851+00:00",
+  "updated": "2026-06-22T05:07:44.654311+00:00",
   "top_stories": [
     {
       "article_id": "f1cd990dc4143b3c357f767251716b2b",
@@ -13,11 +13,11 @@
       "content": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
         "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.95
+        "overall_score": 0.8250000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,42 +44,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
+        "score": 0.8,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-21T21:25:11.370040+00:00"
+        "consensus_timestamp": "2026-06-22T05:07:44.624101+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.6799999999999999,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-21T21:25:11.370042+00:00"
+        "timestamp": "2026-06-22T05:07:44.624103+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "74bee9967f198e6030b48c8d956bceff",
-      "title": "Research: Shaping Tomorrow: the UK's Digital Standards Strategy (2026 to 2030)",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/shaping-tomorrow-the-uks-digital-standards-strategy-2026-to-2030",
-      "published_date": "2026-06-17T16:30:01+00:00",
-      "category": "Government",
-      "description": "The Digital Standards Strategy sets out how the UK will lead on standards for AI, cybersecurity, quantum and advanced connectivity.",
+      "article_id": "6b62445ed8e2e9ebb90d7f0ec0285486",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "published_date": "2026-06-11T00:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
       "author": "",
-      "content": "The Digital Standards Strategy sets out how the UK will lead on standards for AI, cybersecurity, quantum and advanced connectivity.",
+      "content": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8975,
-        "confidence_mean": 0.98
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-21T21:25:11.367267+00:00"
+        "consensus_timestamp": "2026-06-22T05:07:44.622254+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,150 +121,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-21T21:25:11.367270+00:00"
+        "timestamp": "2026-06-22T05:07:44.622256+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "91a2310e567b308a2b21558f46e8e37f",
-      "title": "Introducing LifeSciBench",
+      "article_id": "58107e17d3ae03771f2ea82bb63b9035",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "source": "openai_blog",
-      "url": "https://openai.com/index/introducing-life-sci-bench",
-      "published_date": "2026-06-17T00:00:00+00:00",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "published_date": "2026-06-17T10:00:00+00:00",
       "category": "Industry",
-      "description": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "description": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
       "author": "",
-      "content": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "content": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
         "overall_score": 0.89,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-21T21:25:11.367897+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-21T21:25:11.367900+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "ea9b1e38f630c0a0e6afd19eef1156eb",
-      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/openai-on-oracle-cloud",
-      "published_date": "2026-06-10T20:00:00+00:00",
-      "category": "Industry",
-      "description": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-      "author": "",
-      "content": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-21T21:25:11.368279+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-21T21:25:11.368282+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "287071ad26f5f6aca61f8e5286b69e1b",
-      "title": "World’s first national framework for quantum standards to boost UK leadership and trade in groundbreaking future tech",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/worlds-first-national-network-for-quantum-standards-to-boost-uk-leadership-and-trade-in-groundbreaking-future-tech",
-      "published_date": "2026-06-16T08:30:00+00:00",
-      "category": "Government",
-      "description": "A new national network to coordinate standards for the quantum technologies that will revolutionise everything from medicine to banking and transport.",
-      "author": "",
-      "content": "A new national network to coordinate standards for the quantum technologies that will revolutionise everything from medicine to banking and transport.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -296,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-21T21:25:11.367532+00:00"
+        "consensus_timestamp": "2026-06-22T05:07:44.621850+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +183,131 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-21T21:25:11.367535+00:00"
+        "timestamp": "2026-06-22T05:07:44.621852+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "742c8da9d681a4be704eae07a8bc9fdc",
+      "title": "Build Your Own Transaction Foundation Model for Financial Intelligence",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence/",
+      "published_date": "2026-06-16T20:30:08+00:00",
+      "category": "Industry",
+      "description": "Every swipe, transfer, and payment on a modern financial network encodes a pattern of human behavior. Transaction data is one of the richest signals an...",
+      "author": "Benjamin Wu",
+      "content": "Every swipe, transfer, and payment on a modern financial network encodes a pattern of human behavior. Transaction data is one of the richest signals an...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-22T05:07:44.625551+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-22T05:07:44.625555+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "f30da55d000b049e0bd70a8fc6d6c315",
+      "title": "Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/",
+      "published_date": "2026-06-18T23:31:58+00:00",
+      "category": "Industry",
+      "description": "Amazon SageMaker AI provides fully managed real-time inference hosting for machine learning models. You deploy a model to a SageMaker endpoint backed by one or more compute instances, and SageMaker handles provisioning and scaling. SageMaker supports multiple endpoint architectures. This post focuses on the two most relevant to generative AI workloads with detailed observability: Single-model endpoints (SME) and Inference component (IC) endpoints.",
+      "author": "Apoorva Chandra",
+      "content": "Amazon SageMaker AI provides fully managed real-time inference hosting for machine learning models. You deploy a model to a SageMaker endpoint backed by one or more compute instances, and SageMaker handles provisioning and scaling. SageMaker supports multiple endpoint architectures. This post focuses on the two most relevant to generative AI workloads with detailed observability: Single-model endpoints (SME) and Inference component (IC) endpoints.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-22T05:07:44.622770+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-22T05:07:44.622772+00:00"
       },
       "article_type": "article"
     }
