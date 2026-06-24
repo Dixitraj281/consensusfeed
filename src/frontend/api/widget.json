@@ -1,22 +1,22 @@
 {
-  "updated": "2026-06-24T04:10:07.960519+00:00",
+  "updated": "2026-06-24T11:01:50.862620+00:00",
   "top_stories": [
     {
-      "article_id": "017a8adbc5cdc7e745a5bca2a9b499a0",
-      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "article_id": "29c4c80d25a4bdd42c063623c93b614d",
+      "title": "OpenAI launches new initiative to help find and patch open source bugs",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "published_date": "2026-06-23T01:27:55+00:00",
+      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "published_date": "2026-06-23T00:11:31+00:00",
       "category": "Industry",
-      "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-      "author": "Rebecca Bellan, Connie Loizos",
-      "content": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "description": "OpenAI is using AI to help the open source community better protect itself.",
+      "author": "Lucas Ropek",
+      "content": "OpenAI is using AI to help the open source community better protect itself.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -44,42 +44,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
+        "score": 0.85,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-24T04:10:07.921262+00:00"
+        "consensus_timestamp": "2026-06-24T11:01:50.828473+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.71,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-24T04:10:07.921264+00:00"
+        "timestamp": "2026-06-24T11:01:50.828477+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "c33d109366ff00826a63ea9460393ba1",
-      "title": "EC2&#8217;s formally verified &#8220;isolation engine&#8221; provides mathematical assurance of virtual-machine isolation",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation",
-      "published_date": "2026-06-10T15:00:00+00:00",
+      "article_id": "4b63b4c1443f74b6cb799f61b76846af",
+      "title": "Securing the future of AI agents",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "published_date": "2026-06-16T15:46:31+00:00",
       "category": "Industry",
-      "description": "Splitting the “separation kernel” off from the rest of the Nitro security system and using only a subset of the Rust programming language to code it enabled its formal verification.",
+      "description": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
       "author": "",
-      "content": "Splitting the “separation kernel” off from the rest of the Nitro security system and using only a subset of the Rust programming language to code it enabled its formal verification.",
+      "content": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.95
+        "impact_score": 0.9,
+        "overall_score": 0.89,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -107,96 +107,34 @@
           }
         },
         "score": 0.95,
-        "confidence": 0.9,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-24T04:10:07.923017+00:00"
+        "consensus_timestamp": "2026-06-24T11:01:50.830034+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.77,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-24T04:10:07.923019+00:00"
+        "timestamp": "2026-06-24T11:01:50.830037+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "fbd10d1642d0ded6697ca1296d07422e",
-      "title": "New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/",
-      "published_date": "2026-06-17T15:29:36+00:00",
-      "category": "Industry",
-      "description": "Today we're introducing new capabilities on Amazon Bedrock AgentCore, the platform to build, connect, and optimize agents. In this post, we cover how these capabilities close each gap: connecting agents to organizational, web, and paid knowledge; helping teams find and fix what's going wrong in production; and enforcing controls that scale as agents grow more capable. Together, they help you build more capable agents faster, govern them with controls that scale, and improve them continuously.",
-      "author": "Madhu Parthasarathy",
-      "content": "Today we're introducing new capabilities on Amazon Bedrock AgentCore, the platform to build, connect, and optimize agents. In this post, we cover how these capabilities close each gap: connecting agents to organizational, web, and paid knowledge; helping teams find and fix what's going wrong in production; and enforcing controls that scale as agents grow more capable. Together, they help you build more capable agents faster, govern them with controls that scale, and improve them continuously.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-24T04:10:07.920039+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-24T04:10:07.920041+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "17d0ba49a11eea9400224dc6f69f56ae",
-      "title": "Filecoin (FIL) Price Prediction: 2025, 2025, 2030",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/money/filecoin-price-prediction",
-      "published_date": "2026-06-23T14:20:28+00:00",
-      "category": "Industry",
-      "description": "The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Filecoin (FIL) could reach $3.11 by 2030. Feeling confident about this FIL price prediction? You can trade Filecoin on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Filecoin (FIL) has been …...",
-      "author": "Ishan Jain",
-      "content": "The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Filecoin (FIL) could reach $3.11 by 2030. Feeling confident about this FIL price prediction? You can trade Filecoin on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Filecoin (FIL) has been …...",
+      "article_id": "a5f12e21ed934a0aa1f1fd7cc9274796",
+      "title": "UK backs new AI labs to make technology cheaper, more reliable and easier to use",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/uk-backs-new-ai-labs-to-make-technology-cheaper-more-reliable-and-easier-to-use",
+      "published_date": "2026-06-23T08:00:00+00:00",
+      "category": "Government",
+      "description": "Oxford and UCL to host new government-backed labs developing the next generation of AI that more businesses and services can readily use",
+      "author": "",
+      "content": "Oxford and UCL to host new government-backed labs developing the next generation of AI that more businesses and services can readily use",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -231,41 +169,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.98,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-24T04:10:07.923350+00:00"
+        "consensus_timestamp": "2026-06-24T11:01:50.825069+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.788,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-24T04:10:07.923352+00:00"
+        "timestamp": "2026-06-24T11:01:50.825073+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "69341e9db3326edff7940a7e2d14bf89",
-      "title": "Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/",
-      "published_date": "2026-06-22T13:00:00+00:00",
+      "article_id": "a9be73c3f381168b8b2a90b3c7227d0d",
+      "title": "Nvidia bets on agentic AI to turbocharge biotech discovery",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/06/23/nvidia-bets-agentic-ai-turbocharge-biotech-discovery/",
+      "published_date": "2026-06-23T23:52:28+00:00",
       "category": "Industry",
-      "description": "Physical AI—robots working autonomously alongside people in factories, warehouses, hospitals, and homes—is arriving faster than most expected. Traditional...",
-      "author": "Suhas Hariharapura Sheshadri",
-      "content": "Physical AI—robots working autonomously alongside people in factories, warehouses, hospitals, and homes—is arriving faster than most expected. Traditional...",
+      "description": "Artificial intelligence played a prominent role at this week’s Bio International Convention in San Diego, the largest biotech event with vendors spanning the full ecosystem of companies in this industry. Today in a special address, Kimberly Powell (pictured), vice president and general manager of healthcare and life sciences at Nvidia Corp., made the case that agentic AI […] The post Nvidia bets on agentic AI to turbocharge biotech discovery appeared first on SiliconANGLE.",
+      "author": "Zeus Kerravala",
+      "content": "Artificial intelligence played a prominent role at this week’s Bio International Convention in San Diego, the largest biotech event with vendors spanning the full ecosystem of companies in this industry. Today in a special address, Kimberly Powell (pictured), vice president and general manager of healthcare and life sciences at Nvidia Corp., made the case that agentic AI […] The post Nvidia bets on agentic AI to turbocharge biotech discovery appeared first on SiliconANGLE.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -292,22 +230,84 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.98,
+        "score": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-24T04:10:07.922178+00:00"
+        "consensus_timestamp": "2026-06-24T11:01:50.830248+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-24T04:10:07.922181+00:00"
+        "timestamp": "2026-06-24T11:01:50.830251+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "52bd57a60d16027cb38bc3d3e4ef4489",
+      "title": "Helping build shared standards for advanced AI",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "published_date": "2026-06-23T13:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "author": "",
+      "content": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-24T11:01:50.825664+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-24T11:01:50.825667+00:00"
       },
       "article_type": "article"
     }
