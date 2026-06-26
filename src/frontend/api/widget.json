@@ -1,23 +1,23 @@
 {
-  "updated": "2026-06-25T21:53:52.690677+00:00",
+  "updated": "2026-06-26T04:17:51.232788+00:00",
   "top_stories": [
     {
-      "article_id": "0cbf6e0d59e0a57579e9c7e5550859ce",
-      "title": "Figma adds code layers, support for animations, more AI features in new update",
+      "article_id": "02d36a411caabc3559e6d262cb0c4321",
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-      "published_date": "2026-06-24T16:15:00+00:00",
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "published_date": "2026-06-25T17:38:27+00:00",
       "category": "Industry",
-      "description": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
-      "author": "Ivan Mehta",
-      "content": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
+      "description": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+      "author": "Julie Bort",
+      "content": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.9435,
-        "confidence_mean": 0.95
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.835,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,228 +44,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.8,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-25T21:53:52.648675+00:00"
+        "consensus_timestamp": "2026-06-26T04:17:51.198878+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-25T21:53:52.648678+00:00"
+        "timestamp": "2026-06-26T04:17:51.198880+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "aaf728155785e0275d8a6ef758f32a62",
-      "title": "Official Statistics: UK Business Data Survey 2026",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/statistics/uk-business-data-survey-2026",
-      "published_date": "2026-06-18T08:30:03+00:00",
-      "category": "Government",
-      "description": "The UK Business Data Survey gathers evidence on the importance and awareness of digital data use for UK businesses. This is the 2025 to 2026 release.",
-      "author": "",
-      "content": "The UK Business Data Survey gathers evidence on the importance and awareness of digital data use for UK businesses. This is the 2025 to 2026 release.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-25T21:53:52.645213+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-25T21:53:52.645216+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "b7f17b8fcd6cd2a14d7bb4a92e59cf5d",
-      "title": "Datalab Releases lift: A 9B Open-Weights Vision Model That Extracts Structured JSON From PDFs Using Schemas",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/06/23/datalab-releases-lift-a-9b-open-weights-vision-model-that-extracts-structured-json-from-pdfs-using-schemas/",
-      "published_date": "2026-06-23T19:35:33+00:00",
-      "category": "Industry",
-      "description": "Datalab released lift, a 9B open-weights vision model that turns PDFs and images into schema-matching JSON. It uses schema-constrained decoding for valid structure and trained abstention to return null instead of hallucinating absent fields, scoring 90.2% field accuracy on a 225-document benchmark. The post Datalab Releases lift: A 9B Open-Weights Vision Model That Extracts Structured JSON From PDFs Using Schemas appeared first on MarkTechPost.",
-      "author": "Asif Razzaq",
-      "content": "Datalab released lift, a 9B open-weights vision model that turns PDFs and images into schema-matching JSON. It uses schema-constrained decoding for valid structure and trained abstention to return null instead of hallucinating absent fields, scoring 90.2% field accuracy on a 225-document benchmark. The post Datalab Releases lift: A 9B Open-Weights Vision Model That Extracts Structured JSON From PDFs Using Schemas appeared first on MarkTechPost.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-25T21:53:52.650275+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-25T21:53:52.650278+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "75ee3319ba4db6e153b3fef8a1502129",
-      "title": "Huntington Bank: Redacting sensitive data from 400M+ documents with AWS",
+      "article_id": "4adc15b0171dfe6b8d63303761c4aa74",
+      "title": "How Loka Built a Natural, Low-Latency Voice Agent with Amazon Nova 2 Sonic",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/huntington-bank-redacting-sensitive-data-from-400m-documents-with-aws/",
-      "published_date": "2026-06-24T18:24:50+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-loka-built-a-natural-low-latency-voice-agent-with-amazon-nova-2-sonic/",
+      "published_date": "2026-06-24T16:56:24+00:00",
       "category": "Industry",
-      "description": "In this post, we walk through how Huntington built a scalable AWS solution to detect and redact Personally Identifiable Information (PII) and Payment Card Industry (PCI) data from over 400 million documents, reducing processing time from years to just a few months while achieving 95%+ redaction accuracy.",
-      "author": "Rob Carnell",
-      "content": "In this post, we walk through how Huntington built a scalable AWS solution to detect and redact Personally Identifiable Information (PII) and Payment Card Industry (PCI) data from over 400 million documents, reducing processing time from years to just a few months while achieving 95%+ redaction accuracy.",
+      "description": "In this post, we demonstrate the architecture and approach Loka used to solve a common frustration: robotic, slow voice assistants that cause customers to hang up, damaging brand reputation and driving up support costs.",
+      "author": "Bojan Jakimovski",
+      "content": "In this post, we demonstrate the architecture and approach Loka used to solve a common frustration: robotic, slow voice assistants that cause customers to hang up, damaging brand reputation and driving up support costs.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
         "impact_score": 0.98,
-        "overall_score": 0.881,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-25T21:53:52.646440+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-25T21:53:52.646443+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e5e9a0b151fb5a78822162b1e745faa3",
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/preply",
-      "published_date": "2026-06-12T00:00:00+00:00",
-      "category": "Industry",
-      "description": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-      "author": "",
-      "content": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
+        "overall_score": 0.931,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -296,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-25T21:53:52.646069+00:00"
+        "consensus_timestamp": "2026-06-26T04:17:51.197664+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +121,193 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-25T21:53:52.646072+00:00"
+        "timestamp": "2026-06-26T04:17:51.197667+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "817ccd9873546e713e31c803f3a7b080",
+      "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
+      "published_date": "2026-06-22T13:00:48+00:00",
+      "category": "Industry",
+      "description": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year. As the international supercomputing community gathers at ISC in Hamburg this week, four projects running on JUPITER point to what exascale computing can actually do: map the human […]",
+      "author": "Chris Porter",
+      "content": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year. As the international supercomputing community gathers at ISC in Hamburg this week, four projects running on JUPITER point to what exascale computing can actually do: map the human […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-26T04:17:51.198315+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-26T04:17:51.198318+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "9e5e243cb7793d8de3d00c65f1681be1",
+      "title": "Mistral OCR 4 Brings Citation-Ready Structured Output to RAG, Agentic, and Enterprise Search Pipelines",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/06/23/mistral-ocr-4/",
+      "published_date": "2026-06-23T23:43:43+00:00",
+      "category": "Industry",
+      "description": "Mistral AI released OCR 4 on June 23, 2026, moving from clean text extraction to structured document output. Each block returns a bounding box, a typed classification, and per-page and per-word confidence scores. The model supports 170 languages, runs in a single self-hosted container, and feeds citation-ready inputs into RAG, agentic, and enterprise search pipelines through one API endpoint. The post Mistral OCR 4 Brings Citation-Ready Structured Output to RAG, Agentic, and Enterprise Search...",
+      "author": "Asif Razzaq",
+      "content": "Mistral AI released OCR 4 on June 23, 2026, moving from clean text extraction to structured document output. Each block returns a bounding box, a typed classification, and per-page and per-word confidence scores. The model supports 170 languages, runs in a single self-hosted container, and feeds citation-ready inputs into RAG, agentic, and enterprise search pipelines through one API endpoint. The post Mistral OCR 4 Brings Citation-Ready Structured Output to RAG, Agentic, and Enterprise Search...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-26T04:17:51.201050+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-26T04:17:51.201053+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "30cabbd1b6f5791b4f392b11094b87ec",
+      "title": "Boosting MoE Training Throughput with Advanced Fusion Kernels",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/boosting-moe-training-throughput-with-advanced-fusion-kernels/",
+      "published_date": "2026-06-15T16:45:41+00:00",
+      "category": "Industry",
+      "description": "Mixture-of-experts (MoE) models have quickly become a foundational component of modern, large-scale AI systems. They are widely adopted because they enable...",
+      "author": "Rachit Garg",
+      "content": "Mixture-of-experts (MoE) models have quickly become a foundational component of modern, large-scale AI systems. They are widely adopted because they enable...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.885,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-26T04:17:51.200207+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-26T04:17:51.200209+00:00"
       },
       "article_type": "article"
     }
