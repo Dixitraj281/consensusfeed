@@ -1,23 +1,23 @@
 {
-  "updated": "2026-06-30T18:07:45.701525+00:00",
+  "updated": "2026-06-30T21:47:49.024079+00:00",
   "top_stories": [
     {
-      "article_id": "ede647a6c90adbd607693f7c8109bd6a",
-      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+      "article_id": "6423421e508f7cc993871ca24ec0cc9d",
+      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-      "published_date": "2026-06-30T15:08:42+00:00",
+      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "published_date": "2026-06-30T15:00:00+00:00",
       "category": "Industry",
-      "description": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
-      "author": "Sarah Perez",
-      "content": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
+      "description": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
+      "author": "Russell Brandom",
+      "content": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
+        "impact_score": 0.99,
+        "overall_score": 0.9079999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -48,7 +48,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-30T18:07:45.661712+00:00"
+        "consensus_timestamp": "2026-06-30T21:47:48.985474+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,20 +59,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-30T18:07:45.661715+00:00"
+        "timestamp": "2026-06-30T21:47:48.985476+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "1142ff8b126590073b891f9837ac854c",
-      "title": "CCCL Runtime: A Modern C++ Runtime for CUDA",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/",
-      "published_date": "2026-06-22T16:00:00+00:00",
+      "article_id": "859b4a91a33119cf811236137d3de151",
+      "title": "NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/",
+      "published_date": "2026-06-23T09:00:38+00:00",
       "category": "Industry",
-      "description": "The NVIDIA CUDA Core Compute Libraries (CCCL) provides delightful and efficient abstractions for CUDA developers in C++ and Python. It features: Parallel...",
-      "author": "Piotr Ciolkosz",
-      "content": "The NVIDIA CUDA Core Compute Libraries (CCCL) provides delightful and efficient abstractions for CUDA developers in C++ and Python. It features: Parallel...",
+      "description": "NVIDIA technologies power more than 400 of the world’s 500 fastest supercomputers — 81% of the TOP500 — according to the latest rankings released this week at the ISC High Performance conference in Hamburg, Germany.",
+      "author": "Chris Porter",
+      "content": "NVIDIA technologies power more than 400 of the world’s 500 fastest supercomputers — 81% of the TOP500 — according to the latest rankings released this week at the ISC High Performance conference in Hamburg, Germany.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.98,
+        "overall_score": 0.9185000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-30T21:47:48.984829+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-30T21:47:48.984832+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4147a3fc402617a634d82c2150f0abaf",
+      "title": "Build an AI Scientist for Life Science Discovery with NVIDIA BioNeMo Agent Toolkit",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit/",
+      "published_date": "2026-06-23T13:30:00+00:00",
+      "category": "Industry",
+      "description": "AI scientists are emerging as a new interface for scientific computing. These agents can read papers, write code, generate hypotheses, call APIs, inspect files,...",
+      "author": "Kyle Tretina",
+      "content": "AI scientists are emerging as a new interface for scientific computing. These agents can read papers, write code, generate hypotheses, call APIs, inspect files,...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -106,165 +168,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-30T18:07:45.663057+00:00"
+        "consensus_timestamp": "2026-06-30T21:47:48.986442+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-30T18:07:45.663059+00:00"
+        "timestamp": "2026-06-30T21:47:48.986444+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "859b4a91a33119cf811236137d3de151",
-      "title": "NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/",
-      "published_date": "2026-06-23T09:00:38+00:00",
+      "article_id": "d5ade04ed1f37473b271787241aa8a41",
+      "title": "How to Govern Autonomous Agents in Enterprise AI Factories",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/",
+      "published_date": "2026-06-29T15:50:13+00:00",
       "category": "Industry",
-      "description": "NVIDIA technologies power more than 400 of the world’s 500 fastest supercomputers — 81% of the TOP500 — according to the latest rankings released this week at the ISC High Performance conference in Hamburg, Germany.",
-      "author": "Chris Porter",
-      "content": "NVIDIA technologies power more than 400 of the world’s 500 fastest supercomputers — 81% of the TOP500 — according to the latest rankings released this week at the ISC High Performance conference in Hamburg, Germany.",
+      "description": "AI agents are quickly moving beyond chat. They inspect code, run tests, read documents, search knowledge bases, query internal systems, and operate for hours on...",
+      "author": "Michelle Horton",
+      "content": "AI agents are quickly moving beyond chat. They inspect code, run tests, read documents, search knowledge bases, query internal systems, and operate for hours on...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-30T18:07:45.661217+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-30T18:07:45.661221+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "596dabfff763b2211b0574e2f507d837",
-      "title": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
-      "published_date": "2026-06-30T17:00:38+00:00",
-      "category": "Industry",
-      "description": "Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models, microservices and domain-specific tools — to help researchers run more sophisticated workflows and iterate faster. This week, Anthropic announced Claude Science, an AI workbench for science […]",
-      "author": "Anthony Costa",
-      "content": "Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models, microservices and domain-specific tools — to help researchers run more sophisticated workflows and iterate faster. This week, Anthropic announced Claude Science, an AI workbench for science […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8599999999999999,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-30T18:07:45.660837+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-30T18:07:45.660840+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d94679bd0dbe4a04c0abb9feb258e043",
-      "title": "Guidance: Logical Reference Model for Person Standard",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/logical-reference-model-for-person-standard",
-      "published_date": "2026-06-30T16:14:29+00:00",
-      "category": "Government",
-      "description": "This document proposes a Logical Model to describe the core attributes of a person.",
-      "author": "",
-      "content": "This document proposes a Logical Model to describe the core attributes of a person.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
         "impact_score": 0.9,
-        "overall_score": 0.85,
+        "overall_score": 0.89,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -292,22 +230,84 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.8,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-30T18:07:45.658327+00:00"
+        "consensus_timestamp": "2026-06-30T21:47:48.986029+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-30T18:07:45.658331+00:00"
+        "timestamp": "2026-06-30T21:47:48.986031+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c7153b27efe8788f2cd2cca28140c28f",
+      "title": "Spark a connection with DARPA’s Multi X Office",
+      "source": "darpa_ai_research",
+      "url": "https://www.darpa.mil/news/2026/mxo-spark-tank-pitch-day",
+      "published_date": "2026-06-26T12:48:05+00:00",
+      "category": "Government",
+      "description": "Innovators and out-of-the-box thinkers invited to engage at MXO Spark Tank and Pitch Day.",
+      "author": "outreach@darpa.mil",
+      "content": "Innovators and out-of-the-box thinkers invited to engage at MXO Spark Tank and Pitch Day.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-30T21:47:48.913388+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-30T21:47:48.913393+00:00"
       },
       "article_type": "article"
     }
