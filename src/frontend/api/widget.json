@@ -1,22 +1,84 @@
 {
-  "updated": "2026-07-02T10:51:52.836262+00:00",
+  "updated": "2026-07-02T14:19:36.886054+00:00",
   "top_stories": [
     {
-      "article_id": "55646b5534c89dbc4f152c4cc0a0271f",
-      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "article_id": "8a8c8224f7bbc87144a869597dd250d8",
+      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-      "published_date": "2026-06-30T18:13:02+00:00",
+      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+      "published_date": "2026-06-30T17:00:00+00:00",
       "category": "Industry",
-      "description": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
-      "author": "Julie Bort",
-      "content": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+      "description": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
+      "author": "Rebecca Bellan",
+      "content": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.85,
+        "overall_score": 0.8275,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-02T14:19:36.845517+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-02T14:19:36.845520+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "f4c3a20bad2a2708e72e32a7bfd1ef09",
+      "title": "Designing GPU-Accelerated Query Engines with NVIDIA GQE",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe/",
+      "published_date": "2026-06-30T17:36:43+00:00",
+      "category": "Industry",
+      "description": "GPU-accelerated query engines are often constrained by memory and I/O bandwidth. NVIDIA hardware advances—including high bandwidth memory (HBM), NVIDIA...",
+      "author": "Michelle Horton",
+      "content": "GPU-accelerated query engines are often constrained by memory and I/O bandwidth. NVIDIA hardware advances—including high bandwidth memory (HBM), NVIDIA...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
+        "overall_score": 0.89,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -44,42 +106,104 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-02T10:51:52.800508+00:00"
+        "consensus_timestamp": "2026-07-02T14:19:36.845612+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-02T10:51:52.800511+00:00"
+        "timestamp": "2026-07-02T14:19:36.845615+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "ca1011ea7e64ced2943d94611017ae65",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "published_date": "2026-06-24T06:00:00+00:00",
+      "article_id": "86716271a79ff4d7ee4b2bb5b6d4c331",
+      "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/07/01/google-ai-introduces-tabfm-a-hybrid-attention-tabular-foundation-model-for-zero-shot-classification-and-regression/",
+      "published_date": "2026-07-01T07:48:59+00:00",
       "category": "Industry",
-      "description": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "description": "Google Research has released TabFM, a foundation model for tabular data. It performs zero-shot classification and regression through in-context learning. Predictions come from a single forward pass, with no per-dataset training, hyperparameter tuning, or feature engineering. The post Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression appeared first on MarkTechPost.",
+      "author": "Asif Razzaq",
+      "content": "Google Research has released TabFM, a foundation model for tabular data. It performs zero-shot classification and regression through in-context learning. Predictions come from a single forward pass, with no per-dataset training, hyperparameter tuning, or feature engineering. The post Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression appeared first on MarkTechPost.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-02T14:19:36.846962+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-02T14:19:36.846965+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "07ff8d4bdd62b44182ea58239ea1bb6d",
+      "title": "Expanding our Heat Resilience data to 50+ global cities",
+      "source": "google_research_blog",
+      "url": "https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities/",
+      "published_date": "2026-06-30T17:03:00+00:00",
+      "category": "Industry",
+      "description": "Climate & Sustainability",
       "author": "",
-      "content": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "content": "Climate & Sustainability",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.8,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.8799999999999999,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-02T10:51:52.797659+00:00"
+        "consensus_timestamp": "2026-07-02T14:19:36.846370+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,89 +245,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-02T10:51:52.797662+00:00"
+        "timestamp": "2026-07-02T14:19:36.846373+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "a3f86008e5ba48ec6d9afd8571f2204f",
-      "title": "Building a serverless A2A gateway for agent discovery, routing, and access control",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control/",
-      "published_date": "2026-07-01T18:07:06+00:00",
+      "article_id": "9b46ca8ab28ecf5f8224c143461e9ec2",
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "published_date": "2026-06-23T17:00:00+00:00",
       "category": "Industry",
-      "description": "In this post, you will learn how to build a serverless A2A gateway on AWS that hosts multiple agents behind a single domain using path-based routing (/agents/{agentId}). Standard A2A clients work without modification.",
-      "author": "Reilly Manton",
-      "content": "In this post, you will learn how to build a serverless A2A gateway on AWS that hosts multiple agents behind a single domain using path-based routing (/agents/{agentId}). Standard A2A clients work without modification.",
+      "description": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "author": "",
+      "content": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-02T10:51:52.798386+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-02T10:51:52.798388+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "77f5fe618266f0f92cc6002eb2f48acc",
-      "title": "Multi-tenant LLM analytics with row-level security: How we built a secure agent on AWS",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/multi-tenant-llm-analytics-with-row-level-security-how-we-built-a-secure-agent-on-aws/",
-      "published_date": "2026-06-29T17:39:29+00:00",
-      "category": "Industry",
-      "description": "In this post, we show you how PAR built a production-ready multi-tenant LLM analytics system that enforces row-level security through a three-layer architecture: cryptographic request signing with AWS SigV4, semantic validation on Amazon Bedrock, and programmatic data isolation via Split-Plane SQL. We demonstrate how each layer operates independently to reduce the risk of cross-tenant data exposure, even when the LLM itself is compromised or manipulated.",
-      "author": "Anuranjan Mondal",
-      "content": "In this post, we show you how PAR built a production-ready multi-tenant LLM analytics system that enforces row-level security through a three-layer architecture: cryptographic request signing with AWS SigV4, semantic validation on Amazon Bedrock, and programmatic data isolation via Split-Plane SQL. We demonstrate how each layer operates independently to reduce the risk of cross-tenant data exposure, even when the LLM itself is compromised or manipulated.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -234,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-02T10:51:52.799128+00:00"
+        "consensus_timestamp": "2026-07-02T14:19:36.842261+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,69 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-02T10:51:52.799130+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "92d6a97c1119fcc0eeac32f0ef714e33",
-      "title": "How Jaiveer Singh Is Helping Robots — and Developers — Move Faster",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/",
-      "published_date": "2026-06-30T15:00:49+00:00",
-      "category": "Industry",
-      "description": "When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot’s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a robotics software engineer who leads the team behind […]",
-      "author": "NVIDIA Writers",
-      "content": "When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot’s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a robotics software engineer who leads the team behind […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-02T10:51:52.799427+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-02T10:51:52.799430+00:00"
+        "timestamp": "2026-07-02T14:19:36.842264+00:00"
       },
       "article_type": "article"
     }
