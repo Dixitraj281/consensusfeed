@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T10:22:06.561044+00:00",
+  "updated": "2026-07-04T13:50:40.801037+00:00",
   "top_stories": [
     {
       "article_id": "3865223c19e48da7ba6252a2bf34a881",
@@ -17,7 +17,7 @@
         "novelty_score": 0.7,
         "impact_score": 0.9,
         "overall_score": 0.8250000000000001,
-        "confidence_mean": 0.8
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -45,40 +45,40 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-04T10:22:06.531062+00:00"
+        "consensus_timestamp": "2026-07-04T13:50:40.773280+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-04T10:22:06.531065+00:00"
+        "timestamp": "2026-07-04T13:50:40.773283+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "69341e9db3326edff7940a7e2d14bf89",
-      "title": "Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/",
-      "published_date": "2026-06-22T13:00:00+00:00",
+      "article_id": "596dabfff763b2211b0574e2f507d837",
+      "title": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
+      "published_date": "2026-06-30T17:00:38+00:00",
       "category": "Industry",
-      "description": "Physical AI—robots working autonomously alongside people in factories, warehouses, hospitals, and homes—is arriving faster than most expected. Traditional...",
-      "author": "Suhas Hariharapura Sheshadri",
-      "content": "Physical AI—robots working autonomously alongside people in factories, warehouses, hospitals, and homes—is arriving faster than most expected. Traditional...",
+      "description": "Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models, microservices and domain-specific tools — to help researchers run more sophisticated workflows and iterate faster. This week, Anthropic announced Claude Science, an AI workbench for science […]",
+      "author": "Anthony Costa",
+      "content": "Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models, microservices and domain-specific tools — to help researchers run more sophisticated workflows and iterate faster. This week, Anthropic announced Claude Science, an AI workbench for science […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.85,
         "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "overall_score": 0.9185000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -106,41 +106,165 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.95,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-04T10:22:06.532685+00:00"
+        "consensus_timestamp": "2026-07-04T13:50:40.772578+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-04T13:50:40.772581+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "59f35be528f492901c1cfd14eade9d71",
+      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "published_date": "2026-07-01T02:04:40+00:00",
+      "category": "Industry",
+      "description": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+      "author": "Marina Temkin",
+      "content": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.99,
+        "overall_score": 0.9079999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-04T13:50:40.773913+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-04T13:50:40.773916+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "d5ade04ed1f37473b271787241aa8a41",
+      "title": "How to Govern Autonomous Agents in Enterprise AI Factories",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/",
+      "published_date": "2026-06-29T15:50:13+00:00",
+      "category": "Industry",
+      "description": "AI agents are quickly moving beyond chat. They inspect code, run tests, read documents, search knowledge bases, query internal systems, and operate for hours on...",
+      "author": "Michelle Horton",
+      "content": "AI agents are quickly moving beyond chat. They inspect code, run tests, read documents, search knowledge bases, query internal systems, and operate for hours on...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-04T13:50:40.774158+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-04T10:22:06.532688+00:00"
+        "timestamp": "2026-07-04T13:50:40.774161+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "6961851fd8d2e2ac0318fcecb55cc4aa",
-      "title": "Boost Inference Performance up to 15x on NVIDIA Blackwell Using DFlash Speculative Decoding",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/",
-      "published_date": "2026-06-23T15:00:00+00:00",
+      "article_id": "06d4df530bbfcf8d36da71e7ca0fde12",
+      "title": "HippoRAG: Neurobiologically inspired RAG using Amazon Bedrock, Amazon Neptune, and personalized PageRank",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank/",
+      "published_date": "2026-07-01T18:01:32+00:00",
       "category": "Industry",
-      "description": "As AI systems move from single-turn interactions to coordinated multiagent workflows, low-latency inference becomes increasingly important. Autoregressive LLMs...",
-      "author": "Amr Elmeleegy",
-      "content": "As AI systems move from single-turn interactions to coordinated multiagent workflows, low-latency inference becomes increasingly important. Autoregressive LLMs...",
+      "description": "In this post, we demonstrate how to implement HippoRAG using a comprehensive AWS stack. We use Amazon Bedrock for LLM capabilities, Amazon Neptune for graph database functionality, Amazon Neptune Analytics for advanced graph algorithms including Personalized PageRank, and Amazon Titan Embeddings for vector representations. This implementation showcases how to build and deploy HippoRAG within AWS infrastructure for enterprise-scale applications.",
+      "author": "Tanay Chowdhury",
+      "content": "In this post, we demonstrate how to implement HippoRAG using a comprehensive AWS stack. We use Amazon Bedrock for LLM capabilities, Amazon Neptune for graph database functionality, Amazon Neptune Analytics for advanced graph algorithms including Personalized PageRank, and Amazon Titan Embeddings for vector representations. This implementation showcases how to build and deploy HippoRAG within AWS infrastructure for enterprise-scale applications.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.885,
+        "overall_score": 0.8725,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -168,146 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-04T10:22:06.532454+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-04T10:22:06.532457+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "92d6a97c1119fcc0eeac32f0ef714e33",
-      "title": "How Jaiveer Singh Is Helping Robots — and Developers — Move Faster",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/",
-      "published_date": "2026-06-30T15:00:49+00:00",
-      "category": "Industry",
-      "description": "When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot’s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a robotics software engineer who leads the team behind […]",
-      "author": "NVIDIA Writers",
-      "content": "When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot’s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a robotics software engineer who leads the team behind […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.99,
-        "overall_score": 0.8955,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-04T10:22:06.530408+00:00"
+        "consensus_timestamp": "2026-07-04T13:50:40.771748+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-04T10:22:06.530411+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "4fec5dcfec734a0a657b48136d3ccdde",
-      "title": "Q&amp;A: How KRAFTON Built PUBG Ally, a Co-Playable Character Powered by NVIDIA ACE",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace/",
-      "published_date": "2026-06-25T16:38:18+00:00",
-      "category": "Industry",
-      "description": "AI companions in games have long been constrained by fixed dialogue. PUBG Ally is a different kind of system. Built by KRAFTON for PUBG: BATTLEGROUNDS, this AI...",
-      "author": "Elizabeth Goodman",
-      "content": "AI companions in games have long been constrained by fixed dialogue. PUBG Ally is a different kind of system. Built by KRAFTON for PUBG: BATTLEGROUNDS, this AI...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-04T10:22:06.532316+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-04T10:22:06.532318+00:00"
+        "timestamp": "2026-07-04T13:50:40.771751+00:00"
       },
       "article_type": "article"
     }
