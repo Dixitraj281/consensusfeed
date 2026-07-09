@@ -1,22 +1,22 @@
 {
-  "updated": "2026-07-09T03:55:05.376123+00:00",
+  "updated": "2026-07-09T07:47:47.955412+00:00",
   "top_stories": [
     {
-      "article_id": "757308f25fef17713d7ce90108910986",
-      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "article_id": "99accebfa0dd3a9d984663d1d4524fce",
+      "title": "OpenAI releases new voice models for more natural live conversations",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-      "published_date": "2026-07-07T19:28:38+00:00",
+      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "published_date": "2026-07-08T17:00:00+00:00",
       "category": "Industry",
-      "description": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
-      "author": "Lauren Forristal",
-      "content": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
+      "description": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+      "author": "Ivan Mehta",
+      "content": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.895,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-09T03:55:05.334479+00:00"
+        "consensus_timestamp": "2026-07-09T07:47:47.913182+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,20 +59,144 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-09T03:55:05.334481+00:00"
+        "timestamp": "2026-07-09T07:47:47.913186+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "c42d41aeacd03b4faf093e2e51692417",
-      "title": "NVIDIA and Partners Build in America, for America",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
-      "published_date": "2026-07-01T13:00:47+00:00",
+      "article_id": "663dc9cd04c58226194f4b292c1abf97",
+      "title": "Context Graphs vs Vector RAG vs Raw Context - Agentic memory benchmark",
+      "source": "nanonets_blog",
+      "url": "https://nanonets.com/blog/context-graphs-vs-vector-rag-vs-raw-context/",
+      "published_date": "2026-07-01T14:50:58+00:00",
       "category": "Industry",
-      "description": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
-      "author": "NVIDIA",
-      "content": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
+      "description": "We benchmark context graphs against other methods of agentic memory, and discuss what each method got right and wrong.",
+      "author": "Karan",
+      "content": "We benchmark context graphs against other methods of agentic memory, and discuss what each method got right and wrong.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.9225000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-09T07:47:47.914768+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-09T07:47:47.914771+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "596dabfff763b2211b0574e2f507d837",
+      "title": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
+      "published_date": "2026-06-30T17:00:38+00:00",
+      "category": "Industry",
+      "description": "Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models, microservices and domain-specific tools — to help researchers run more sophisticated workflows and iterate faster. This week, Anthropic announced Claude Science, an AI workbench for science […]",
+      "author": "Anthony Costa",
+      "content": "Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models, microservices and domain-specific tools — to help researchers run more sophisticated workflows and iterate faster. This week, Anthropic announced Claude Science, an AI workbench for science […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.98,
+        "overall_score": 0.9185000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-09T07:47:47.912595+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-09T07:47:47.912598+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "18ef1b1b348dc0afc32c507b157818fe",
+      "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
+      "published_date": "2026-07-07T15:00:52+00:00",
+      "category": "Industry",
+      "description": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era. Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the tool calling, code […]",
+      "author": "Ian Buck",
+      "content": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era. Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the tool calling, code […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -107,102 +231,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-09T03:55:05.333390+00:00"
+        "consensus_timestamp": "2026-07-09T07:47:47.912269+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-09T03:55:05.333392+00:00"
+        "timestamp": "2026-07-09T07:47:47.912272+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "21edfb5c356153e6d2bda869ebbf4cec",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "published_date": "2026-06-30T00:00:00+00:00",
+      "article_id": "e3fb4cac42c79799693145b5f800b1d5",
+      "title": "Chipmakers urge White House to avoid broad memory market interventions",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/07/03/chipmakers-urge-white-house-avoid-broad-memory-market-interventions/",
+      "published_date": "2026-07-03T23:22:31+00:00",
       "category": "Industry",
-      "description": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "author": "",
-      "content": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "description": "A chip industry association has urged the White House not to make major changes to the way the memory market is regulated. The group, SEMI, represents most of the world’s major semiconductor equipment and materials companies as well as chipmakers. Bloomberg reported late Thursday that the association had outlined its concerns about the memory market […] The post Chipmakers urge White House to avoid broad memory market interventions appeared first on SiliconANGLE.",
+      "author": "Maria Deutscher",
+      "content": "A chip industry association has urged the White House not to make major changes to the way the memory market is regulated. The group, SEMI, represents most of the world’s major semiconductor equipment and materials companies as well as chipmakers. Bloomberg reported late Thursday that the association had outlined its concerns about the memory market […] The post Chipmakers urge White House to avoid broad memory market interventions appeared first on SiliconANGLE.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.9159999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-09T03:55:05.331573+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-09T03:55:05.331575+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "835e19cfde62282dd77b54f4e8789759",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/mufg",
-      "published_date": "2026-07-07T00:00:00+00:00",
-      "category": "Industry",
-      "description": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "author": "",
-      "content": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.99,
-        "overall_score": 0.8955,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -234,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-09T03:55:05.331442+00:00"
+        "consensus_timestamp": "2026-07-09T07:47:47.915560+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,69 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-09T03:55:05.331444+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "bcf6df186a98620fc884f1dda0927c51",
-      "title": "Research: Digital Identity Sectoral Analysis Report 2026",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/digital-identity-sectoral-analysis-report-2026",
-      "published_date": "2026-07-08T08:30:00+00:00",
-      "category": "Government",
-      "description": "Findings from OfDIA's 2026 research on the UK's digital identity sector.",
-      "author": "",
-      "content": "Findings from OfDIA's 2026 research on the UK's digital identity sector.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-09T03:55:05.330741+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-09T03:55:05.330745+00:00"
+        "timestamp": "2026-07-09T07:47:47.915563+00:00"
       },
       "article_type": "article"
     }
