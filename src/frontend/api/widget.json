@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-10T14:45:56.202965+00:00",
+  "updated": "2026-07-10T17:56:33.281957+00:00",
   "top_stories": [
     {
-      "article_id": "4d293387715341ce459d2574eaa6f24c",
-      "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
+      "article_id": "55c07497af13f55c512dc48915e53ee4",
+      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
-      "published_date": "2026-07-09T17:56:47+00:00",
+      "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "published_date": "2026-07-09T14:51:00+00:00",
       "category": "Industry",
-      "description": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
-      "author": "Lauren Forristal",
-      "content": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
+      "description": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
+      "author": "Russell Brandom",
+      "content": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -48,7 +48,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-10T14:45:56.161564+00:00"
+        "consensus_timestamp": "2026-07-10T17:56:33.242387+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,20 +59,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-10T14:45:56.161567+00:00"
+        "timestamp": "2026-07-10T17:56:33.242389+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "050fdbd1abe27ef94e369936a18e47b9",
-      "title": "Build a serverless image editing agent with Amazon Bedrock AgentCore harness",
+      "article_id": "a1eef3eec9590f8b468fb478451b8e86",
+      "title": "How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-image-editing-agent-with-amazon-bedrock-agentcore-harness/",
-      "published_date": "2026-07-07T16:51:29+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-ktern-ai-built-agentic-ai-for-sap-on-amazon-bedrock-agentcore/",
+      "published_date": "2026-07-10T15:23:25+00:00",
       "category": "Industry",
-      "description": "This post walks through building a serverless image editor where users upload a photo, describe an edit in plain English, and receive the result in seconds. The agent runs on AgentCore harness without custom orchestration code. We deploy the full solution, including authentication, encrypted storage, three image editing tools, and a React frontend, with a single deployment command. The infrastructure is defined using AWS Cloud Development Kit (AWS CDK).",
-      "author": "Salman Ahmed",
-      "content": "This post walks through building a serverless image editor where users upload a photo, describe an edit in plain English, and receive the result in seconds. The agent runs on AgentCore harness without custom orchestration code. We deploy the full solution, including authentication, encrypted storage, three image editing tools, and a React frontend, with a single deployment command. The infrastructure is defined using AWS Cloud Development Kit (AWS CDK).",
+      "description": "Evolving from a traditional software as a service (SaaS) platform into a next-generation agentic AI platform meant orchestrating multiple specialized agents across long-running enterprise programs. Each agent operates with persistent context, secure tool access, and production-grade reliability. We built that system on Amazon Bedrock AgentCore using the Strands Agents SDK. This post walks through how we architected it, which agents we built, and the outcomes for our customers.",
+      "author": "Vijayaraghavan C P",
+      "content": "Evolving from a traditional software as a service (SaaS) platform into a next-generation agentic AI platform meant orchestrating multiple specialized agents across long-running enterprise programs. Each agent operates with persistent context, secure tool access, and production-grade reliability. We built that system on Amazon Bedrock AgentCore using the Strands Agents SDK. This post walks through how we architected it, which agents we built, and the outcomes for our customers.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.931,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-10T17:56:33.240534+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-10T17:56:33.240537+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e8409e373fd835560887deef854691f4",
+      "title": "Kernel Fusion in NVIDIA CUDA: Optimizing Memory Traffic and Launch Overhead",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/",
+      "published_date": "2026-07-10T16:41:03+00:00",
+      "category": "Industry",
+      "description": "There are many ways to optimize code for GPUs. In this post, you’ll learn how kernel fusion can improve memory bandwidth and reduce kernel launch overhead,...",
+      "author": "Michelle Horton",
+      "content": "There are many ways to optimize code for GPUs. In this post, you’ll learn how kernel fusion can improve memory bandwidth and reduce kernel launch overhead,...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -110,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-10T14:45:56.160004+00:00"
+        "consensus_timestamp": "2026-07-10T17:56:33.242515+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,7 +183,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-10T14:45:56.160007+00:00"
+        "timestamp": "2026-07-10T17:56:33.242517+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "d5ade04ed1f37473b271787241aa8a41",
+      "title": "How to Govern Autonomous Agents in Enterprise AI Factories",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/",
+      "published_date": "2026-06-29T15:50:13+00:00",
+      "category": "Industry",
+      "description": "AI agents are quickly moving beyond chat. They inspect code, run tests, read documents, search knowledge bases, query internal systems, and operate for hours on...",
+      "author": "Michelle Horton",
+      "content": "AI agents are quickly moving beyond chat. They inspect code, run tests, read documents, search knowledge bases, query internal systems, and operate for hours on...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-10T17:56:33.243092+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-10T17:56:33.243095+00:00"
       },
       "article_type": "article"
     },
@@ -137,10 +261,10 @@
       "content": "We benchmark context graphs against other methods of agentic memory, and discuss what each method got right and wrong.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.95,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8975,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -168,73 +292,11 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-10T14:45:56.163054+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-10T14:45:56.163057+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "1abefc8d400fbca47296720ab62e95e4",
-      "title": "Powering scientific discovery: BYOKG and GraphRAG for intelligent pharmaceutical research",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/",
-      "published_date": "2026-07-08T16:57:12+00:00",
-      "category": "Industry",
-      "description": "In this post, we explore how Graph-based Retrieval Augmented Generation (GraphRAG) is transforming scientific research by combining graph databases with generative AI. With this approach, you can accelerate discovery processes without compromising scientific integrity.",
-      "author": "Jasmine Rasheed Syed",
-      "content": "In this post, we explore how Graph-based Retrieval Augmented Generation (GraphRAG) is transforming scientific research by combining graph databases with generative AI. With this approach, you can accelerate discovery processes without compromising scientific integrity.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.875,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
         "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-10T14:45:56.159536+00:00"
+        "consensus_timestamp": "2026-07-10T17:56:33.243478+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,69 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-10T14:45:56.159538+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "cfb74e454128b5a5622ef7bf8b4c7ed7",
-      "title": "NIST Launches Center to Drive the Manufacture of Quantum Technologies",
-      "source": "nist_ai_news",
-      "url": "https://www.nist.gov/news-events/news/2026/06/nist-launches-center-drive-manufacture-quantum-technologies",
-      "published_date": "2026-06-29T12:00:00+00:00",
-      "category": "Government",
-      "description": "NIST has announced an agreement with SRI International to establish the Quantum Manufacturing Engineering Center (QMEC).",
-      "author": "Sarah Henderson",
-      "content": "NIST has announced an agreement with SRI International to establish the Quantum Manufacturing Engineering Center (QMEC).",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-10T14:45:56.157464+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-10T14:45:56.157469+00:00"
+        "timestamp": "2026-07-10T17:56:33.243480+00:00"
       },
       "article_type": "article"
     }
