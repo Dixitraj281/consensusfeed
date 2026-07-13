@@ -1,22 +1,84 @@
 {
-  "updated": "2026-07-13T07:32:40.282856+00:00",
+  "updated": "2026-07-13T11:23:59.972084+00:00",
   "top_stories": [
     {
-      "article_id": "958b3b608404d8aeee8d70070fc187fd",
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "published_date": "2026-07-11T14:13:00+00:00",
-      "category": "Industry",
-      "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "author": "Jagmeet Singh",
-      "content": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "article_id": "ff145b71aca353a04c36ec38bed19ac5",
+      "title": "NIH launches new office to advance human-based research and reduce animal use",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-launches-new-office-advance-human-based-research-reduce-animal-use",
+      "published_date": "2026-07-13T11:19:12.378365+00:00",
+      "category": "Government",
+      "description": "New office will coordinate efforts to develop, validate and scale animal-free research models.",
+      "author": "",
+      "content": "New office will coordinate efforts to develop, validate and scale animal-free research models.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.8,
         "quality_score": 0.8,
+        "novelty_score": 0.6,
+        "impact_score": 0.7,
+        "overall_score": 0.73,
+        "confidence_mean": 0.7
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.7,
+        "confidence": 0.7,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-13T11:23:59.938415+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.62,
+        "combined_confidence": 0.62,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-13T11:23:59.938418+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "cd5b3797581e35270a8db78c72024fbd",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "published_date": "2026-07-09T13:00:00+00:00",
+      "category": "Industry",
+      "description": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+      "author": "",
+      "content": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
         "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
+        "impact_score": 0.9,
+        "overall_score": 0.8650000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -44,41 +106,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.8,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-13T07:32:40.250021+00:00"
+        "consensus_timestamp": "2026-07-13T11:23:59.939416+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-13T07:32:40.250024+00:00"
+        "timestamp": "2026-07-13T11:23:59.939419+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "21edfb5c356153e6d2bda869ebbf4cec",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "published_date": "2026-06-30T00:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "article_id": "dc306d11d67819a1222dfda1a38bd6f1",
+      "title": "Research: Thematic review and gap analysis on AI security",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/thematic-review-and-gap-analysis-on-ai-security",
+      "published_date": "2026-07-10T15:02:27+00:00",
+      "category": "Government",
+      "description": "A thematic review and gap analysis of research on the security of AI",
       "author": "",
-      "content": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "content": "A thematic review and gap analysis of research on the security of AI",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.895,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -110,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-13T07:32:40.248180+00:00"
+        "consensus_timestamp": "2026-07-13T11:23:59.938859+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,27 +183,89 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-13T07:32:40.248182+00:00"
+        "timestamp": "2026-07-13T11:23:59.938861+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "663dc9cd04c58226194f4b292c1abf97",
-      "title": "Context Graphs vs Vector RAG vs Raw Context - Agentic memory benchmark",
-      "source": "nanonets_blog",
-      "url": "https://nanonets.com/blog/context-graphs-vs-vector-rag-vs-raw-context/",
-      "published_date": "2026-07-01T14:50:58+00:00",
+      "article_id": "0b7028435b79e1dc9003f1b51eb7ff88",
+      "title": "Introducing GPT-Live",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "published_date": "2026-07-08T00:00:00+00:00",
       "category": "Industry",
-      "description": "We benchmark context graphs against other methods of agentic memory, and discuss what each method got right and wrong.",
-      "author": "Karan",
-      "content": "We benchmark context graphs against other methods of agentic memory, and discuss what each method got right and wrong.",
+      "description": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+      "author": "",
+      "content": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.95,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.7,
-        "overall_score": 0.8475,
-        "confidence_mean": 0.95
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-13T11:23:59.939724+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-13T11:23:59.939727+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "142e64ab00f3fdeb97e78a07b121f1a2",
+      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+      "published_date": "2026-07-09T18:34:35+00:00",
+      "category": "Industry",
+      "description": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
+      "author": "Julie Bort",
+      "content": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -172,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-13T07:32:40.251964+00:00"
+        "consensus_timestamp": "2026-07-13T11:23:59.942849+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,131 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-13T07:32:40.251967+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "f75b2182cffd0d1e942cccd01001f549",
-      "title": "Capturing token IDs during agentic interactions for better reinforcement learning",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/capturing-token-ids-during-agentic-interactions-for-better-reinforcement-learning",
-      "published_date": "2026-07-09T12:46:00+00:00",
-      "category": "Industry",
-      "description": "A new Rust proxy called Turnstile sits between the model backend and the agent harness to capture information lost in mere text transcripts.",
-      "author": "",
-      "content": "A new Rust proxy called Turnstile sits between the model backend and the agent harness to capture information lost in mere text transcripts.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-13T07:32:40.251754+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-13T07:32:40.251757+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "412e45ac2b2c1d5b7b94fb77f0f03ccb",
-      "title": "NIH's All of Us Research Program is now the largest integrated genomics and health database in the world",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nihs-all-us-research-program-now-largest-integrated-genomics-health-database-world",
-      "published_date": "2026-07-13T07:26:59.995295+00:00",
-      "category": "Government",
-      "description": "Data from more than 747,000 participants&nbsp;is&nbsp;now available to&nbsp;scientists, powering next-generation discoveries in precision medicine.",
-      "author": "",
-      "content": "Data from more than 747,000 participants&nbsp;is&nbsp;now available to&nbsp;scientists, powering next-generation discoveries in precision medicine.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.8,
-        "overall_score": 0.8550000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-13T07:32:40.245829+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-13T07:32:40.245832+00:00"
+        "timestamp": "2026-07-13T11:23:59.942852+00:00"
       },
       "article_type": "article"
     }
