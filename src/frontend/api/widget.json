@@ -1,23 +1,23 @@
 {
-  "updated": "2026-07-13T11:23:59.972084+00:00",
+  "updated": "2026-07-13T14:52:53.007904+00:00",
   "top_stories": [
     {
       "article_id": "ff145b71aca353a04c36ec38bed19ac5",
       "title": "NIH launches new office to advance human-based research and reduce animal use",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/nih-launches-new-office-advance-human-based-research-reduce-animal-use",
-      "published_date": "2026-07-13T11:19:12.378365+00:00",
+      "published_date": "2026-07-13T14:47:31.654333+00:00",
       "category": "Government",
       "description": "New office will coordinate efforts to develop, validate and scale animal-free research models.",
       "author": "",
       "content": "New office will coordinate efforts to develop, validate and scale animal-free research models.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.8,
-        "novelty_score": 0.6,
-        "impact_score": 0.7,
-        "overall_score": 0.73,
-        "confidence_mean": 0.7
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.85,
+        "confidence_mean": 0.8
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,104 +44,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.7,
-        "confidence": 0.7,
-        "recommendation": "CONDITIONAL",
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-13T11:23:59.938415+00:00"
+        "consensus_timestamp": "2026-07-13T14:52:52.979467+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.62,
-        "combined_confidence": 0.62,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-13T11:23:59.938418+00:00"
+        "timestamp": "2026-07-13T14:52:52.979469+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "cd5b3797581e35270a8db78c72024fbd",
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "published_date": "2026-07-09T13:00:00+00:00",
+      "article_id": "ed0fe64474878f2e0052a063bdfc9454",
+      "title": "Scaling agentic workflows with native case management in Amazon Quick Automate",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/",
+      "published_date": "2026-07-10T15:28:54+00:00",
       "category": "Industry",
-      "description": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-      "author": "",
-      "content": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8650000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-13T11:23:59.939416+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-13T11:23:59.939419+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "dc306d11d67819a1222dfda1a38bd6f1",
-      "title": "Research: Thematic review and gap analysis on AI security",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/thematic-review-and-gap-analysis-on-ai-security",
-      "published_date": "2026-07-10T15:02:27+00:00",
-      "category": "Government",
-      "description": "A thematic review and gap analysis of research on the security of AI",
-      "author": "",
-      "content": "A thematic review and gap analysis of research on the security of AI",
+      "description": "In this post, we show you how to combine case management with agentic automation capabilities in Quick Automate. We introduce case management and explore the lifecycle of cases in an agentic workflow from case creation through processing to resolution. We cover how to create and manage single or multiple cases, automatically track and update status, handle exceptions, and incorporate Human-in-the-loop (HITL) steps within workflows. We also show the case creator-processor pattern that enables...",
+      "author": "Sumit Wasuja",
+      "content": "In this post, we show you how to combine case management with agentic automation capabilities in Quick Automate. We introduce case management and explore the lifecycle of cases in an agentic workflow from case creation through processing to resolution. We cover how to create and manage single or multiple cases, automatically track and update status, handle exceptions, and incorporate Human-in-the-loop (HITL) steps within workflows. We also show the case creator-processor pattern that enables...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
+        "quality_score": 0.95,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.9225000000000001,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -172,7 +110,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-13T11:23:59.938859+00:00"
+        "consensus_timestamp": "2026-07-13T14:52:52.981227+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,20 +121,144 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-13T11:23:59.938861+00:00"
+        "timestamp": "2026-07-13T14:52:52.981229+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "0b7028435b79e1dc9003f1b51eb7ff88",
-      "title": "Introducing GPT-Live",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/introducing-gpt-live",
-      "published_date": "2026-07-08T00:00:00+00:00",
+      "article_id": "fd48540d795533886300622049910907",
+      "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
+      "published_date": "2026-06-30T16:00:00+00:00",
       "category": "Industry",
-      "description": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
-      "author": "",
-      "content": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+      "description": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency appeared first on Microsoft Azure Blog.",
+      "author": "Maria Bledsoe",
+      "content": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.9159999999999999,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-13T14:52:52.980986+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-13T14:52:52.980988+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e32f0f0af963d47aaf4e4c0b50b93046",
+      "title": "External key management for Azure Managed HSM is now in public preview",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/",
+      "published_date": "2026-07-07T16:00:00+00:00",
+      "category": "Industry",
+      "description": "Azure Key Vault Managed Hardware Security Module (HSM) provides strong sovereignty over your encryption keys. Keys are generated and stored in a single-tenant, FIPS 140-3 Level 3 HSM that only you control: Microsoft has no access to your key material, and you govern who can use each key. The post External key management for Azure Managed HSM is now in public preview appeared first on Microsoft Azure Blog.",
+      "author": "Salim Chawro",
+      "content": "Azure Key Vault Managed Hardware Security Module (HSM) provides strong sovereignty over your encryption keys. Keys are generated and stored in a single-tenant, FIPS 140-3 Level 3 HSM that only you control: Microsoft has no access to your key material, and you govern who can use each key. The post External key management for Azure Managed HSM is now in public preview appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-13T14:52:52.980883+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-13T14:52:52.980885+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b34e8c8169c955193b66b6321ed73b00",
+      "title": "Mastering Agentic Techniques: AI Agent Reinforcement Learning",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning/",
+      "published_date": "2026-07-01T17:04:02+00:00",
+      "category": "Industry",
+      "description": "Reinforcement learning (RL) is central to aligning language models, from reinforcement learning with human feedback (RLHF) within AI assistants to newer...",
+      "author": "Elizabeth Goodman",
+      "content": "Reinforcement learning (RL) is central to aligning language models, from reinforcement learning with human feedback (RLHF) within AI assistants to newer...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -234,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-13T11:23:59.939724+00:00"
+        "consensus_timestamp": "2026-07-13T14:52:52.983997+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,69 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-13T11:23:59.939727+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "142e64ab00f3fdeb97e78a07b121f1a2",
-      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-      "published_date": "2026-07-09T18:34:35+00:00",
-      "category": "Industry",
-      "description": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
-      "author": "Julie Bort",
-      "content": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-13T11:23:59.942849+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-13T11:23:59.942852+00:00"
+        "timestamp": "2026-07-13T14:52:52.983999+00:00"
       },
       "article_type": "article"
     }
