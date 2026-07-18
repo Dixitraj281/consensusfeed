@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T06:14:56.725813+00:00",
+  "updated": "2026-07-18T09:43:41.822873+00:00",
   "top_stories": [
     {
       "article_id": "9f17d9754956730f8a4ac3aff4f1000f",
@@ -48,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-18T06:14:56.686044+00:00"
+        "consensus_timestamp": "2026-07-18T09:43:41.780792+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,27 +59,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-18T06:14:56.686047+00:00"
+        "timestamp": "2026-07-18T09:43:41.780794+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "d15f74006029f4ff41ad3e984fb8ec58",
-      "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
-      "published_date": "2026-07-08T15:00:27+00:00",
+      "article_id": "cd5b3797581e35270a8db78c72024fbd",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "published_date": "2026-07-09T13:00:00+00:00",
       "category": "Industry",
-      "description": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x […]",
-      "author": "Adel El Hallak",
-      "content": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x […]",
+      "description": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+      "author": "",
+      "content": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.98,
         "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
+        "confidence_mean": 0.99
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +110,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-18T06:14:56.685741+00:00"
+        "consensus_timestamp": "2026-07-18T09:43:41.778799+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,131 +121,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-18T06:14:56.685748+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c0a0775ec2cd15871943c772f2d1b42b",
-      "title": "Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/",
-      "published_date": "2026-07-10T15:35:05+00:00",
-      "category": "Industry",
-      "description": "In this post, we explore what makes the Nemotron 3 architecture unique, walk through the fine-tuning techniques available, and show you step-by-step how to get started with serverless customization using SageMaker Studio.",
-      "author": "Sandeep Raveesh-Babu",
-      "content": "In this post, we explore what makes the Nemotron 3 architecture unique, walk through the fine-tuning techniques available, and show you step-by-step how to get started with serverless customization using SageMaker Studio.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-18T06:14:56.685305+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-18T06:14:56.685309+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d48a477486052128423d04af6758b10f",
-      "title": "DARPA and U.S. Air Force fly AI-controlled F-16, paving the way for autonomous air combat",
-      "source": "darpa_ai_research",
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "published_date": "2026-07-16T13:42:00+00:00",
-      "category": "Government",
-      "description": "Historic VENOM milestone demonstrates scalable AI development capabilities for the operational fleet.",
-      "author": "outreach@darpa.mil",
-      "content": "Historic VENOM milestone demonstrates scalable AI development capabilities for the operational fleet.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-18T06:14:56.682311+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-18T06:14:56.682314+00:00"
+        "timestamp": "2026-07-18T09:43:41.778802+00:00"
       },
       "article_type": "article"
     },
@@ -296,7 +172,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-18T06:14:56.681786+00:00"
+        "consensus_timestamp": "2026-07-18T09:43:41.777262+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +183,131 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-18T06:14:56.681794+00:00"
+        "timestamp": "2026-07-18T09:43:41.777266+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "9385e8bd773a22b7599fe9e93f6abc75",
+      "title": "Researchers discover single-cell brain activity that underlies human speech",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/researchers-discover-single-cell-brain-activity-underlies-human-speech",
+      "published_date": "2026-07-18T09:38:49.934706+00:00",
+      "category": "Government",
+      "description": "With neuronal data, AI models predicted grammar, meaning, and context of spoken sentences.",
+      "author": "",
+      "content": "With neuronal data, AI models predicted grammar, meaning, and context of spoken sentences.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-18T09:43:41.777375+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-18T09:43:41.777378+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "aa0303f4b04a081a237bf6a9a2c76233",
+      "title": "Integrating Context-Aware Video AI Agents Into Enterprise Workflows",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/",
+      "published_date": "2026-07-16T16:03:35+00:00",
+      "category": "Industry",
+      "description": "A video analytics AI agent that can perceive, reason, and act based on massive amounts of video footage must be integrated with existing workflows and...",
+      "author": "Tanya Lenz",
+      "content": "A video analytics AI agent that can perceive, reason, and act based on massive amounts of video footage must be integrated with existing workflows and...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-18T09:43:41.781491+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-18T09:43:41.781494+00:00"
       },
       "article_type": "article"
     }

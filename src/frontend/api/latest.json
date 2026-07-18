@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T06:14:56.722859+00:00",
+  "generated_at": "2026-07-18T09:43:41.819868+00:00",
   "articles": [
     {
       "article_id": "9f17d9754956730f8a4ac3aff4f1000f",
@@ -48,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-18T06:14:56.686044+00:00"
+        "consensus_timestamp": "2026-07-18T09:43:41.780792+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,27 +59,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-18T06:14:56.686047+00:00"
+        "timestamp": "2026-07-18T09:43:41.780794+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "d15f74006029f4ff41ad3e984fb8ec58",
-      "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
-      "published_date": "2026-07-08T15:00:27+00:00",
+      "article_id": "cd5b3797581e35270a8db78c72024fbd",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "published_date": "2026-07-09T13:00:00+00:00",
       "category": "Industry",
-      "description": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x […]",
-      "author": "Adel El Hallak",
-      "content": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x […]",
+      "description": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+      "author": "",
+      "content": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.98,
         "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
+        "confidence_mean": 0.99
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +110,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-18T06:14:56.685741+00:00"
+        "consensus_timestamp": "2026-07-18T09:43:41.778799+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,131 +121,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-18T06:14:56.685748+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c0a0775ec2cd15871943c772f2d1b42b",
-      "title": "Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/",
-      "published_date": "2026-07-10T15:35:05+00:00",
-      "category": "Industry",
-      "description": "In this post, we explore what makes the Nemotron 3 architecture unique, walk through the fine-tuning techniques available, and show you step-by-step how to get started with serverless customization using SageMaker Studio.",
-      "author": "Sandeep Raveesh-Babu",
-      "content": "In this post, we explore what makes the Nemotron 3 architecture unique, walk through the fine-tuning techniques available, and show you step-by-step how to get started with serverless customization using SageMaker Studio.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-18T06:14:56.685305+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-18T06:14:56.685309+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d48a477486052128423d04af6758b10f",
-      "title": "DARPA and U.S. Air Force fly AI-controlled F-16, paving the way for autonomous air combat",
-      "source": "darpa_ai_research",
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "published_date": "2026-07-16T13:42:00+00:00",
-      "category": "Government",
-      "description": "Historic VENOM milestone demonstrates scalable AI development capabilities for the operational fleet.",
-      "author": "outreach@darpa.mil",
-      "content": "Historic VENOM milestone demonstrates scalable AI development capabilities for the operational fleet.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-18T06:14:56.682311+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-18T06:14:56.682314+00:00"
+        "timestamp": "2026-07-18T09:43:41.778802+00:00"
       },
       "article_type": "article"
     },
@@ -296,7 +172,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-18T06:14:56.681786+00:00"
+        "consensus_timestamp": "2026-07-18T09:43:41.777262+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +183,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-18T06:14:56.681794+00:00"
+        "timestamp": "2026-07-18T09:43:41.777266+00:00"
       },
       "article_type": "article"
     },
@@ -316,7 +192,7 @@
       "title": "Researchers discover single-cell brain activity that underlies human speech",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/researchers-discover-single-cell-brain-activity-underlies-human-speech",
-      "published_date": "2026-07-18T06:10:10.511495+00:00",
+      "published_date": "2026-07-18T09:38:49.934706+00:00",
       "category": "Government",
       "description": "With neuronal data, AI models predicted grammar, meaning, and context of spoken sentences.",
       "author": "",
@@ -358,7 +234,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-18T06:14:56.681916+00:00"
+        "consensus_timestamp": "2026-07-18T09:43:41.777375+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,82 +245,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-18T06:14:56.681921+00:00"
+        "timestamp": "2026-07-18T09:43:41.777378+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3f92f821f208fe422aba9bd29a95df1d",
-      "title": "Frontier models and production agents: Advancing Microsoft Foundry for the agentic era",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
-      "published_date": "2026-07-09T17:00:00+00:00",
-      "category": "Industry",
-      "description": "Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry. The post Frontier models and production agents: Advancing Microsoft Foundry for the agentic era appeared first on Microsoft Azure Blog.",
-      "author": "Tina Schuchman",
-      "content": "Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry. The post Frontier models and production agents: Advancing Microsoft Foundry for the agentic era appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-18T06:14:56.684283+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-18T06:14:56.684286+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "b35a77a4e161cb62416247f17b9b908c",
-      "title": "Q&amp;A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem",
+      "article_id": "aa0303f4b04a081a237bf6a9a2c76233",
+      "title": "Integrating Context-Aware Video AI Agents Into Enterprise Workflows",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem/",
-      "published_date": "2026-07-16T22:59:09+00:00",
+      "url": "https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/",
+      "published_date": "2026-07-16T16:03:35+00:00",
       "category": "Industry",
-      "description": "Capcom's RE ENGINE team set out to bring path tracing into two shipping titles at once, Resident Evil Requiem and PRAGMATA, each with a different visual...",
-      "author": "Michelle Horton",
-      "content": "Capcom's RE ENGINE team set out to bring path tracing into two shipping titles at once, Resident Evil Requiem and PRAGMATA, each with a different visual...",
+      "description": "A video analytics AI agent that can perceive, reason, and act based on massive amounts of video footage must be integrated with existing workflows and...",
+      "author": "Tanya Lenz",
+      "content": "A video analytics AI agent that can perceive, reason, and act based on massive amounts of video footage must be integrated with existing workflows and...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -482,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-18T06:14:56.686764+00:00"
+        "consensus_timestamp": "2026-07-18T09:43:41.781491+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -493,88 +307,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-18T06:14:56.686767+00:00"
+        "timestamp": "2026-07-18T09:43:41.781494+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "bda3320371f87912c5677e64a420fa31",
-      "title": "Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/",
-      "published_date": "2026-07-15T23:00:00+00:00",
+      "article_id": "2e143b4895ee13b6b975ca2f132b4179",
+      "title": "Scaling medical content review at Flo Health with Amazon Bedrock – Part 2",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/",
+      "published_date": "2026-07-14T16:33:08+00:00",
       "category": "Industry",
-      "description": "Developers building video analytics applications across large spaces must track the same object as it moves between camera views. Single-camera 2D tracking...",
-      "author": "Elizabeth Goodman",
-      "content": "Developers building video analytics applications across large spaces must track the same object as it moves between camera views. Single-camera 2D tracking...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-18T06:14:56.686904+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-18T06:14:56.686907+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "65fad627558344255e98015c9ef4ef6e",
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/deutsche-telekom",
-      "published_date": "2026-07-10T07:00:00+00:00",
-      "category": "Industry",
-      "description": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-      "author": "",
-      "content": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "description": "In this post, we share how Flo Health’s engineering team turned a proof of concept (PoC) from the AWS Generative AI Innovation Center into a production-grade, AI-powered medical content review and generation system built on Amazon Bedrock. T",
+      "author": "Konstantin Lekh",
+      "content": "In this post, we share how Flo Health’s engineering team turned a proof of concept (PoC) from the AWS Generative AI Innovation Center into a production-grade, AI-powered medical content review and generation system built on Amazon Bedrock. T",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
+        "novelty_score": 0.75,
+        "impact_score": 0.98,
+        "overall_score": 0.881,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -606,7 +358,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-18T06:14:56.683743+00:00"
+        "consensus_timestamp": "2026-07-18T09:43:41.779825+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -617,26 +369,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-18T06:14:56.683746+00:00"
+        "timestamp": "2026-07-18T09:43:41.779827+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "667b6cd469ddb6ef9ca2bd23782dc125",
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "published_date": "2026-07-09T10:00:00+00:00",
+      "article_id": "5508e532567852179332a3774a73c465",
+      "title": "Real-time dental image verification with Amazon SageMaker AI at Henry Schein One",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/",
+      "published_date": "2026-07-10T15:33:47+00:00",
       "category": "Industry",
-      "description": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "author": "",
-      "content": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "description": "This post describes how Henry Schein One closed that gap by building Image Verify, an AI-powered quality verification system on Amazon SageMaker AI that evaluates dental X-ray quality at the point of capture, in real time, across thousands of locations. The system went from concept to over 10,000 active locations within months and has already processed over 11 million X-rays and growing at 1.5 million per week. Henry Schein One is now scaling toward 40,000 locations globally across four regions.",
+      "author": "Troy Miller",
+      "content": "This post describes how Henry Schein One closed that gap by building Image Verify, an AI-powered quality verification system on Amazon SageMaker AI that evaluates dental X-ray quality at the point of capture, in real time, across thousands of locations. The system went from concept to over 10,000 active locations within months and has already processed over 11 million X-rays and growing at 1.5 million per week. Henry Schein One is now scaling toward 40,000 locations globally across four regions.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.85,
-        "overall_score": 0.8525000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -668,7 +420,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-18T06:14:56.683993+00:00"
+        "consensus_timestamp": "2026-07-18T09:43:41.780225+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,20 +431,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-18T06:14:56.683996+00:00"
+        "timestamp": "2026-07-18T09:43:41.780227+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "a2be7403aa66bc2477adf4373d44363d",
-      "title": "Implement on-behalf-of token exchange for multi-tenant agents with Amazon Bedrock AgentCore Gateway",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/implement-on-behalf-of-token-exchange-for-multi-tenant-agents-with-amazon-bedrock-agentcore-gateway/",
-      "published_date": "2026-07-13T17:27:40+00:00",
+      "article_id": "d48a477486052128423d04af6758b10f",
+      "title": "DARPA and U.S. Air Force fly AI-controlled F-16, paving the way for autonomous air combat",
+      "source": "darpa_ai_research",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "published_date": "2026-07-16T13:42:00+00:00",
+      "category": "Government",
+      "description": "Historic VENOM milestone demonstrates scalable AI development capabilities for the operational fleet.",
+      "author": "outreach@darpa.mil",
+      "content": "Historic VENOM milestone demonstrates scalable AI development capabilities for the operational fleet.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-18T09:43:41.777666+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-18T09:43:41.777669+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "65fad627558344255e98015c9ef4ef6e",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "published_date": "2026-07-10T07:00:00+00:00",
       "category": "Industry",
-      "description": "Building multi-tenant agents with Amazon Bedrock AgentCore and Apply fine-grained access control with Bedrock AgentCore Gateway interceptors establish the conceptual foundation for on-behalf-of (OBO) token exchange in agentic systems. This post is the implementation guide. It walks through a complete multi-tenant OBO setup against Okta, shows the JSON Web Token (JWT) claim transformations on each hop, and demonstrates how audience binding produces defense in depth that scales across tenants.",
-      "author": "Dhawalkumar Patel",
-      "content": "Building multi-tenant agents with Amazon Bedrock AgentCore and Apply fine-grained access control with Bedrock AgentCore Gateway interceptors establish the conceptual foundation for on-behalf-of (OBO) token exchange in agentic systems. This post is the implementation guide. It walks through a complete multi-tenant OBO setup against Okta, shows the JSON Web Token (JWT) claim transformations on each hop, and demonstrates how audience binding produces defense in depth that scales across tenants.",
+      "description": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "author": "",
+      "content": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -730,7 +544,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-18T06:14:56.685202+00:00"
+        "consensus_timestamp": "2026-07-18T09:43:41.778713+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -741,7 +555,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-18T06:14:56.685205+00:00"
+        "timestamp": "2026-07-18T09:43:41.778715+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a2be7403aa66bc2477adf4373d44363d",
+      "title": "Implement on-behalf-of token exchange for multi-tenant agents with Amazon Bedrock AgentCore Gateway",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/implement-on-behalf-of-token-exchange-for-multi-tenant-agents-with-amazon-bedrock-agentcore-gateway/",
+      "published_date": "2026-07-13T17:27:40+00:00",
+      "category": "Industry",
+      "description": "Building multi-tenant agents with Amazon Bedrock AgentCore and Apply fine-grained access control with Bedrock AgentCore Gateway interceptors establish the conceptual foundation for on-behalf-of (OBO) token exchange in agentic systems. This post is the implementation guide. It walks through a complete multi-tenant OBO setup against Okta, shows the JSON Web Token (JWT) claim transformations on each hop, and demonstrates how audience binding produces defense in depth that scales across tenants.",
+      "author": "Dhawalkumar Patel",
+      "content": "Building multi-tenant agents with Amazon Bedrock AgentCore and Apply fine-grained access control with Bedrock AgentCore Gateway interceptors establish the conceptual foundation for on-behalf-of (OBO) token exchange in agentic systems. This post is the implementation guide. It walks through a complete multi-tenant OBO setup against Okta, shows the JSON Web Token (JWT) claim transformations on each hop, and demonstrates how audience binding produces defense in depth that scales across tenants.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-18T09:43:41.780098+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-18T09:43:41.780100+00:00"
       },
       "article_type": "article"
     },
@@ -788,84 +664,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.92,
+        "confidence": 0.96,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-18T06:14:56.687412+00:00"
+        "consensus_timestamp": "2026-07-18T09:43:41.782048+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.752,
+        "combined_confidence": 0.776,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-18T06:14:56.687415+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "b30989c99f862b17333a693bdd9b138e",
-      "title": "A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/a-practical-guide-to-gpu-initiated-communication-for-molecular-dynamics-at-scale/",
-      "published_date": "2026-07-09T17:15:04+00:00",
-      "category": "Industry",
-      "description": "Molecular dynamics (MD) simulations are among the most demanding workloads in computational science. Using them, researchers can observe atomic behavior in...",
-      "author": "Michelle Horton",
-      "content": "Molecular dynamics (MD) simulations are among the most demanding workloads in computational science. Using them, researchers can observe atomic behavior in...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-18T06:14:56.687574+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-18T06:14:56.687577+00:00"
+        "timestamp": "2026-07-18T09:43:41.782050+00:00"
       },
       "article_type": "article"
     },
@@ -874,7 +688,7 @@
       "title": "NIH research establishes new framework for the role of senescence in aging",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/nih-research-establishes-new-framework-role-senescence-aging",
-      "published_date": "2026-07-18T06:10:10.511856+00:00",
+      "published_date": "2026-07-18T09:38:49.934944+00:00",
       "category": "Government",
       "description": "First large-scale atlas of senescent cells could help inform future therapies for age-related diseases.",
       "author": "",
@@ -916,7 +730,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-18T06:14:56.682090+00:00"
+        "consensus_timestamp": "2026-07-18T09:43:41.777521+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +741,193 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-18T06:14:56.682094+00:00"
+        "timestamp": "2026-07-18T09:43:41.777524+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "412e45ac2b2c1d5b7b94fb77f0f03ccb",
+      "title": "NIH's All of Us Research Program is now the largest integrated genomics and health database in the world",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nihs-all-us-research-program-now-largest-integrated-genomics-health-database-world",
+      "published_date": "2026-07-18T09:38:49.934578+00:00",
+      "category": "Government",
+      "description": "Data from more than 747,000 participants&nbsp;is&nbsp;now available to&nbsp;scientists, powering next-generation discoveries in precision medicine.",
+      "author": "",
+      "content": "Data from more than 747,000 participants&nbsp;is&nbsp;now available to&nbsp;scientists, powering next-generation discoveries in precision medicine.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.82,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-18T09:43:41.777315+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-18T09:43:41.777319+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "725362db573c929ed2b331ce4d663e12",
+      "title": "Helping K–12 educators build practical AI skills",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "published_date": "2026-07-08T10:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+      "author": "",
+      "content": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.6,
+        "impact_score": 0.9,
+        "overall_score": 0.8125000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-18T09:43:41.779033+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-18T09:43:41.779036+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3632d31d846e46a91778f78e1367a6e2",
+      "title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/",
+      "published_date": "2026-07-14T18:44:26+00:00",
+      "category": "Industry",
+      "description": "This post shows how Thrad.ai deployed a multi-agent system with Strands Agents and Amazon Bedrock AgentCore that automates the pipeline from prospect discovery through personalized email generation. The post compares two orchestration patterns (Swarm and Graph) with head-to-head benchmarks on latency, cost, and email quality. You’ll also learn how the system scores prospects using weighted criteria, intent classification, and temporal decay, plus governance controls for production deployment.",
+      "author": "Amit Deol",
+      "content": "This post shows how Thrad.ai deployed a multi-agent system with Strands Agents and Amazon Bedrock AgentCore that automates the pipeline from prospect discovery through personalized email generation. The post compares two orchestration patterns (Swarm and Graph) with head-to-head benchmarks on latency, cost, and email quality. You’ll also learn how the system scores prospects using weighted criteria, intent classification, and temporal decay, plus governance controls for production deployment.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.835,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-18T09:43:41.779693+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-18T09:43:41.779695+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 231.7754602432251,
+    "processing_time": 229.26862001419067,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 113,
+      "total_processed": 116,
       "candidates": {
         "headlines": 11,
-        "articles": 102,
+        "articles": 105,
         "research_papers": 0
       },
       "selected": {
