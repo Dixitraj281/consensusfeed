@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-19T17:09:39.958201+00:00",
+  "updated": "2026-07-19T21:02:32.406542+00:00",
   "top_stories": [
     {
-      "article_id": "3e064438538e9b38927402f181fd7e19",
-      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "article_id": "c3bab35c0e1635c73e0719cc65489d81",
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "published_date": "2026-07-19T14:00:00+00:00",
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "published_date": "2026-07-19T19:24:45+00:00",
       "category": "Industry",
-      "description": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
-      "author": "Kate Park",
-      "content": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "author": "Anthony Ha",
+      "content": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.8,
@@ -48,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-19T17:09:39.920972+00:00"
+        "consensus_timestamp": "2026-07-19T21:02:32.372327+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,27 +59,89 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-19T17:09:39.920975+00:00"
+        "timestamp": "2026-07-19T21:02:32.372331+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "1f71f6e5471fbc53aac1003ce62e0bdd",
-      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "published_date": "2026-07-17T12:00:00+00:00",
+      "article_id": "b30989c99f862b17333a693bdd9b138e",
+      "title": "A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/a-practical-guide-to-gpu-initiated-communication-for-molecular-dynamics-at-scale/",
+      "published_date": "2026-07-09T17:15:04+00:00",
       "category": "Industry",
-      "description": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
-      "author": "Tim Fernholz",
-      "content": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+      "description": "Molecular dynamics (MD) simulations are among the most demanding workloads in computational science. Using them, researchers can observe atomic behavior in...",
+      "author": "Michelle Horton",
+      "content": "Molecular dynamics (MD) simulations are among the most demanding workloads in computational science. Using them, researchers can observe atomic behavior in...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.9099999999999999,
         "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-19T21:02:32.373816+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-19T21:02:32.373819+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "f15b898ef174bb8bcedfd18e64cd2e11",
+      "title": "Our approach to bioresilience",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "published_date": "2026-07-16T09:30:42+00:00",
+      "category": "Industry",
+      "description": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "author": "",
+      "content": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.885,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-19T17:09:39.921487+00:00"
+        "consensus_timestamp": "2026-07-19T21:02:32.374048+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,7 +183,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-19T17:09:39.921490+00:00"
+        "timestamp": "2026-07-19T21:02:32.374051+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "9d9aaf7b0bf46c4c1e21b0601e532f21",
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "published_date": "2026-07-17T17:45:46+00:00",
+      "category": "Industry",
+      "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s response so far has been carefully hedged, and the timing couldn’t be worse with the company reportedly eyeing an IPO […]",
+      "author": "Theresa Loconsolo",
+      "content": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s response so far has been carefully hedged, and the timing couldn’t be worse with the company reportedly eyeing an IPO […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-19T21:02:32.372779+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-19T21:02:32.372782+00:00"
       },
       "article_type": "article"
     },
@@ -172,7 +296,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-19T17:09:39.916815+00:00"
+        "consensus_timestamp": "2026-07-19T21:02:32.368577+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,131 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-19T17:09:39.916820+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "9385e8bd773a22b7599fe9e93f6abc75",
-      "title": "Researchers discover single-cell brain activity that underlies human speech",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/researchers-discover-single-cell-brain-activity-underlies-human-speech",
-      "published_date": "2026-07-19T17:04:08.831983+00:00",
-      "category": "Government",
-      "description": "With neuronal data, AI models predicted grammar, meaning, and context of spoken sentences.",
-      "author": "",
-      "content": "With neuronal data, AI models predicted grammar, meaning, and context of spoken sentences.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-19T17:09:39.916983+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-19T17:09:39.916988+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d48a477486052128423d04af6758b10f",
-      "title": "DARPA and U.S. Air Force fly AI-controlled F-16, paving the way for autonomous air combat",
-      "source": "darpa_ai_research",
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "published_date": "2026-07-16T13:42:00+00:00",
-      "category": "Government",
-      "description": "Historic VENOM milestone demonstrates scalable AI development capabilities for the operational fleet.",
-      "author": "outreach@darpa.mil",
-      "content": "Historic VENOM milestone demonstrates scalable AI development capabilities for the operational fleet.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-19T17:09:39.917362+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-19T17:09:39.917365+00:00"
+        "timestamp": "2026-07-19T21:02:32.368582+00:00"
       },
       "article_type": "article"
     }
