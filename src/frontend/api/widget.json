@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T06:46:10.663284+00:00",
+  "updated": "2026-07-26T10:11:06.649893+00:00",
   "top_stories": [
     {
       "article_id": "e48fbbbd2f11abc4388fa370981b3b33",
@@ -48,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-26T06:46:10.631462+00:00"
+        "consensus_timestamp": "2026-07-26T10:11:06.621509+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,7 +59,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-26T06:46:10.631465+00:00"
+        "timestamp": "2026-07-26T10:11:06.621511+00:00"
       },
       "article_type": "headline"
     },
@@ -77,9 +77,9 @@
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.98
+        "impact_score": 0.99,
+        "overall_score": 0.933,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -107,21 +107,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-26T06:46:10.631966+00:00"
+        "consensus_timestamp": "2026-07-26T10:11:06.621947+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-26T06:46:10.631968+00:00"
+        "timestamp": "2026-07-26T10:11:06.621948+00:00"
       },
       "article_type": "article"
     },
@@ -172,7 +172,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-26T06:46:10.629777+00:00"
+        "consensus_timestamp": "2026-07-26T10:11:06.619503+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,7 +183,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-26T06:46:10.629780+00:00"
+        "timestamp": "2026-07-26T10:11:06.619505+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "2f2b2f295d68962772ad1458706ccfa9",
+      "title": "Correspondence: Improving access to and use of digital services: open letter to business leaders",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/improving-access-to-and-use-of-digital-services-open-letter-to-business-leaders",
+      "published_date": "2026-07-17T13:42:16+00:00",
+      "category": "Government",
+      "description": "Open letters to industry leaders about improving essential private sector digital services.",
+      "author": "",
+      "content": "Open letters to industry leaders about improving essential private sector digital services.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-26T10:11:06.618549+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-26T10:11:06.618551+00:00"
       },
       "article_type": "article"
     },
@@ -234,7 +296,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-26T06:46:10.629123+00:00"
+        "consensus_timestamp": "2026-07-26T10:11:06.618930+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,69 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-26T06:46:10.629126+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d48a477486052128423d04af6758b10f",
-      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-      "source": "darpa_ai_research",
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "published_date": "2026-07-16T13:42:00+00:00",
-      "category": "Government",
-      "description": "Historic VENOM milestone demonstrates scalable AI development capabilities for the operational fleet.",
-      "author": "outreach@darpa.mil",
-      "content": "Historic VENOM milestone demonstrates scalable AI development capabilities for the operational fleet.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.8975,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-26T06:46:10.628396+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-26T06:46:10.628398+00:00"
+        "timestamp": "2026-07-26T10:11:06.618932+00:00"
       },
       "article_type": "article"
     }
