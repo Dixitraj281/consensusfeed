@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-29T03:20:21.951577+00:00",
+  "generated_at": "2026-07-29T06:42:25.703522+00:00",
   "articles": [
     {
-      "article_id": "4cf11f5e397d4783fcbe16d17b0f0c15",
-      "title": "Sam Altman is ready to decelerate",
+      "article_id": "968ca5afbb9dbc09d6eff7aa69da09a6",
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-      "published_date": "2026-07-28T20:17:08+00:00",
+      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "published_date": "2026-07-27T18:32:11+00:00",
       "category": "Industry",
-      "description": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-      "author": "Tim Fernholz",
-      "content": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+      "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+      "author": "Lucas Ropek",
+      "content": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "novelty_score": 0.75,
         "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.95
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -48,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-29T03:20:21.912660+00:00"
+        "consensus_timestamp": "2026-07-29T06:42:25.663924+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,150 +59,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-29T03:20:21.912662+00:00"
+        "timestamp": "2026-07-29T06:42:25.663926+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "3dc86502023fe275a44bfe5e31a3e556",
-      "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/",
-      "published_date": "2026-07-20T17:01:32+00:00",
+      "article_id": "b76545e0535b89d9d89067d13cd09f73",
+      "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/",
+      "published_date": "2026-07-27T16:00:00+00:00",
       "category": "Industry",
-      "description": "In this post, we show how Amazon Quick can serve as the business-user front door for specialized agent workflows. We use the NVIDIA NeMo Agent Toolkit to build a supply-chain risk example that helps a planner move from an Amazon Quick dashboard and knowledge context to a guided mitigation recommendation.",
-      "author": "Ebbey Thomas",
-      "content": "In this post, we show how Amazon Quick can serve as the business-user front door for specialized agent workflows. We use the NVIDIA NeMo Agent Toolkit to build a supply-chain risk example that helps a planner move from an Amazon Quick dashboard and knowledge context to a guided mitigation recommendation.",
+      "description": "NVIDIA Ising Calibration is an open source vision language model (VLM) designed to interpret diagnostic outputs from quantum processors and determine how they...",
+      "author": "Tanya Lenz",
+      "content": "NVIDIA Ising Calibration is an open source vision language model (VLM) designed to interpret diagnostic outputs from quantum processors and determine how they...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-29T03:20:21.911650+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-29T03:20:21.911652+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e563a2d600c810189ee2c89769d11a1c",
-      "title": "Safety and alignment in an era of long-horizon models",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "published_date": "2026-07-20T10:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-      "author": "",
-      "content": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-29T03:20:21.910491+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-29T03:20:21.910493+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "ac90b09dfb1393e3ed21176cbfb79b7a",
-      "title": "Are brain waves the next unlock for physical AI?",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "published_date": "2026-07-27T00:19:14+00:00",
-      "category": "Industry",
-      "description": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
-      "author": "Tim Fernholz",
-      "content": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
+        "impact_score": 0.95,
+        "overall_score": 0.885,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -234,7 +110,7 @@
         "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-29T03:20:21.913345+00:00"
+        "consensus_timestamp": "2026-07-29T06:42:25.664341+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,7 +121,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-29T03:20:21.913347+00:00"
+        "timestamp": "2026-07-29T06:42:25.664344+00:00"
       },
       "article_type": "article"
     },
@@ -254,7 +130,7 @@
       "title": "NIH's All of Us Research Program is now the largest integrated genomics and health database in the world",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/nihs-all-us-research-program-now-largest-integrated-genomics-health-database-world",
-      "published_date": "2026-07-29T03:14:51.619961+00:00",
+      "published_date": "2026-07-29T06:36:50.018605+00:00",
       "category": "Government",
       "description": "Data from more than 747,000 participants&nbsp;is&nbsp;now available to&nbsp;scientists, powering next-generation discoveries in precision medicine.",
       "author": "",
@@ -296,7 +172,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-29T03:20:21.909176+00:00"
+        "consensus_timestamp": "2026-07-29T06:42:25.659648+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,27 +183,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-29T03:20:21.909179+00:00"
+        "timestamp": "2026-07-29T06:42:25.659652+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "4416bfcfc278683d53b062f339fce899",
-      "title": "Guidance: Switzerland: UK Science and Technology Network summary",
+      "article_id": "c77349bdb8e0ed812b865df151d6c28e",
+      "title": "Policy paper: Telecoms Modernisation: Critical National Infrastructure Charter",
       "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/uk-science-and-innovation-network-country-snapshot-switzerland",
-      "published_date": "2026-07-28T06:37:59+00:00",
+      "url": "https://www.gov.uk/government/publications/telecoms-modernisation-critical-national-infrastructure-charter",
+      "published_date": "2026-07-21T15:05:07+00:00",
       "category": "Government",
-      "description": "A summary from UK Science and Innovation Network (SIN) on science and innovation in Switzerland including UK SIN priorities and successes.",
+      "description": "This document sets out telecoms companies’ approach to protect CNI during telecoms modernisations.",
       "author": "",
-      "content": "A summary from UK Science and Innovation Network (SIN) on science and innovation in Switzerland including UK SIN priorities and successes.",
+      "content": "This document sets out telecoms companies’ approach to protect CNI during telecoms modernisations.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
         "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -358,7 +234,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-29T03:20:21.909567+00:00"
+        "consensus_timestamp": "2026-07-29T06:42:25.660618+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,255 +245,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-29T03:20:21.909569+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "3c70a940b31ee9a98c8d3ea8f8271faf",
-      "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
-      "published_date": "2026-07-27T09:00:07+00:00",
-      "category": "Industry",
-      "description": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts. Cybersecurity is among the top three beneficiaries of open source software. The Open Secure AI Alliance — building on the leadership of […]",
-      "author": "NVIDIA",
-      "content": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts. Cybersecurity is among the top three beneficiaries of open source software. The Open Secure AI Alliance — building on the leadership of […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-29T03:20:21.911818+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-29T03:20:21.911820+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "1b9075a8851445e9228b6973dc8f613a",
-      "title": "Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/",
-      "published_date": "2026-07-27T00:45:00+00:00",
-      "category": "Industry",
-      "description": "As AI workloads increase, explosive compute demand is pushing the semiconductor industry to meet unprecedented performance targets. Even small delays can have...",
-      "author": "Tanya Lenz",
-      "content": "As AI workloads increase, explosive compute demand is pushing the semiconductor industry to meet unprecedented performance targets. Even small delays can have...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-29T03:20:21.913554+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-29T03:20:21.913556+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "47dda6794550d3bff38a114d9ece05a6",
-      "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
-      "published_date": "2026-07-21T18:15:00+00:00",
-      "category": "Industry",
-      "description": "What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale....",
-      "author": "Eduardo Alvarez",
-      "content": "What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale....",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-29T03:20:21.913825+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-29T03:20:21.913828+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "35a81546b924196eae9f1fb7a14fc985",
-      "title": "Towards a quantum computer that learns from its errors",
-      "source": "google_research_blog",
-      "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
-      "published_date": "2026-07-22T18:40:21+00:00",
-      "category": "Industry",
-      "description": "Machine Intelligence",
-      "author": "",
-      "content": "Machine Intelligence",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-29T03:20:21.914440+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-29T03:20:21.914443+00:00"
+        "timestamp": "2026-07-29T06:42:25.660621+00:00"
       },
       "article_type": "article"
     },
@@ -668,7 +296,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-29T03:20:21.909479+00:00"
+        "consensus_timestamp": "2026-07-29T06:42:25.659954+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-29T03:20:21.909482+00:00"
+        "timestamp": "2026-07-29T06:42:25.659957+00:00"
       },
       "article_type": "article"
     },
@@ -730,7 +358,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-29T03:20:21.910220+00:00"
+        "consensus_timestamp": "2026-07-29T06:42:25.661032+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -741,27 +369,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-29T03:20:21.910222+00:00"
+        "timestamp": "2026-07-29T06:42:25.661035+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "23d057120d57319a909f17aca398c993",
-      "title": "Transparency data: Premises contracted and built, Project Gigabit contracts",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/premises-contracted-and-built-project-gigabit-contracts",
-      "published_date": "2026-07-20T11:29:00+00:00",
-      "category": "Government",
-      "description": "Building Digital UK (BDUK) reports on premises contracted and built under Project Gigabit contracts.",
-      "author": "",
-      "content": "Building Digital UK (BDUK) reports on premises contracted and built under Project Gigabit contracts.",
+      "article_id": "dd274d53a534b14e336b1970bf9d9366",
+      "title": "AI Teammates: how monday.com runs production AI agents on Amazon Bedrock",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/",
+      "published_date": "2026-07-22T15:54:28+00:00",
+      "category": "Industry",
+      "description": "AI Teammates are agentic AI on Amazon Bedrock, and few engineering organizations run them in production at the scale that monday.com does. Nine in ten Builders use AI coding tools every month, up from roughly half a year ago. Per-engineer PR throughput is up by more than half. Every figure in this post comes from monday’s own internal production data. In this post, we share the architecture behind those numbers, the retrofits that made it work in a decade-old code base, and the...",
+      "author": "Claudio Mazzoni",
+      "content": "AI Teammates are agentic AI on Amazon Bedrock, and few engineering organizations run them in production at the scale that monday.com does. Nine in ten Builders use AI coding tools every month, up from roughly half a year ago. Per-engineer PR throughput is up by more than half. Every figure in this post comes from monday’s own internal production data. In this post, we share the architecture behind those numbers, the retrofits that made it work in a decade-old code base, and the...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.85,
-        "confidence_mean": 0.8
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.98,
+        "overall_score": 0.881,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -792,7 +420,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-29T03:20:21.909873+00:00"
+        "consensus_timestamp": "2026-07-29T06:42:25.662427+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,7 +431,131 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-29T03:20:21.909875+00:00"
+        "timestamp": "2026-07-29T06:42:25.662430+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c42d41aeacd03b4faf093e2e51692417",
+      "title": "NVIDIA and Partners Build in America, for America",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+      "published_date": "2026-07-21T13:00:47+00:00",
+      "category": "Industry",
+      "description": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
+      "author": "NVIDIA",
+      "content": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.98,
+        "overall_score": 0.881,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-29T06:42:25.663112+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-29T06:42:25.663116+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "734944eecf2d6f7cc68ddf2ff600696e",
+      "title": "Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/",
+      "published_date": "2026-07-21T18:30:00+00:00",
+      "category": "Industry",
+      "description": "Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token...",
+      "author": "Kirthi Devleker",
+      "content": "Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.8785000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-29T06:42:25.664603+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-29T06:42:25.664605+00:00"
       },
       "article_type": "article"
     },
@@ -812,7 +564,7 @@
       "title": "NIH research establishes new framework for the role of senescence in aging",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/nih-research-establishes-new-framework-role-senescence-aging",
-      "published_date": "2026-07-29T03:14:51.620221+00:00",
+      "published_date": "2026-07-29T06:36:50.018953+00:00",
       "category": "Government",
       "description": "First large-scale atlas of senescent cells could help inform future therapies for age-related diseases.",
       "author": "",
@@ -854,7 +606,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-29T03:20:21.909318+00:00"
+        "consensus_timestamp": "2026-07-29T06:42:25.659803+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -865,26 +617,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-29T03:20:21.909323+00:00"
+        "timestamp": "2026-07-29T06:42:25.659808+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "dffd807cfb68c63ebfe4539dea477399",
-      "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+      "article_id": "dcbb7302a878d51c21e4f07355034996",
+      "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
       "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
-      "published_date": "2026-07-20T10:59:23+00:00",
+      "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
+      "published_date": "2026-07-23T02:00:46+00:00",
       "category": "Industry",
-      "description": "Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences, with serious results to show for it. And they’re doubling down. BMS announced today it is deploying its second NVIDIA DGX SuperPOD, this one built on […]",
-      "author": "Brian Caulfield",
-      "content": "Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences, with serious results to show for it. And they’re doubling down. BMS announced today it is deploying its second NVIDIA DGX SuperPOD, this one built on […]",
+      "description": "NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one of the world’s most powerful AI platforms fully online for the students, researchers and faculty at the U.S. military’s flagship graduate university. “Our nation depends on our men and women […]",
+      "author": "NVIDIA Writers",
+      "content": "NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one of the world’s most powerful AI platforms fully online for the students, researchers and faculty at the U.S. military’s flagship graduate university. “Our nation depends on our men and women […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -916,7 +668,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-29T03:20:21.912285+00:00"
+        "consensus_timestamp": "2026-07-29T06:42:25.662879+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +679,255 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-29T03:20:21.912287+00:00"
+        "timestamp": "2026-07-29T06:42:25.662882+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b73f67c74d9a6ffebb60e36e520035f9",
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "published_date": "2026-07-22T13:38:54+00:00",
+      "category": "Industry",
+      "description": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+      "author": "",
+      "content": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-29T06:42:25.665324+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-29T06:42:25.665326+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "cec5e9412ec059e1ab9d4f03f18520a2",
+      "title": "Introducing Gemini 3.5 Flash Cyber",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "published_date": "2026-07-17T15:00:11+00:00",
+      "category": "Industry",
+      "description": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
+      "author": "",
+      "content": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-29T06:42:25.665368+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-29T06:42:25.665371+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "74cb7856a19477d3672ca09c98a99da8",
+      "title": "Launching Health in ChatGPT",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "published_date": "2026-07-23T00:00:00+00:00",
+      "category": "Industry",
+      "description": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "author": "",
+      "content": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.835,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-29T06:42:25.660897+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-29T06:42:25.660900+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e563a2d600c810189ee2c89769d11a1c",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "published_date": "2026-07-20T10:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "author": "",
+      "content": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.835,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-29T06:42:25.661348+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-29T06:42:25.661351+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 261.8431854248047,
+    "processing_time": 243.66935968399048,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 130,
+      "total_processed": 126,
       "candidates": {
-        "headlines": 14,
-        "articles": 116,
+        "headlines": 12,
+        "articles": 114,
         "research_papers": 0
       },
       "selected": {
