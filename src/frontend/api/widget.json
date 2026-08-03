@@ -1,38 +1,38 @@
 {
-  "updated": "2026-08-03T03:36:29.384044+00:00",
+  "updated": "2026-08-03T07:39:51.284561+00:00",
   "top_stories": [
     {
-      "article_id": "408fe18f0e0fb8ceb58a9ae4196140cd",
-      "title": "Sam Altman is still making the case for parenting via ChatGPT",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-      "published_date": "2026-08-01T17:07:34+00:00",
+      "article_id": "7c9edb2ec669431d94695d852d3ae27c",
+      "title": "Thinking Machines Lab Releases Inkling-Small: A 276B Total, 12B Active Open Weights Multimodal MoE Model",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/08/02/thinking-machines-lab-releases-inkling-small-276b-open-weights-multimodal-moe-model/",
+      "published_date": "2026-08-02T20:35:50+00:00",
       "category": "Industry",
-      "description": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
-      "author": "Anthony Ha",
-      "content": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+      "description": "Inkling-Small matches Inkling at a quarter the size, and its NVFP4 checkpoint runs on one NVIDIA B300 GPU The post Thinking Machines Lab Releases Inkling-Small: A 276B Total, 12B Active Open Weights Multimodal MoE Model appeared first on MarkTechPost.",
+      "author": "Asif Razzaq",
+      "content": "Inkling-Small matches Inkling at a quarter the size, and its NVFP4 checkpoint runs on one NVIDIA B300 GPU The post Thinking Machines Lab Releases Inkling-Small: A 276B Total, 12B Active Open Weights Multimodal MoE Model appeared first on MarkTechPost.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.95
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
           "fact_verification": {
             "verified_claims": [],
             "unverified_claims": [],
-            "fact_check_confidence": 0.7
+            "fact_check_confidence": 0.5
           },
           "bias_detection": {
             "bias_indicators": [],
-            "bias_detection_score": 0.3
+            "bias_detection_score": 0.5
           },
           "credibility_assessment": {
             "credibility_factors": [],
-            "credibility_score": 0.7
+            "credibility_score": 0.5
           },
           "impact_analysis": {
             "impact_areas": [],
@@ -44,24 +44,86 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-03T03:36:29.353305+00:00"
+        "consensus_timestamp": "2026-08-03T07:39:51.253862+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-03T03:36:29.353308+00:00"
+        "timestamp": "2026-08-03T07:39:51.253864+00:00"
       },
       "article_type": "headline"
+    },
+    {
+      "article_id": "881635c1e809ea3b0c72ac00206ed985",
+      "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories/",
+      "published_date": "2026-07-20T15:46:28+00:00",
+      "category": "Industry",
+      "description": "The demand for AI continues to accelerate. Workloads are getting larger, models are becoming more complex, and there is mounting pressure to deploy AI compute...",
+      "author": "Elizabeth Goodman",
+      "content": "The demand for AI continues to accelerate. Workloads are getting larger, models are becoming more complex, and there is mounting pressure to deploy AI compute...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.931,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-03T07:39:51.252982+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-03T07:39:51.252985+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "e0dd1f31a41ff2b5db066aea08f41bf4",
@@ -110,7 +172,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-03T03:36:29.352303+00:00"
+        "consensus_timestamp": "2026-08-03T07:39:51.250306+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,89 +183,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-03T03:36:29.352305+00:00"
+        "timestamp": "2026-08-03T07:39:51.250309+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "23cf4f5879af468a2a797ab13c04c839",
-      "title": "Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit/",
-      "published_date": "2026-07-23T16:07:03+00:00",
+      "article_id": "327ea5176cab32f54a389dd203375f95",
+      "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+      "published_date": "2026-07-20T15:00:53+00:00",
       "category": "Industry",
-      "description": "NVIDIA OptiX ray tracing engine is an application framework for achieving optimal ray tracing performance on the GPU. Applications using OptiX can fail in ways...",
-      "author": "Tanya Lenz",
-      "content": "NVIDIA OptiX ray tracing engine is an application framework for achieving optimal ray tracing performance on the GPU. Applications using OptiX can fail in ways...",
+      "description": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.",
+      "author": "NVIDIA Writers",
+      "content": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-03T03:36:29.354568+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-03T03:36:29.354573+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "48e9684c096cb586a17516f1173d094c",
-      "title": "A child’s language may predict the arrival of depression and anxiety disorders years before onset",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/childs-language-may-predict-arrival-depression-anxiety-disorders-years-before-onset",
-      "published_date": "2026-08-03T03:31:28.021345+00:00",
-      "category": "Government",
-      "description": "NIH-funded,&nbsp;AI-powered&nbsp;analysis of&nbsp;interviews suggests&nbsp;that&nbsp;a&nbsp;youth’s&nbsp;framing of stressful events&nbsp;is&nbsp;a strong&nbsp;indicator&nbsp;of&nbsp;risk for&nbsp;future&nbsp;disorders.",
-      "author": "",
-      "content": "NIH-funded,&nbsp;AI-powered&nbsp;analysis of&nbsp;interviews suggests&nbsp;that&nbsp;a&nbsp;youth’s&nbsp;framing of stressful events&nbsp;is&nbsp;a strong&nbsp;indicator&nbsp;of&nbsp;risk for&nbsp;future&nbsp;disorders.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -234,7 +234,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-03T03:36:29.349283+00:00"
+        "consensus_timestamp": "2026-08-03T07:39:51.251060+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,27 +245,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-03T03:36:29.349288+00:00"
+        "timestamp": "2026-08-03T07:39:51.251063+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "e3f155a13ab6886cf75c68b726f1f0e1",
-      "title": "NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek",
+      "article_id": "1b9075a8851445e9228b6973dc8f613a",
+      "title": "Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek/",
-      "published_date": "2026-07-31T15:13:02+00:00",
+      "url": "https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/",
+      "published_date": "2026-07-27T00:45:00+00:00",
       "category": "Industry",
-      "description": "The demand for high-quality video continues to accelerate across industries, powering everything from immersive streaming experiences to remote collaboration,...",
-      "author": "Elizabeth Goodman",
-      "content": "The demand for high-quality video continues to accelerate across industries, powering everything from immersive streaming experiences to remote collaboration,...",
+      "description": "As AI workloads increase, explosive compute demand is pushing the semiconductor industry to meet unprecedented performance targets. Even small delays can have...",
+      "author": "Tanya Lenz",
+      "content": "As AI workloads increase, explosive compute demand is pushing the semiconductor industry to meet unprecedented performance targets. Even small delays can have...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -293,21 +293,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-03T03:36:29.354120+00:00"
+        "consensus_timestamp": "2026-08-03T07:39:51.252595+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-03T03:36:29.354123+00:00"
+        "timestamp": "2026-08-03T07:39:51.252598+00:00"
       },
       "article_type": "article"
     }
