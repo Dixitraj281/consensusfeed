@@ -1,22 +1,22 @@
 {
-  "updated": "2026-08-04T06:37:19.434097+00:00",
+  "updated": "2026-08-04T10:50:23.227376+00:00",
   "top_stories": [
     {
-      "article_id": "61a423dc1b39aa33984acc4c28d3cc4b",
-      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-      "published_date": "2026-08-03T20:00:00+00:00",
-      "category": "Industry",
-      "description": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
-      "author": "Julie Bort",
-      "content": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+      "article_id": "ff145b71aca353a04c36ec38bed19ac5",
+      "title": "NIH launches new office to advance human-based research and reduce animal use",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-launches-new-office-advance-human-based-research-reduce-animal-use",
+      "published_date": "2026-08-04T10:45:01.437364+00:00",
+      "category": "Government",
+      "description": "New office will coordinate efforts to develop, validate and scale animal-free research models.",
+      "author": "",
+      "content": "New office will coordinate efforts to develop, validate and scale animal-free research models.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
+        "overall_score": 0.8450000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-04T06:37:19.401756+00:00"
+        "consensus_timestamp": "2026-08-04T10:50:23.191743+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,26 +59,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-04T06:37:19.401758+00:00"
+        "timestamp": "2026-08-04T10:50:23.191750+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "9edfc6f90b50ac880edc9d7a9179d791",
-      "title": "NVIDIA AI Releases Molt: A PyTorch-Native Agentic Reinforcement Learning Framework",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/",
-      "published_date": "2026-08-02T06:21:26+00:00",
+      "article_id": "c50e860dad0551e1e586dc35f386d631",
+      "title": "Advancing the next era of national science",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "published_date": "2026-07-22T12:00:00+00:00",
       "category": "Industry",
-      "description": "Agentic RL research is constant algorithm modification, and in mainstream frameworks every change threads through trainer, distributed backend, and rollout glue. NVIDIA's Molt targets that cost with about 8.6K lines of RL code, composing Ray, vLLM, and NeMo AutoModel around one asynchronous loop. The agent stays ordinary Python, trajectories stay token-exact, and throughput comes out statistically comparable to a Megatron-based stack. The post NVIDIA AI Releases Molt: A PyTorch-Native Agentic...",
-      "author": "Asif Razzaq",
-      "content": "Agentic RL research is constant algorithm modification, and in mainstream frameworks every change threads through trainer, distributed backend, and rollout glue. NVIDIA's Molt targets that cost with about 8.6K lines of RL code, composing Ray, vLLM, and NeMo AutoModel around one asynchronous loop. The agent stays ordinary Python, trajectories stay token-exact, and throughput comes out statistically comparable to a Megatron-based stack. The post NVIDIA AI Releases Molt: A PyTorch-Native Agentic...",
+      "description": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+      "author": "",
+      "content": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.85,
         "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "overall_score": 0.9185000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -86,68 +86,6 @@
           "fact_verification": {
             "verified_claims": [],
             "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-04T06:37:19.404104+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-04T06:37:19.404107+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "4b2a5f4259385b5a37ce4e838c35c6b4",
-      "title": "Guidance: 2G Switch-off Charter",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/2g-switch-off-charter",
-      "published_date": "2026-07-29T12:01:06+00:00",
-      "category": "Government",
-      "description": "How UK’s mobile network operators commit to ensure that the 2G switch-off takes place safely, with critical services and vulnerable consumers protected.",
-      "author": "",
-      "content": "How UK’s mobile network operators commit to ensure that the 2G switch-off takes place safely, with critical services and vulnerable consumers protected.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
             "fact_check_confidence": 0.7
           },
           "bias_detection": {
@@ -172,7 +110,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-04T06:37:19.398945+00:00"
+        "consensus_timestamp": "2026-08-04T10:50:23.193212+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,26 +121,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-04T06:37:19.398948+00:00"
+        "timestamp": "2026-08-04T10:50:23.193214+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "2a335206489a70b9b48c7a2f5191be14",
-      "title": "Automating customer retention workflows in Amazon Quick",
+      "article_id": "e0dd1f31a41ff2b5db066aea08f41bf4",
+      "title": "Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick/",
-      "published_date": "2026-07-29T15:24:21+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/",
+      "published_date": "2026-07-24T17:59:03+00:00",
       "category": "Industry",
-      "description": "Learn how to build a no-code customer retention pipeline in Amazon Quick that detects at-risk customers from call transcripts and CSAT data, scores them by retention priority with a custom MCP Action, and generates personalized retention letters, reducing response time from days to minutes.",
-      "author": "Vaidy Janardhanam",
-      "content": "Learn how to build a no-code customer retention pipeline in Amazon Quick that detects at-risk customers from call transcripts and CSAT data, scores them by retention priority with a custom MCP Action, and generates personalized retention letters, reducing response time from days to minutes.",
+      "description": "This post covers Opus 5’s improvements and practical guidance for AI engineers integrating the model into agentic systems and production inference workloads on Amazon Bedrock. See the documentation for Claude Platform on AWS.",
+      "author": "Aamna Najmi",
+      "content": "This post covers Opus 5’s improvements and practical guidance for AI engineers integrating the model into agentic systems and production inference workloads on Amazon Bedrock. See the documentation for Claude Platform on AWS.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.95,
+        "overall_score": 0.9125000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -234,7 +172,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-04T06:37:19.400831+00:00"
+        "consensus_timestamp": "2026-08-04T10:50:23.194001+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,7 +183,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-04T06:37:19.400833+00:00"
+        "timestamp": "2026-08-04T10:50:23.194003+00:00"
       },
       "article_type": "article"
     },
@@ -296,7 +234,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-04T06:37:19.399738+00:00"
+        "consensus_timestamp": "2026-08-04T10:50:23.192786+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +245,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-04T06:37:19.399740+00:00"
+        "timestamp": "2026-08-04T10:50:23.192788+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "48e9684c096cb586a17516f1173d094c",
+      "title": "A child’s language may predict the arrival of depression and anxiety disorders years before onset",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/childs-language-may-predict-arrival-depression-anxiety-disorders-years-before-onset",
+      "published_date": "2026-08-04T10:45:01.436513+00:00",
+      "category": "Government",
+      "description": "NIH-funded,&nbsp;AI-powered&nbsp;analysis of&nbsp;interviews suggests&nbsp;that&nbsp;a&nbsp;youth’s&nbsp;framing of stressful events&nbsp;is&nbsp;a strong&nbsp;indicator&nbsp;of&nbsp;risk for&nbsp;future&nbsp;disorders.",
+      "author": "",
+      "content": "NIH-funded,&nbsp;AI-powered&nbsp;analysis of&nbsp;interviews suggests&nbsp;that&nbsp;a&nbsp;youth’s&nbsp;framing of stressful events&nbsp;is&nbsp;a strong&nbsp;indicator&nbsp;of&nbsp;risk for&nbsp;future&nbsp;disorders.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-04T10:50:23.191150+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-04T10:50:23.191154+00:00"
       },
       "article_type": "article"
     }
