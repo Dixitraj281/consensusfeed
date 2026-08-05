@@ -1,22 +1,22 @@
 {
-  "updated": "2026-08-05T14:27:11.910354+00:00",
+  "updated": "2026-08-05T17:51:16.989947+00:00",
   "top_stories": [
     {
-      "article_id": "ca3c64cf24cbaef9fc2355de33a232b7",
-      "title": "Congress’ favorite AI tool? ChatGPT",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-      "published_date": "2026-08-03T16:40:55+00:00",
-      "category": "Industry",
-      "description": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
-      "author": "Rebecca Bellan",
-      "content": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+      "article_id": "ff145b71aca353a04c36ec38bed19ac5",
+      "title": "NIH launches new office to advance human-based research and reduce animal use",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-launches-new-office-advance-human-based-research-reduce-animal-use",
+      "published_date": "2026-08-05T17:46:07.255413+00:00",
+      "category": "Government",
+      "description": "New office will coordinate efforts to develop, validate and scale animal-free research models.",
+      "author": "",
+      "content": "New office will coordinate efforts to develop, validate and scale animal-free research models.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.8,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
+        "overall_score": 0.8450000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-05T14:27:11.873769+00:00"
+        "consensus_timestamp": "2026-08-05T17:51:16.951741+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,26 +59,150 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-05T14:27:11.873772+00:00"
+        "timestamp": "2026-08-05T17:51:16.951743+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "1b9075a8851445e9228b6973dc8f613a",
-      "title": "Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing",
+      "article_id": "50eb850c0e1d39988e98b67bc59c9546",
+      "title": "34 Amazon Research Awards Build on Trainium recipients announced",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/research-awards/latest-news/34-amazon-research-awards-build-on-trainium-recipients-announced",
+      "published_date": "2026-08-05T15:00:00+00:00",
+      "category": "Industry",
+      "description": "Amazon announces 34 recipients of the Build on Trainium program, a $110 million credit initiative supporting AI research at 30 universities including Stanford, UC Berkeley, UIUC, UCLA, CMU, and MIT, with a focus on Responsible AI.",
+      "author": "",
+      "content": "Amazon announces 34 recipients of the Build on Trainium program, a $110 million credit initiative supporting AI research at 30 universities including Stanford, UC Berkeley, UIUC, UCLA, CMU, and MIT, with a focus on Responsible AI.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.95,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.9435,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.92,
+        "confidence": 0.96,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-05T17:51:16.956162+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.752,
+        "combined_confidence": 0.776,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-05T17:51:16.956165+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "268674246c882f13964599bf129fb1ab",
+      "title": "Market surveillance agent with LangGraph and Strands on AgentCore",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/",
+      "published_date": "2026-07-28T17:24:54+00:00",
+      "category": "Industry",
+      "description": "Learn how to architect and deploy a production-ready multi-agent AI system using LangGraph for workflow orchestration and Strands for agent reasoning on Amazon Bedrock AgentCore. This post walks through a market surveillance example with state-driven orchestration, checkpoint-based recovery, and AgentCore memory and observability.",
+      "author": "Gleb Geinke",
+      "content": "Learn how to architect and deploy a production-ready multi-agent AI system using LangGraph for workflow orchestration and Strands for agent reasoning on Amazon Bedrock AgentCore. This post walks through a market surveillance example with state-driven orchestration, checkpoint-based recovery, and AgentCore memory and observability.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-05T17:51:16.953722+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-05T17:51:16.953725+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "46bf4f509679aceee2f6b64d656fe8c1",
+      "title": "NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing/",
+      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/",
       "published_date": "2026-07-27T00:45:00+00:00",
       "category": "Industry",
-      "description": "As AI workloads increase, explosive compute demand is pushing the semiconductor industry to meet unprecedented performance targets. Even small delays can have...",
-      "author": "Tanya Lenz",
-      "content": "As AI workloads increase, explosive compute demand is pushing the semiconductor industry to meet unprecedented performance targets. Even small delays can have...",
+      "description": "Modern chip design is increasingly limited by engineering time. Register transfer level (RTL) development and verification require specialized hardware...",
+      "author": "Elizabeth Goodman",
+      "content": "Modern chip design is increasingly limited by engineering time. Register transfer level (RTL) development and verification require specialized hardware...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "impact_score": 0.99,
+        "overall_score": 0.9079999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -106,181 +230,57 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.98,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-05T14:27:11.874580+00:00"
+        "consensus_timestamp": "2026-08-05T17:51:16.955789+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-05T14:27:11.874583+00:00"
+        "timestamp": "2026-08-05T17:51:16.955791+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "abe5204f768dec8ce331b679aeb8f719",
-      "title": "Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/",
-      "published_date": "2026-07-30T16:02:32+00:00",
+      "article_id": "35a81546b924196eae9f1fb7a14fc985",
+      "title": "Towards a quantum computer that learns from its errors",
+      "source": "google_research_blog",
+      "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
+      "published_date": "2026-07-22T18:40:21+00:00",
       "category": "Industry",
-      "description": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock, along with explicit prompt caching that gives you precise control over which parts of your prompt are cached and reused. Learn how to get started, set up explicit caching, and migrate existing GPT workloads to reduce inference cost.",
-      "author": "Melanie Li",
-      "content": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock, along with explicit prompt caching that gives you precise control over which parts of your prompt are cached and reused. Learn how to get started, set up explicit caching, and migrate existing GPT workloads to reduce inference cost.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-05T14:27:11.871907+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-05T14:27:11.871910+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8bbf2d0e1e84f05b454e6c5dd1c06d00",
-      "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
-      "published_date": "2026-07-28T15:00:19+00:00",
-      "category": "Industry",
-      "description": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI podcast No Priors, highlighted how the NVIDIA Jetson platform for edge […]",
-      "author": "Matthew Leib",
-      "content": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI podcast No Priors, highlighted how the NVIDIA Jetson platform for edge […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.875,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-05T14:27:11.872690+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-05T14:27:11.872692+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "43dc847663c714616ca296fea6ebf0b9",
-      "title": "Telecommunications Modernisation: Connectivity Timeline",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/guidance/telecommunications-modernisation-connectivity-timeline",
-      "published_date": "2026-07-29T11:59:18+00:00",
-      "category": "Government",
-      "description": "This connectivity timeline lists current dates for telecommunications modernisations supplied by network operators.",
+      "description": "Machine Intelligence",
       "author": "",
-      "content": "This connectivity timeline lists current dates for telecommunications modernisations supplied by network operators.",
+      "content": "Machine Intelligence",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
+        "impact_score": 0.95,
+        "overall_score": 0.885,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
           "fact_verification": {
             "verified_claims": [],
             "unverified_claims": [],
-            "fact_check_confidence": 0.7
+            "fact_check_confidence": 0.5
           },
           "bias_detection": {
             "bias_indicators": [],
-            "bias_detection_score": 0.3
+            "bias_detection_score": 0.5
           },
           "credibility_assessment": {
             "credibility_factors": [],
-            "credibility_score": 0.7
+            "credibility_score": 0.5
           },
           "impact_analysis": {
             "impact_areas": [],
@@ -292,22 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-05T14:27:11.870081+00:00"
+        "consensus_timestamp": "2026-08-05T17:51:16.956081+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-05T14:27:11.870084+00:00"
+        "timestamp": "2026-08-05T17:51:16.956083+00:00"
       },
       "article_type": "article"
     }
