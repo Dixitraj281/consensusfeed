@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-05T17:51:16.989947+00:00",
+  "updated": "2026-08-05T21:22:46.418438+00:00",
   "top_stories": [
     {
       "article_id": "ff145b71aca353a04c36ec38bed19ac5",
       "title": "NIH launches new office to advance human-based research and reduce animal use",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/nih-launches-new-office-advance-human-based-research-reduce-animal-use",
-      "published_date": "2026-08-05T17:46:07.255413+00:00",
+      "published_date": "2026-08-05T21:17:27.255715+00:00",
       "category": "Government",
       "description": "New office will coordinate efforts to develop, validate and scale animal-free research models.",
       "author": "",
@@ -48,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-05T17:51:16.951741+00:00"
+        "consensus_timestamp": "2026-08-05T21:22:46.377186+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,27 +59,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-05T17:51:16.951743+00:00"
+        "timestamp": "2026-08-05T21:22:46.377188+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "50eb850c0e1d39988e98b67bc59c9546",
-      "title": "34 Amazon Research Awards Build on Trainium recipients announced",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/research-awards/latest-news/34-amazon-research-awards-build-on-trainium-recipients-announced",
-      "published_date": "2026-08-05T15:00:00+00:00",
+      "article_id": "f828de5fa90815eb7620e1a7727c6f34",
+      "title": "Nvidia open-sources cuFile API, accelerating GPU read/write capability for high-speed storage",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/08/04/nvidia-open-sources-cufile-api-accelerating-gpu-read-write-capability-high-speed-storage/",
+      "published_date": "2026-08-04T15:00:37+00:00",
       "category": "Industry",
-      "description": "Amazon announces 34 recipients of the Build on Trainium program, a $110 million credit initiative supporting AI research at 30 universities including Stanford, UC Berkeley, UIUC, UCLA, CMU, and MIT, with a focus on Responsible AI.",
-      "author": "",
-      "content": "Amazon announces 34 recipients of the Build on Trainium program, a $110 million credit initiative supporting AI research at 30 universities including Stanford, UC Berkeley, UIUC, UCLA, CMU, and MIT, with a focus on Responsible AI.",
+      "description": "As artificial intelligence applications become ever hungrier for faster access to data, Nvidia Corp. today announced it is open-sourcing the application programming interface for its powerful cuFile vertical data storage stack, enabling millisecond data access. The company also announced a large-scale industry initiative with technology leaders to optimize memory and storage with Storage-Next. The initiative […] The post Nvidia open-sources cuFile API, accelerating GPU read/write capability for...",
+      "author": "Kyt Dotson",
+      "content": "As artificial intelligence applications become ever hungrier for faster access to data, Nvidia Corp. today announced it is open-sourcing the application programming interface for its powerful cuFile vertical data storage stack, enabling millisecond data access. The company also announced a large-scale industry initiative with technology leaders to optimize memory and storage with Storage-Next. The initiative […] The post Nvidia open-sources cuFile API, accelerating GPU read/write capability for...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.9435,
-        "confidence_mean": 0.98
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.89,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -106,42 +106,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
-        "confidence": 0.96,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-05T17:51:16.956162+00:00"
+        "consensus_timestamp": "2026-08-05T21:22:46.383090+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.776,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-05T17:51:16.956165+00:00"
+        "timestamp": "2026-08-05T21:22:46.383092+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "268674246c882f13964599bf129fb1ab",
-      "title": "Market surveillance agent with LangGraph and Strands on AgentCore",
+      "article_id": "2a335206489a70b9b48c7a2f5191be14",
+      "title": "Automating customer retention workflows in Amazon Quick",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/",
-      "published_date": "2026-07-28T17:24:54+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick/",
+      "published_date": "2026-07-29T15:24:21+00:00",
       "category": "Industry",
-      "description": "Learn how to architect and deploy a production-ready multi-agent AI system using LangGraph for workflow orchestration and Strands for agent reasoning on Amazon Bedrock AgentCore. This post walks through a market surveillance example with state-driven orchestration, checkpoint-based recovery, and AgentCore memory and observability.",
-      "author": "Gleb Geinke",
-      "content": "Learn how to architect and deploy a production-ready multi-agent AI system using LangGraph for workflow orchestration and Strands for agent reasoning on Amazon Bedrock AgentCore. This post walks through a market surveillance example with state-driven orchestration, checkpoint-based recovery, and AgentCore memory and observability.",
+      "description": "Learn how to build a no-code customer retention pipeline in Amazon Quick that detects at-risk customers from call transcripts and CSAT data, scores them by retention priority with a custom MCP Action, and generates personalized retention letters, reducing response time from days to minutes.",
+      "author": "Vaidy Janardhanam",
+      "content": "Learn how to build a no-code customer retention pipeline in Amazon Quick that detects at-risk customers from call transcripts and CSAT data, scores them by retention priority with a custom MCP Action, and generates personalized retention letters, reducing response time from days to minutes.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8975,
-        "confidence_mean": 0.98
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -172,7 +172,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-05T17:51:16.953722+00:00"
+        "consensus_timestamp": "2026-08-05T21:22:46.379380+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,89 +183,89 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-05T17:51:16.953725+00:00"
+        "timestamp": "2026-08-05T21:22:46.379383+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "46bf4f509679aceee2f6b64d656fe8c1",
-      "title": "NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/",
-      "published_date": "2026-07-27T00:45:00+00:00",
+      "article_id": "abe5204f768dec8ce331b679aeb8f719",
+      "title": "Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/",
+      "published_date": "2026-07-30T16:02:32+00:00",
       "category": "Industry",
-      "description": "Modern chip design is increasingly limited by engineering time. Register transfer level (RTL) development and verification require specialized hardware...",
-      "author": "Elizabeth Goodman",
-      "content": "Modern chip design is increasingly limited by engineering time. Register transfer level (RTL) development and verification require specialized hardware...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.99,
-        "overall_score": 0.9079999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-05T17:51:16.955789+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-05T17:51:16.955791+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "35a81546b924196eae9f1fb7a14fc985",
-      "title": "Towards a quantum computer that learns from its errors",
-      "source": "google_research_blog",
-      "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
-      "published_date": "2026-07-22T18:40:21+00:00",
-      "category": "Industry",
-      "description": "Machine Intelligence",
-      "author": "",
-      "content": "Machine Intelligence",
+      "description": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock, along with explicit prompt caching that gives you precise control over which parts of your prompt are cached and reused. Learn how to get started, set up explicit caching, and migrate existing GPT workloads to reduce inference cost.",
+      "author": "Melanie Li",
+      "content": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock, along with explicit prompt caching that gives you precise control over which parts of your prompt are cached and reused. Learn how to get started, set up explicit caching, and migrate existing GPT workloads to reduce inference cost.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-05T21:22:46.379207+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-05T21:22:46.379210+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b3aae225d8c97a7bf2134d84ab94700a",
+      "title": "NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/",
+      "published_date": "2026-07-30T16:00:00+00:00",
+      "category": "Industry",
+      "description": "Two AI computing clusters built from identical NVIDIA H100, GB200 NVL72, or GB300 NVL72 systems can deliver materially different training throughput. We...",
+      "author": "Elizabeth Goodman",
+      "content": "Two AI computing clusters built from identical NVIDIA H100, GB200 NVL72, or GB300 NVL72 systems can deliver materially different training throughput. We...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.885,
-        "confidence_mean": 0.95
+        "overall_score": 0.8875,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -292,22 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-05T17:51:16.956081+00:00"
+        "consensus_timestamp": "2026-08-05T21:22:46.381831+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-05T17:51:16.956083+00:00"
+        "timestamp": "2026-08-05T21:22:46.381834+00:00"
       },
       "article_type": "article"
     }
