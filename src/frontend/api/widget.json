@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T13:03:51.456061+00:00",
+  "updated": "2026-08-08T16:44:24.252290+00:00",
   "top_stories": [
     {
       "article_id": "0bdbe7d56528c931aa5ed26b8c4ba9ec",
@@ -48,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-08T13:03:51.427708+00:00"
+        "consensus_timestamp": "2026-08-08T16:44:24.231738+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,27 +59,213 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-08T13:03:51.427710+00:00"
+        "timestamp": "2026-08-08T16:44:24.231740+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "793e501f9852a544f75f8a751fd0a0a9",
-      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-      "published_date": "2026-08-05T19:30:19+00:00",
+      "article_id": "2bc8d118e93a1b75d63f1b34a7cd0630",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "published_date": "2026-08-06T10:00:00+00:00",
       "category": "Industry",
-      "description": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
-      "author": "Lucas Ropek",
-      "content": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+      "description": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "author": "",
+      "content": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-08T16:44:24.230014+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-08T16:44:24.230016+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e14ca2a9fec2ac0c303a34b84a5d5275",
+      "title": "LLM optimization integration for Amazon SageMaker Python SDK",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/llm-optimization-integration-for-amazon-sagemaker-python-sdk/",
+      "published_date": "2026-08-06T16:08:12+00:00",
+      "category": "Industry",
+      "description": "The Amazon SageMaker Python SDK v3 now exposes generative AI inference recommendations in Amazon SageMaker AI directly in your notebook. Benchmark an endpoint, generate data-driven deployment recommendations, and deploy the recommended configuration without leaving your notebook workflow.",
+      "author": "Dan Ferguson",
+      "content": "The Amazon SageMaker Python SDK v3 now exposes generative AI inference recommendations in Amazon SageMaker AI directly in your notebook. Benchmark an endpoint, generate data-driven deployment recommendations, and deploy the recommended configuration without leaving your notebook workflow.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.98
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-08T16:44:24.230963+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-08T16:44:24.230965+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "793458a6fe871a32fbfa456bb467d134",
+      "title": "How we built an MCP bridge to give our AgentCore-hosted AI agent access to local MCP tools",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools/",
+      "published_date": "2026-08-05T18:02:23+00:00",
+      "category": "Industry",
+      "description": "AI agents on Amazon Bedrock AgentCore run in the cloud, but users' tools and files live on their laptops. Learn how to build a secure MCP bridge that lets a cloud-hosted agent call local MCP servers by tunneling signed messages over the existing WebSocket connection through a browser extension and Chrome native messaging, with no open ports or VPN required.",
+      "author": "Rohan Lekhwani",
+      "content": "AI agents on Amazon Bedrock AgentCore run in the cloud, but users' tools and files live on their laptops. Learn how to build a secure MCP bridge that lets a cloud-hosted agent call local MCP servers by tunneling signed messages over the existing WebSocket connection through a browser extension and Chrome native messaging, with no open ports or VPN required.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-08T16:44:24.231068+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-08T16:44:24.231070+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "46bf4f509679aceee2f6b64d656fe8c1",
+      "title": "NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/",
+      "published_date": "2026-07-27T00:45:00+00:00",
+      "category": "Industry",
+      "description": "Modern chip design is increasingly limited by engineering time. Register transfer level (RTL) development and verification require specialized hardware...",
+      "author": "Nirmal Kumar Juluru",
+      "content": "Modern chip design is increasingly limited by engineering time. Register transfer level (RTL) development and verification require specialized hardware...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -106,208 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
+        "score": 0.92,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-08T13:03:51.428396+00:00"
+        "consensus_timestamp": "2026-08-08T16:44:24.232776+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.752,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-08T13:03:51.428398+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e48f2bb38bce55729db6b53ba4551525",
-      "title": "Determining playoff clinching scenarios in the NHL using constraint programming",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/",
-      "published_date": "2026-08-07T16:21:00+00:00",
-      "category": "Industry",
-      "description": "The AWS Generative AI Innovation Center built an automated system that uses constraint programming and custom tree search to determine, with mathematical certainty, when and how an NHL team clinches a playoff spot. The approach was validated against four full NHL seasons of officially published results.",
-      "author": "Gili Rosenberg",
-      "content": "The AWS Generative AI Innovation Center built an automated system that uses constraint programming and custom tree search to determine, with mathematical certainty, when and how an NHL team clinches a playoff spot. The approach was validated against four full NHL seasons of officially published results.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.85,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-08T13:03:51.426286+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-08T13:03:51.426289+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "bb43badabaec1015c674b2fd44e18e22",
-      "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
-      "published_date": "2026-08-04T13:00:47+00:00",
-      "category": "Industry",
-      "description": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The Linux Foundation today shared a Request for Comments on Shared AI Findings Exchange (SAFE), a proposed set of guidelines […]",
-      "author": "Justin Boitano",
-      "content": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The Linux Foundation today shared a Request for Comments on Shared AI Findings Exchange (SAFE), a proposed set of guidelines […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-08T13:03:51.427434+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-08T13:03:51.427436+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "681ae78c3ee40d40bb77070e557f30a5",
-      "title": "AWS launches Kiro Crew, an autonomous agentic orchestrator for 24/7 code development",
-      "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2026/08/04/aws-launches-kiro-crew-autonomous-agentic-orchestrator-24-7-code-development/",
-      "published_date": "2026-08-04T17:00:30+00:00",
-      "category": "Industry",
-      "description": "Amazon Web Services Inc. today launched Kiro Crew, an autonomous workspace that keeps artificial intelligence coding agents running all day and all night. The company said it developed Crew to allow developers to start a task, walk away and come back when something is worth administering. It tasks multiple agents and their sub-agents on a […] The post AWS launches Kiro Crew, an autonomous agentic orchestrator for 24/7 code development appeared first on SiliconANGLE.",
-      "author": "Kyt Dotson",
-      "content": "Amazon Web Services Inc. today launched Kiro Crew, an autonomous workspace that keeps artificial intelligence coding agents running all day and all night. The company said it developed Crew to allow developers to start a task, walk away and come back when something is worth administering. It tasks multiple agents and their sub-agents on a […] The post AWS launches Kiro Crew, an autonomous agentic orchestrator for 24/7 code development appeared first on SiliconANGLE.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.87,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-08T13:03:51.429194+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-08T13:03:51.429197+00:00"
+        "timestamp": "2026-08-08T16:44:24.232778+00:00"
       },
       "article_type": "article"
     }
