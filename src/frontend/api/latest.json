@@ -1,22 +1,208 @@
 {
-  "generated_at": "2026-08-08T20:42:06.072721+00:00",
+  "generated_at": "2026-08-09T02:11:10.356524+00:00",
   "articles": [
     {
-      "article_id": "757cbd2f273ddbb43a4193121d1ced40",
-      "title": "NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI Agent Into a Single Python Class",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework/",
-      "published_date": "2026-08-07T20:42:02+00:00",
+      "article_id": "82c2f4bc1d8f1be56bfafce944120e03",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "published_date": "2026-08-07T16:16:09+00:00",
       "category": "Industry",
-      "description": "NVIDIA Labs has open-sourced NOOA (NVIDIA Object-Oriented Agents), a model-agnostic Python framework for building AI agents. Agent development today is split across prompt templates, tool schemas, callback code, and workflow graphs. NOOA collapses all of it into one Python class. Methods are the actions the model can take. Fields are agent state. Docstrings are prompts. […] The post NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI Agent Into a Single Python Class...",
-      "author": "Asif Razzaq",
-      "content": "NVIDIA Labs has open-sourced NOOA (NVIDIA Object-Oriented Agents), a model-agnostic Python framework for building AI agents. Agent development today is split across prompt templates, tool schemas, callback code, and workflow graphs. NOOA collapses all of it into one Python class. Methods are the actions the model can take. Fields are agent state. Docstrings are prompts. […] The post NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI Agent Into a Single Python Class...",
+      "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "author": "Sarah Perez",
+      "content": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-09T02:11:10.326231+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-09T02:11:10.326233+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "2aaab4cdd07fd8aa5307f6db8706d065",
+      "title": "Beyond VLAs: How World Action Models Reshape Robot Manipulation",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation/",
+      "published_date": "2026-08-04T16:00:00+00:00",
+      "category": "Industry",
+      "description": "A central challenge in robotics is building policies that generalize beyond the demonstrations they’re trained on. A policy that succeeds in a training scene...",
+      "author": "Michelle Horton",
+      "content": "A central challenge in robotics is building policies that generalize beyond the demonstrations they’re trained on. A policy that succeeds in a training scene...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-09T02:11:10.327120+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-09T02:11:10.327123+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "2bc8d118e93a1b75d63f1b34a7cd0630",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "published_date": "2026-08-06T10:00:00+00:00",
+      "category": "Industry",
+      "description": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "author": "",
+      "content": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-09T02:11:10.323242+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-09T02:11:10.323245+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "0dac7b0d105388698fb6e9fd33378331",
+      "title": "Building a Multimodal RAG Pipeline with NVIDIA NeMo Retriever, Hosted NIMs, LanceDB, Reranking, and Grounded Generation",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-retriever-hosted-nims-lancedb-reranking-and-grounded-generation/",
+      "published_date": "2026-08-07T21:13:38+00:00",
+      "category": "Industry",
+      "description": "In this tutorial, we build an advanced multimodal retrieval-augmented generation pipeline with NVIDIA NeMo Retriever. We begin by configuring a Python 3.12 environment, installing the required packages, and performing offline PDF text extraction without relying on a GPU or external API key. We then extend the workflow with hosted NVIDIA NIM endpoints to detect page […] The post Building a Multimodal RAG Pipeline with NVIDIA NeMo Retriever, Hosted NIMs, LanceDB, Reranking, and Grounded...",
+      "author": "Sana Hassan",
+      "content": "In this tutorial, we build an advanced multimodal retrieval-augmented generation pipeline with NVIDIA NeMo Retriever. We begin by configuring a Python 3.12 environment, installing the required packages, and performing offline PDF text extraction without relying on a GPU or external API key. We then extend the workflow with hosted NVIDIA NIM endpoints to detect page […] The post Building a Multimodal RAG Pipeline with NVIDIA NeMo Retriever, Hosted NIMs, LanceDB, Reranking, and Grounded...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -48,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-08T20:42:06.046413+00:00"
+        "consensus_timestamp": "2026-08-09T02:11:10.328238+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,9 +245,257 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-08T20:42:06.046416+00:00"
+        "timestamp": "2026-08-09T02:11:10.328241+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
+    },
+    {
+      "article_id": "8e09dfe9e3bd30c180721c59de0a914a",
+      "title": "Official Statistics: BDUK delivery performance, annual: 2026/27",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/statistics/announcements/bduk-delivery-performance-annual-202627",
+      "published_date": "2026-07-28T12:39:38+00:00",
+      "category": "Government",
+      "description": "Breakdowns of how many premises in the United Kingdom have received gigabit-capable broadband coverage as a result of Building Digital UK (BDUK) subsidy.",
+      "author": "",
+      "content": "Breakdowns of how many premises in the United Kingdom have received gigabit-capable broadband coverage as a result of Building Digital UK (BDUK) subsidy.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-09T02:11:10.322920+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-09T02:11:10.322925+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c8a85a1732f1c69e9565e9d0e7971862",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "published_date": "2026-07-29T15:00:00+00:00",
+      "category": "Industry",
+      "description": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "author": "",
+      "content": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-09T02:11:10.324100+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-09T02:11:10.324103+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "6d60243b2c6eaab1f9ee38977e9f0862",
+      "title": "Meet Shepherd: An Open-Source Python Substrate That Lets Meta-Agents Fork, Replay, and Revert Any Agent Run",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/08/08/meet-shepherd-an-open-source-python-substrate-that-lets-meta-agents-fork-replay-and-revert-any-agent-run/",
+      "published_date": "2026-08-08T20:54:49+00:00",
+      "category": "Industry",
+      "description": "Long agent runs accumulate state that no transcript records — edited files, a live dev server, installed packages, a warm prompt cache. When an agent misreads a traceback at step 10 and rewrites a correct file, patching forward burns tokens and restarting re-pays every call. Researchers at Northeastern University and Stanford University released Shepherd, an MIT-licensed Python runtime substrate that records every agent-environment interaction as a typed event in a Git-like execution trace....",
+      "author": "Michal Sutter",
+      "content": "Long agent runs accumulate state that no transcript records — edited files, a live dev server, installed packages, a warm prompt cache. When an agent misreads a traceback at step 10 and rewrites a correct file, patching forward burns tokens and restarting re-pays every call. Researchers at Northeastern University and Stanford University released Shepherd, an MIT-licensed Python runtime substrate that records every agent-environment interaction as a typed event in a Git-like execution trace....",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-09T02:11:10.328049+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-09T02:11:10.328052+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3b562177a492668fde28d6a23c57a645",
+      "title": "From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/",
+      "published_date": "2026-08-03T17:24:15+00:00",
+      "category": "Industry",
+      "description": "Formula 1® partnered with AWS to build the Data Accelerator, using agentic AI on Amazon Bedrock AgentCore to transform its MarTech data platform. Learn how F1 cut data source onboarding from up to 8 weeks to about 40 minutes, automated schema evolution, and gained end-to-end observability across its fan-engagement data estate.",
+      "author": "Subhro Bose",
+      "content": "Formula 1® partnered with AWS to build the Data Accelerator, using agentic AI on Amazon Bedrock AgentCore to transform its MarTech data platform. Learn how F1 cut data source onboarding from up to 8 weeks to about 40 minutes, automated schema evolution, and gained end-to-end observability across its fan-engagement data estate.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-09T02:11:10.325322+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-09T02:11:10.325325+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "a8e0786ab713128a0c560120e3b6aae9",
@@ -110,7 +544,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-08T20:42:06.045585+00:00"
+        "consensus_timestamp": "2026-08-09T02:11:10.327314+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,7 +555,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-08T20:42:06.045588+00:00"
+        "timestamp": "2026-08-09T02:11:10.327316+00:00"
       },
       "article_type": "article"
     },
@@ -169,21 +603,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.85,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-08T20:42:06.045787+00:00"
+        "consensus_timestamp": "2026-08-09T02:11:10.327505+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-08T20:42:06.045789+00:00"
+        "timestamp": "2026-08-09T02:11:10.327508+00:00"
       },
       "article_type": "article"
     },
@@ -234,7 +668,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-08T20:42:06.044231+00:00"
+        "consensus_timestamp": "2026-08-09T02:11:10.325788+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,131 +679,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-08T20:42:06.044233+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d5819745a8d2fff4c27946d726c18626",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "published_date": "2026-07-29T10:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "author": "",
-      "content": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-08T20:42:06.042780+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-08T20:42:06.042783+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "573ba2708d308857fb5fb20597cb6c4c",
-      "title": "Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/",
-      "published_date": "2026-08-07T21:52:48+00:00",
-      "category": "Industry",
-      "description": "Tencent Cloud has open-sourced TencentDB Agent Memory v2.0, a team-level memory hub that turns conversations, documents and code into four governed, reusable assets — Chat Memory, Skill, LLM-Wiki and Code-Graph. It is MIT-licensed, self-hosted via Docker, and integrates with Claude Code, OpenClaw, Hermes and CodeBuddy. The differentiator is not retrieval but governance: ACL-based visibility decides which agent gets which asset, and which version is valid. The post Tencent Cloud Open-Sources...",
-      "author": "Michal Sutter",
-      "content": "Tencent Cloud has open-sourced TencentDB Agent Memory v2.0, a team-level memory hub that turns conversations, documents and code into four governed, reusable assets — Chat Memory, Skill, LLM-Wiki and Code-Graph. It is MIT-licensed, self-hosted via Docker, and integrates with Claude Code, OpenClaw, Hermes and CodeBuddy. The differentiator is not retrieval but governance: ACL-based visibility decides which agent gets which asset, and which version is valid. The post Tencent Cloud Open-Sources...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.85
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-08T20:42:06.046369+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-08T20:42:06.046371+00:00"
+        "timestamp": "2026-08-09T02:11:10.325791+00:00"
       },
       "article_type": "article"
     },
@@ -385,10 +695,10 @@
       "content": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -420,7 +730,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-08T20:42:06.042365+00:00"
+        "consensus_timestamp": "2026-08-09T02:11:10.323535+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -431,88 +741,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-08T20:42:06.042368+00:00"
+        "timestamp": "2026-08-09T02:11:10.323544+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "793e501f9852a544f75f8a751fd0a0a9",
-      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-      "published_date": "2026-08-05T19:30:19+00:00",
+      "article_id": "a83dc1ec99b049dcfea62ae6c15fdaa6",
+      "title": "AMD’s AI engine shifts into higher gear as data center revenue more than doubles, Helios ramps & market is confused",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/08/04/amds-ai-engine-shifts-higher-gear-data-center-revenue-doubles-helios-ramps-market-confused/",
+      "published_date": "2026-08-04T23:33:28+00:00",
       "category": "Industry",
-      "description": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
-      "author": "Lucas Ropek",
-      "content": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+      "description": "Advanced Micro Devices Inc. delivered another strong quarter Tuesday, beating Wall Street expectations as its artificial intelligence infrastructure business continued its rapid expansion. The company posted 107% year-over-year growth in data center revenue, reinforcing that AMD is becoming a formidable challenger in the race to power enterprise AI. The Santa Clara, California-based chipmaker reported second-quarter […] The post AMD’s AI engine shifts into higher gear as data center revenue...",
+      "author": "John Furrier",
+      "content": "Advanced Micro Devices Inc. delivered another strong quarter Tuesday, beating Wall Street expectations as its artificial intelligence infrastructure business continued its rapid expansion. The company posted 107% year-over-year growth in data center revenue, reinforcing that AMD is becoming a formidable challenger in the race to power enterprise AI. The Santa Clara, California-based chipmaker reported second-quarter […] The post AMD’s AI engine shifts into higher gear as data center revenue...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
         "impact_score": 0.95,
-        "overall_score": 0.835,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-08T20:42:06.045362+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-08T20:42:06.045364+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "37fac2c8a1a4ac14c1fb02a34750d0c1",
-      "title": "Cyera and Oasis: Stronger Together",
-      "source": "sequoia_ai",
-      "url": "https://sequoiacap.com/article/cyera-and-oasis-stronger-together/",
-      "published_date": "2026-07-28T14:25:38+00:00",
-      "category": "Startups",
-      "description": "The post Cyera and Oasis: Stronger Together appeared first on Sequoia Capital.",
-      "author": "amoore",
-      "content": "The post Cyera and Oasis: Stronger Together appeared first on Sequoia Capital.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
+        "overall_score": 0.8600000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -540,103 +788,103 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.4,
-        "confidence": 0.4,
-        "recommendation": "REJECT",
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-08T20:42:06.046053+00:00"
+        "consensus_timestamp": "2026-08-09T02:11:10.328558+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.44,
-        "combined_confidence": 0.44,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-08T20:42:06.046056+00:00"
+        "timestamp": "2026-08-09T02:11:10.328561+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "664ae819447917f9fb3171e244960623",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "published_date": "2026-08-07T15:20:00+00:00",
+      "article_id": "a3539d56196544ddeb1db8c900e84222",
+      "title": "Omilia raises $67M to scale its customer support platform",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+      "published_date": "2026-08-06T12:00:00+00:00",
       "category": "Industry",
-      "description": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "description": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+      "author": "Ivan Mehta",
+      "content": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-09T02:11:10.326970+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-09T02:11:10.326973+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "f18a0c52b29a3c9841aeed68c60373d5",
+      "title": "Official Statistics: Bioscience and health technology sector statistics 2024 to 2025",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/statistics/announcements/bioscience-and-health-technology-sector-statistics-2024-to-2025",
+      "published_date": "2026-07-28T12:35:20+00:00",
+      "category": "Government",
+      "description": "Official statistics in development estimating the size and composition of the life sciences sector in the UK.",
       "author": "",
-      "content": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "content": "Official statistics in development estimating the size and composition of the life sciences sector in the UK.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.8,
-        "overall_score": 0.8300000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-08T20:42:06.042077+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-08T20:42:06.042080+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "415a9c73f08d03ae30d5a82789438666",
-      "title": "What customers value most in Microsoft Databases—from reliability to AI readiness",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
-      "published_date": "2026-07-27T15:00:00+00:00",
-      "category": "Industry",
-      "description": "Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences. The post What customers value most in Microsoft Databases—from reliability to AI readiness appeared first on Microsoft Azure Blog.",
-      "author": "Shireesh Thota",
-      "content": "Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences. The post What customers value most in Microsoft Databases—from reliability to AI readiness appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
         "impact_score": 0.9,
-        "overall_score": 0.8250000000000001,
+        "overall_score": 0.8450000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -668,7 +916,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-08T20:42:06.042921+00:00"
+        "consensus_timestamp": "2026-08-09T02:11:10.323033+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,255 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-08T20:42:06.042924+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d48338f489151d1a1ccbf18d63bffb27",
-      "title": "How TReNDS automates root-cause analysis with Amazon Bedrock",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/",
-      "published_date": "2026-08-07T16:22:50+00:00",
-      "category": "Industry",
-      "description": "TReNDS, a research center at Georgia State University, built an agentic AI pipeline on Amazon Bedrock and the open-source Strands Agents SDK that automatically investigates production errors in real time, reducing root-cause analysis from 15 to 30 minutes of manual work to under 60 seconds.",
-      "author": "Vitaly Omelchenko",
-      "content": "TReNDS, a research center at Georgia State University, built an agentic AI pipeline on Amazon Bedrock and the open-source Strands Agents SDK that automatically investigates production errors in real time, reducing root-cause analysis from 15 to 30 minutes of manual work to under 60 seconds.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8250000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-08T20:42:06.043014+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-08T20:42:06.043017+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "01166e11f48b1808853711fe058f945c",
-      "title": "Control agent behaviors and cost beyond a single action: new capabilities in Amazon Bedrock AgentCore",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/control-agent-behaviors-and-cost-beyond-a-single-action-new-capabilities-in-amazon-bedrock-agentcore/",
-      "published_date": "2026-08-06T16:43:19+00:00",
-      "category": "Industry",
-      "description": "Learn about new capabilities in Amazon Bedrock AgentCore: temporal policies powered by Dogwood, a new open source policy language for AI agents, and rate limiting on the gateway. These features give you deterministic control over sequences of agent actions and cost ceilings that hold regardless of agent behavior.",
-      "author": "Madhu Parthasarathy",
-      "content": "Learn about new capabilities in Amazon Bedrock AgentCore: temporal policies powered by Dogwood, a new open source policy language for AI agents, and rate limiting on the gateway. These features give you deterministic control over sequences of agent actions and cost ceilings that hold regardless of agent behavior.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8250000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-08T20:42:06.043203+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-08T20:42:06.043206+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c520c73eefc6179f4382336b2b044ba5",
-      "title": "Agent Skills for Automated Reasoning policies in Amazon Bedrock",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/agent-skills-for-automated-reasoning-policies-in-amazon-bedrock/",
-      "published_date": "2026-08-06T16:12:24+00:00",
-      "category": "Industry",
-      "description": "Learn how to run the full Amazon Bedrock Automated Reasoning policy lifecycle from your coding agent. A suite of open source Agent Skills builds, reviews, tests, debugs, deploys, and validates a custom policy end to end, turning a specialized console task into a repeatable engineering workflow.",
-      "author": "Adewale Akinfaderin",
-      "content": "Learn how to run the full Amazon Bedrock Automated Reasoning policy lifecycle from your coding agent. A suite of open source Agent Skills builds, reviews, tests, debugs, deploys, and validates a custom policy end to end, turning a specialized console task into a repeatable engineering workflow.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8250000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-08T20:42:06.043294+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-08T20:42:06.043297+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e14ca2a9fec2ac0c303a34b84a5d5275",
-      "title": "LLM optimization integration for Amazon SageMaker Python SDK",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/llm-optimization-integration-for-amazon-sagemaker-python-sdk/",
-      "published_date": "2026-08-06T16:08:12+00:00",
-      "category": "Industry",
-      "description": "The Amazon SageMaker Python SDK v3 now exposes generative AI inference recommendations in Amazon SageMaker AI directly in your notebook. Benchmark an endpoint, generate data-driven deployment recommendations, and deploy the recommended configuration without leaving your notebook workflow.",
-      "author": "Dan Ferguson",
-      "content": "The Amazon SageMaker Python SDK v3 now exposes generative AI inference recommendations in Amazon SageMaker AI directly in your notebook. Benchmark an endpoint, generate data-driven deployment recommendations, and deploy the recommended configuration without leaving your notebook workflow.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8250000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-08T20:42:06.043427+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-08T20:42:06.043430+00:00"
+        "timestamp": "2026-08-09T02:11:10.323036+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 219.11010694503784,
+    "processing_time": 222.84555506706238,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 110,
+      "total_processed": 121,
       "candidates": {
         "headlines": 7,
-        "articles": 103,
+        "articles": 114,
         "research_papers": 0
       },
       "selected": {
