@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T16:46:46.873911+00:00",
+  "updated": "2026-08-09T20:44:19.132463+00:00",
   "top_stories": [
     {
       "article_id": "d7e7633011e66f5738bf0e5b22706956",
@@ -15,8 +15,8 @@
         "relevance_score": 0.9,
         "quality_score": 0.8,
         "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
+        "impact_score": 0.9,
+        "overall_score": 0.8250000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T16:46:46.845659+00:00"
+        "consensus_timestamp": "2026-08-09T20:44:19.103438+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,9 +59,71 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-09T16:46:46.845662+00:00"
+        "timestamp": "2026-08-09T20:44:19.103441+00:00"
       },
       "article_type": "headline"
+    },
+    {
+      "article_id": "06be4d41d3d77853668054daab5347d7",
+      "title": "Securing AI agents with temporal policies in Amazon Bedrock AgentCore",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/",
+      "published_date": "2026-08-06T18:57:55+00:00",
+      "category": "Industry",
+      "description": "Temporal policies in Amazon Bedrock AgentCore let you define stateful rules that evaluate authorization based on an agent's session history. Learn how to enforce workflow sequencing, prevent data fabrication, cap financial exposure, and require human approval for high-value actions.",
+      "author": "Sean Eichenberger",
+      "content": "Temporal policies in Amazon Bedrock AgentCore let you define stateful rules that evaluate authorization based on an agent's session history. Learn how to enforce workflow sequencing, prevent data fabrication, cap financial exposure, and require human approval for high-value actions.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.9225000000000001,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-09T20:44:19.101954+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-09T20:44:19.101957+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "bf66736cc256220802cf18d8adfba470",
@@ -110,7 +172,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T16:46:46.843385+00:00"
+        "consensus_timestamp": "2026-08-09T20:44:19.101078+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,26 +183,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-09T16:46:46.843388+00:00"
+        "timestamp": "2026-08-09T20:44:19.101081+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "6302b45cf7d357b2112b52a546f9d054",
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "published_date": "2026-08-06T00:00:00+00:00",
-      "category": "Industry",
-      "description": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+      "article_id": "43dc847663c714616ca296fea6ebf0b9",
+      "title": "Telecommunications Modernisation: Connectivity Timeline",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/guidance/telecommunications-modernisation-connectivity-timeline",
+      "published_date": "2026-07-29T11:59:18+00:00",
+      "category": "Government",
+      "description": "This connectivity timeline lists current dates for telecommunications modernisations supplied by network operators.",
       "author": "",
-      "content": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+      "content": "This connectivity timeline lists current dates for telecommunications modernisations supplied by network operators.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -172,7 +234,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T16:46:46.842982+00:00"
+        "consensus_timestamp": "2026-08-09T20:44:19.100542+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,104 +245,42 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-09T16:46:46.842985+00:00"
+        "timestamp": "2026-08-09T20:44:19.100545+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "cd55bc871339e9fc92f5f86b2e7db81a",
-      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-      "published_date": "2026-08-06T15:53:03+00:00",
+      "article_id": "2aaab4cdd07fd8aa5307f6db8706d065",
+      "title": "Beyond VLAs: How World Action Models Reshape Robot Manipulation",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation/",
+      "published_date": "2026-08-04T16:00:00+00:00",
       "category": "Industry",
-      "description": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
-      "author": "Amanda Silberling",
-      "content": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.895,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T16:46:46.846242+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-09T16:46:46.846244+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c8a85a1732f1c69e9565e9d0e7971862",
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "published_date": "2026-07-29T15:00:00+00:00",
-      "category": "Industry",
-      "description": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-      "author": "",
-      "content": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "description": "A central challenge in robotics is building policies that generalize beyond the demonstrations they’re trained on. A policy that succeeds in a training scene...",
+      "author": "Michelle Horton",
+      "content": "A central challenge in robotics is building policies that generalize beyond the demonstrations they’re trained on. A policy that succeeds in a training scene...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
         "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.95
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
           "fact_verification": {
             "verified_claims": [],
             "unverified_claims": [],
-            "fact_check_confidence": 0.7
+            "fact_check_confidence": 0.5
           },
           "bias_detection": {
             "bias_indicators": [],
-            "bias_detection_score": 0.3
+            "bias_detection_score": 0.5
           },
           "credibility_assessment": {
             "credibility_factors": [],
-            "credibility_score": 0.7
+            "credibility_score": 0.5
           },
           "impact_analysis": {
             "impact_areas": [],
@@ -292,22 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
+        "score": 0.9,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T16:46:46.843855+00:00"
+        "consensus_timestamp": "2026-08-09T20:44:19.104126+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-09T16:46:46.843858+00:00"
+        "timestamp": "2026-08-09T20:44:19.104129+00:00"
       },
       "article_type": "article"
     }
