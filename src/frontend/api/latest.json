@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-10T05:43:19.966869+00:00",
+  "generated_at": "2026-08-10T09:44:11.235232+00:00",
   "articles": [
     {
-      "article_id": "d7e7633011e66f5738bf0e5b22706956",
-      "title": "The AI safety test is becoming a safety risk",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "published_date": "2026-08-09T14:30:00+00:00",
+      "article_id": "b7459e54a4a4394ae62df99cf36d8a3c",
+      "title": "Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/",
+      "published_date": "2026-08-08T17:04:39+00:00",
       "category": "Industry",
-      "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
-      "author": "Rebecca Bellan",
-      "content": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      "description": "Pokee AI released Pokee-Isaac 28B, a 28B text-only foundation model with a 10M-token context window built to run inside the customer boundary. It scores 93.3% on RULER at 10M tokens, where every baseline in its comparison panel returns 0.0 beyond 2M, and leads BFCL v4 at 70.94 while placing second on Terminal-Bench 2.1. Prefill reaches 137,200 tokens/s at full context on a single B200, with decode flat near 335 tokens/s. Weights are not published; deployment is licensed into VPC, on-premises,...",
+      "author": "Michal Sutter",
+      "content": "Pokee AI released Pokee-Isaac 28B, a 28B text-only foundation model with a 10M-token context window built to run inside the customer boundary. It scores 93.3% on RULER at 10M tokens, where every baseline in its comparison panel returns 0.0 beyond 2M, and leads BFCL v4 at 70.94 while placing second on Terminal-Bench 2.1. Prefill reaches 137,200 tokens/s at full context on a single B200, with decode flat near 335 tokens/s. Weights are not published; deployment is licensed into VPC, on-premises,...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.89,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -24,15 +24,15 @@
           "fact_verification": {
             "verified_claims": [],
             "unverified_claims": [],
-            "fact_check_confidence": 0.7
+            "fact_check_confidence": 0.5
           },
           "bias_detection": {
             "bias_indicators": [],
-            "bias_detection_score": 0.3
+            "bias_detection_score": 0.5
           },
           "credibility_assessment": {
             "credibility_factors": [],
-            "credibility_score": 0.7
+            "credibility_score": 0.5
           },
           "impact_analysis": {
             "impact_areas": [],
@@ -44,42 +44,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-10T05:43:19.937391+00:00"
+        "consensus_timestamp": "2026-08-10T09:44:11.209925+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-10T05:43:19.937394+00:00"
+        "timestamp": "2026-08-10T09:44:11.209927+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "d5819745a8d2fff4c27946d726c18626",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "published_date": "2026-07-29T10:00:00+00:00",
+      "article_id": "06be4d41d3d77853668054daab5347d7",
+      "title": "Securing AI agents with temporal policies in Amazon Bedrock AgentCore",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/",
+      "published_date": "2026-08-06T18:57:55+00:00",
       "category": "Industry",
-      "description": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "author": "",
-      "content": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "description": "Temporal policies in Amazon Bedrock AgentCore let you define stateful rules that evaluate authorization based on an agent's session history. Learn how to enforce workflow sequencing, prevent data fabrication, cap financial exposure, and require human approval for high-value actions.",
+      "author": "Sean Eichenberger",
+      "content": "Temporal policies in Amazon Bedrock AgentCore let you define stateful rules that evaluate authorization based on an agent's session history. Learn how to enforce workflow sequencing, prevent data fabrication, cap financial exposure, and require human approval for high-value actions.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.9,
         "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.9
+        "overall_score": 0.9225000000000001,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +110,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-10T05:43:19.935660+00:00"
+        "consensus_timestamp": "2026-08-10T09:44:11.206889+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,20 +121,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-10T05:43:19.935663+00:00"
+        "timestamp": "2026-08-10T09:44:11.206892+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "dbcbf88b946a222a55e42a85419e34ee",
-      "title": "How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/",
-      "published_date": "2026-08-03T16:00:00+00:00",
+      "article_id": "7dcfb40b3b3d810556a9c616772354b0",
+      "title": "Obsidian Security raises $85M as AI agents create cybersecurity’s next major attack surface",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/08/04/obsidian-security-raises-85m-ai-agents-create-cybersecuritys-next-major-attack-surface/",
+      "published_date": "2026-08-04T16:52:02+00:00",
       "category": "Industry",
-      "description": "Running a dedicated Kubernetes cluster per team often results in more isolation than an organization requires. While one cluster can be successfully shared...",
-      "author": "Tanya Lenz",
-      "content": "Running a dedicated Kubernetes cluster per team often results in more isolation than an organization requires. While one cluster can be successfully shared...",
+      "description": "Obsidian Security Inc. has raised an $85 million Series D funding round at a post-money valuation of $1.1 billion as enterprises increasingly look to secure autonomous artificial intelligence agents accessing cloud applications, Chief Executive Hasan Imam said today in an exclusive interview with theCUBE with me at our NYSE Wired studio in NYC. The round […] The post Obsidian Security raises $85M as AI agents create cybersecurity’s next major attack surface appeared first on SiliconANGLE.",
+      "author": "John Furrier",
+      "content": "Obsidian Security Inc. has raised an $85 million Series D funding round at a post-money valuation of $1.1 billion as enterprises increasingly look to secure autonomous artificial intelligence agents accessing cloud applications, Chief Executive Hasan Imam said today in an exclusive interview with theCUBE with me at our NYSE Wired studio in NYC. The round […] The post Obsidian Security raises $85M as AI agents create cybersecurity’s next major attack surface appeared first on SiliconANGLE.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.92,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-10T09:44:11.210225+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.752,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-10T09:44:11.210228+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "308e6c41580834191551ce0d3eaec262",
+      "title": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/",
+      "published_date": "2026-08-04T15:00:00+00:00",
+      "category": "Industry",
+      "description": "Autonomous vehicle (AV) development often relies on separate models for trajectory generation, high-level intent prediction, scene understanding, and data...",
+      "author": "Elizabeth Goodman",
+      "content": "Autonomous vehicle (AV) development often relies on separate models for trajectory generation, high-level intent prediction, scene understanding, and data...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -172,7 +234,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-10T05:43:19.938300+00:00"
+        "consensus_timestamp": "2026-08-10T09:44:11.209001+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,20 +245,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-10T05:43:19.938303+00:00"
+        "timestamp": "2026-08-10T09:44:11.209003+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "7cb273a55a7db26f21e7f25242585c77",
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "article_id": "00add3aa6b4e6a2b49d6b16bf18f8c65",
+      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+      "published_date": "2026-08-06T15:10:32+00:00",
+      "category": "Industry",
+      "description": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly stolen information was properly protected.",
+      "author": "Sarah Perez",
+      "content": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly stolen information was properly protected.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-10T09:44:11.208742+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-10T09:44:11.208744+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8bd4ad2ec0c95d8234553b2e586353d3",
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
       "published_date": "2026-08-06T13:00:00+00:00",
       "category": "Industry",
-      "description": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
-      "author": "Lauren Forristal",
-      "content": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
+      "description": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+      "author": "Rebecca Bellan",
+      "content": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -234,7 +358,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-10T05:43:19.938118+00:00"
+        "consensus_timestamp": "2026-08-10T09:44:11.208873+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,7 +369,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-10T05:43:19.938121+00:00"
+        "timestamp": "2026-08-10T09:44:11.208875+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3b562177a492668fde28d6a23c57a645",
+      "title": "From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/",
+      "published_date": "2026-08-03T17:24:15+00:00",
+      "category": "Industry",
+      "description": "Formula 1® partnered with AWS to build the Data Accelerator, using agentic AI on Amazon Bedrock AgentCore to transform its MarTech data platform. Learn how F1 cut data source onboarding from up to 8 weeks to about 40 minutes, automated schema evolution, and gained end-to-end observability across its fan-engagement data estate.",
+      "author": "Subhro Bose",
+      "content": "Formula 1® partnered with AWS to build the Data Accelerator, using agentic AI on Amazon Bedrock AgentCore to transform its MarTech data platform. Learn how F1 cut data source onboarding from up to 8 weeks to about 40 minutes, automated schema evolution, and gained end-to-end observability across its fan-engagement data estate.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-10T09:44:11.207478+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-10T09:44:11.207480+00:00"
       },
       "article_type": "article"
     },
@@ -296,7 +482,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-10T05:43:19.938389+00:00"
+        "consensus_timestamp": "2026-08-10T09:44:11.209176+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,20 +493,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-10T05:43:19.938392+00:00"
+        "timestamp": "2026-08-10T09:44:11.209179+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "d3bbcf0c4ee3677b320e99ad896fe571",
-      "title": "Developing Healthcare Robotics with GPU-Native Medical Physics Simulation",
+      "article_id": "b76545e0535b89d9d89067d13cd09f73",
+      "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/",
-      "published_date": "2026-07-28T20:49:21+00:00",
+      "url": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/",
+      "published_date": "2026-07-27T16:00:00+00:00",
       "category": "Industry",
-      "description": "Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation....",
-      "author": "Michelle Horton",
-      "content": "Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation....",
+      "description": "NVIDIA Ising Calibration is an open source vision language model (VLM) designed to interpret diagnostic outputs from quantum processors and determine how they...",
+      "author": "Tanya Lenz",
+      "content": "NVIDIA Ising Calibration is an open source vision language model (VLM) designed to interpret diagnostic outputs from quantum processors and determine how they...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
@@ -334,15 +520,15 @@
           "fact_verification": {
             "verified_claims": [],
             "unverified_claims": [],
-            "fact_check_confidence": 0.7
+            "fact_check_confidence": 0.5
           },
           "bias_detection": {
             "bias_indicators": [],
-            "bias_detection_score": 0.3
+            "bias_detection_score": 0.5
           },
           "credibility_assessment": {
             "credibility_factors": [],
-            "credibility_score": 0.7
+            "credibility_score": 0.5
           },
           "impact_analysis": {
             "impact_areas": [],
@@ -354,35 +540,35 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-10T05:43:19.938671+00:00"
+        "consensus_timestamp": "2026-08-10T09:44:11.209463+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-10T05:43:19.938675+00:00"
+        "timestamp": "2026-08-10T09:44:11.209465+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "bb2fde3ad0f67e0a4d41bd98768d1216",
-      "title": "A new benchmark for evaluating patient-facing health AI agents",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/a-new-benchmark-for-evaluating-patient-facing-health-ai-agents",
-      "published_date": "2026-07-29T15:16:52+00:00",
+      "article_id": "0a842729933ab69b6989450b6366eb79",
+      "title": "White House invites AI companies to review its new AI safety framework",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/08/03/white-house-invites-ai-companies-review-new-ai-safety-framework/",
+      "published_date": "2026-08-03T23:41:12+00:00",
       "category": "Industry",
-      "description": "PatientAgentBench generates a synthetic patient health record, a realistic clinical vignette, and a patient agent that converses with the AI system under evaluation, to capture what a patient-facing agent actually has to do.",
-      "author": "",
-      "content": "PatientAgentBench generates a synthetic patient health record, a realistic clinical vignette, and a patient agent that converses with the AI system under evaluation, to capture what a patient-facing agent actually has to do.",
+      "description": "Cybersecurity chiefs at the White House have reportedly finalized the outline of a forthcoming framework that will enable artificial intelligence companies to voluntarily submit their latest frontier models to the government for testing, before they’re released to customers or the general public. The development follows recent disclosures by companies including Anthropic PBC and OpenAI PBC, […] The post White House invites AI companies to review its new AI safety framework appeared first on...",
+      "author": "Mike Wheatley",
+      "content": "Cybersecurity chiefs at the White House have reportedly finalized the outline of a forthcoming framework that will enable artificial intelligence companies to voluntarily submit their latest frontier models to the government for testing, before they’re released to customers or the general public. The development follows recent disclosures by companies including Anthropic PBC and OpenAI PBC, […] The post White House invites AI companies to review its new AI safety framework appeared first on...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
@@ -420,7 +606,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-10T05:43:19.939004+00:00"
+        "consensus_timestamp": "2026-08-10T09:44:11.210700+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -431,7 +617,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-10T05:43:19.939007+00:00"
+        "timestamp": "2026-08-10T09:44:11.210702+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3d58eb53660795bfce2fa98989cc37cd",
+      "title": "Build visibility for Codex on Amazon Bedrock with OpenTelemetry and Amazon CloudWatch",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-visibility-for-codex-on-amazon-bedrock-with-opentelemetry-and-amazon-cloudwatch/",
+      "published_date": "2026-08-06T16:30:47+00:00",
+      "category": "Industry",
+      "description": "As engineering teams adopt coding agents like Codex, leaders need visibility into adoption, consumption, and reliability. This post shows how to route Codex OpenTelemetry metrics through a local collector to Amazon CloudWatch for an AWS native view of usage by user, team, and cost center.",
+      "author": "Claudio Mazzoni",
+      "content": "As engineering teams adopt coding agents like Codex, leaders need visibility into adoption, consumption, and reliability. This post shows how to route Codex OpenTelemetry metrics through a local collector to Amazon CloudWatch for an AWS native view of usage by user, team, and cost center.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.85,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.9,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.96
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-10T09:44:11.207063+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-10T09:44:11.207065+00:00"
       },
       "article_type": "article"
     },
@@ -482,7 +730,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-10T05:43:19.937009+00:00"
+        "consensus_timestamp": "2026-08-10T09:44:11.207864+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -493,337 +741,89 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-10T05:43:19.937012+00:00"
+        "timestamp": "2026-08-10T09:44:11.207866+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "0719b54a8e65c0a7051349cfc94bb792",
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "published_date": "2026-08-06T17:34:42+00:00",
-      "category": "Industry",
-      "description": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-      "author": "Ivan Mehta",
-      "content": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-10T05:43:19.937887+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-10T05:43:19.937889+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "a0fd0f2f7ba443574b62dcca4bb9269e",
-      "title": "‘Spooky’ Particles Transit DC Suburbs, a Step Toward a Quantum Network",
-      "source": "nist_ai_news",
-      "url": "https://www.nist.gov/news-events/news/2026/08/spooky-particles-transit-dc-suburbs-step-toward-quantum-network",
-      "published_date": "2026-08-05T12:00:00+00:00",
-      "category": "Government",
-      "description": "The achievement shows that fragile quantum entanglement can survive even in tough, real-world conditions.",
-      "author": "Sarah Henderson",
-      "content": "The achievement shows that fragile quantum entanglement can survive even in tough, real-world conditions.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-10T05:43:19.933281+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-10T05:43:19.933286+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c8a85a1732f1c69e9565e9d0e7971862",
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "article_id": "d5819745a8d2fff4c27946d726c18626",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
       "source": "openai_blog",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "published_date": "2026-07-29T15:00:00+00:00",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "published_date": "2026-07-29T10:00:00+00:00",
       "category": "Industry",
-      "description": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "description": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
       "author": "",
-      "content": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "content": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.9,
-        "overall_score": 0.8500000000000001,
-        "confidence_mean": 0.85
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-10T05:43:19.935595+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-10T05:43:19.935604+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "4416bfcfc278683d53b062f339fce899",
-      "title": "Guidance: Switzerland: UK Science and Technology Network summary",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/uk-science-and-innovation-network-country-snapshot-switzerland",
-      "published_date": "2026-07-28T06:37:59+00:00",
-      "category": "Government",
-      "description": "A summary from UK Science and Innovation Network (SIN) on science and innovation in Switzerland including UK SIN priorities and successes.",
-      "author": "",
-      "content": "A summary from UK Science and Innovation Network (SIN) on science and innovation in Switzerland including UK SIN priorities and successes.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-10T05:43:19.934019+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-10T05:43:19.934022+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "43dc847663c714616ca296fea6ebf0b9",
-      "title": "Telecommunications Modernisation: Connectivity Timeline",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/guidance/telecommunications-modernisation-connectivity-timeline",
-      "published_date": "2026-07-29T11:59:18+00:00",
-      "category": "Government",
-      "description": "This connectivity timeline lists current dates for telecommunications modernisations supplied by network operators.",
-      "author": "",
-      "content": "This connectivity timeline lists current dates for telecommunications modernisations supplied by network operators.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8500000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-10T05:43:19.933820+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-10T05:43:19.933823+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "7459f908d1487d5d3546912025a38a90",
-      "title": "HappyRobot raises $150M at $1.2B valuation to bring AI agents to critical enterprise work",
-      "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2026/08/04/happyrobot-raises-150m-1-2b-valuation-bring-ai-agents-critical-enterprise-work/",
-      "published_date": "2026-08-04T15:30:20+00:00",
-      "category": "Industry",
-      "description": "HappyRobot Inc., a San Francisco-based artificial intelligence startup that automates enterprise operations, said today it raised $150 million, led by Prysm Capital and co-led by Eurazeo, bringing the company’s post-money valuation to $1.2 billion. Existing investors a16z, Base10, Y Combinator joined venture capital firms Koch Disruptive Technologies, Orange, T.Capital, Bankinter, Endeavor Catalyst, Kfund and Wave-X […] The post HappyRobot raises $150M at $1.2B valuation to bring AI agents to...",
-      "author": "Kyt Dotson",
-      "content": "HappyRobot Inc., a San Francisco-based artificial intelligence startup that automates enterprise operations, said today it raised $150 million, led by Prysm Capital and co-led by Eurazeo, bringing the company’s post-money valuation to $1.2 billion. Existing investors a16z, Base10, Y Combinator joined venture capital firms Koch Disruptive Technologies, Orange, T.Capital, Bankinter, Endeavor Catalyst, Kfund and Wave-X […] The post HappyRobot raises $150M at $1.2B valuation to bring AI agents to...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8500000000000001,
+        "overall_score": 0.8625000000000002,
         "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-10T09:44:11.206592+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-10T09:44:11.206594+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "bb2fde3ad0f67e0a4d41bd98768d1216",
+      "title": "A new benchmark for evaluating patient-facing health AI agents",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/a-new-benchmark-for-evaluating-patient-facing-health-ai-agents",
+      "published_date": "2026-07-29T15:16:52+00:00",
+      "category": "Industry",
+      "description": "PatientAgentBench generates a synthetic patient health record, a realistic clinical vignette, and a patient agent that converses with the AI system under evaluation, to capture what a patient-facing agent actually has to do.",
+      "author": "",
+      "content": "PatientAgentBench generates a synthetic patient health record, a realistic clinical vignette, and a patient agent that converses with the AI system under evaluation, to capture what a patient-facing agent actually has to do.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -850,42 +850,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-10T05:43:19.939898+00:00"
+        "consensus_timestamp": "2026-08-10T09:44:11.209673+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-10T05:43:19.939901+00:00"
+        "timestamp": "2026-08-10T09:44:11.209675+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "a83dc1ec99b049dcfea62ae6c15fdaa6",
-      "title": "AMD’s AI engine shifts into higher gear as data center revenue more than doubles, Helios ramps & market is confused",
-      "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2026/08/04/amds-ai-engine-shifts-higher-gear-data-center-revenue-doubles-helios-ramps-market-confused/",
-      "published_date": "2026-08-04T23:33:28+00:00",
+      "article_id": "917c0aafe0de8a545753b72d37232890",
+      "title": "Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/",
+      "published_date": "2026-08-09T18:15:30+00:00",
       "category": "Industry",
-      "description": "Advanced Micro Devices Inc. delivered another strong quarter Tuesday, beating Wall Street expectations as its artificial intelligence infrastructure business continued its rapid expansion. The company posted 107% year-over-year growth in data center revenue, reinforcing that AMD is becoming a formidable challenger in the race to power enterprise AI. The Santa Clara, California-based chipmaker reported second-quarter […] The post AMD’s AI engine shifts into higher gear as data center revenue...",
-      "author": "John Furrier",
-      "content": "Advanced Micro Devices Inc. delivered another strong quarter Tuesday, beating Wall Street expectations as its artificial intelligence infrastructure business continued its rapid expansion. The company posted 107% year-over-year growth in data center revenue, reinforcing that AMD is becoming a formidable challenger in the race to power enterprise AI. The Santa Clara, California-based chipmaker reported second-quarter […] The post AMD’s AI engine shifts into higher gear as data center revenue...",
+      "description": "A verified 2026 comparison of LLM observability platforms covering tracing depth, evaluation capability, production monitoring, and pricing. The post Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared appeared first on MarkTechPost.",
+      "author": "Asif Razzaq",
+      "content": "A verified 2026 comparison of LLM observability platforms covering tracing depth, evaluation capability, production monitoring, and pricing. The post Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared appeared first on MarkTechPost.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.6,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8125000000000001,
-        "confidence_mean": 0.95
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -913,21 +913,21 @@
           }
         },
         "score": 0.85,
-        "confidence": 0.8,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-10T05:43:19.939691+00:00"
+        "consensus_timestamp": "2026-08-10T09:44:11.209798+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.71,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-10T05:43:19.939693+00:00"
+        "timestamp": "2026-08-10T09:44:11.209800+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 264.85833525657654,
+    "processing_time": 235.47605919837952,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 129,
+      "total_processed": 133,
       "candidates": {
-        "headlines": 7,
-        "articles": 122,
+        "headlines": 5,
+        "articles": 128,
         "research_papers": 0
       },
       "selected": {
