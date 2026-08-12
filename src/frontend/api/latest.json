@@ -1,84 +1,22 @@
 {
-  "generated_at": "2026-08-12T13:26:31.060144+00:00",
+  "generated_at": "2026-08-12T17:06:57.689368+00:00",
   "articles": [
     {
-      "article_id": "995b7855621fa6930ed58366ea9203f7",
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-      "published_date": "2026-08-11T17:41:22+00:00",
+      "article_id": "dbd41237f1f52e1a43b1b48d942e22a6",
+      "title": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/",
+      "published_date": "2026-08-12T06:59:40+00:00",
       "category": "Industry",
-      "description": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-      "author": "Julie Bort",
-      "content": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.9435,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-12T13:26:31.020256+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-12T13:26:31.020259+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "444f428f2bcc0dd2c286351cc168f1f5",
-      "title": "How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails/",
-      "published_date": "2026-07-29T16:46:45+00:00",
-      "category": "Industry",
-      "description": "Deploying an AI coding assistant in a regulated, sovereign, or source-sensitive environment, often comes with challenges. Three common issues are: the source...",
-      "author": "Tanya Lenz",
-      "content": "Deploying an AI coding assistant in a regulated, sovereign, or source-sensitive environment, often comes with challenges. Three common issues are: the source...",
+      "description": "NVIDIA's open 30B MoE targets the agent execution layer, with Switchyard routing each step to the cheapest capable model. The post NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router appeared first on MarkTechPost.",
+      "author": "Asif Razzaq",
+      "content": "NVIDIA's open 30B MoE targets the agent execution layer, with Switchyard routing each step to the cheapest capable model. The post NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router appeared first on MarkTechPost.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.99,
-        "overall_score": 0.9079999999999999,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.931,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -106,165 +44,103 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-12T13:26:31.021566+00:00"
+        "consensus_timestamp": "2026-08-12T17:06:57.646980+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-12T17:06:57.646983+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "0331252b100316d8154deb33e505516e",
+      "title": "Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/",
+      "published_date": "2026-08-10T15:11:51+00:00",
+      "category": "Industry",
+      "description": "Meta's Muse Glimmer is a 30B open-weights agentic model under Apache 2.0. It fits 24 GB VRAM and decodes 3.1x faster with DFlash speculation. The post Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU appeared first on MarkTechPost.",
+      "author": "Asif Razzaq",
+      "content": "Meta's Muse Glimmer is a 30B open-weights agentic model under Apache 2.0. It fits 24 GB VRAM and decodes 3.1x faster with DFlash speculation. The post Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU appeared first on MarkTechPost.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.925,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-12T17:06:57.648088+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-12T13:26:31.021569+00:00"
+        "timestamp": "2026-08-12T17:06:57.648091+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "927f7ece4fcf49cdd177a69def018e60",
-      "title": "Apple is getting this wrong",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "published_date": "2026-08-03T22:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-      "author": "",
-      "content": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-12T13:26:31.018386+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-12T13:26:31.018389+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "f8521247c349d7fd8d2948930022b6b5",
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "published_date": "2026-08-06T06:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-      "author": "",
-      "content": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-12T13:26:31.018240+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-12T13:26:31.018243+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "75a76441a05812b30b91418e2fef8a19",
-      "title": "NVIDIA JetPack 7.2.1 Adds Agentic Video Skills and T3000 Emulation",
+      "article_id": "e3f155a13ab6886cf75c68b726f1f0e1",
+      "title": "NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation/",
-      "published_date": "2026-08-11T19:00:00+00:00",
+      "url": "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek/",
+      "published_date": "2026-07-31T15:13:02+00:00",
       "category": "Industry",
-      "description": "Video is a core data path across NVIDIA Jetson applications, from robotics and intelligent video analytics to industrial automation, healthcare, media...",
+      "description": "The demand for high-quality video continues to accelerate across industries, powering everything from immersive streaming experiences to remote collaboration,...",
       "author": "Elizabeth Goodman",
-      "content": "Video is a core data path across NVIDIA Jetson applications, from robotics and intelligent video analytics to industrial automation, healthcare, media...",
+      "content": "The demand for high-quality video continues to accelerate across industries, powering everything from immersive streaming experiences to remote collaboration,...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -296,7 +172,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-12T13:26:31.020897+00:00"
+        "consensus_timestamp": "2026-08-12T17:06:57.646379+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,88 +183,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-12T13:26:31.020900+00:00"
+        "timestamp": "2026-08-12T17:06:57.646382+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "a0fd0f2f7ba443574b62dcca4bb9269e",
-      "title": "‘Spooky’ Particles Transit DC Suburbs, a Step Toward a Quantum Network",
-      "source": "nist_ai_news",
-      "url": "https://www.nist.gov/news-events/news/2026/08/spooky-particles-transit-dc-suburbs-step-toward-quantum-network",
-      "published_date": "2026-08-05T12:00:00+00:00",
-      "category": "Government",
-      "description": "The achievement shows that fragile quantum entanglement can survive even in tough, real-world conditions.",
-      "author": "Sarah Henderson",
-      "content": "The achievement shows that fragile quantum entanglement can survive even in tough, real-world conditions.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.95,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-12T13:26:31.016761+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-12T13:26:31.016766+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "63b133ebb6356757a0e7da0230e5be19",
-      "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
-      "published_date": "2026-08-04T16:00:56+00:00",
+      "article_id": "1464256169e93aa85aab6e75598c4674",
+      "title": "How to Choose Full-Stack Observability for NVIDIA AI Factories",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories/",
+      "published_date": "2026-08-12T16:13:47+00:00",
       "category": "Industry",
-      "description": "NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expertise needed for AI-enabled research and education. Consistent with the aims of the Genesis Mission, the program will support state and multistate groups […]",
-      "author": "John Josephakis",
-      "content": "NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expertise needed for AI-enabled research and education. Consistent with the aims of the Genesis Mission, the program will support state and multistate groups […]",
+      "description": "AI infrastructure spans multiple layers, from compute and networking to storage, orchestration, and applications. When performance degrades, identifying the...",
+      "author": "Jorge Cardoso",
+      "content": "AI infrastructure spans multiple layers, from compute and networking to storage, orchestration, and applications. When performance degrades, identifying the...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.75,
-        "impact_score": 0.98,
-        "overall_score": 0.881,
+        "impact_score": 0.95,
+        "overall_score": 0.875,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -420,7 +234,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-12T13:26:31.019831+00:00"
+        "consensus_timestamp": "2026-08-12T17:06:57.646097+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -431,82 +245,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-12T13:26:31.019834+00:00"
+        "timestamp": "2026-08-12T17:06:57.646100+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "37c36871caceb2381cefc8f5d446b811",
-      "title": "It’s about time for quantum manufacturing",
-      "source": "darpa_ai_research",
-      "url": "https://www.darpa.mil/news/2026/its-about-time",
-      "published_date": "2026-08-05T19:48:55+00:00",
-      "category": "Government",
-      "description": "Piloting a pipeline to build and integrate optical clocks at scale.",
-      "author": "outreach@darpa.mil",
-      "content": "Piloting a pipeline to build and integrate optical clocks at scale.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.8875000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-12T13:26:31.016971+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-12T13:26:31.016978+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "664ae819447917f9fb3171e244960623",
-      "title": "Responding to the next frontier of critical cyber capabilities",
+      "article_id": "dcfc7fd1c2ed2ace07849c251782b4ab",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
       "source": "openai_blog",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "published_date": "2026-08-07T15:20:00+00:00",
+      "url": "https://openai.com/index/zapier",
+      "published_date": "2026-08-10T00:00:00+00:00",
       "category": "Industry",
-      "description": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "description": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
       "author": "",
-      "content": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "content": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -544,7 +296,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-12T13:26:31.018012+00:00"
+        "consensus_timestamp": "2026-08-12T17:06:57.643095+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -555,26 +307,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-12T13:26:31.018020+00:00"
+        "timestamp": "2026-08-12T17:06:57.643099+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "afdd9b67df53cbf248ad8322f1ec61fb",
-      "title": "Premium seats are coming to ChatGPT Business",
+      "article_id": "49597d1ac303256a2a29631475cd932b",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "source": "openai_blog",
-      "url": "https://openai.com/index/premium-seats-chatgpt-business",
-      "published_date": "2026-08-10T00:00:00+00:00",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "published_date": "2026-08-07T09:00:00+00:00",
       "category": "Industry",
-      "description": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+      "description": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
       "author": "",
-      "content": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+      "content": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -606,7 +358,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-12T13:26:31.017833+00:00"
+        "consensus_timestamp": "2026-08-12T17:06:57.643304+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -617,20 +369,206 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-12T13:26:31.017839+00:00"
+        "timestamp": "2026-08-12T17:06:57.643307+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3656f48686b7932897492a94b6b66a1c",
-      "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
-      "published_date": "2026-08-12T00:38:21+00:00",
+      "article_id": "4a2c89052b8bbc1d3c55f74615dee7dc",
+      "title": "AWS Trainium Frontier competition: Co-design models and kernels on purpose-built AI chips",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/news/aws-trainium-frontier-competition-co-design-models-and-kernels-on-purpose-built-ai-chips",
+      "published_date": "2026-08-10T20:23:04+00:00",
       "category": "Industry",
-      "description": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time. This is a major milestone for NVIDIA and the AI industry. We have moved from an era in which companies […]",
-      "author": "Jensen Huang",
-      "content": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time. This is a major milestone for NVIDIA and the AI industry. We have moved from an era in which companies […]",
+      "description": "A competition with a finalist ceremony during NeurIPS 2026, challenging researchers to train language models from scratch on Trainium, exploring what optimal architectures look like when the hardware changes.",
+      "author": "",
+      "content": "A competition with a finalist ceremony during NeurIPS 2026, challenging researchers to train language models from scratch on Trainium, exploring what optimal architectures look like when the hardware changes.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-12T17:06:57.646840+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-12T17:06:57.646843+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "0304a8e8fed7242075bc25d05bd92938",
+      "title": "HPE, EigenQ push practical path to post-quantum security",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/08/09/quantum-security-blackhat/",
+      "published_date": "2026-08-09T22:53:41+00:00",
+      "category": "Industry",
+      "description": "As quantum computing advances and regulatory timelines tighten, organizations are under growing pressure to prepare their infrastructure for post-quantum cryptography. Rather than replacing entire technology estates, enterprises are looking to retrofit existing systems while building longer-term quantum security roadmaps. Hewlett Packard Enterprise Co. and EigenQ Inc. are working through the channel to address the needs of […] The post HPE, EigenQ push practical path to post-quantum security...",
+      "author": "Ryan Stevens",
+      "content": "As quantum computing advances and regulatory timelines tighten, organizations are under growing pressure to prepare their infrastructure for post-quantum cryptography. Rather than replacing entire technology estates, enterprises are looking to retrofit existing systems while building longer-term quantum security roadmaps. Hewlett Packard Enterprise Co. and EigenQ Inc. are working through the channel to address the needs of […] The post HPE, EigenQ push practical path to post-quantum security...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.92,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-12T17:06:57.649156+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.752,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-12T17:06:57.649159+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "917c0aafe0de8a545753b72d37232890",
+      "title": "Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/",
+      "published_date": "2026-08-09T18:15:30+00:00",
+      "category": "Industry",
+      "description": "A verified 2026 comparison of LLM observability platforms covering tracing depth, evaluation capability, production monitoring, and pricing. The post Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared appeared first on MarkTechPost.",
+      "author": "Asif Razzaq",
+      "content": "A verified 2026 comparison of LLM observability platforms covering tracing depth, evaluation capability, production monitoring, and pricing. The post Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared appeared first on MarkTechPost.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-12T17:06:57.648232+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-12T17:06:57.648235+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "bf66736cc256220802cf18d8adfba470",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "published_date": "2026-08-03T07:00:00+00:00",
+      "category": "Industry",
+      "description": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "author": "",
+      "content": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -668,7 +606,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-12T13:26:31.019434+00:00"
+        "consensus_timestamp": "2026-08-12T17:06:57.643587+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,20 +617,206 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-12T13:26:31.019436+00:00"
+        "timestamp": "2026-08-12T17:06:57.643590+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "857a4bfeb42aea2b19ee031a5c26307e",
-      "title": "Daybreak models are now available on AWS",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "published_date": "2026-08-11T10:00:00+00:00",
+      "article_id": "5345c3156496f2bab261ba45f83e119c",
+      "title": "Cyber resilience takes center stage as AI reshapes the CISO role",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/08/10/ciso-role-evolution-black-hat-2026-blackhat/",
+      "published_date": "2026-08-10T19:56:07+00:00",
       "category": "Industry",
-      "description": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "description": "CISO role evolution is accelerating as cyber resilience becomes a defining benchmark of security success. As AI reshapes the threat landscape, enterprises are focusing not only on defending against attacks, but also on how quickly they can recover from them. The stakes are steep: New research found the average cost of one hour of endpoint downtime […] The post Cyber resilience takes center stage as AI reshapes the CISO role appeared first on SiliconANGLE.",
+      "author": "Kelly Knight",
+      "content": "CISO role evolution is accelerating as cyber resilience becomes a defining benchmark of security success. As AI reshapes the threat landscape, enterprises are focusing not only on defending against attacks, but also on how quickly they can recover from them. The stakes are steep: New research found the average cost of one hour of endpoint downtime […] The post Cyber resilience takes center stage as AI reshapes the CISO role appeared first on SiliconANGLE.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.9,
+        "overall_score": 0.8500000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-12T17:06:57.648926+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-12T17:06:57.648928+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a0fd0f2f7ba443574b62dcca4bb9269e",
+      "title": "‘Spooky’ Particles Transit DC Suburbs, a Step Toward a Quantum Network",
+      "source": "nist_ai_news",
+      "url": "https://www.nist.gov/news-events/news/2026/08/spooky-particles-transit-dc-suburbs-step-toward-quantum-network",
+      "published_date": "2026-08-05T12:00:00+00:00",
+      "category": "Government",
+      "description": "The achievement shows that fragile quantum entanglement can survive even in tough, real-world conditions.",
+      "author": "Sarah Henderson",
+      "content": "The achievement shows that fragile quantum entanglement can survive even in tough, real-world conditions.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.85,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-12T17:06:57.642270+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-12T17:06:57.642275+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3656f48686b7932897492a94b6b66a1c",
+      "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
+      "published_date": "2026-08-12T00:38:21+00:00",
+      "category": "Industry",
+      "description": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time. This is a major milestone for NVIDIA and the AI industry. We have moved from an era in which companies […]",
+      "author": "Jensen Huang",
+      "content": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time. This is a major milestone for NVIDIA and the AI industry. We have moved from an era in which companies […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-12T17:06:57.644668+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-12T17:06:57.644671+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "25e7c6fe94705e32e5227aa07deb4cd9",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/model-ml",
+      "published_date": "2026-08-10T12:00:00+00:00",
+      "category": "Industry",
+      "description": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
       "author": "",
-      "content": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "content": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
@@ -730,7 +854,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-12T13:26:31.017367+00:00"
+        "consensus_timestamp": "2026-08-12T17:06:57.642856+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -741,26 +865,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-12T13:26:31.017370+00:00"
+        "timestamp": "2026-08-12T17:06:57.642859+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "e3cd2a868987401ae56830204130439a",
-      "title": "What building an AI-native finance function taught me",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "published_date": "2026-08-10T17:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-      "author": "",
-      "content": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+      "article_id": "37c36871caceb2381cefc8f5d446b811",
+      "title": "It’s about time for quantum manufacturing",
+      "source": "darpa_ai_research",
+      "url": "https://www.darpa.mil/news/2026/its-about-time",
+      "published_date": "2026-08-05T19:48:55+00:00",
+      "category": "Government",
+      "description": "Piloting a pipeline to build and integrate optical clocks at scale.",
+      "author": "outreach@darpa.mil",
+      "content": "Piloting a pipeline to build and integrate optical clocks at scale.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.8,
-        "novelty_score": 0.7,
+        "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.835,
+        "overall_score": 0.8600000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -792,7 +916,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-12T13:26:31.017510+00:00"
+        "consensus_timestamp": "2026-08-12T17:06:57.642450+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,131 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-12T13:26:31.017514+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e14ca2a9fec2ac0c303a34b84a5d5275",
-      "title": "LLM optimization integration for Amazon SageMaker Python SDK",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/llm-optimization-integration-for-amazon-sagemaker-python-sdk/",
-      "published_date": "2026-08-06T16:08:12+00:00",
-      "category": "Industry",
-      "description": "The Amazon SageMaker Python SDK v3 now exposes generative AI inference recommendations in Amazon SageMaker AI directly in your notebook. Benchmark an endpoint, generate data-driven deployment recommendations, and deploy the recommended configuration without leaving your notebook workflow.",
-      "author": "Dan Ferguson",
-      "content": "The Amazon SageMaker Python SDK v3 now exposes generative AI inference recommendations in Amazon SageMaker AI directly in your notebook. Benchmark an endpoint, generate data-driven deployment recommendations, and deploy the recommended configuration without leaving your notebook workflow.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-12T13:26:31.019251+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-12T13:26:31.019254+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d3114f465d9d9f04a1c554a40e44dab3",
-      "title": "GeForce NOW Shakes Up August With 26 New Games",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/",
-      "published_date": "2026-08-06T13:00:11+00:00",
-      "category": "Industry",
-      "description": "August is here, bringing 26 new games for GeForce NOW members. Command the seas in World of Warships: Legends and discover what’s next in the GeForce NOW library, starting with the eight newly added games this week. In addition, GeForce NOW is at the QuakeCon gaming conference this week in Grapevine, Texas, with hands-on experiences […]",
-      "author": "GeForce NOW Community",
-      "content": "August is here, bringing 26 new games for GeForce NOW members. Command the seas in World of Warships: Legends and discover what’s next in the GeForce NOW library, starting with the eight newly added games this week. In addition, GeForce NOW is at the QuakeCon gaming conference this week in Grapevine, Texas, with hands-on experiences […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-12T13:26:31.019659+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-12T13:26:31.019662+00:00"
+        "timestamp": "2026-08-12T17:06:57.642454+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 236.52707648277283,
+    "processing_time": 263.98219537734985,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 126,
+      "total_processed": 122,
       "candidates": {
-        "headlines": 18,
-        "articles": 108,
+        "headlines": 16,
+        "articles": 106,
         "research_papers": 0
       },
       "selected": {
