@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T17:04:06.878394+00:00",
+  "updated": "2026-08-14T20:42:20.427763+00:00",
   "top_stories": [
     {
       "article_id": "746937c5c2e42d733890434e1746b54e",
@@ -13,11 +13,11 @@
       "content": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.98
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -48,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-14T17:04:06.839740+00:00"
+        "consensus_timestamp": "2026-08-14T20:42:20.391650+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,82 +59,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-14T17:04:06.839742+00:00"
+        "timestamp": "2026-08-14T20:42:20.391652+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "75a76441a05812b30b91418e2fef8a19",
-      "title": "NVIDIA JetPack 7.2.1 Adds Agentic Video Skills and T3000 Emulation",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation/",
-      "published_date": "2026-08-11T19:00:00+00:00",
+      "article_id": "1fdc448b909a03a319f6ccd0e8827edd",
+      "title": "As AI Increases Demands on Memory, Storage Steps Up",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/ai-storage-fms/",
+      "published_date": "2026-08-04T15:00:47+00:00",
       "category": "Industry",
-      "description": "Video is a core data path across NVIDIA Jetson applications, from robotics and intelligent video analytics to industrial automation, healthcare, media...",
-      "author": "Elizabeth Goodman",
-      "content": "Video is a core data path across NVIDIA Jetson applications, from robotics and intelligent video analytics to industrial automation, healthcare, media...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.9,
-        "overall_score": 0.9025000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-14T17:04:06.840437+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-14T17:04:06.840440+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "5aa49eee6545ad50fcd89702cd899d26",
-      "title": "Putting sign language AI into users’ hands",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "published_date": "2026-08-12T14:01:59+00:00",
-      "category": "Industry",
-      "description": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-      "author": "",
-      "content": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+      "description": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory. But rising needs aren’t met by simply adding more storage capacity. What’s needed is useful, grounded insights from AI factories and efficient, secure storage architectures that enable those insights. At this week’s Future of […]",
+      "author": "Jason Hardy",
+      "content": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory. But rising needs aren’t met by simply adding more storage capacity. What’s needed is useful, grounded insights from AI factories and efficient, secure storage architectures that enable those insights. At this week’s Future of […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
@@ -148,15 +86,15 @@
           "fact_verification": {
             "verified_claims": [],
             "unverified_claims": [],
-            "fact_check_confidence": 0.5
+            "fact_check_confidence": 0.7
           },
           "bias_detection": {
             "bias_indicators": [],
-            "bias_detection_score": 0.5
+            "bias_detection_score": 0.3
           },
           "credibility_assessment": {
             "credibility_factors": [],
-            "credibility_score": 0.5
+            "credibility_score": 0.7
           },
           "impact_analysis": {
             "impact_areas": [],
@@ -168,22 +106,146 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-14T17:04:06.841866+00:00"
+        "consensus_timestamp": "2026-08-14T20:42:20.391267+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-14T17:04:06.841868+00:00"
+        "timestamp": "2026-08-14T20:42:20.391270+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "69376d0ead24af18ad339e08e8ca084c",
+      "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
+      "published_date": "2026-08-12T14:00:00+00:00",
+      "category": "Industry",
+      "description": "NVIDIA founder and CEO Jensen Huang is ranked No. 1 on Glassdoor’s Best CEOs list for 2026. In the just-released ranking, recognition is earned directly from the people who know their leadership the best — employees. Huang topped the list, with 99% of employees approving of the job he does. “As AI and shifting expectations […]",
+      "author": "Febe Punsalan",
+      "content": "NVIDIA founder and CEO Jensen Huang is ranked No. 1 on Glassdoor’s Best CEOs list for 2026. In the just-released ranking, recognition is earned directly from the people who know their leadership the best — employees. Huang topped the list, with 99% of employees approving of the job he does. “As AI and shifting expectations […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8775000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-14T20:42:20.390760+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-14T20:42:20.390762+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "d3114f465d9d9f04a1c554a40e44dab3",
+      "title": "GeForce NOW Shakes Up August With 26 New Games",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/",
+      "published_date": "2026-08-06T13:00:11+00:00",
+      "category": "Industry",
+      "description": "August is here, bringing 26 new games for GeForce NOW members. Command the seas in World of Warships: Legends and discover what’s next in the GeForce NOW library, starting with the eight newly added games this week. In addition, GeForce NOW is at the QuakeCon gaming conference this week in Grapevine, Texas, with hands-on experiences […]",
+      "author": "GeForce NOW Community",
+      "content": "August is here, bringing 26 new games for GeForce NOW members. Command the seas in World of Warships: Legends and discover what’s next in the GeForce NOW library, starting with the eight newly added games this week. In addition, GeForce NOW is at the QuakeCon gaming conference this week in Grapevine, Texas, with hands-on experiences […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8775000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-14T20:42:20.391015+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-14T20:42:20.391018+00:00"
       },
       "article_type": "article"
     },
@@ -200,9 +262,9 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "novelty_score": 0.75,
         "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "overall_score": 0.8600000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -234,7 +296,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-14T17:04:06.837680+00:00"
+        "consensus_timestamp": "2026-08-14T20:42:20.389593+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,69 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-14T17:04:06.837682+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "bb43badabaec1015c674b2fd44e18e22",
-      "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
-      "published_date": "2026-08-04T13:00:47+00:00",
-      "category": "Industry",
-      "description": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The Linux Foundation today shared a Request for Comments on Shared AI Findings Exchange (SAFE), a proposed set of guidelines […]",
-      "author": "Justin Boitano",
-      "content": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The Linux Foundation today shared a Request for Comments on Shared AI Findings Exchange (SAFE), a proposed set of guidelines […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-14T17:04:06.839390+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-14T17:04:06.839392+00:00"
+        "timestamp": "2026-08-14T20:42:20.389595+00:00"
       },
       "article_type": "article"
     }
