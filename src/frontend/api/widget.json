@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T01:40:31.893914+00:00",
+  "updated": "2026-08-15T04:41:40.811825+00:00",
   "top_stories": [
     {
       "article_id": "746937c5c2e42d733890434e1746b54e",
@@ -13,10 +13,10 @@
       "content": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.8935,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-15T01:40:31.862754+00:00"
+        "consensus_timestamp": "2026-08-15T04:41:40.779579+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,213 +59,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-15T01:40:31.862756+00:00"
+        "timestamp": "2026-08-15T04:41:40.779582+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "5aa49eee6545ad50fcd89702cd899d26",
-      "title": "Putting sign language AI into users’ hands",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "published_date": "2026-08-12T14:01:59+00:00",
-      "category": "Industry",
-      "description": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-      "author": "",
-      "content": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-15T01:40:31.863733+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-15T01:40:31.863736+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e655894c8230b6143d952a56f0087813",
-      "title": "6 mistakes AI leaders keep   making with agentic deployments",
-      "source": "ai_accelerator_institute",
-      "url": "https://www.aiacceleratorinstitute.com/6-mistakes-ai-leaders-keep-making-with-agentic-deployments/",
-      "published_date": "2026-08-10T16:04:52+00:00",
-      "category": "Industry",
-      "description": "Agentic AI moved from slide deck to production system faster than most governance committees could schedule a meeting about it. That speed feels thrilling right up until an agent with real credentials makes a judgment call at 2am, and the room realizes the guardrails were still a work in progress…",
-      "author": "Andrew Lovell",
-      "content": "Agentic AI moved from slide deck to production system faster than most governance committees could schedule a meeting about it. That speed feels thrilling right up until an agent with real credentials makes a judgment call at 2am, and the room realizes the guardrails were still a work in progress…",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-15T01:40:31.865104+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-15T01:40:31.865107+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "75a76441a05812b30b91418e2fef8a19",
-      "title": "NVIDIA JetPack 7.2.1 Adds Agentic Video Skills and T3000 Emulation",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation/",
-      "published_date": "2026-08-11T19:00:00+00:00",
-      "category": "Industry",
-      "description": "Video is a core data path across NVIDIA Jetson applications, from robotics and intelligent video analytics to industrial automation, healthcare, media...",
-      "author": "Elizabeth Goodman",
-      "content": "Video is a core data path across NVIDIA Jetson applications, from robotics and intelligent video analytics to industrial automation, healthcare, media...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.9099999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-15T01:40:31.863416+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-15T01:40:31.863419+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "1172598f0720e3a6d69d44e2d3a793b5",
-      "title": "CodeRabbit bags $143M to help companies get a grip on the explosion of AI-generated code",
+      "article_id": "bb36780dbe3238cf860d51a309a14563",
+      "title": "Multi-tier storage rewrites the economics of AI inference",
       "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2026/08/12/coderabbit-bags-143m-help-companies-get-grip-explosion-ai-generated-code/",
-      "published_date": "2026-08-12T13:00:46+00:00",
+      "url": "https://siliconangle.com/2026/08/11/multi-tier-storage-solutions-optimize-ai-supermicroopenstoragesummit/",
+      "published_date": "2026-08-11T18:36:46+00:00",
       "category": "Industry",
-      "description": "CodeRabbit Inc., the creator of a popular tool that automatically reviews artificial intelligence-generated code, is becoming more ambitious after closing on its latest $143 million Series C round of funding. Alongside the round, it announced the launch of a new Agentic Change Management layer that’s meant to help companies govern, evaluate and prioritize code changes […] The post CodeRabbit bags $143M to help companies get a grip on the explosion of AI-generated code appeared first on...",
-      "author": "Mike Wheatley",
-      "content": "CodeRabbit Inc., the creator of a popular tool that automatically reviews artificial intelligence-generated code, is becoming more ambitious after closing on its latest $143 million Series C round of funding. Alongside the round, it announced the launch of a new Agentic Change Management layer that’s meant to help companies govern, evaluate and prioritize code changes […] The post CodeRabbit bags $143M to help companies get a grip on the explosion of AI-generated code appeared first on...",
+      "description": "As inference becomes the dominant workload in AI infrastructure, multi-tier storage architectures are emerging as a key method for cost control and enhanced performance. These architectures combine flash, object storage and disk-based capacity tiers, enabling enterprises to serve training and inference workflows while maximizing GPU productivity and economic savings. Super Micro Computer Inc. has collaborated […] The post Multi-tier storage rewrites the economics of AI inference appeared first...",
+      "author": "Mark Albertson",
+      "content": "As inference becomes the dominant workload in AI infrastructure, multi-tier storage architectures are emerging as a key method for cost control and enhanced performance. These architectures combine flash, object storage and disk-based capacity tiers, enabling enterprises to serve training and inference workflows while maximizing GPU productivity and economic savings. Super Micro Computer Inc. has collaborated […] The post Multi-tier storage rewrites the economics of AI inference appeared first...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
-        "confidence_mean": 0.95
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -296,7 +110,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-15T01:40:31.864333+00:00"
+        "consensus_timestamp": "2026-08-15T04:41:40.781617+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +121,193 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-15T01:40:31.864335+00:00"
+        "timestamp": "2026-08-15T04:41:40.781619+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "1bb5da35560fec8858812d95b893ac52",
+      "title": "The builder’s guide to GPT‑5.6",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "published_date": "2026-08-13T11:00:00+00:00",
+      "category": "Industry",
+      "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "author": "",
+      "content": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-15T04:41:40.776580+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-15T04:41:40.776584+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "264622fae50de095cd28f1bea812058d",
+      "title": "Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/",
+      "published_date": "2026-08-11T21:38:06+00:00",
+      "category": "Industry",
+      "description": "Daybreak Red and Daybreak Blue from OpenAI, specialized cyber defense models from OpenAI, are now available on Amazon Bedrock to eligible customers. Both models run with zero-operator access enforced at the chip, keeping your code and vulnerability data secure.",
+      "author": "Tanvi Girinath",
+      "content": "Daybreak Red and Daybreak Blue from OpenAI, specialized cyber defense models from OpenAI, are now available on Amazon Bedrock to eligible customers. Both models run with zero-operator access enforced at the chip, keeping your code and vulnerability data secure.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-15T04:41:40.778118+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-15T04:41:40.778121+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "664ae819447917f9fb3171e244960623",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "published_date": "2026-08-07T15:20:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "author": "",
+      "content": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-15T04:41:40.777237+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-15T04:41:40.777240+00:00"
       },
       "article_type": "article"
     }
