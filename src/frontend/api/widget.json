@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T16:36:54.258264+00:00",
+  "updated": "2026-08-16T20:33:51.848921+00:00",
   "top_stories": [
     {
       "article_id": "4cc95b17500681d3267d3d104054243b",
@@ -12,12 +12,12 @@
       "author": "Anthony Ha",
       "content": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "relevance_score": 0.85,
+        "quality_score": 0.75,
+        "novelty_score": 0.65,
         "impact_score": 0.9,
-        "overall_score": 0.87,
-        "confidence_mean": 0.9
+        "overall_score": 0.785,
+        "confidence_mean": 0.85
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -48,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-16T16:36:54.230828+00:00"
+        "consensus_timestamp": "2026-08-16T20:33:51.823198+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,71 +59,9 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-16T16:36:54.230830+00:00"
+        "timestamp": "2026-08-16T20:33:51.823201+00:00"
       },
       "article_type": "headline"
-    },
-    {
-      "article_id": "8ccaf6371595fc8cf2efe24a9e4baf2b",
-      "title": "Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/",
-      "published_date": "2026-08-13T15:56:07+00:00",
-      "category": "Industry",
-      "description": "Learn how to automate legacy web applications that need human-like interaction using Amazon Bedrock AgentCore Browser Tool and Strands Agents. This walkthrough covers a reference architecture for an AI-powered digital worker that drives legacy interfaces through secure, isolated browser sessions while preserving human oversight and full audit trails.",
-      "author": "Salman Moghal",
-      "content": "Learn how to automate legacy web applications that need human-like interaction using Amazon Bedrock AgentCore Browser Tool and Strands Agents. This walkthrough covers a reference architecture for an AI-powered digital worker that drives legacy interfaces through secure, isolated browser sessions while preserving human oversight and full audit trails.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-16T16:36:54.229485+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-16T16:36:54.229487+00:00"
-      },
-      "article_type": "article"
     },
     {
       "article_id": "5aa49eee6545ad50fcd89702cd899d26",
@@ -168,35 +106,35 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
-        "confidence": 0.9,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-16T16:36:54.232205+00:00"
+        "consensus_timestamp": "2026-08-16T20:33:51.824586+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-16T16:36:54.232207+00:00"
+        "timestamp": "2026-08-16T20:33:51.824589+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "2edd27655f79a0ed94bee3571c627191",
-      "title": "NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents",
+      "article_id": "0bc94f15aa837ab0157af61ced5c9528",
+      "title": "Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/",
-      "published_date": "2026-08-11T13:01:07+00:00",
+      "url": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard/",
+      "published_date": "2026-08-11T13:00:00+00:00",
       "category": "Industry",
-      "description": "Long-running AI agents spend most of their time on high-volume execution: tool calls, result validation, and subagent delegation. Using a frontier reasoning...",
-      "author": "Tanya Lenz",
-      "content": "Long-running AI agents spend most of their time on high-volume execution: tool calls, result validation, and subagent delegation. Using a frontier reasoning...",
+      "description": "Building an AI agent does not end with choosing a single model. Each model has its own strengths, weaknesses, and cost profile, which can shift from one...",
+      "author": "Michelle Horton",
+      "content": "Building an AI agent does not end with choosing a single model. Each model has its own strengths, weaknesses, and cost profile, which can shift from one...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -234,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-16T16:36:54.231880+00:00"
+        "consensus_timestamp": "2026-08-16T20:33:51.824280+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,26 +183,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-16T16:36:54.231882+00:00"
+        "timestamp": "2026-08-16T20:33:51.824283+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "664ae819447917f9fb3171e244960623",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "published_date": "2026-08-07T15:20:00+00:00",
+      "article_id": "80f994d4bfd7ed343754a74f8541c221",
+      "title": "The Ultimate Guide to FLUX 3",
+      "source": "replicate_blog",
+      "url": "https://replicate.com/blog/flux-3",
+      "published_date": "2026-08-04T00:00:00+00:00",
       "category": "Industry",
-      "description": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "description": "Black Forest Labs' first video model generates audio and video from the same pass, and it takes direction like nothing else we've tried.",
       "author": "",
-      "content": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "content": "Black Forest Labs' first video model generates audio and video from the same pass, and it takes direction like nothing else we've tried.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -296,7 +234,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-16T16:36:54.229041+00:00"
+        "consensus_timestamp": "2026-08-16T20:33:51.824134+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +245,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-16T16:36:54.229043+00:00"
+        "timestamp": "2026-08-16T20:33:51.824137+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8ccaf6371595fc8cf2efe24a9e4baf2b",
+      "title": "Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/",
+      "published_date": "2026-08-13T15:56:07+00:00",
+      "category": "Industry",
+      "description": "Learn how to automate legacy web applications that need human-like interaction using Amazon Bedrock AgentCore Browser Tool and Strands Agents. This walkthrough covers a reference architecture for an AI-powered digital worker that drives legacy interfaces through secure, isolated browser sessions while preserving human oversight and full audit trails.",
+      "author": "Salman Moghal",
+      "content": "Learn how to automate legacy web applications that need human-like interaction using Amazon Bedrock AgentCore Browser Tool and Strands Agents. This walkthrough covers a reference architecture for an AI-powered digital worker that drives legacy interfaces through secure, isolated browser sessions while preserving human oversight and full audit trails.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-16T20:33:51.821559+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-16T20:33:51.821562+00:00"
       },
       "article_type": "article"
     }
